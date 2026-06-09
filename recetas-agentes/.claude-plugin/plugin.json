@@ -1,0 +1,8 @@
+{
+  "name": "recetas-agentes",
+  "version": "1.0.0",
+  "description": "Cookbooks de agentes programados para flujos de trabajo jurídicos recurrentes en Panamá: vigilancia de renovaciones, seguimiento de expedientes en el Órgano Judicial, alertas regulatorias de la Gaceta Oficial.",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

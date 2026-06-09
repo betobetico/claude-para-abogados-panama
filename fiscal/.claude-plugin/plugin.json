@@ -1,0 +1,8 @@
+{
+  "name": "fiscal",
+  "version": "1.0.0",
+  "description": "Calendario fiscal DGI, revisión de declaraciones (ISR, ITBMS, retenciones de dividendos), consultas tributarias bajo el principio de territorialidad panameño con referencia al Código Fiscal y a la normativa de la DGI, y triaje de procedimientos tributarios.",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

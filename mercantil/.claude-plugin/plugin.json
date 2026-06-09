@@ -1,0 +1,8 @@
+{
+  "name": "mercantil",
+  "version": "1.0.0",
+  "description": "Revisa contratos mercantiles bajo ley panameña, NDAs y suscripciones SaaS contra tu playbook de compras o ventas, rastrea renovaciones y vencimientos, deriva escalados al aprobador correcto y genera resúmenes para stakeholders de negocio.",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

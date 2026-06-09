@@ -1,0 +1,112 @@
+{
+  "name": "claude-para-abogados-panama",
+  "owner": {
+    "name": "Claude para Abogados (Panamá)"
+  },
+  "metadata": {
+    "description": "Agentes, skills y conectores para los flujos de trabajo jurídicos más habituales en Panamá. Adaptación al derecho panameño de claude-para-abogados (España), que deriva de claude-for-legal de Anthropic.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "societario",
+      "source": "./societario",
+      "description": "Due diligence en operaciones de M&A, gobierno corporativo, cumplimiento registral, gestión de sociedades anónimas y fundaciones de interés privado, y acuerdos del órgano de administración adaptados al derecho panameño (Ley 32 de 1927, Ley 25 de 1995, Código de Comercio, Registro Público, SMV)."
+    },
+    {
+      "name": "mercantil",
+      "source": "./mercantil",
+      "description": "Revisa contratos mercantiles bajo ley panameña, NDAs y suscripciones SaaS contra tu playbook de compras o ventas, rastrea renovaciones y vencimientos, deriva escalados al aprobador correcto y genera resúmenes para stakeholders de negocio."
+    },
+    {
+      "name": "laboral",
+      "source": "./laboral",
+      "description": "Revisión de contratos de trabajo y despidos, clasificación de relación laboral, cálculo de prestaciones laborales (décimo tercer mes, prima de antigüedad, indemnización), políticas de empresa y consultas laborales adaptadas al Código de Trabajo de Panamá, la normativa de MITRADEL y de la Caja de Seguro Social (CSS)."
+    },
+    {
+      "name": "propiedad-intelectual",
+      "source": "./propiedad-intelectual",
+      "description": "Búsqueda de marcas (DIGERPI), requerimientos extrajudiciales, revisión de licencias OSS, triaje de infracciones, cláusulas de PI en contratos y gestión de portfolio de registros bajo la Ley 35 de 1996 y la Ley 64 de 2012 de Panamá."
+    },
+    {
+      "name": "procesal",
+      "source": "./procesal",
+      "description": "Gestión de portfolio de asuntos judiciales, intake de casos, cronologías, cómputo de términos procesales (Código Judicial de Panamá), demandas, recursos, requerimientos y briefings para reuniones con cliente o socio, ante el Órgano Judicial y la Corte Suprema de Justicia."
+    },
+    {
+      "name": "privacidad",
+      "source": "./privacidad",
+      "description": "Revisión de encargos de tratamiento, respuesta a derechos del titular, generación de evaluación de impacto, triaje de tratamientos y análisis de gaps regulatorios en protección de datos personales en Panamá (Ley 81 de 2019, Decreto Ejecutivo 285 de 2021, ANTAI)."
+    },
+    {
+      "name": "consumo",
+      "source": "./consumo",
+      "description": "Revisión de lanzamientos de producto, verificación de claims de marketing, análisis de condiciones generales de contratación y consultas rápidas de riesgo de consumo bajo derecho panameño (Ley 45 de 2007, ACODECO)."
+    },
+    {
+      "name": "regulatorio",
+      "source": "./regulatorio",
+      "description": "Vigilancia de normativa (Gaceta Oficial de Panamá, circulares de la Superintendencia de Bancos y de la SMV, guías de la UAF), comparación de cambios normativos contra políticas internas, seguimiento de gaps y redacción de propuestas de actualización de políticas. Enfoque en compliance y prevención de blanqueo (Ley 23 de 2015), sujetos obligados financieros y no financieros, y KYC/PEP."
+    },
+    {
+      "name": "gobernanza-ia",
+      "source": "./gobernanza-ia",
+      "description": "Triaje de casos de uso de IA por niveles de riesgo basado en principios y marcos internacionales de referencia, evaluaciones de impacto de IA, revisión de cláusulas de IA en contratos con proveedores y análisis de gaps de gobernanza interna de inteligencia artificial en el contexto panameño (Panamá no cuenta con ley de IA vinculante)."
+    },
+    {
+      "name": "fiscal",
+      "source": "./fiscal",
+      "description": "Calendario fiscal DGI, revisión de declaraciones (ISR, ITBMS, retenciones de dividendos), consultas tributarias bajo el principio de territorialidad panameño con referencia al Código Fiscal y a la normativa de la DGI, y triaje de procedimientos tributarios."
+    },
+    {
+      "name": "administrativo",
+      "source": "./administrativo",
+      "description": "Procedimiento administrativo (plazos, silencio, recursos), contratación pública y contencioso-administrativo ante la Sala Tercera de la CSJ adaptados a la legislación panameña (Ley 38 de 2000)."
+    },
+    {
+      "name": "inmobiliario",
+      "source": "./inmobiliario",
+      "description": "Revisión de contratos de arrendamiento, compraventa inmobiliaria, propiedad horizontal (Ley 31 de 2010) y operaciones inmobiliarias bajo derecho panameño (Registro Público, ANATI)."
+    },
+    {
+      "name": "concursal",
+      "source": "./concursal",
+      "description": "Diagnóstico de insolvencia, planes de reorganización y clasificación de créditos bajo la Ley 12 de 2016, que establece el proceso concursal de insolvencia (reorganización y liquidación) en Panamá."
+    },
+    {
+      "name": "familia",
+      "source": "./familia",
+      "description": "Convenios de divorcio y guarda, régimen económico matrimonial, pensiones alimenticias y de cónyuge bajo el Código de la Familia de Panamá y el Código Judicial."
+    },
+    {
+      "name": "proteccion-datos",
+      "source": "./proteccion-datos",
+      "description": "Registro de actividades de tratamiento, evaluaciones de impacto operativas, gestión de brechas de seguridad y relación con la ANTAI (Ley 81 de 2019, Decreto Ejecutivo 285 de 2021)."
+    },
+    {
+      "name": "startups",
+      "source": "./startups",
+      "description": "Constitución de S.A. y S. de R.L., pactos de accionistas, stock options y phantom shares, rondas de inversión, incentivos (SEM, Ciudad del Saber, leyes de fomento), inmigración para fundadores e inversionistas y primeras contrataciones bajo la legislación societaria panameña."
+    },
+    {
+      "name": "clinica-juridica",
+      "source": "./clinica-juridica",
+      "description": "Intake de clientes, memos de caso con estructura IRAC, hojas de ruta de investigación, seguimiento de plazos y correspondencia con clientes para consultorios jurídicos, asistencia pro bono y defensoría de oficio en Panamá."
+    },
+    {
+      "name": "estudiante-derecho",
+      "source": "./estudiante-derecho",
+      "description": "Método socrático, evaluación IRAC, esquemas de estudio, preparación del examen de idoneidad para el ejercicio de la abogacía en Panamá, fichas de estudio y planificación académica para estudiantes de Derecho de universidades panameñas."
+    },
+    {
+      "name": "hub-constructor",
+      "source": "./hub-constructor",
+      "description": "Descubrimiento, instalación y evaluación de skills comunitarios con verificación de confianza y control de calidad."
+    },
+    {
+      "name": "recetas-agentes",
+      "source": "./recetas-agentes",
+      "description": "Cookbooks de agentes programados para flujos de trabajo jurídicos recurrentes en Panamá: vigilancia de renovaciones, seguimiento de expedientes en el Órgano Judicial, alertas regulatorias de la Gaceta Oficial."
+    }
+  ]
+}

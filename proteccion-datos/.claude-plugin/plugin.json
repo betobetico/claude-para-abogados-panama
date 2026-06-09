@@ -1,0 +1,8 @@
+{
+  "name": "proteccion-datos",
+  "version": "1.0.0",
+  "description": "Registro de actividades de tratamiento, evaluaciones de impacto operativas, gestión de brechas de seguridad y relación con la ANTAI (Ley 81 de 2019, Decreto Ejecutivo 285 de 2021).",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

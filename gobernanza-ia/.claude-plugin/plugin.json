@@ -1,0 +1,8 @@
+{
+  "name": "gobernanza-ia",
+  "version": "1.0.0",
+  "description": "Triaje de casos de uso de IA por niveles de riesgo basado en principios y marcos internacionales de referencia, evaluaciones de impacto de IA, revisión de cláusulas de IA en contratos con proveedores y análisis de gaps de gobernanza interna de inteligencia artificial en el contexto panameño (Panamá no cuenta con ley de IA vinculante).",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

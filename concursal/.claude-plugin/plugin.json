@@ -1,0 +1,8 @@
+{
+  "name": "concursal",
+  "version": "1.0.0",
+  "description": "Diagnóstico de insolvencia, planes de reorganización y clasificación de créditos bajo la Ley 12 de 2016, que establece el proceso concursal de insolvencia (reorganización y liquidación) en Panamá.",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

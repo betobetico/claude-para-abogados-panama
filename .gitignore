@@ -1,0 +1,27 @@
+# Configuración de usuario (se genera con la entrevista inicial)
+.claude-plugin/cache/
+
+# Logs de ejecución
+*/logs/*.log
+*/logs/*.json
+!*/logs/.gitkeep
+
+# Sistema
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+.env
+.env.local
+
+# Node (por si se añaden herramientas)
+node_modules/
+
+# Claude
+.claude/

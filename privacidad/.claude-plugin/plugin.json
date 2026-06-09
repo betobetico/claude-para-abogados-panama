@@ -1,0 +1,8 @@
+{
+  "name": "privacidad",
+  "version": "1.0.0",
+  "description": "Revisión de encargos de tratamiento, respuesta a derechos del titular, generación de evaluación de impacto, triaje de tratamientos y análisis de gaps regulatorios en protección de datos personales en Panamá (Ley 81 de 2019, Decreto Ejecutivo 285 de 2021, ANTAI).",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

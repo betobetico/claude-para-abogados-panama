@@ -1,0 +1,8 @@
+{
+  "name": "inmobiliario",
+  "version": "1.0.0",
+  "description": "Revisión de contratos de arrendamiento, compraventa inmobiliaria, propiedad horizontal (Ley 31 de 2010) y operaciones inmobiliarias bajo derecho panameño (Registro Público, ANATI).",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

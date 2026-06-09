@@ -1,0 +1,8 @@
+{
+  "name": "procesal",
+  "version": "1.0.0",
+  "description": "Gestión de portfolio de asuntos judiciales, intake de casos, cronologías, cómputo de términos procesales (Código Judicial de Panamá), demandas, recursos, requerimientos y briefings para reuniones con cliente o socio, ante el Órgano Judicial y la Corte Suprema de Justicia.",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

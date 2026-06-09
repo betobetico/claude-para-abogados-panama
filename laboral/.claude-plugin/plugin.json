@@ -1,0 +1,8 @@
+{
+  "name": "laboral",
+  "version": "1.0.0",
+  "description": "Revisión de contratos de trabajo y despidos, clasificación de relación laboral, cálculo de prestaciones laborales (décimo tercer mes, prima de antigüedad, indemnización), políticas de empresa y consultas laborales adaptadas al Código de Trabajo de Panamá, la normativa de MITRADEL y de la Caja de Seguro Social (CSS).",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}

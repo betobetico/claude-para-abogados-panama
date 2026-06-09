@@ -1,0 +1,104 @@
+---
+name: burofax-requerimiento
+description: "Redacta un requerimiento extrajudicial de cese por infracción de PI calibrado a la postura de enforcement"
+argument-hint: "<tipo-infracción> <datos-del-caso>"
+---
+
+## Propósito
+
+Esta skill redacta una carta de requerimiento extrajudicial (cease & desist) por infracción de propiedad intelectual o industrial. El tono y contenido se calibran según la postura de enforcement configurada por el despacho. Nunca envía el documento — lo presenta como borrador para revisión.
+
+## Instrucciones
+
+### Paso 1 — Identificar tipo de infracción
+
+1. **Infracción de marca**: uso no autorizado de marca registrada (Ley 35 de 1996 — derechos del titular) [verificar].
+2. **Infracción de derechos de autor**: reproducción, distribución o comunicación pública sin autorización (Ley 64 de 2012) [verificar].
+3. **Competencia desleal**: imitación, aprovechamiento de reputación ajena, confusión (Ley 45 de 2007) [verificar].
+4. **Infracción de patente/diseño**: fabricación o comercialización sin licencia (Ley 35 de 1996) [verificar].
+
+### Paso 2 — Cargar postura de enforcement
+
+Leer desde `~/.claude/plugins/config/claude-para-abogados/propiedad-intelectual/CLAUDE.md`:
+
+- **Agresiva**: exigencia firme de cese inmediato, reserva expresa de acciones judiciales, plazo corto (7-10 días).
+- **Moderada**: requerimiento formal con apertura a solución negociada, plazo estándar (15-20 días).
+- **Conciliatoria**: comunicación inicial buscando acuerdo, posibilidad de licencia, plazo amplio (30 días).
+
+Si no hay configuración, usar postura **moderada** por defecto.
+
+### Paso 3 — Recopilar hechos
+
+- Descripción de la infracción detectada.
+- Pruebas disponibles (capturas, URLs, productos, publicidad).
+- Derechos del titular (registros, fecha, territorio).
+- Datos del infractor (si se conocen).
+- Daños estimados o perjuicios.
+
+### Paso 4 — Redactar el requerimiento
+
+## Formato de salida
+
+```markdown
+## BORRADOR DE REQUERIMIENTO EXTRAJUDICIAL — Pendiente de revisión y aprobación
+
+**Estado:** BORRADOR — NO ENVIAR sin aprobación del abogado responsable
+
+---
+
+**REMITENTE:**
+[Nombre/denominación del titular de derechos]
+[Dirección]
+[Cédula / RUC]
+
+**DESTINATARIO:**
+[Nombre/denominación del presunto infractor]
+[Dirección]
+
+**FECHA:** [fecha]
+
+**ASUNTO:** Requerimiento de cese por infracción de [tipo de derecho]
+
+---
+
+Muy Sr./Sra. nuestro/a:
+
+[Párrafo 1: Identificación del remitente y sus derechos — registro, fecha, territorio]
+
+[Párrafo 2: Descripción de la infracción detectada — hechos concretos]
+
+[Párrafo 3: Fundamentación jurídica — artículos aplicables]
+
+[Párrafo 4: Requerimiento de cese — acciones exigidas, plazo]
+
+[Párrafo 5: Consecuencias del incumplimiento — reserva de acciones]
+
+[Párrafo 6 (si postura conciliatoria): Apertura a negociación/licencia]
+
+Sin otro particular, le saluda atentamente,
+
+[Firma]
+
+---
+
+**NOTA INTERNA:** Postura aplicada: [agresiva/moderada/conciliatoria]
+```
+
+## Referencias normativas
+
+- **Ley 35 de 1996** (propiedad industrial): derechos del titular de la marca y acciones por infracción [verificar].
+- **Ley 64 de 2012** (derecho de autor): acciones por infracción de derechos de autor y derechos conexos [verificar].
+- **Ley 45 de 2007** (protección al consumidor y defensa de la competencia): actos de competencia desleal y acciones ante ACODECO [verificar].
+- **Ley 35 de 1996** (patentes y diseños): infracción y acciones disponibles [verificar].
+- **Código Judicial de Panamá**: procedimiento aplicable a las acciones civiles por infracción de PI [verificar].
+
+## Guardrails
+
+- **NO envía** el requerimiento — siempre lo presenta como borrador para aprobación.
+- **NO constituye** asesoramiento jurídico — es una herramienta de redacción asistida.
+- **NO afirma** que existe infracción — usa lenguaje condicional ("presunta infracción").
+- **NO amenaza** con acciones penales salvo instrucción expresa del abogado.
+- **NO incluye** cuantificación de daños salvo que el usuario proporcione datos verificados.
+- **ESCALAR** si la infracción puede tener dimensión penal (falsificación de marcas y piratería bajo el Código Penal de Panamá) [verificar].
+- **ESCALAR** si el presunto infractor es un competidor directo o empresa de mayor tamaño.
+- **AVISAR** si no se dispone de pruebas documentadas de la infracción.

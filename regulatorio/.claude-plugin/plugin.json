@@ -1,0 +1,8 @@
+{
+  "name": "regulatorio",
+  "version": "1.0.0",
+  "description": "Vigilancia de normativa (Gaceta Oficial de Panamá, circulares de la Superintendencia de Bancos y de la SMV, guías de la UAF), comparación de cambios normativos contra políticas internas, seguimiento de gaps y redacción de propuestas de actualización de políticas. Enfoque en compliance y prevención de blanqueo (Ley 23 de 2015), sujetos obligados financieros y no financieros, y KYC/PEP.",
+  "author": {
+    "name": "Claude para Abogados (Panamá)"
+  }
+}
