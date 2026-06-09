@@ -88,16 +88,16 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 | Fase | Plazo legal | Consideraciones clave |
 |---|---|---|
-| Iniciación (de oficio o a petición de parte) | — | Derecho de petición (art. 41 de la Constitución); deber de impulsar de oficio el procedimiento [verificar] |
+| Iniciación (de oficio o a petición de parte) | — | Derecho de petición (art. 41 de la Constitución; desarrollo en arts. 42-43 Ley 38 de 2000); deber de impulsar de oficio el procedimiento [verificar] |
 | Instrucción | — | Práctica de pruebas, alegaciones del interesado y vista del expediente conforme a la Ley 38 de 2000 |
-| Resolución | Plazo específico según procedimiento; en su defecto, plazo general de la Ley 38 de 2000 | Deber de decidir y notificar (principio de obligatoriedad) |
-| Silencio administrativo | Agotado el plazo sin resolución expresa | Regla general en Panamá: silencio administrativo NEGATIVO (se entiende denegada la petición), salvo norma especial que disponga lo contrario [verificar] |
+| Resolución | Plazo específico según procedimiento; en su defecto, plazo general de la Ley 38 de 2000 | Deber de decidir y notificar (principio de obligatoriedad) (arts. 34, 42 y 156 Ley 38 de 2000; art. 41 Constitución) |
+| Silencio administrativo | Agotado el plazo sin resolución expresa; plazo general de 2 meses | Regla general en Panamá: silencio administrativo NEGATIVO (se entiende denegada la petición), salvo norma especial que lo disponga expresamente (arts. 156-157 Ley 38 de 2000) |
 
 ### Plazos clave
 
 | Concepto | Plazo | Base legal |
 |---|---|---|
-| Resolución del derecho de petición | 30 días [verificar] | Constitución (art. 41) / Ley 38 de 2000 |
+| Resolución del derecho de petición | 30 días | Constitución (art. 41); desarrollo en arts. 42-43 Ley 38 de 2000 |
 | Notificación personal del acto | Conforme a las reglas de notificación de la Ley 38 de 2000 | Ley 38 de 2000 |
 | Corrección/subsanación de la petición | Plazo señalado por la entidad [verificar] | Ley 38 de 2000 |
 | Período de consulta o información pública | Según norma sectorial aplicable [verificar] | Norma sectorial |
@@ -108,11 +108,11 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 | Recurso | Contra qué actos | Plazo | Órgano | Base legal |
 |---|---|---|---|---|
-| Reconsideración | Actos del funcionario que los dictó | 5 días hábiles desde la notificación [verificar] | Mismo funcionario que dictó el acto | Ley 38 de 2000 |
-| Apelación | Actos recurribles ante el superior jerárquico | 5 días hábiles desde la notificación [verificar] | Superior jerárquico | Ley 38 de 2000 |
-| Hecho omisivo / silencio | Cuando la entidad no resuelve en plazo | Según régimen del silencio administrativo negativo [verificar] | — | Ley 38 de 2000 |
+| Reconsideración | Actos del funcionario de primera o única instancia que los dictó | 5 días hábiles desde la notificación | Mismo funcionario que dictó el acto | Arts. 166.1 y 168 Ley 38 de 2000 |
+| Apelación | Actos recurribles ante el inmediato superior | 5 días hábiles desde la notificación | Superior jerárquico (se propone ante la autoridad de primera instancia, art. 172) | Arts. 166.2 y 171 Ley 38 de 2000 |
+| Hecho omisivo / silencio | Cuando la entidad no resuelve en plazo | Según régimen del silencio administrativo negativo (plazo de 2 meses) | — | Arts. 156-157 Ley 38 de 2000 |
 
-> Con la resolución del recurso de apelación (o cuando contra el acto no quepa apelación) se entiende **agotada la vía gubernativa**, requisito para acudir a la Sala Tercera de lo Contencioso-Administrativo de la CSJ [verificar].
+> Con la resolución del recurso de apelación (o cuando contra el acto no quepa apelación) se entiende **agotada la vía gubernativa**, requisito para acudir a la Sala Tercera de lo Contencioso-Administrativo de la CSJ (art. 200 Ley 38 de 2000).
 
 **Política interna sobre recursos:** [PLACEHOLDER — cuándo recurrimos, criterio de coste-beneficio]
 
@@ -135,10 +135,13 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 | Procedimiento | Cuándo se usa | Plazos clave |
 |---|---|---|
 | Licitación pública | Regla general por encima de los umbrales [verificar] | Según pliego de cargos [verificar] |
+| Licitación por mejor valor (y con evaluación separada) | Cuando se ponderan factores además del precio (Texto Único de la Ley 22 de 2006) | Según pliego de cargos [verificar] |
+| Licitación abreviada | Supuestos previstos en el Texto Único de la Ley 22 de 2006 | Según pliego de cargos [verificar] |
 | Contratación menor | Por debajo del umbral legal [verificar] | Según pliego/cotización [verificar] |
-| Subasta en reverso | Bienes y servicios estandarizados [verificar] | Según pliego de cargos [verificar] |
-| Convenio marco / Catálogo electrónico | Compras a través de PanamaCompra [verificar] | Variable |
-| Procedimiento excepcional / contratación directa | Supuestos tasados (urgencia, único proveedor, etc.) [verificar] | Según resolución motivada |
+| Subasta en reversa | Bienes y servicios estandarizados (Texto Único de la Ley 22 de 2006) | Según pliego de cargos [verificar] |
+| Subasta de bienes públicos | Venta de bienes del Estado (Texto Único de la Ley 22 de 2006) | Variable |
+| Licitación para convenio marco / Catálogo electrónico | Compras a través de PanamaCompra (Texto Único de la Ley 22 de 2006) | Variable |
+| Procedimiento excepcional / contratación directa | Figura aparte, sin concurrencia; supuestos tasados (urgencia, único proveedor, etc.) [verificar] | Según resolución motivada |
 
 ### Pliego de cargos — Estilo house
 
@@ -149,10 +152,10 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 | Campo | Detalle |
 |---|---|
-| Órgano | Tribunal Administrativo de Contrataciones Públicas (TACP) [verificar] |
-| Plazo | Plazo señalado en la Ley 22 de 2006 desde el acto recurrido [verificar] |
-| Actos recurribles | Pliego de cargos, acto de adjudicación, resolución administrativa del contrato [verificar] |
-| Efecto | Según lo previsto en la Ley 22 de 2006 |
+| Órgano | Tribunal Administrativo de Contrataciones Públicas (TACP), que resuelve el recurso de impugnación (art. 125 del Texto Único de la Ley 22 de 2006) |
+| Plazo | 5 días hábiles desde la notificación del acto; requiere fianza de impugnación del 10% (bienes/servicios) o 15% (obras) (art. 125 del Texto Único de la Ley 22 de 2006) |
+| Actos recurribles | Adjudicación, declaratoria de deserción, rechazo de propuestas y actos que afecten la selección objetiva (art. 125 del Texto Único de la Ley 22 de 2006) |
+| Efecto | Según lo previsto en el Texto Único de la Ley 22 de 2006 |
 | Vía posterior | Demanda contencioso-administrativa ante la Sala Tercera de la CSJ |
 
 ---
@@ -164,7 +167,7 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 | Plazo de reclamación | Plazo de prescripción aplicable a la acción de indemnización [verificar] | Código Judicial / Código Civil |
 | Requisitos | Daño efectivo, evaluable, individualizable y antijurídico; nexo causal con la actuación administrativa | Doctrina de la Sala Tercera de la CSJ [verificar] |
 | Procedimiento | Demanda de plena jurisdicción ante la Sala Tercera de lo Contencioso-Administrativo de la CSJ | Código Judicial |
-| Dictamen previo | Concepto de la Procuraduría de la Administración en el proceso contencioso [verificar] | Ley 38 de 2000 |
+| Dictamen previo | Concepto de la Procuraduría de la Administración en el proceso contencioso | Art. 5 Ley 38 de 2000 |
 
 **Asuntos de responsabilidad patrimonial abiertos:** [PLACEHOLDER]
 
@@ -185,12 +188,12 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 | Campo | Detalle |
 |---|---|
-| Plazo para interponer la demanda | Plazo señalado en el Código Judicial para la acción contencioso-administrativa (frecuentemente referido como 2 meses desde la notificación o ejecutoria del acto) [verificar] |
-| Tipos de demanda | Plena jurisdicción (restablecimiento de derecho subjetivo lesionado) y nulidad (control objetivo de legalidad) [verificar] |
-| Legitimación | Plena jurisdicción: titular de derecho subjetivo lesionado. Nulidad: cualquier persona (acción popular de legalidad) [verificar] |
-| Medidas cautelares | Suspensión provisional de los efectos del acto acusado [verificar] |
-| Órgano | Sala Tercera de lo Contencioso-Administrativo de la Corte Suprema de Justicia (instancia única) |
-| Intervención obligatoria | La Procuraduría de la Administración emite concepto en el proceso |
+| Plazo para interponer la demanda | Plena jurisdicción: 2 meses desde la publicación, notificación o ejecución del acto (art. 42-B Ley 135 de 1943). Nulidad: en cualquier tiempo, no sujeta a caducidad (art. 42-A Ley 135 de 1943) |
+| Tipos de demanda | Plena jurisdicción (restablecimiento de derecho subjetivo lesionado; arts. 42-B y 43-A Ley 135 de 1943) y nulidad (control objetivo de legalidad; art. 43-B Ley 135 de 1943) |
+| Legitimación | Plena jurisdicción: titular de derecho subjetivo lesionado (art. 43-A Ley 135 de 1943). Nulidad: cualquier persona (acción pública de legalidad; art. 43-B Ley 135 de 1943) |
+| Medidas cautelares | Suspensión provisional de los efectos del acto acusado para evitar un perjuicio notoriamente grave (art. 73 Ley 135 de 1943; el art. 74 enumera los casos en que no procede) |
+| Órgano | Sala Tercera de lo Contencioso-Administrativo de la Corte Suprema de Justicia (instancia única; art. 97 Código Judicial) |
+| Intervención obligatoria | La Procuraduría de la Administración emite concepto en el proceso (art. 5 Ley 38 de 2000) |
 
 **Criterio de litigación:** [PLACEHOLDER — cuándo se recomienda acudir a la Sala Tercera, análisis coste-beneficio]
 

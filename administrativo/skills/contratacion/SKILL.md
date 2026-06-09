@@ -26,7 +26,7 @@ argument-hint: "[adjuntar pliego de cargos o describir la licitación]"
 
 ## Propósito
 
-La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reformas (entre ellas la Ley 153 de 2020), administrada por la Dirección General de Contrataciones Públicas (DGCP) a través del portal PanamaCompra. El pliego de cargos es la ley del acto de selección: define quién puede participar, cómo se evalúa, qué se exige y cómo se ejecuta. Un error en el pliego puede invalidar la licitación; un error en la propuesta puede descalificarla. Este skill revisa la documentación desde ambas perspectivas.
+La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reformas, ordenadas en el Texto Único por la Ley 153 de 2020, administrada por la Dirección General de Contrataciones Públicas (DGCP) —ente rector que administra PanamaCompra; reglamento en el Decreto Ejecutivo 40 de 2018— a través del portal PanamaCompra. El pliego de cargos es la ley del acto de selección: define quién puede participar, cómo se evalúa, qué se exige y cómo se ejecuta. Un error en el pliego puede invalidar la licitación; un error en la propuesta puede descalificarla. Este skill revisa la documentación desde ambas perspectivas.
 
 ---
 
@@ -37,37 +37,37 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reforma
 | Aspecto | Verificar |
 |---|---|
 | **Tipo de contrato** | Obras / Servicios / Suministros / Consultoría / Concesión [verificar] |
-| **Monto / cuantía** | ¿Se establece correctamente el monto y la partida presupuestaria? [verificar] |
-| **División en renglones** | ¿La estructura por renglones es coherente con el objeto? [verificar] |
-| **Procedimiento de selección** | Licitación pública / Contratación menor / Subasta en reverso / Convenio marco / Procedimiento excepcional [verificar] |
+| **Monto / cuantía** | ¿Se establece correctamente el monto y la partida presupuestaria? |
+| **División en renglones** | ¿La estructura por renglones es coherente con el objeto? |
+| **Procedimiento de selección** | Licitación pública / Licitación por mejor valor (y por mejor valor con evaluación separada) / Licitación abreviada / Licitación para convenio marco / Subasta en reversa / Subasta de bienes públicos / Contratación menor (el procedimiento excepcional, sin concurrencia, es figura aparte) (Texto Único de la Ley 22 de 2006) |
 
 ### 2. Idoneidad y requisitos del proponente
 
 | Tipo | Requisitos |
 |---|---|
-| **Capacidad legal** | Existencia legal (sociedad inscrita en el Registro Público), poder del representante, paz y salvo fiscal de la DGI y de la CSS [verificar] |
+| **Capacidad legal** | Existencia legal (sociedad inscrita en el Registro Público), poder del representante, paz y salvo de la DGI y de la CSS (Texto Único de la Ley 22 de 2006 y Decreto Ejecutivo 40 de 2018) |
 | **Capacidad técnica** | Experiencia, equipo, personal, certificaciones exigidas en el pliego [verificar] |
 | **Capacidad financiera** | Estados financieros, referencias bancarias, capital de trabajo [verificar] |
-| **Registro de proponentes** | Inscripción vigente en el sistema PanamaCompra [verificar] |
+| **Registro de proponentes** | Inscripción vigente en el Registro de Proponentes del sistema PanamaCompra (art. 2 —glosario— del Texto Único de la Ley 22 de 2006) |
 
-**Verificar:** ¿Los requisitos de idoneidad son proporcionales al objeto del contrato y no restringen indebidamente la participación? [verificar]
+**Verificar:** ¿Los requisitos de idoneidad son proporcionales al objeto del contrato y no restringen indebidamente la participación?
 
 ### 3. Criterios de evaluación y adjudicación
 
 | Aspecto | Verificar |
 |---|---|
-| **Metodología de evaluación** | ¿Mejor valor (técnica + precio) o menor precio? [verificar] |
-| **Criterios técnicos** | ¿Son claros, objetivos y ponderados? [verificar] |
-| **Criterio de precio** | ¿La fórmula de puntaje del precio es clara y no distorsiona? [verificar] |
+| **Metodología de evaluación** | ¿Mejor valor (técnica + precio) o menor precio? |
+| **Criterios técnicos** | ¿Son claros, objetivos y ponderados? |
+| **Criterio de precio** | ¿La fórmula de puntaje del precio es clara y no distorsiona? |
 | **Ponderación** | ¿Se indica la ponderación de cada criterio? |
-| **Subsanación** | ¿Qué requisitos son subsanables y cuáles descalifican? [verificar] |
+| **Subsanación** | ¿Qué requisitos son subsanables y cuáles descalifican? |
 
 ### 4. Fianzas
 
 | Tipo | Importe | Cuándo |
 |---|---|---|
 | **Fianza de propuesta** | Porcentaje del valor de la propuesta según pliego [verificar] | Exigida para participar [verificar] |
-| **Fianza de cumplimiento** | Porcentaje del valor del contrato según la Ley 22 de 2006 | Al formalizar el contrato [verificar] |
+| **Fianza de cumplimiento** | No menor del 10% del monto del contrato (salvo obras), con tope de B/.1,000,000.00 (art. 123 del Texto Único de la Ley 22 de 2006) | Al formalizar el contrato |
 | **Fianza de pago anticipado / buen funcionamiento** | Según pliego | Si el pliego lo prevé [verificar] |
 
 ### 5. Plazos
@@ -77,18 +77,18 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reforma
 | **Convocatoria y presentación de propuestas** | Plazo mínimo según la Ley 22 de 2006 publicado en PanamaCompra [verificar] |
 | **Adjudicación** | Plazo del pliego tras el acto público [verificar] |
 | **Formalización del contrato** | Plazo del pliego tras la adjudicación en firme [verificar] |
-| **Refrendo de la Contraloría General de la República** | Requisito de validez del contrato estatal [verificar] |
+| **Refrendo de la Contraloría General de la República** | Requisito de perfeccionamiento/eficacia del contrato estatal (art. 93 del Texto Único de la Ley 22 de 2006) |
 
 ### 6. Modificaciones y prórrogas del contrato
 
-- ¿Se prevén adendas o modificaciones en el pliego? [verificar]
+- ¿Se prevén adendas o modificaciones en el pliego?
 - ¿Se respetan los límites de variación del monto previstos en la Ley 22 de 2006? [verificar]
 - ¿Se motiva debidamente y se obtiene el refrendo de la Contraloría? [verificar]
 
 ### 7. Subcontratación
 
-- ¿Se limita la subcontratación? ¿En qué porcentaje? [verificar]
-- ¿Se exige autorización previa de la entidad contratante? [verificar]
+- ¿Se limita la subcontratación? ¿En qué porcentaje?
+- ¿Se exige autorización previa de la entidad contratante?
 
 ---
 
@@ -96,10 +96,11 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reforma
 
 | Aspecto | Detalle |
 |---|---|
-| **Órgano** | Tribunal Administrativo de Contrataciones Públicas (TACP) [verificar] |
-| **Actos recurribles** | Pliego de cargos, acto de adjudicación o de declaratoria de deserción, resolución administrativa del contrato [verificar] |
-| **Plazo** | Plazo señalado en la Ley 22 de 2006 desde la notificación o publicación del acto [verificar] |
-| **Efecto** | Según lo previsto en la Ley 22 de 2006 (puede suspender el procedimiento) [verificar] |
+| **Órgano** | Tribunal Administrativo de Contrataciones Públicas (TACP), que resuelve el recurso de impugnación (art. 125 del Texto Único de la Ley 22 de 2006) |
+| **Actos recurribles** | Adjudicación, declaratoria de deserción, rechazo de propuestas y actos que afecten la selección objetiva (art. 125 del Texto Único de la Ley 22 de 2006) |
+| **Plazo** | 5 días hábiles desde la notificación del acto (art. 125 del Texto Único de la Ley 22 de 2006) |
+| **Fianza de impugnación** | 10% (bienes/servicios) o 15% (obras) (art. 125 del Texto Único de la Ley 22 de 2006) |
+| **Efecto** | Según lo previsto en el Texto Único de la Ley 22 de 2006 (puede suspender el procedimiento) [verificar] |
 | **Vía posterior** | Demanda contencioso-administrativa ante la Sala Tercera de la CSJ |
 
 ---
@@ -111,7 +112,7 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reforma
 
 **Entidad contratante:** [nombre]
 **Tipo de contrato:** [obras / servicios / suministros / consultoría / concesión]
-**Procedimiento:** [licitación pública / contratación menor / subasta en reverso / procedimiento excepcional]
+**Procedimiento:** [licitación pública / licitación por mejor valor / licitación abreviada / convenio marco / subasta en reversa / subasta de bienes públicos / contratación menor / procedimiento excepcional]
 **Monto / cuantía:** [importe en B/. / USD]
 **Plazo de presentación de propuestas:** [fecha]
 
@@ -153,7 +154,8 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reforma
 
 - Ley 22 de 2006 — Que regula la contratación pública
 - Ley 153 de 2020 — Reformas a la Ley 22 de 2006
-- Reglamentación de la Dirección General de Contrataciones Públicas (DGCP) — portal PanamaCompra [verificar]
+- Texto Único de la Ley 22 de 2006, ordenado por la Ley 153 de 2020 — texto vigente consolidado
+- Decreto Ejecutivo 40 de 2018 — reglamento de la Ley 22 de 2006; la Dirección General de Contrataciones Públicas (DGCP) es el ente rector que administra el portal PanamaCompra
 - Fallos y resoluciones del Tribunal Administrativo de Contrataciones Públicas (TACP)
 
 ---

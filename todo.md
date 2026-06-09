@@ -32,9 +32,14 @@
 - [x] Corregir normas subrogadas: Ley 31 de 2010 → **Ley 284 de 2022** (PH); Ley 7 de 2014 → **Ley 61 de 2015** (DIP)
 - [x] Documentar matices: arbitraje (Ley 131 de 2013), reglamento antiblanqueo (D.E. 35 de 2022)
 
+## Fase 5 — Verificación a fondo por módulo (en curso)
+
+- [x] **administrativo** — verificado artículo por artículo (123 → 53 marcadores): Ley 38 de 2000 (arts. 41, 156-157, 166-172, 200), Ley 135 de 1943 (arts. 42-A, 42-B, 43-A, 43-B, 73), art. 97 Código Judicial, Texto Único Ley 22 de 2006 (arts. 93, 123, 125). Ver [VERIFICACION.md](VERIFICACION.md) §4.
+- [ ] societario / fiscal / laboral / procesal / inmobiliario — pendientes de verificación a fondo
+
 ## Pendiente (mejoras futuras)
 
-- [ ] **Confirmar los ~1.180 `[verificar]` restantes** (artículos, plazos, importes) contra el texto vigente de cada ley
+- [ ] **Confirmar los `[verificar]` restantes** (artículos, plazos, importes) contra el texto vigente de cada ley, módulo por módulo
 - [ ] Testear entrevistas iniciales con casos reales
 - [ ] Testear skills principales con documentos jurídicos reales
 - [ ] Desarrollar conectores MCP a fuentes panameñas

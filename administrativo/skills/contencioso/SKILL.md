@@ -44,7 +44,7 @@ La demanda contencioso-administrativa ante la Sala Tercera de lo Contencioso-Adm
 
 ### 2. Agotamiento de la vía gubernativa
 
-La demanda solo procede una vez agotada la vía gubernativa (salvo excepciones legales) [verificar]:
+La demanda solo procede una vez agotada la vía gubernativa (art. 200 Ley 38 de 2000), salvo excepciones legales (entre ellas la acción de nulidad):
 
 - Cuando se ha resuelto el recurso de apelación
 - Cuando contra el acto no procede apelación por carecer de superior jerárquico la autoridad que lo dictó
@@ -54,20 +54,20 @@ La demanda solo procede una vez agotada la vía gubernativa (salvo excepciones l
 
 | Tipo de demanda | Objeto | Legitimación |
 |---|---|---|
-| **Plena jurisdicción** | Restablecer un derecho subjetivo lesionado por el acto y, en su caso, indemnización | Quien sea titular del derecho subjetivo lesionado [verificar] |
-| **Nulidad** | Control objetivo de legalidad del acto o disposición (interés general) | Cualquier persona — acción pública de legalidad [verificar] |
-| **Protección de derechos humanos** | Tutela de derechos consagrados en la ley frente a actos administrativos [verificar] | El afectado [verificar] |
-| **Interpretación prejudicial** | Aclarar el sentido y alcance de un acto administrativo [verificar] | — |
+| **Plena jurisdicción** | Restablecer un derecho subjetivo lesionado por el acto y, en su caso, indemnización (arts. 42-B y 43-A Ley 135 de 1943, adicionados por la Ley 33 de 1946) | Quien sea titular del derecho subjetivo lesionado |
+| **Nulidad** | Control objetivo de legalidad del acto o disposición (interés general); recae típicamente sobre actos de carácter general (art. 43-B Ley 135 de 1943) | Cualquier persona — acción pública de legalidad; cualquiera puede pedir ser tenido como parte (art. 43-B Ley 135 de 1943) |
+| **Protección de derechos humanos** | Tutela de derechos consagrados en la ley frente a actos administrativos (art. 97 Código Judicial) | El afectado [verificar] |
+| **Interpretación prejudicial** | No es una demanda del particular contra un acto, sino una **consulta** que formula la autoridad judicial o administrativa para que la Sala interprete el sentido y alcance del acto (art. 97 Código Judicial) | — |
 
 ### 4. Plazos
 
 | Supuesto | Plazo |
 |---|---|
-| **Demanda de plena jurisdicción (acto notificado)** | Plazo del Código Judicial — referido frecuentemente como **2 meses** desde la notificación o ejecutoria del acto [verificar] |
-| **Demanda de nulidad** | No sujeta a término de caducidad (puede presentarse en cualquier tiempo) [verificar] |
+| **Demanda de plena jurisdicción (acto notificado)** | **2 meses** desde la publicación, notificación o ejecución del acto (o realización del hecho u operación) (art. 42-B Ley 135 de 1943, adicionado por art. 27 de la Ley 33 de 1946) |
+| **Demanda de nulidad** | No sujeta a término de caducidad; puede ejercitarse en cualquier tiempo (art. 42-A Ley 135 de 1943) |
 | **Silencio administrativo negativo** | A partir del vencimiento del plazo para resolver el recurso [verificar] |
 
-**Los plazos de la demanda de plena jurisdicción son de caducidad — improrrogables.**
+**El plazo de 2 meses de la demanda de plena jurisdicción está configurado por la ley como prescripción, y corre desde la publicación, notificación o ejecución del acto (no desde la ejecutoria) (art. 42-B Ley 135 de 1943).**
 
 ---
 
@@ -75,8 +75,8 @@ La demanda solo procede una vez agotada la vía gubernativa (salvo excepciones l
 
 | Órgano | Competencia |
 |---|---|
-| **Sala Tercera de lo Contencioso-Administrativo de la CSJ** | Conoce, en instancia única, de las demandas contra los actos, resoluciones, órdenes y disposiciones de las autoridades administrativas nacionales, autónomas, semiautónomas y municipales [verificar] |
-| **Procuraduría de la Administración** | Interviene obligatoriamente como representante del interés de la ley emitiendo concepto en el proceso (Ley 38 de 2000) |
+| **Sala Tercera de lo Contencioso-Administrativo de la CSJ** | Conoce, en instancia única, de las demandas contra los actos, resoluciones, órdenes y disposiciones de las autoridades administrativas nacionales, autónomas, semiautónomas y municipales; sus sentencias son finales, definitivas y obligatorias (art. 97 Código Judicial) |
+| **Procuraduría de la Administración** | Interviene obligatoriamente como representante del interés de la ley emitiendo concepto en el proceso (art. 5 Ley 38 de 2000; concordante con arts. 57-A y 100 Ley 135 de 1943) |
 
 > A diferencia de España, en Panamá no existen juzgados o salas territoriales de lo contencioso: la competencia se concentra en la Sala Tercera de la CSJ.
 
@@ -86,8 +86,8 @@ La demanda solo procede una vez agotada la vía gubernativa (salvo excepciones l
 
 | Aspecto | Detalle |
 |---|---|
-| **Regla general** | El demandante puede solicitar la suspensión provisional de los efectos del acto acusado para evitar un perjuicio notoriamente grave [verificar] |
-| **Criterio** | Apariencia de buen derecho y perjuicio grave de difícil o imposible reparación [verificar] |
+| **Regla general** | El demandante puede solicitar la suspensión provisional de los efectos del acto acusado para evitar un perjuicio notoriamente grave (art. 73 Ley 135 de 1943; el art. 74 enumera los casos en que NO procede) |
+| **Criterio** | La apariencia de buen derecho (fumus boni iuris) y el perjuicio de difícil reparación son criterios jurisprudenciales de la Sala Tercera, no texto literal del art. 73 |
 | **Resolución** | La Sala Tercera resuelve la solicitud de suspensión mediante decisión motivada [verificar] |
 | **Momento** | Se solicita con la demanda o en el curso del proceso [verificar] |
 
@@ -97,7 +97,7 @@ La demanda solo procede una vez agotada la vía gubernativa (salvo excepciones l
 
 1. **Presentación de la demanda** — con poder a abogado idóneo, copia autenticada del acto acusado y constancia del agotamiento de la vía gubernativa [verificar]
 2. **Admisión** — examen de los requisitos formales por el magistrado sustanciador [verificar]
-3. **Traslado a la Procuraduría de la Administración** — emite concepto [verificar]
+3. **Traslado a la Procuraduría de la Administración** — emite concepto (art. 5 Ley 38 de 2000; concordante con arts. 57-A y 100 Ley 135 de 1943)
 4. **Pruebas** — solicitud, admisión y práctica de pruebas [verificar]
 5. **Alegatos** — de las partes [verificar]
 6. **Fallo** — sentencia de la Sala Tercera (instancia única) [verificar]

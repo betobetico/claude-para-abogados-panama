@@ -89,7 +89,42 @@ Normas vigentes pero con observaciones; se mantiene el marcador `[verificar]` do
 
 ---
 
-## 4. Qué significan los marcadores `[verificar]` restantes
+## 4. Verificación a fondo, artículo por artículo — módulo `administrativo`
+
+Verificado el **8 de junio de 2026** contra el articulado vigente (Ley 38 de 2000, Ley 135 de
+1943 con sus reformas de la Ley 33 de 1946, Código Judicial y Texto Único de la Ley 22 de 2006).
+Marcadores del módulo: **123 → 53**. Artículos confirmados e insertados:
+
+**Procedimiento administrativo (Ley 38 de 2000 + Constitución)**
+- Derecho de petición y plazo de **30 días**: **art. 41 de la Constitución** (desarrollo arts. 42-43).
+- Silencio administrativo **negativo** como regla general, plazo **2 meses**: **arts. 156-157**.
+- Recurso de **reconsideración**: ante el mismo funcionario (**art. 166.1**), plazo 5 días hábiles (**art. 168**).
+- Recurso de **apelación**: ante el inmediato superior (**art. 166.2**), se propone ante la primera instancia (**art. 172**), plazo 5 días hábiles (**art. 171**).
+- Interposición directa de apelación: **art. 167** (la apelación "en subsidio" es práctica forense, no literal).
+- **Agotamiento de la vía gubernativa**: **art. 200** (presupuesto para la Sala Tercera).
+
+**Contencioso-administrativo (Ley 135 de 1943 / Código Judicial)**
+- Competencia y procesos de la Sala Tercera, **instancia única**: **art. 97 del Código Judicial**. La *interpretación prejudicial* es una **consulta**, no una demanda del particular.
+- **Plena jurisdicción** (derecho subjetivo lesionado): **arts. 42-B y 43-A**; plazo **2 meses** desde publicación/notificación/ejecución, configurado como prescripción (**art. 42-B**).
+- **Nulidad** (acción pública, sin caducidad): **arts. 42-A y 43-B**.
+- **Suspensión provisional** ("perjuicio notoriamente grave"): **art. 73** (excepciones art. 74). El *fumus boni iuris* y el "perjuicio de difícil reparación" son criterios jurisprudenciales.
+- Traslado/concepto de la **Procuraduría de la Administración**: **art. 5 de la Ley 38 de 2000** (concordante con arts. 57-A y 100 de la Ley 135 de 1943).
+
+**Contratación pública (Texto Único de la Ley 22 de 2006, ordenado por la Ley 153 de 2020)**
+- Procedimientos corregidos: incluye **licitación por mejor valor** y **abreviada**; "subasta en reverso" → **"subasta en reversa"**; el procedimiento excepcional es figura aparte.
+- **Refrendo de la Contraloría** (perfeccionamiento/eficacia): **art. 93**.
+- **Recurso de impugnación** ante el **TACP**: 5 días hábiles; fianza de impugnación **10%/15%** — **art. 125**.
+- **Fianza de cumplimiento**: ≥ **10%**, tope B/.1.000.000 — **art. 123**.
+- DGCP (ente rector) y reglamento **Decreto Ejecutivo 40 de 2018**; Registro de Proponentes en PanamaCompra (art. 2).
+
+Los 53 marcadores restantes en `administrativo` corresponden a puntos no cubiertos por esta
+verificación (umbrales de cuantía, subsanación, expropiación, responsabilidad patrimonial,
+subsidios, demandas de protección de derechos humanos, supletoriedad de la Ley 38) y siguen
+marcados.
+
+---
+
+## 5. Qué significan los marcadores `[verificar]` restantes
 
 Quedan **~1.180** marcadores. **No** indican que la ley citada sea incorrecta — la identidad de
 las normas de base está confirmada (sección 1). Indican que la **cita concreta adyacente**
