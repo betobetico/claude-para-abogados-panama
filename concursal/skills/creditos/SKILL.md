@@ -45,7 +45,7 @@ Vinculados a un bien o derecho concreto:
 | Créditos garantizados con prenda | Código Civil / Ley de prenda mercantil [verificar] | Hasta el valor del bien pignorado |
 | Créditos garantizados con anticresis | Código Civil de Panamá [verificar] | Hasta el valor del inmueble |
 | Créditos con garantía mobiliaria registrada | Legislación de garantías mobiliarias [verificar] | Sobre el bien gravado |
-| Créditos con reserva de dominio | Código de Comercio / Código Civil [verificar] | Sobre el bien vendido |
+| Créditos con reserva de dominio | Código de Comercio / Código Civil | Sobre el bien vendido |
 
 ### Créditos privilegiados / preferentes
 
@@ -58,7 +58,7 @@ Se cobran antes que los ordinarios sobre el patrimonio del deudor sin afectació
 | Créditos fiscales (DGI — Dirección General de Ingresos) | Código Fiscal de Panamá [verificar] |
 | Otros créditos con privilegio legal | Código Civil de Panamá [verificar] |
 
-*Nota: el orden de prelación entre los créditos laborales, de la CSS y fiscales debe verificarse en cada caso conforme al Código de Trabajo, el régimen de la CSS y el Código Fiscal [verificar].*
+*Nota: el orden de prelación entre los créditos laborales, de la CSS y fiscales debe verificarse en cada caso conforme al Código de Trabajo, el régimen de la CSS y el Código Fiscal.*
 
 ### Créditos ordinarios / comunes
 
@@ -70,13 +70,13 @@ Se cobran después de todos los demás [verificar]:
 
 | Tipo | Fundamento |
 |---|---|
-| Comunicados tardíamente (fuera del plazo de reconocimiento) | Ley 12 de 2016 [verificar] |
-| Contractualmente subordinados | Código Civil / Ley 12 de 2016 [verificar] |
-| Intereses (salvo los amparados por garantía real) | Ley 12 de 2016 [verificar] |
-| Multas y sanciones | Ley 12 de 2016 [verificar] |
-| Créditos de personas vinculadas al deudor | Ley 12 de 2016 [verificar] |
+| Comunicados tardíamente (fuera del plazo de reconocimiento) | Ley 12 de 2016 |
+| Contractualmente subordinados | Código Civil / Ley 12 de 2016 |
+| Intereses (salvo los amparados por garantía real) | Ley 12 de 2016 |
+| Multas y sanciones | Ley 12 de 2016 |
+| Créditos de personas vinculadas al deudor | Ley 12 de 2016 |
 
-## Personas vinculadas al deudor (Ley 12 de 2016 [verificar])
+## Personas vinculadas al deudor (Ley 12 de 2016)
 
 - **Con persona natural:** cónyuge, conviviente, ascendientes, descendientes, hermanos [verificar].
 - **Con persona jurídica:** socios/accionistas con participación relevante, dignatarios y directores, sociedades del mismo grupo [verificar].
@@ -89,7 +89,7 @@ Para cada crédito:
 2. **Determinar el origen** — contractual, laboral, fiscal, CSS, extracontractual, otro.
 3. **Comprobar si hay garantía real** — hipoteca, prenda, garantía mobiliaria, reserva de dominio.
 4. **Verificar si es persona vinculada** al deudor [verificar].
-5. **Comprobar si se comunicó en plazo** (plazo de reconocimiento de la Ley 12 de 2016 [verificar]).
+5. **Comprobar si se comunicó en plazo** (plazo de reconocimiento de la Ley 12 de 2016).
 6. **Clasificar** aplicando las reglas en orden: administración del proceso > garantía real/privilegio especial > privilegiado/preferente > ordinario > subordinado [verificar].
 7. **Señalar créditos mixtos** — un crédito hipotecario puede ser garantía real hasta el valor de la garantía y ordinario por el resto.
 
@@ -147,7 +147,7 @@ Cuando el usuario lo solicite, generar un escrito de comunicación/reconocimient
 - **Código de Trabajo de Panamá** — créditos laborales (salarios, prestaciones, décimo tercer mes) [verificar].
 - **Régimen de la CSS** — Caja de Seguro Social, cuotas adeudadas [verificar].
 - **Código Fiscal de Panamá** — créditos tributarios (DGI) [verificar].
-- **Plazo de comunicación de créditos** — Ley 12 de 2016 [verificar].
+- **Plazo de comunicación de créditos** — Ley 12 de 2016.
 
 ## Guardarraíles
 

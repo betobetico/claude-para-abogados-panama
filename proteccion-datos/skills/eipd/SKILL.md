@@ -13,7 +13,7 @@ argument-hint: "[descripción del tratamiento a evaluar]"
 # /eipd
 
 1. Leer `~/.claude/plugins/config/claude-para-abogados/proteccion-datos/CLAUDE.md` — perfil de práctica.
-2. Determinar si la EIPD es obligatoria (criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021) [verificar].
+2. Determinar si la EIPD es obligatoria (criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021).
 3. Ejecutar la evaluación siguiendo la metodología de la ANTAI.
 4. Producir el documento EIPD completo.
 
@@ -21,7 +21,7 @@ argument-hint: "[descripción del tratamiento a evaluar]"
 
 ## Propósito
 
-Producir un documento de EIPD completo que cumpla los requisitos de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar], siguiendo la metodología y guías de la ANTAI. La EIPD se recomienda (y puede ser exigible) cuando un tratamiento "entrañe probablemente un alto riesgo" para los derechos de los titulares.
+Producir un documento de EIPD completo que cumpla los requisitos de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021, siguiendo la metodología y guías de la ANTAI. La EIPD se recomienda (y puede ser exigible) cuando un tratamiento "entrañe probablemente un alto riesgo" para los derechos de los titulares.
 
 ## Cuándo es obligatoria o recomendable
 

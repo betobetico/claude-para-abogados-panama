@@ -46,7 +46,7 @@ Alegaciones, práctica de pruebas, informes y derecho a ser oído del interesado
 
 ### 3. Resolución (Ley 38 de 2000)
 
-**Plazo máximo para resolver y notificar:** El que establezca la norma reguladora del procedimiento. En su defecto, el plazo general de la Ley 38 de 2000 [verificar].
+**Plazo máximo para resolver y notificar:** El que establezca la norma reguladora del procedimiento. En su defecto, el plazo general de la Ley 38 de 2000.
 
 **Obligación de decidir** — la Administración está obligada a resolver expresamente y a notificar la decisión en los procedimientos (principio de obligatoriedad) [verificar].
 
@@ -73,20 +73,20 @@ A diferencia de España, en Panamá la **regla general es el silencio administra
 ¿Contra qué acto se recurre?
 │
 ├── Acto del funcionario que lo dictó (cabe revisión por él mismo)
-│   └── RECURSO DE RECONSIDERACIÓN (Ley 38 de 2000) [verificar]
+│   └── RECURSO DE RECONSIDERACIÓN (Ley 38 de 2000)
 │       ├── Plazo: 5 días hábiles desde la notificación [verificar]
 │       ├── Ante: el mismo funcionario que dictó el acto
 │       └── Si se desestima y hay superior → cabe apelación
 │
 ├── Acto recurrible ante el superior jerárquico
-│   └── RECURSO DE APELACIÓN (Ley 38 de 2000) [verificar]
+│   └── RECURSO DE APELACIÓN (Ley 38 de 2000)
 │       ├── Plazo: 5 días hábiles desde la notificación [verificar]
 │       ├── Ante: el superior jerárquico del funcionario que dictó el acto
 │       └── Su resolución AGOTA la vía gubernativa
 │
 └── Vía gubernativa agotada
     └── DEMANDA CONTENCIOSO-ADMINISTRATIVA ante la Sala Tercera de la CSJ
-        └── Plazo: el señalado en el Código Judicial [verificar]
+        └── Plazo: el señalado en el Código Judicial
 ```
 
 > En muchos casos, reconsideración y apelación pueden interponerse de forma conjunta o subsidiaria. Verificar siempre el régimen recursivo de la entidad y norma sectorial [verificar].
@@ -115,7 +115,7 @@ El agotamiento de la vía gubernativa es presupuesto para acudir a la Sala Terce
 
 ## Notificaciones (Ley 38 de 2000)
 
-- La notificación personal del acto es la regla general; cuando no es posible, se acude a notificación por edicto o por otros medios previstos en la Ley 38 de 2000 [verificar].
+- La notificación personal del acto es la regla general; cuando no es posible, se acude a notificación por edicto o por otros medios previstos en la Ley 38 de 2000.
 - Los plazos para recurrir corren a partir de la notificación válida del acto [verificar].
 - Verificar siempre la fecha de notificación efectiva, pues de ella depende el cómputo del plazo de impugnación.
 
@@ -153,7 +153,7 @@ El agotamiento de la vía gubernativa es presupuesto para acudir a la Sala Terce
 |---|---|---|---|---|
 | Reconsideración | 5 días hábiles [verificar] | Mismo funcionario | Rápido; permite corregir el acto | Revisa quien dictó el acto |
 | Apelación | 5 días hábiles [verificar] | Superior jerárquico | Agota la vía gubernativa | Resuelve la propia Administración |
-| Contencioso (Sala Tercera CSJ) | Plazo del Código Judicial [verificar] | Sala Tercera de la CSJ | Control judicial independiente | Más lento; instancia única |
+| Contencioso (Sala Tercera CSJ) | Plazo del Código Judicial | Sala Tercera de la CSJ | Control judicial independiente | Más lento; instancia única |
 
 ---
 

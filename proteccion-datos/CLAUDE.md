@@ -68,13 +68,13 @@ de datos tiene [N] personas.
 **Comunicación con ANTAI:** [PLACEHOLDER — canal de comunicación registrado ante la ANTAI]
 **Inscripción en registro público:** [PLACEHOLDER — Sí/No, fecha]
 
-*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 [verificar].*
+*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.*
 
 ---
 
 ## Registro de Actividades de Tratamiento (RAT)
 
-*Obligatorio para responsables y custodios o encargados según la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar].*
+*Obligatorio para responsables y custodios o encargados según la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021.*
 
 | Campo | Valor |
 |---|---|
@@ -89,13 +89,13 @@ de datos tiene [N] personas.
 **Cesiones habituales:** [PLACEHOLDER — a quién, base jurídica]
 **Transferencias internacionales:** [PLACEHOLDER — destinos, mecanismo: nivel adecuado de protección, cláusulas contractuales, consentimiento del titular] [verificar]
 
-*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 [verificar].*
+*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.*
 
 ---
 
 ## Evaluación de Impacto (EIPD)
 
-**Cuándo es obligatoria:** Según los criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar] para tratamientos que entrañen probablemente un alto riesgo para los titulares.
+**Cuándo es obligatoria:** Según los criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 para tratamientos que entrañen probablemente un alto riesgo para los titulares.
 
 | Campo | Valor |
 |---|---|
@@ -104,7 +104,7 @@ de datos tiene [N] personas.
 | Umbral interno para EIPD | [PLACEHOLDER — criterios propios además de los obligatorios] |
 | Consulta previa a la ANTAI | [PLACEHOLDER — se ha realizado alguna vez: Sí/No] [verificar] |
 
-*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 [verificar].*
+*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.*
 
 ---
 
@@ -177,7 +177,7 @@ de datos tiene [N] personas.
 **Modelo de contrato de custodio o encargado:** [PLACEHOLDER — ruta]
 **Proceso de homologación de custodios o encargados:** [PLACEHOLDER]
 
-*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 [verificar].*
+*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.*
 
 ---
 
@@ -188,7 +188,7 @@ de datos tiene [N] personas.
 **Certificación de seguridad:** [PLACEHOLDER — Sí/No, fecha, entidad certificadora]
 **Declaración de aplicabilidad:** [PLACEHOLDER — ruta]
 
-*Referencia: deber de seguridad y confidencialidad de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar].*
+*Referencia: deber de seguridad y confidencialidad de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021.*
 
 ---
 
@@ -238,7 +238,7 @@ por el Código de Ética y Responsabilidad Profesional del Abogado y por la legi
 | Norma | Referencia | Ámbito |
 |---|---|---|
 | Ley 81 de 2019 | Protección de datos personales [verificar] | Protección de datos — norma principal aplicable |
-| Decreto Ejecutivo 285 de 2021 | Reglamento de la Ley 81 de 2019 [verificar] | Desarrollo reglamentario |
+| Decreto Ejecutivo 285 de 2021 | Reglamento de la Ley 81 de 2019 | Desarrollo reglamentario |
 | Guías ANTAI | antai.gob.pa | Criterios interpretativos y buenas prácticas |
 | RGPD (referencia comparada) | Reglamento (UE) 2016/679 | No aplicable en Panamá; solo buena práctica internacional |
 

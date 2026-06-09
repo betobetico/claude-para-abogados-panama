@@ -2,7 +2,7 @@
 name: comunidad
 description: >
   Propiedad horizontal — revisa reglamento de copropiedad, actas de asamblea y
-  cuotas extraordinarias de propiedades horizontales bajo la Ley 31 de 2010.
+  cuotas extraordinarias de propiedades horizontales bajo la Ley 284 de 2022.
   Comprueba quórums y mayorías de asamblea, impugnación de acuerdos y obligaciones
   de propietarios. Usar cuando el usuario diga "propiedad horizontal", "asamblea
   de propietarios", "cuota extraordinaria", "impugnar acuerdo", "Ley 31",
@@ -14,7 +14,7 @@ argument-hint: "[adjuntar acta/reglamento o describir la situación]"
 
 1. Cargar `~/.claude/plugins/config/claude-para-abogados/inmobiliario/CLAUDE.md` → tipo de práctica, posición habitual.
 2. Obtener el documento (acta, reglamento de copropiedad, convocatoria) o descripción.
-3. Analizar contra la Ley 31 de 2010.
+3. Analizar contra la Ley 284 de 2022.
 4. Generar informe con hallazgos.
 
 ```
@@ -27,15 +27,15 @@ Votaron a favor el 60% de los coeficientes. ¿Es válido el acuerdo?
 
 ## Propósito
 
-La Ley 31 de 2010 regula el régimen de propiedad horizontal en Panamá: constitución, reglamento de copropiedad, asamblea de propietarios, administración, cuotas y resolución de conflictos. Los conflictos en propiedades horizontales son frecuentes y muchos acuerdos se impugnan por defectos formales (convocatoria, quórum) o sustantivos (contenido contrario a la ley o al reglamento). Este skill revisa la validez de acuerdos, analiza el reglamento de copropiedad y evalúa la viabilidad de impugnaciones.
+La Ley 284 de 2022 regula el régimen de propiedad horizontal en Panamá: constitución, reglamento de copropiedad, asamblea de propietarios, administración, cuotas y resolución de conflictos. Los conflictos en propiedades horizontales son frecuentes y muchos acuerdos se impugnan por defectos formales (convocatoria, quórum) o sustantivos (contenido contrario a la ley o al reglamento). Este skill revisa la validez de acuerdos, analiza el reglamento de copropiedad y evalúa la viabilidad de impugnaciones.
 
-> **Nota de verificación:** Los quórums, mayorías y plazos exactos de la Ley 31 de 2010 deben verificarse en el texto vigente de la ley y su reglamentación antes de citar artículos concretos. [verificar]
+> **Nota de verificación:** Los quórums, mayorías y plazos exactos de la Ley 284 de 2022 deben verificarse en el texto vigente de la ley y su reglamentación antes de citar artículos concretos. [verificar]
 
 ---
 
-## Quórums y mayorías de adopción de acuerdos (Ley 31 de 2010)
+## Quórums y mayorías de adopción de acuerdos (Ley 284 de 2022)
 
-> Las mayorías concretas (simple, calificada, unanimidad) y los coeficientes exigidos según la materia se establecen en la Ley 31 de 2010 y en el reglamento de copropiedad de cada PH. Verificar el texto vigente. [verificar]
+> Las mayorías concretas (simple, calificada, unanimidad) y los coeficientes exigidos según la materia se establecen en la Ley 284 de 2022 y en el reglamento de copropiedad de cada PH. Verificar el texto vigente. [verificar]
 
 ### Unanimidad
 
@@ -48,9 +48,9 @@ Habitualmente exigida para [verificar]:
 
 | Acuerdo | Quórum / mayoría | Base legal |
 |---|---|---|
-| **Obras o mejoras sobre bienes comunes no exigibles por ley** | Mayoría calificada de coeficientes [verificar] | Ley 31 de 2010 [verificar] |
-| **Obras de accesibilidad / supresión de barreras** | Según la ley aplicable [verificar] | Ley 31 de 2010 [verificar] |
-| **Modificación de cuotas o coeficientes** | Mayoría calificada / unanimidad [verificar] | Ley 31 de 2010 [verificar] |
+| **Obras o mejoras sobre bienes comunes no exigibles por ley** | Mayoría calificada de coeficientes [verificar] | Ley 284 de 2022 |
+| **Obras de accesibilidad / supresión de barreras** | Según la ley aplicable [verificar] | Ley 284 de 2022 |
+| **Modificación de cuotas o coeficientes** | Mayoría calificada / unanimidad [verificar] | Ley 284 de 2022 |
 
 ### Mayoría simple
 
@@ -58,7 +58,7 @@ Para los asuntos ordinarios de administración no reservados a mayoría califica
 
 ### Obras de conservación obligatorias
 
-Las obras necesarias para la conservación, seguridad y habitabilidad del edificio son obligatorias y corresponden a la PH conforme a la Ley 31 de 2010, aun sin necesidad de aprobación discrecional de la asamblea cuando son urgentes. [verificar]
+Las obras necesarias para la conservación, seguridad y habitabilidad del edificio son obligatorias y corresponden a la PH conforme a la Ley 284 de 2022, aun sin necesidad de aprobación discrecional de la asamblea cuando son urgentes. [verificar]
 
 ---
 
@@ -68,7 +68,7 @@ Las obras necesarias para la conservación, seguridad y habitabilidad del edific
 
 | Causa |
 |---|
-| Acuerdos contrarios a la Ley 31 de 2010 o a su reglamentación |
+| Acuerdos contrarios a la Ley 284 de 2022 o a su reglamentación |
 | Acuerdos contrarios al reglamento de copropiedad |
 | Acuerdos gravemente lesivos para la PH en beneficio de uno o varios propietarios |
 | Acuerdos que causen grave perjuicio a un propietario sin obligación de soportarlo / abuso de derecho |
@@ -83,11 +83,11 @@ Las obras necesarias para la conservación, seguridad y habitabilidad del edific
 
 | Aspecto | Plazo |
 |---|---|
-| Impugnación de acuerdos de asamblea | Plazo establecido en la Ley 31 de 2010 [verificar] |
+| Impugnación de acuerdos de asamblea | Plazo establecido en la Ley 284 de 2022 |
 
 ### Requisito: estar al corriente de pago
 
-Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el propietario debe estar al corriente en el pago de las cuotas de la PH, o consignar lo adeudado. Verificar el alcance en la Ley 31 de 2010. [verificar]
+Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el propietario debe estar al corriente en el pago de las cuotas de la PH, o consignar lo adeudado. Verificar el alcance en la Ley 284 de 2022.
 
 ---
 
@@ -95,10 +95,10 @@ Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el p
 
 | Aspecto | Norma |
 |---|---|
-| **Obligación de contribuir** | Según el coeficiente de participación, salvo regla distinta del reglamento de copropiedad (Ley 31 de 2010) |
-| **Fondo de reserva / imprevistos** | Conforme a la Ley 31 de 2010 y al reglamento [verificar] |
+| **Obligación de contribuir** | Según el coeficiente de participación, salvo regla distinta del reglamento de copropiedad (Ley 284 de 2022) |
+| **Fondo de reserva / imprevistos** | Conforme a la Ley 284 de 2022 y al reglamento [verificar] |
 | **Cuotas extraordinarias** | Aprobadas por la asamblea con la mayoría que corresponda a la materia [verificar] |
-| **Morosos** | Cobro de cuotas mediante el procedimiento que establezca la Ley 31 de 2010 (vía ejecutiva / jurisdicción de PH) y posible gravamen sobre la unidad [verificar] |
+| **Morosos** | Cobro de cuotas mediante el procedimiento que establezca la Ley 284 de 2022 (vía ejecutiva / jurisdicción de PH) y posible gravamen sobre la unidad [verificar] |
 
 ---
 
@@ -141,8 +141,8 @@ Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el p
 
 | # | Aspecto | Observación | Riesgo | Base legal | Recomendación |
 |---|---|---|---|---|---|
-| 1 | [Ej., Quórum de la cuota] | [60% de coeficientes para instalación de ascensor] | [Verificar] | Ley 31 de 2010 [verificar] | [Confirmar mayoría exigida] |
-| 2 | [Ej., Notificación a ausentes] | [No consta notificación] | Alto | Ley 31 de 2010 [verificar] | [Notificar en plazo] |
+| 1 | [Ej., Quórum de la cuota] | [60% de coeficientes para instalación de ascensor] | [Verificar] | Ley 284 de 2022 | [Confirmar mayoría exigida] |
+| 2 | [Ej., Notificación a ausentes] | [No consta notificación] | Alto | Ley 284 de 2022 | [Notificar en plazo] |
 | ... | ... | ... | ... | ... | ... |
 
 ---
@@ -153,7 +153,7 @@ Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el p
 |---|---|
 | **Causa de impugnación** | [contraria a ley / reglamento / lesiva] |
 | **Legitimación** | [¿Votó en contra? ¿Ausente? ¿Al corriente de pago?] |
-| **Plazo** | [plazo de la Ley 31 de 2010 — verificar] |
+| **Plazo** | [plazo de la Ley 284 de 2022 — verificar] |
 | **Viabilidad** | [Alta / Media / Baja] |
 
 ---
@@ -167,7 +167,7 @@ Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el p
 
 ## Legislación de referencia
 
-- Ley 31 de 2010 — Régimen de propiedad horizontal en Panamá (y su reglamentación)
+- Ley 284 de 2022 — Régimen de propiedad horizontal en Panamá (y su reglamentación)
 - Código Civil de Panamá — copropiedad / comunidad de bienes (supletorio) [verificar]
 - Código Judicial de Panamá — vía procesal para el cobro de cuotas e impugnaciones [verificar]
 
@@ -177,4 +177,4 @@ Para ejercer ciertos derechos (incluido a veces el voto y la impugnación), el p
 
 - No redacta el reglamento de copropiedad — revisa los existentes.
 - No tramita la impugnación judicial — evalúa la viabilidad y los plazos.
-- No gestiona el cobro de la morosidad — indica el procedimiento aplicable bajo la Ley 31 de 2010.
+- No gestiona el cobro de la morosidad — indica el procedimiento aplicable bajo la Ley 284 de 2022.

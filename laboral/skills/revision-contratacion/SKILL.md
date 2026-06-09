@@ -12,8 +12,8 @@ Esta skill revisa un contrato de trabajo individual, verifica que contiene todas
 
 ### Paso 1 — Identificar tipo de contrato
 
-1. **Por tiempo indefinido**: contrato por defecto bajo el Código de Trabajo [verificar].
-2. **Por tiempo definido**: con plazo determinado, sujeto a los límites del Código de Trabajo [verificar].
+1. **Por tiempo indefinido**: contrato por defecto bajo el Código de Trabajo.
+2. **Por tiempo definido**: con plazo determinado, sujeto a los límites del Código de Trabajo.
 3. **Por obra determinada**: vinculado a la ejecución de una obra o servicio específico [verificar].
 4. **Contrato de aprendizaje / formación**: regulado por el Código de Trabajo y normativa del INADEH [verificar].
 
@@ -25,14 +25,14 @@ Comprobar la presencia y corrección de:
 
 | Cláusula | Base legal | Verificación |
 |----------|------------|--------------|
-| Identidad de las partes (incl. cédula/RUC) | Código de Trabajo [verificar] | Datos completos |
-| Fecha de inicio y duración | Código de Trabajo [verificar] | Coherente con tipo |
-| Domicilio del empleador y lugar de trabajo | Código de Trabajo [verificar] | Presente |
-| Cargo o clase de trabajo | Código de Trabajo [verificar] | Definido con claridad |
-| Salario y forma de pago | Código de Trabajo [verificar] | ≥ salario mínimo (MITRADEL) |
-| Jornada y horario | Código de Trabajo [verificar] | Dentro de la jornada máxima legal |
-| Vacaciones | Código de Trabajo [verificar] | 30 días por cada 11 meses de trabajo continuo [verificar] |
-| Período de prueba (si aplica) | Código de Trabajo [verificar] | Dentro de límites legales |
+| Identidad de las partes (incl. cédula/RUC) | Código de Trabajo | Datos completos |
+| Fecha de inicio y duración | Código de Trabajo | Coherente con tipo |
+| Domicilio del empleador y lugar de trabajo | Código de Trabajo | Presente |
+| Cargo o clase de trabajo | Código de Trabajo | Definido con claridad |
+| Salario y forma de pago | Código de Trabajo | ≥ salario mínimo (MITRADEL) |
+| Jornada y horario | Código de Trabajo | Dentro de la jornada máxima legal |
+| Vacaciones | Código de Trabajo | 30 días por cada 11 meses de trabajo continuo [verificar] |
+| Período de prueba (si aplica) | Código de Trabajo | Dentro de límites legales |
 | Décimo tercer mes | Código de Trabajo / régimen del XIII mes [verificar] | Mención del derecho |
 | Inscripción en la CSS | Ley Orgánica de la CSS [verificar] | Obligación de afiliación |
 
@@ -41,7 +41,7 @@ Comprobar la presencia y corrección de:
 - **No competencia postcontractual**: validez y límites bajo el Código de Trabajo y la legislación panameña; conviene compensación e interés legítimo del empleador [verificar].
 - **Confidencialidad**: proporcionalidad y duración razonables.
 - **Exclusividad / plena dedicación**: con contraprestación adecuada.
-- **Teletrabajo**: acuerdo escrito conforme a la Ley 126 de 2020 [verificar] sobre teletrabajo.
+- **Teletrabajo**: acuerdo escrito conforme a la Ley 126 de 2020 sobre teletrabajo.
 
 ### Paso 4 — Verificar adecuación del tipo contractual
 

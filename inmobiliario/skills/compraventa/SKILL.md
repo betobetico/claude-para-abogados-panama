@@ -65,7 +65,7 @@ Si se facilita certificado del Registro Público, verificar:
 | **Descripción** | ¿Coincide con la realidad (superficie, linderos, uso)? Concordancia con el catastro de ANATI |
 | **Gravámenes** | Hipotecas, anticresis, embargos, secuestros, servidumbres, arrendamientos inscritos |
 | **Afectaciones / limitaciones** | Patrimonio familiar, prohibiciones de enajenar, fideicomisos, afectaciones urbanísticas |
-| **Régimen de propiedad horizontal** | Si procede: coeficiente de participación, anexos (estacionamiento, depósito) bajo la Ley 31 de 2010 |
+| **Régimen de propiedad horizontal** | Si procede: coeficiente de participación, anexos (estacionamiento, depósito) bajo la Ley 284 de 2022 |
 
 **Gravámenes que deben cancelarse antes o en el acto de escritura:**
 - Hipotecas → cancelación o subrogación
@@ -109,7 +109,7 @@ Si se facilita certificado del Registro Público, verificar:
 |---|---|---|
 | **Impuesto de inmueble** | Titular del inmueble | Anual; verificar exoneraciones (p. ej. patrimonio familiar tributario / vivienda principal) y que esté al día (paz y salvo) [verificar] |
 | **Paz y salvo nacional (DGI)** | Vendedor | Suele exigirse para inscribir la transferencia [verificar] |
-| **Cuotas de propiedad horizontal** | Vendedor (al corriente) | Certificación de no adeudo de la administración (Ley 31 de 2010) |
+| **Cuotas de propiedad horizontal** | Vendedor (al corriente) | Certificación de no adeudo de la administración (Ley 284 de 2022) |
 
 ---
 
@@ -171,7 +171,7 @@ Si se facilita certificado del Registro Público, verificar:
 - [ ] Certificado del Registro Público actualizado (próximo a la fecha de escritura)
 - [ ] Paz y salvo de impuesto de inmueble
 - [ ] Paz y salvo nacional (DGI) del vendedor [verificar]
-- [ ] Certificación de no adeudo de cuotas de propiedad horizontal (Ley 31 de 2010)
+- [ ] Certificación de no adeudo de cuotas de propiedad horizontal (Ley 284 de 2022)
 - [ ] Permiso de ocupación (obra nueva) si aplica
 - [ ] Medios de pago preparados (transferencia / cheque de gerencia) y cumplimiento de prevención de blanqueo (Ley 23 de 2015)
 ```
@@ -185,7 +185,7 @@ Si se facilita certificado del Registro Público, verificar:
 - ANATI — catastro y administración de tierras
 - Régimen del ITBI (Impuesto de Transferencia de Bienes Inmuebles) [verificar]
 - Régimen de la ganancia de capital y retención anticipada (DGI) [verificar]
-- Ley 31 de 2010 — propiedad horizontal (certificación de no adeudo)
+- Ley 284 de 2022 — propiedad horizontal (certificación de no adeudo)
 - Ley 23 de 2015 — prevención de blanqueo de capitales (sujetos obligados, UAF)
 
 ---

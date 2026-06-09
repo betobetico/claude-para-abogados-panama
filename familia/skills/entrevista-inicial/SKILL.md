@@ -119,9 +119,9 @@ Comprobar cada conector. Reportar resultados.
 > - **Contencioso** — divorcios por causal, disputas de guarda, modificación de medidas. Volumen?
 > - **Mediación familiar** — eres mediador/a o derivas a mediación? Con qué frecuencia funciona?
 > - **Violencia doméstica** — llevas asuntos con componente de violencia? (Ley 82 de 2013 sobre femicidio y violencia contra la mujer [verificar])
-> - **Uniones de hecho** — reconocimiento de uniones de hecho conforme al Código de la Familia [verificar]?
+> - **Uniones de hecho** — reconocimiento de uniones de hecho conforme al Código de la Familia?
 > - **Filiación** — reclamaciones/impugnaciones de paternidad?
-> - **Adopción** — tramitas adopciones (Ley 46 de 2013 [verificar])?
+> - **Adopción** — tramitas adopciones (Ley 46 de 2013)?
 > - **Sustracción internacional de menores** (Convenio de La Haya 1980) — experiencia?
 >
 > Cuál es tu ratio aproximado mutuo consentimiento vs. contencioso?
@@ -366,8 +366,8 @@ La escalación va a [nombre].
 - **No asumir gananciales.** Verificar siempre si hay capitulaciones matrimoniales y cuál es el régimen legal supletorio vigente al momento del matrimonio según el Código de la Familia.
 - **Confirmar el régimen legal supletorio.** No darlo por sentado: depende del Código de la Familia y de la fecha del matrimonio. [verificar]
 - **No dar por hecho criterios de pensión vinculantes.** En Panamá no hay tablas oficiales; la cuantía se fija por proporcionalidad. Preguntar siempre los criterios del juzgado habitual del usuario.
-- **No ignorar la violencia doméstica.** Si hay indicios, el asunto cambia completamente de naturaleza jurídica (medidas de protección, Ley 82 de 2013 [verificar]). No tratar como un divorcio ordinario.
+- **No ignorar la violencia doméstica.** Si hay indicios, el asunto cambia completamente de naturaleza jurídica (medidas de protección, Ley 82 de 2013). No tratar como un divorcio ordinario.
 - **No escribir posiciones genéricas en convenios.** Si el usuario no ha tramitado muchos divorcios, decirlo: `[POSICIONES NO CONSOLIDADAS — poca experiencia en convenios. Tratar como puntos de partida.]`
-- **No olvidar el interés superior del menor.** En todo lo que afecte a menores, el criterio rector es el interés superior del menor (principio del Código de la Familia [verificar]). Esto prevalece sobre las posiciones de las partes y sobre cualquier default del plugin.
+- **No olvidar el interés superior del menor.** En todo lo que afecte a menores, el criterio rector es el interés superior del menor (principio del Código de la Familia). Esto prevalece sobre las posiciones de las partes y sobre cualquier default del plugin.
 - **No confundir pensión a los hijos con pensión entre cónyuges.** La de los hijos es irrenunciable; la pensión entre cónyuges es disponible. Diferentes fundamentos, diferentes criterios, diferentes consecuencias de impago.
 - **No olvidar la compensación por trabajo doméstico.** En separación de bienes, el cónyuge que se dedicó al hogar puede tener derecho a compensación. [verificar base legal en el Código de la Familia]

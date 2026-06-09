@@ -63,7 +63,7 @@ Según la acción, redactar el borrador del acta fundacional, el informe de revi
 
 | Elemento | Detalle | Estado / Referencia |
 |----------|---------|---------------------|
-| Consejo de fundación | [miembros] | Ley 25 de 1995 [verificar] |
+| Consejo de fundación | [miembros] | Ley 25 de 1995 |
 | Protector | [nombre / no designado] | [opcional] |
 | Beneficiarios | [identificación / reglamento] | [privado] |
 | Reglamento | [sí / no] | [privado] |
@@ -73,8 +73,8 @@ Según la acción, redactar el borrador del acta fundacional, el informe de revi
 | Obligación | Plazo | Estado | Base legal |
 |------------|-------|--------|------------|
 | Tasa única anual | Anual [verificar] | [estado] | Registro Público [verificar] |
-| Agente residente | Continuo | [estado] | Ley 25 de 1995 [verificar] |
-| Libros / registros contables | Permanente | [estado] | Ley 25 de 1995 [verificar] |
+| Agente residente | Continuo | [estado] | Ley 25 de 1995 |
+| Libros / registros contables | Permanente | [estado] | Ley 25 de 1995 |
 | Beneficiario final | Según normativa vigente | [estado] | Ley 23 de 2015 / transparencia [verificar] |
 
 ### Incidencias / Acciones recomendadas

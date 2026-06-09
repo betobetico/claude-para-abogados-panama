@@ -29,7 +29,7 @@ que responda consultas sobre productos financieros.
 
 ## Propósito
 
-**Panamá no cuenta con una ley de IA vinculante.** Este triaje aplica un sistema de clasificación por niveles de riesgo basado en principios y marcos internacionales de referencia (OCDE, UNESCO, NIST AI RMF, ISO/IEC 42001), adoptado como política interna de gobernanza. Clasificar correctamente un caso de uso es el primer paso antes de desplegarlo: permite dimensionar controles, transparencia y supervisión humana, y verificar las obligaciones panameñas conexas (sobre todo protección de datos personales, Ley 81 de 2019 [verificar]). El Reglamento Europeo de IA se utiliza únicamente como referencia comparada de criterios, no como norma aplicable.
+**Panamá no cuenta con una ley de IA vinculante.** Este triaje aplica un sistema de clasificación por niveles de riesgo basado en principios y marcos internacionales de referencia (OCDE, UNESCO, NIST AI RMF, ISO/IEC 42001), adoptado como política interna de gobernanza. Clasificar correctamente un caso de uso es el primer paso antes de desplegarlo: permite dimensionar controles, transparencia y supervisión humana, y verificar las obligaciones panameñas conexas (sobre todo protección de datos personales, Ley 81 de 2019). El Reglamento Europeo de IA se utiliza únicamente como referencia comparada de criterios, no como norma aplicable.
 
 ---
 
@@ -59,9 +59,9 @@ Prácticas que el marco interno de gobernanza considera inadmisibles (en línea 
 | Explotación de vulnerabilidades (edad, discapacidad, situación social) | Principio de no daño y equidad |
 | Scoring social por entidades con efectos perjudiciales desproporcionados | Principio de equidad y no discriminación |
 | Evaluación de riesgo de delincuencia basada solo en perfilado o rasgos de personalidad | Principio de no discriminación |
-| Creación o ampliación de BBDD de reconocimiento facial mediante scraping masivo | Protección de datos personales (Ley 81 de 2019 [verificar]) |
+| Creación o ampliación de BBDD de reconocimiento facial mediante scraping masivo | Protección de datos personales (Ley 81 de 2019) |
 | Inferencia de emociones en el lugar de trabajo o centros educativos | Principio de dignidad y privacidad |
-| Categorización biométrica para inferir datos sensibles (raza, opiniones políticas, orientación sexual...) | Datos sensibles (Ley 81 de 2019 [verificar]) |
+| Categorización biométrica para inferir datos sensibles (raza, opiniones políticas, orientación sexual...) | Datos sensibles (Ley 81 de 2019) |
 | Identificación biométrica remota masiva en espacios públicos sin base legal | Privacidad y debido proceso |
 
 **Si el caso de uso encaja aquí → BLOQUEO por política interna. No debe desplegarse.**
@@ -138,7 +138,7 @@ Todos los demás sistemas de IA. Sin controles específicos exigidos por el marc
 |---|---|---|---|
 | [Ej., Sistema de gestión de riesgos] | [Marco interno / NIST AI RMF] | [Proveedor] | [Pendiente] |
 | [Ej., Evaluación de impacto sobre derechos] | [Marco interno] | [Implementador] | [Pendiente] |
-| [Ej., Base legal y derechos del titular] | [Ley 81 de 2019 [verificar]] | [Oficial de datos] | [Pendiente] |
+| [Ej., Base legal y derechos del titular] | [Ley 81 de 2019] | [Oficial de datos] | [Pendiente] |
 | ... | ... | ... | ... |
 
 ---
@@ -146,7 +146,7 @@ Todos los demás sistemas de IA. Sin controles específicos exigidos por el marc
 ## Registro interno
 
 **¿Registrado en el inventario de sistemas IA?** [Sí / No — registrar]
-**¿Requiere notificación a la ANTAI por tratamiento de datos personales?** [Si procede — Ley 81 de 2019 [verificar]]
+**¿Requiere notificación a la ANTAI por tratamiento de datos personales?** [Si procede — Ley 81 de 2019]
 
 ---
 
@@ -164,7 +164,7 @@ Todos los demás sistemas de IA. Sin controles específicos exigidos por el marc
 
 - Principios de la OCDE sobre IA y Recomendación de la UNESCO sobre la ética de la IA
 - NIST AI Risk Management Framework; ISO/IEC 42001 (sistema de gestión de IA)
-- Ley 81 de 2019 [verificar] sobre protección de datos personales (decisiones automatizadas, datos sensibles); autoridad: ANTAI
+- Ley 81 de 2019 sobre protección de datos personales (decisiones automatizadas, datos sensibles); autoridad: ANTAI
 - Reglamento Europeo de IA (Reglamento UE 2024/1689): solo como referencia comparada internacional, no aplicable en Panamá
 - *Nota: Panamá no tiene ley de IA vinculante; los plazos y categorías son criterios de gobernanza interna, no obligaciones legales directas.*
 

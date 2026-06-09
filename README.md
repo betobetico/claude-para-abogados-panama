@@ -155,7 +155,7 @@ Cada agente lleva el nombre del flujo de trabajo que ejecuta. Son el punto de en
 |---|---|---|---|
 | **Revisor de arrendamiento** | Revisa contrato de alquiler contra la ley de arrendamientos y cláusulas habituales | `inmobiliario` | `/inmobiliario:arrendamiento` |
 | **Compraventa** | Revisión de contrato de compraventa, promesa, condiciones suspensivas | `inmobiliario` | `/inmobiliario:compraventa` |
-| **Propiedad horizontal** | Revisión de reglamento de copropiedad, actas de asamblea, cuotas (Ley 31 de 2010) | `inmobiliario` | `/inmobiliario:comunidad` |
+| **Propiedad horizontal** | Revisión de reglamento de copropiedad, actas de asamblea, cuotas (Ley 284 de 2022) | `inmobiliario` | `/inmobiliario:comunidad` |
 
 ### Concursal
 
@@ -288,7 +288,11 @@ Si desarrollas alguno de estos MCPs o conoces uno existente, abre un issue o un 
 
 ## Estado del proyecto
 
-Este proyecto está en fase inicial. Los skills han sido diseñados pero **no han sido testados con casos reales**. Las referencias legislativas deben verificarse — muchas citas concretas se han marcado con `[verificar]` precisamente para señalar que requieren confirmación contra la fuente oficial. Se agradecen contribuciones, especialmente:
+Este proyecto está en fase inicial. Los skills han sido diseñados pero **no han sido testados con casos reales**. Las referencias legislativas deben verificarse — muchas citas concretas se han marcado con `[verificar]` precisamente para señalar que requieren confirmación contra la fuente oficial.
+
+La **identidad de las normas de base** (qué ley es cada una y de qué trata) ha sido verificada contra fuentes oficiales — ver [VERIFICACION.md](VERIFICACION.md). Los marcadores `[verificar]` que permanecen señalan **artículos, plazos e importes concretos** pendientes de confirmar contra el texto vigente de cada ley.
+
+Se agradecen contribuciones, especialmente:
 
 - Correcciones de referencias normativas y resolución de marcadores `[verificar]`
 - Tests con documentos jurídicos reales

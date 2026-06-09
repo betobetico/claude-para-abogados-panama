@@ -124,7 +124,7 @@ Para cada aspecto afectado por el cambio:
 ## Legislación de referencia
 
 - Ley 81 de 2019 — marco general de protección de datos personales en Panamá
-- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019 [verificar]
+- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019
 - Guías y resoluciones de la ANTAI
 - Fallos del Órgano Judicial / Corte Suprema de Justicia en materia de protección de datos y habeas data
 - Referencia comparada (no vinculante en Panamá): directrices del CEPD, como criterio internacional orientativo

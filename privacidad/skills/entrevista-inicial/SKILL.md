@@ -103,12 +103,12 @@ Comprobar conexiones reales.
 ### Parte 1: Rol de la organización (2-3 min)
 
 - **¿La organización actúa como:**
-  - **Responsable del tratamiento** (Ley 81 de 2019) [verificar]
-  - **Encargado del tratamiento** (Ley 81 de 2019) [verificar]
-  - **Corresponsable** (Ley 81 de 2019) [verificar]
+  - **Responsable del tratamiento** (Ley 81 de 2019)
+  - **Encargado del tratamiento** (Ley 81 de 2019)
+  - **Corresponsable** (Ley 81 de 2019)
   - **Varias de las anteriores** (frecuente en grupos empresariales)
 - **¿Hay encargado de protección de datos nombrado?**
-  - Sí — ¿obligatorio (Ley 81 de 2019) [verificar] o voluntario?
+  - Sí — ¿obligatorio (Ley 81 de 2019) o voluntario?
   - ¿Interno o externo?
   - ¿Comunicado a la ANTAI?
   - No — ¿debería haberlo? (Tratamiento a gran escala, datos sensibles, entidad pública) [verificar]
@@ -127,9 +127,9 @@ Si no:
   - Datos económicos (planillas, cuentas bancarias)
   - Datos profesionales (CV, historial laboral)
   - Datos de salud (si aplica)
-  - Datos sensibles (Ley 81 de 2019) [verificar]
+  - Datos sensibles (Ley 81 de 2019)
   - Datos de menores
-- **Bases de licitud principales (Ley 81 de 2019):** [verificar]
+- **Bases de licitud principales (Ley 81 de 2019):**
   - Consentimiento del titular
   - Ejecución de relación contractual
   - Cumplimiento de obligación legal
@@ -150,7 +150,7 @@ Si no:
 
 Si no:
 
-- **Playbook de DPA — posiciones por cláusula del encargo (Ley 81 de 2019):** [verificar]
+- **Playbook de DPA — posiciones por cláusula del encargo (Ley 81 de 2019):**
 
   | Cláusula del encargo | Tu posición |
   |---|---|
@@ -182,7 +182,7 @@ Si no:
 #### Brechas de seguridad
 
 - **¿Tenéis un protocolo de gestión de brechas?** Pega o comparte ruta.
-- **Plazo de notificación a la ANTAI:** según la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar] — ¿vuestro proceso interno lo cumple?
+- **Plazo de notificación a la ANTAI:** según la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 — ¿vuestro proceso interno lo cumple?
 - **¿Quién decide si se notifica?** (Encargado de protección de datos, CISO, dirección jurídica, comité de crisis)
 - **¿Habéis tenido brechas que notificar?** (No necesito detalles — solo si el proceso ha sido probado)
 - **¿Tenéis seguro de ciberriesgo?**
@@ -222,7 +222,7 @@ Si no:
 **EIPD realizadas:** [PLACEHOLDER]
 **Herramienta EIPD:** [PLACEHOLDER]
 
-### Playbook de DPA (encargo de tratamiento — Ley 81 de 2019) [verificar]
+### Playbook de DPA (encargo de tratamiento — Ley 81 de 2019)
 
 | Cláusula | Posición como responsable | Posición como encargado |
 |---|---|---|

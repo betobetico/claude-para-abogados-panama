@@ -13,9 +13,9 @@ Esta skill redacta una carta de requerimiento extrajudicial (cease & desist) por
 ### Paso 1 — Identificar tipo de infracción
 
 1. **Infracción de marca**: uso no autorizado de marca registrada (Ley 35 de 1996 — derechos del titular) [verificar].
-2. **Infracción de derechos de autor**: reproducción, distribución o comunicación pública sin autorización (Ley 64 de 2012) [verificar].
-3. **Competencia desleal**: imitación, aprovechamiento de reputación ajena, confusión (Ley 45 de 2007) [verificar].
-4. **Infracción de patente/diseño**: fabricación o comercialización sin licencia (Ley 35 de 1996) [verificar].
+2. **Infracción de derechos de autor**: reproducción, distribución o comunicación pública sin autorización (Ley 64 de 2012).
+3. **Competencia desleal**: imitación, aprovechamiento de reputación ajena, confusión (Ley 45 de 2007).
+4. **Infracción de patente/diseño**: fabricación o comercialización sin licencia (Ley 35 de 1996).
 
 ### Paso 2 — Cargar postura de enforcement
 

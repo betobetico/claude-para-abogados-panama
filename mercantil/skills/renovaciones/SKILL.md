@@ -85,7 +85,7 @@ Para cada contrato:
 - **Código Civil de Panamá**: tácita reconducción en arrendamientos (aplicable por analogía) [verificar].
 - **Código Civil de Panamá**: plazos de las obligaciones [verificar].
 - **Código de Comercio de Panamá**: rescisión y resolución de contratos mercantiles [verificar].
-- **Ley 45 de 2007** [verificar]: control de cláusulas de renovación automática frente al consumidor (ACODECO).
+- **Ley 45 de 2007**: control de cláusulas de renovación automática frente al consumidor (ACODECO).
 
 ## Guardrails
 

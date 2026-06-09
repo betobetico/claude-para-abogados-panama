@@ -36,8 +36,8 @@ Solicitar al usuario los datos según el tipo:
 
 Comprobar según tipo de sociedad (S.A. / S. de R.L.):
 
-- **Quórum**: conforme al pacto social y a la Ley 32 de 1927 [verificar].
-- **Mayorías**: conforme al pacto social y a la Ley 32 de 1927 [verificar].
+- **Quórum**: conforme al pacto social y a la Ley 32 de 1927.
+- **Mayorías**: conforme al pacto social y a la Ley 32 de 1927.
 - **Formalidades**: convocatoria, derecho de información, informe de la junta directiva.
 - **Inscripción registral**: si el acuerdo requiere protocolización en escritura pública e inscripción en el Registro Público.
 
@@ -61,7 +61,7 @@ Seguir la estructura estándar del despacho (o la de config si existe).
 ### Asistentes / Quórum
 
 [Lista de asistentes con porcentaje de capital / miembros de la junta directiva presentes]
-Quórum: [porcentaje]% — Cumple pacto social / Ley 32 de 1927 [verificar]: [SÍ/NO]
+Quórum: [porcentaje]% — Cumple pacto social / Ley 32 de 1927: [SÍ/NO]
 
 ### Orden del día
 
@@ -74,7 +74,7 @@ Quórum: [porcentaje]% — Cumple pacto social / Ley 32 de 1927 [verificar]: [S�
 [Texto del acuerdo con referencia normativa]
 
 Votación: [a favor] / [en contra] / [abstenciones]
-Mayoría requerida: pacto social / Ley 32 de 1927 [verificar] — Cumplida: [SÍ/NO]
+Mayoría requerida: pacto social / Ley 32 de 1927 — Cumplida: [SÍ/NO]
 
 ### Trámites posteriores
 

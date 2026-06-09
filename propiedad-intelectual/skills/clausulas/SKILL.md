@@ -46,8 +46,8 @@ Para cada cláusula de PI verificar:
 - Si es contratista independiente/encargo: se rige por el contrato — conviene cláusula expresa de cesión.
 
 **Obras no software:**
-- La transmisión de los derechos patrimoniales se limita a las modalidades expresamente cedidas en el contrato (Ley 64 de 2012) [verificar].
-- Los derechos morales del autor son irrenunciables e inalienables (Ley 64 de 2012) [verificar].
+- La transmisión de los derechos patrimoniales se limita a las modalidades expresamente cedidas en el contrato (Ley 64 de 2012).
+- Los derechos morales del autor son irrenunciables e inalienables (Ley 64 de 2012).
 
 **Invenciones laborales (Ley 35 de 1996):**
 - Las invenciones del trabajador realizadas en el marco de su actividad contratada de investigación pertenecen al empleador [verificar].
@@ -104,7 +104,7 @@ Para cada cláusula de PI verificar:
 - **NO** redacta cláusulas de PI alternativas — solo identifica problemas y recomienda.
 - **NO** determina la titularidad de derechos de PI en caso de disputa.
 - **NO** valora la adecuación comercial de la cesión/licencia.
-- **ESCALAR** si el contrato contiene renuncia a derechos morales (nula por imperativo de la Ley 64 de 2012) [verificar].
-- **ESCALAR** si la cesión de PI en un contrato laboral no respeta el régimen de invenciones laborales de la Ley 35 de 1996 [verificar].
+- **ESCALAR** si el contrato contiene renuncia a derechos morales (nula por imperativo de la Ley 64 de 2012).
+- **ESCALAR** si la cesión de PI en un contrato laboral no respeta el régimen de invenciones laborales de la Ley 35 de 1996.
 - **AVISAR** si el contrato no distingue entre PI preexistente y PI generada.
 - **AVISAR** si no se establece qué ocurre con la PI a la terminación del contrato.

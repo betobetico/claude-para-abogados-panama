@@ -94,19 +94,19 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Bases jurídicas habituales
 
-> En Panamá, la Ley 81 de 2019 articula el tratamiento en torno al **consentimiento del titular** como base principal, admitiendo otras causas de licitud (cumplimiento de obligación legal, ejecución de relación contractual, fuentes de acceso público, etc.). La referencia a los artículos concretos debe verificarse en la Ley 81 de 2019 y en el Decreto Ejecutivo 285 de 2021. [verificar]
+> En Panamá, la Ley 81 de 2019 articula el tratamiento en torno al **consentimiento del titular** como base principal, admitiendo otras causas de licitud (cumplimiento de obligación legal, ejecución de relación contractual, fuentes de acceso público, etc.). La referencia a los artículos concretos debe verificarse en la Ley 81 de 2019 y en el Decreto Ejecutivo 285 de 2021.
 
 | Base jurídica | Referencia (Ley 81 de 2019) | Uso principal | Notas |
 |---|---|---|---|
-| Consentimiento del titular | Ley 81 de 2019 [verificar] | [PLACEHOLDER — ej., "Marketing, comunicaciones comerciales"] | [PLACEHOLDER — ej., "Libre, informado, específico, inequívoco y revocable; conservar prueba"] |
-| Ejecución de relación contractual | Ley 81 de 2019 [verificar] | [PLACEHOLDER — ej., "Prestación del servicio, gestión de clientes"] | |
-| Cumplimiento de obligación legal | Ley 81 de 2019 [verificar] | [PLACEHOLDER — ej., "Planillas, facturación, prevención de blanqueo (Ley 23 de 2015)"] | [PLACEHOLDER — ej., "Identificar la norma concreta"] |
-| Otras causas de licitud | Ley 81 de 2019 [verificar] | [PLACEHOLDER — ej., "Prevención de fraude, seguridad, fuentes de acceso público"] | [PLACEHOLDER — ej., "Documentar la justificación"] |
-| Protección de la vida o salud del titular | Ley 81 de 2019 [verificar] | [PLACEHOLDER — ej., "Emergencias sanitarias"] | Uso excepcional |
-| Interés público / función estatal | Ley 81 de 2019 [verificar] | [PLACEHOLDER — ej., "Solo si entidad pública"] | |
+| Consentimiento del titular | Ley 81 de 2019 | [PLACEHOLDER — ej., "Marketing, comunicaciones comerciales"] | [PLACEHOLDER — ej., "Libre, informado, específico, inequívoco y revocable; conservar prueba"] |
+| Ejecución de relación contractual | Ley 81 de 2019 | [PLACEHOLDER — ej., "Prestación del servicio, gestión de clientes"] | |
+| Cumplimiento de obligación legal | Ley 81 de 2019 | [PLACEHOLDER — ej., "Planillas, facturación, prevención de blanqueo (Ley 23 de 2015)"] | [PLACEHOLDER — ej., "Identificar la norma concreta"] |
+| Otras causas de licitud | Ley 81 de 2019 | [PLACEHOLDER — ej., "Prevención de fraude, seguridad, fuentes de acceso público"] | [PLACEHOLDER — ej., "Documentar la justificación"] |
+| Protección de la vida o salud del titular | Ley 81 de 2019 | [PLACEHOLDER — ej., "Emergencias sanitarias"] | Uso excepcional |
+| Interés público / función estatal | Ley 81 de 2019 | [PLACEHOLDER — ej., "Solo si entidad pública"] | |
 
 **Datos sensibles (Ley 81 de 2019):**
-- [PLACEHOLDER — ej., "Datos de salud de empleados (incapacidades) — base: cumplimiento de obligación legal; afiliación sindical de representantes — tratamiento conforme a la Ley 81 de 2019" [verificar]]
+- [PLACEHOLDER — ej., "Datos de salud de empleados (incapacidades) — base: cumplimiento de obligación legal; afiliación sindical de representantes — tratamiento conforme a la Ley 81 de 2019"]
 
 ---
 
@@ -120,7 +120,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Destino | Proveedor/Receptor | Mecanismo | Estado |
 |---|---|---|---|
-| [PLACEHOLDER — ej., "EE.UU."] | [PLACEHOLDER — ej., "AWS, Google, Microsoft"] | [PLACEHOLDER — ej., "Consentimiento del titular / cláusulas contractuales conforme a la Ley 81 de 2019" [verificar]] | [PLACEHOLDER — ej., "Vigente; monitorizar"] |
+| [PLACEHOLDER — ej., "EE.UU."] | [PLACEHOLDER — ej., "AWS, Google, Microsoft"] | [PLACEHOLDER — ej., "Consentimiento del titular / cláusulas contractuales conforme a la Ley 81 de 2019"] | [PLACEHOLDER — ej., "Vigente; monitorizar"] |
 | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER — ej., "Cláusulas contractuales de protección de datos"] | [PLACEHOLDER] |
 | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER — ej., "País con nivel adecuado de protección" [verificar]] | [PLACEHOLDER] |
 
@@ -132,7 +132,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Posición como responsable (contratamos encargados):**
 
-**Cláusulas mínimas exigidas (encargo de tratamiento, Ley 81 de 2019):** [verificar]
+**Cláusulas mínimas exigidas (encargo de tratamiento, Ley 81 de 2019):**
 - [ ] Objeto, duración, naturaleza y finalidad del tratamiento
 - [ ] Tipo de datos personales y categorías de titulares
 - [ ] Obligación de tratar solo siguiendo instrucciones documentadas del responsable
@@ -159,23 +159,23 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Derecho | Referencia (Ley 81 de 2019) | Plazo de respuesta | Formulario | Responsable |
 |---|---|---|---|---|
-| Acceso | Ley 81 de 2019 [verificar] | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Rectificación | Ley 81 de 2019 [verificar] | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Cancelación / Supresión | Ley 81 de 2019 [verificar] | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Oposición | Ley 81 de 2019 [verificar] | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Portabilidad | Ley 81 de 2019 [verificar] | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Acceso | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Rectificación | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Cancelación / Supresión | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Oposición | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Portabilidad | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
 
 **Canal de recepción:** [PLACEHOLDER — ej., "Email datos@empresa.com; formulario web; correo postal"]
 **Verificación de identidad:** [PLACEHOLDER — ej., "Solicitar copia de cédula o pasaporte/carné de residente; verificar contra registros internos"]
 **Proceso de respuesta:** [PLACEHOLDER — ej., "Encargado de datos recibe → verifica identidad (24h) → localiza datos (5 días) → prepara respuesta → firma responsable → envía al titular"]
 
-**Excepciones a la supresión:** [PLACEHOLDER — ej., "Obligaciones legales (conservación fiscal/contable según el Código de Comercio y la legislación tributaria de la DGI; prevención de blanqueo: Ley 23 de 2015)" [verificar]]
+**Excepciones a la supresión:** [PLACEHOLDER — ej., "Obligaciones legales (conservación fiscal/contable según el Código de Comercio y la legislación tributaria de la DGI; prevención de blanqueo: Ley 23 de 2015)"]
 
 ---
 
 ## Evaluación de Impacto (EIPD)
 
-**Cuándo es obligatoria (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021):** [verificar]
+**Cuándo es obligatoria (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021):**
 - [ ] Elaboración de perfiles con efectos jurídicos o significativos
 - [ ] Tratamiento a gran escala de datos sensibles
 - [ ] Observación sistemática a gran escala de zonas públicas
@@ -196,7 +196,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Brechas de seguridad — Protocolo
 
-**Obligación de notificación a la ANTAI:** desde el conocimiento de la brecha, en el plazo que fije la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar]
+**Obligación de notificación a la ANTAI:** desde el conocimiento de la brecha, en el plazo que fije la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021
 
 **Protocolo interno:**
 
@@ -220,7 +220,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 ### Web
 
 **Estado:** [PLACEHOLDER — ej., "Publicada en [URL]; última revisión DD/MM/AAAA"]
-**Contenido mínimo (Ley 81 de 2019):** [verificar]
+**Contenido mínimo (Ley 81 de 2019):**
 - [ ] Identidad y datos de contacto del responsable
 - [ ] Datos de contacto del encargado de protección de datos
 - [ ] Fines y bases de licitud de cada tratamiento
@@ -265,7 +265,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 Las siguientes normas son la base del análisis de este plugin:
 
 - **Ley 81 de 2019** — Sobre Protección de Datos Personales (Gaceta Oficial de Panamá)
-- **Decreto Ejecutivo 285 de 2021** — que reglamenta la Ley 81 de 2019 [verificar]
+- **Decreto Ejecutivo 285 de 2021** — que reglamenta la Ley 81 de 2019
 - **Resoluciones y guías de la ANTAI** — Autoridad Nacional de Transparencia y Acceso a la Información, autoridad de control en materia de protección de datos
 - **Ley 23 de 2015** — prevención del blanqueo de capitales, financiamiento del terrorismo y de la proliferación de armas de destrucción masiva — plazos de conservación (sujetos obligados ante la UAF)
 - **Código de Comercio de Panamá** y legislación tributaria (DGI) — plazos de conservación contable y fiscal

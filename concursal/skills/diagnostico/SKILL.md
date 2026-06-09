@@ -36,7 +36,7 @@ Solicitar al usuario los siguientes datos. Si faltan, preguntar — no inferir:
 - **Embargos o ejecuciones en curso** — si los hay.
 - **Planilla** — número de trabajadores.
 
-## Análisis del presupuesto objetivo (Ley 12 de 2016 [verificar])
+## Análisis del presupuesto objetivo (Ley 12 de 2016)
 
 ### Cesación de pagos / insolvencia actual
 
@@ -59,9 +59,9 @@ El deudor prevé que no podrá cumplir regular y puntualmente sus obligaciones e
 
 Relevante para la vía de reorganización — probabilidad objetiva de no poder cumplir a medida que venzan las obligaciones [verificar].
 
-## Análisis del presupuesto subjetivo (Ley 12 de 2016 [verificar])
+## Análisis del presupuesto subjetivo (Ley 12 de 2016)
 
-- **Persona natural** — verificar el ámbito subjetivo de la Ley 12 de 2016 [verificar].
+- **Persona natural** — verificar el ámbito subjetivo de la Ley 12 de 2016.
 - **Persona jurídica** — sociedades anónimas, S. de R.L. y demás formas societarias [verificar].
 - **Exclusiones** — entidades de derecho público y entidades sujetas a regímenes especiales (p. ej. bancos bajo la Superintendencia de Bancos, aseguradoras) [verificar].
 
@@ -69,9 +69,9 @@ Relevante para la vía de reorganización — probabilidad objetiva de no poder 
 
 ### Opción 1: Proceso de reorganización
 
-- **Requisito:** insolvencia, cesación de pagos o riesgo de insolvencia, según la Ley 12 de 2016 [verificar].
+- **Requisito:** insolvencia, cesación de pagos o riesgo de insolvencia, según la Ley 12 de 2016.
 - **Efecto:** protección frente a ejecuciones durante el trámite y negociación de un plan de reorganización con los acreedores [verificar].
-- **Plazo:** los plazos de negociación y aprobación del plan conforme a la Ley 12 de 2016 [verificar].
+- **Plazo:** los plazos de negociación y aprobación del plan conforme a la Ley 12 de 2016.
 - **Ventaja:** permite la continuidad de la empresa viable si se aprueba el plan.
 - **Riesgo:** si fracasa el plan o se incumple, se abre el proceso de liquidación [verificar].
 
@@ -148,10 +148,10 @@ BORRADOR — DIAGNÓSTICO DE INSOLVENCIA — REVISIÓN LETRADA OBLIGATORIA
 ## Referencias legislativas
 
 - **Ley 12 de 2016** — por la cual se establece el proceso concursal de insolvencia (reorganización y liquidación) en Panamá [verificar].
-- **Presupuestos del proceso concursal** — Ley 12 de 2016 [verificar].
-- **Cesación de pagos / insolvencia** — Ley 12 de 2016 [verificar].
-- **Deber de solicitar el proceso (plazo)** — Ley 12 de 2016 [verificar].
-- **Proceso de reorganización** — Ley 12 de 2016 [verificar].
+- **Presupuestos del proceso concursal** — Ley 12 de 2016.
+- **Cesación de pagos / insolvencia** — Ley 12 de 2016.
+- **Deber de solicitar el proceso (plazo)** — Ley 12 de 2016.
+- **Proceso de reorganización** — Ley 12 de 2016.
 - **Responsabilidad por conducta dolosa o fraudulenta** — Ley 12 de 2016 / Código Penal de Panamá [verificar].
 
 ## Guardarraíles

@@ -34,7 +34,7 @@ El lanzamiento de un producto o servicio al consumidor final en Panamá requiere
 
 ## Checklist de revisión
 
-### 1. Información al consumidor (Ley 45 de 2007) [verificar]
+### 1. Información al consumidor (Ley 45 de 2007)
 
 - [ ] Identidad del proveedor (nombre, RUC, dirección, contacto)
 - [ ] Características esenciales del producto/servicio
@@ -44,7 +44,7 @@ El lanzamiento de un producto o servicio al consumidor final en Panamá requiere
 - [ ] Duración del contrato y condiciones de resolución (si aplica)
 - [ ] Garantía legal y comercial
 
-### 2. Derecho de retracto en ventas a distancia (Ley 45 de 2007) [verificar]
+### 2. Derecho de retracto en ventas a distancia (Ley 45 de 2007)
 
 | Aspecto | Requisito | ¿Cumple? | Riesgo |
 |---|---|---|---|
@@ -61,11 +61,11 @@ El lanzamiento de un producto o servicio al consumidor final en Panamá requiere
 - Contenido digital sin soporte material (si comenzó la ejecución con consentimiento)
 - Servicios completamente ejecutados (con consentimiento previo)
 
-### 3. Garantía legal (Ley 45 de 2007) [verificar]
+### 3. Garantía legal (Ley 45 de 2007)
 
 | Aspecto | Requisito | ¿Cumple? | Riesgo |
 |---|---|---|---|
-| Plazo de garantía | Plazo de garantía legal conforme a la Ley 45 de 2007 [verificar] | | |
+| Plazo de garantía | Plazo de garantía legal conforme a la Ley 45 de 2007 | | |
 | Responsabilidad por defectos | El proveedor responde por bienes/servicios defectuosos [verificar] | | |
 | Jerarquía de remedios | Reparación o sustitución → rebaja de precio o resolución | | |
 | Información al consumidor | Garantía legal informada claramente | | |
@@ -79,15 +79,15 @@ El lanzamiento de un producto o servicio al consumidor final en Panamá requiere
 
 ### 5. Publicidad
 
-- [ ] Sin claims engañosos (Ley 45 de 2007) [verificar]
-- [ ] Publicidad comparativa conforme (Ley 45 de 2007) [verificar]
+- [ ] Sin claims engañosos (Ley 45 de 2007)
+- [ ] Publicidad comparativa conforme (Ley 45 de 2007)
 - [ ] Precios completos (impuestos —ITBMS—, gastos de envío)
 - [ ] Ofertas y promociones con condiciones claras
 
 ### 6. Condiciones generales de contratación
 
 - [ ] Legibilidad y accesibilidad
-- [ ] Ausencia de cláusulas abusivas (Ley 45 de 2007) [verificar]
+- [ ] Ausencia de cláusulas abusivas (Ley 45 de 2007)
 - [ ] Control de inclusión del contrato de adhesión [verificar]
 - [ ] Aceptación expresa del consumidor
 
@@ -123,8 +123,8 @@ El lanzamiento de un producto o servicio al consumidor final en Panamá requiere
 
 | # | Área | Hallazgo | Riesgo | Acción requerida |
 |---|---|---|---|---|
-| 1 | Retracto | [Ej., No se facilita mecanismo de retracto] | Alto | Incluir mecanismo de retracto (Ley 45 de 2007) [verificar] |
-| 2 | Garantía | [Ej., Web indica un plazo de garantía inferior al legal] | Alto | Ajustar al plazo legal de la Ley 45 de 2007 [verificar] |
+| 1 | Retracto | [Ej., No se facilita mecanismo de retracto] | Alto | Incluir mecanismo de retracto (Ley 45 de 2007) |
+| 2 | Garantía | [Ej., Web indica un plazo de garantía inferior al legal] | Alto | Ajustar al plazo legal de la Ley 45 de 2007 |
 | ... | ... | ... | ... | ... |
 
 ---

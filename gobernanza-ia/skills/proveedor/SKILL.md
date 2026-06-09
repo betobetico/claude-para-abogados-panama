@@ -26,7 +26,7 @@ argument-hint: "[archivo | enlace | pegar texto del contrato o T&C]"
 
 ## Propósito
 
-Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos son distintos: ¿entrenan con nuestros datos? ¿pueden cambiar el modelo sin aviso? ¿qué pasa si el output es incorrecto y causa daño? ¿respetan la normativa panameña de protección de datos? Panamá no tiene ley de IA vinculante, así que la revisión se apoya en buenas prácticas de gobernanza, en marcos internacionales de referencia (NIST AI RMF, ISO/IEC 42001) y, en lo conexo, en la Ley 81 de 2019 [verificar] sobre protección de datos personales. Este skill revisa las condiciones contractuales del proveedor contra un checklist específico de IA.
+Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos son distintos: ¿entrenan con nuestros datos? ¿pueden cambiar el modelo sin aviso? ¿qué pasa si el output es incorrecto y causa daño? ¿respetan la normativa panameña de protección de datos? Panamá no tiene ley de IA vinculante, así que la revisión se apoya en buenas prácticas de gobernanza, en marcos internacionales de referencia (NIST AI RMF, ISO/IEC 42001) y, en lo conexo, en la Ley 81 de 2019 sobre protección de datos personales. Este skill revisa las condiciones contractuales del proveedor contra un checklist específico de IA.
 
 ---
 
@@ -36,7 +36,7 @@ Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos so
 
 | Cláusula | Riesgo si falta/inadecuada | Posición recomendada |
 |---|---|---|
-| **Entrenamiento con datos del cliente** | El proveedor puede usar nuestros datos para entrenar/mejorar sus modelos → pérdida de confidencialidad, posible infracción de la Ley 81 de 2019 [verificar] | Prohibición expresa de usar datos del cliente para entrenamiento; si se permite, opt-in con alcance definido |
+| **Entrenamiento con datos del cliente** | El proveedor puede usar nuestros datos para entrenar/mejorar sus modelos → pérdida de confidencialidad, posible infracción de la Ley 81 de 2019 | Prohibición expresa de usar datos del cliente para entrenamiento; si se permite, opt-in con alcance definido |
 | **Propiedad del output** | Ambigüedad sobre quién es titular del contenido generado | Output generado con nuestros datos es nuestro; sin restricción de uso |
 | **Responsabilidad por output** | El proveedor excluye toda responsabilidad por outputs incorrectos, sesgados o dañinos | Responsabilidad compartida; el proveedor responde de defectos del modelo |
 | **Cambios de modelo** | El proveedor puede cambiar, degradar o retirar el modelo sin aviso | Notificación previa; evaluación de impacto ante cambios materiales; derecho de resolución |
@@ -49,12 +49,12 @@ Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos so
 
 | Cláusula | Punto específico de IA |
 |---|---|
-| **Protección de datos / acuerdo de tratamiento** | ¿Cubre el tratamiento por el modelo de IA? ¿Los datos se procesan en la inferencia? ¿Se comparten con terceros (submodelos, APIs externas)? ¿Cumple la Ley 81 de 2019 [verificar]? |
+| **Protección de datos / acuerdo de tratamiento** | ¿Cubre el tratamiento por el modelo de IA? ¿Los datos se procesan en la inferencia? ¿Se comparten con terceros (submodelos, APIs externas)? ¿Cumple la Ley 81 de 2019? |
 | **Subencargados / subcontratistas** | ¿El proveedor usa modelos de terceros (OpenAI, Anthropic, etc.)? ¿Fluyen nuestros datos a esos terceros? |
-| **Localización de datos** | ¿Dónde se procesan los datos para la inferencia? ¿Hay transferencias internacionales? ¿Se cumplen las condiciones de transferencia de la Ley 81 de 2019 [verificar]? |
+| **Localización de datos** | ¿Dónde se procesan los datos para la inferencia? ¿Hay transferencias internacionales? ¿Se cumplen las condiciones de transferencia de la Ley 81 de 2019? |
 | **Seguridad** | ¿Medidas específicas para IA? Adversarial testing, detección de envenenamiento de datos |
 | **Confidencialidad** | ¿Los prompts/inputs están protegidos? ¿Se loguean? ¿Quién accede? |
-| **Indemnización** | ¿Cubre reclamaciones de propiedad intelectual por outputs generados? (Ej., contenido que infringe derecho de autor — Ley 64 de 2012 [verificar]) |
+| **Indemnización** | ¿Cubre reclamaciones de propiedad intelectual por outputs generados? (Ej., contenido que infringe derecho de autor — Ley 64 de 2012) |
 | **Terminación** | ¿Qué pasa con nuestros datos al terminar? ¿El proveedor retiene datos de entrenamiento? |
 
 ---
@@ -67,7 +67,7 @@ Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos so
 | ¿Se proporciona documentación técnica? | Necesaria para gobernanza y supervisión humana | Marco interno |
 | ¿Hay mecanismo de logging? | Registro de eventos para trazabilidad | Marco interno |
 | ¿Se informa a los usuarios de que interactúan con IA? | Obligación de transparencia (buena práctica) | Marco interno |
-| ¿El acuerdo de tratamiento cubre el procesamiento por IA? | Protección de datos personales | Ley 81 de 2019 [verificar] |
+| ¿El acuerdo de tratamiento cubre el procesamiento por IA? | Protección de datos personales | Ley 81 de 2019 |
 
 ---
 
@@ -106,7 +106,7 @@ Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos so
 | Aspecto | Estado | Observación |
 |---|---|---|
 | Gobernanza de IA (marco interno / NIST) | [Conforme / Gaps / No evaluable] | [detalle] |
-| Protección de datos (Ley 81 de 2019 [verificar]) | [Conforme / Gaps] | [detalle] |
+| Protección de datos (Ley 81 de 2019) | [Conforme / Gaps] | [detalle] |
 
 ---
 
@@ -126,8 +126,8 @@ Contratar un proveedor de IA no es como contratar cualquier SaaS. Los riesgos so
 ## Marco de referencia
 
 - NIST AI Risk Management Framework; ISO/IEC 42001 (sistema de gestión de IA)
-- Ley 81 de 2019 [verificar] sobre protección de datos personales (tratamiento, transferencias); autoridad: ANTAI
-- Ley 64 de 2012 [verificar] sobre derecho de autor (propiedad intelectual de outputs)
+- Ley 81 de 2019 sobre protección de datos personales (tratamiento, transferencias); autoridad: ANTAI
+- Ley 64 de 2012 sobre derecho de autor (propiedad intelectual de outputs)
 - Reglamento Europeo de IA (Reglamento UE 2024/1689): solo como referencia comparada internacional
 
 ---

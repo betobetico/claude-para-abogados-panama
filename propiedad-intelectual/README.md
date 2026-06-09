@@ -29,7 +29,7 @@ Este módulo cubre la protección de marcas, patentes, derechos de autor, secret
 ## Legislación de referencia
 
 - **Ley de Propiedad Industrial** — Ley 35 de 1996 (marcas, patentes, modelos de utilidad, diseños industriales) [verificar]
-- **Ley de Derecho de Autor y Derechos Conexos** — Ley 64 de 2012 [verificar]
+- **Ley de Derecho de Autor y Derechos Conexos** — Ley 64 de 2012
 - **Régimen de protección de secretos comerciales/empresariales** — Ley 35 de 1996 (secretos industriales) [verificar]
 - **Ley de protección al consumidor y defensa de la competencia** — Ley 45 de 2007 (actos de competencia desleal y confusión) [verificar]
 

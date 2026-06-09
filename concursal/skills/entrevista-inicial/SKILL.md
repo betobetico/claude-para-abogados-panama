@@ -135,7 +135,7 @@ Pausa. Después:
 > - **Proceso de liquidación** — realización del patrimonio para el pago a los acreedores. Has gestionado alguno?
 > - **Solicitud voluntaria** (presentada por el deudor) — frecuencia?
 > - **Solicitud a instancia de acreedor** — frecuencia? Desde qué lado?
-> - **Insolvencia de persona natural** — gestionas estos supuestos? Verificar el ámbito subjetivo de la Ley 12 de 2016 [verificar].
+> - **Insolvencia de persona natural** — gestionas estos supuestos? Verificar el ámbito subjetivo de la Ley 12 de 2016.
 > - **Procesos de grupos de sociedades o vinculados** — los has gestionado? [verificar]
 >
 > Distinguir: en cuántos has terminado en reorganización exitosa y en cuántos en liquidación? Ratio aproximado?
@@ -319,7 +319,7 @@ Pausa. Después:
 ## Modos de fallo
 
 - **No confundir la reorganización con la liquidación.** Son dos procesos distintos con efectos, legitimación y trámites diferentes bajo la Ley 12 de 2016. Verificar siempre cuál cita el usuario.
-- **No asumir que todos conocen la Ley 12 de 2016.** Sustituyó al régimen anterior de quiebra y concurso de acreedores del Código de Comercio [verificar]; muchos profesionales aún razonan con el régimen previo. Preguntar experiencia real.
+- **No asumir que todos conocen la Ley 12 de 2016.** Sustituyó al régimen anterior de quiebra y concurso de acreedores del Código de Comercio; muchos profesionales aún razonan con el régimen previo. Preguntar experiencia real.
 - **No inventar números de artículo ni plazos.** Para cualquier cita concreta de la Ley 12 de 2016 (artículo, plazo, mayoría) de la que no haya certeza, usar referencia genérica y marcar `[verificar]`.
 - **No confundir garantía real con privilegio general.** La clasificación y prelación de créditos (Ley 12 de 2016 y Código Civil de Panamá) es fundamental y los errores se propagan a todo el proceso.
 - **No olvidar los plazos concursales.** Son perentorios. El plazo para solicitar el proceso desde el conocimiento de la insolvencia es crítico [verificar] — su incumplimiento puede agravar la responsabilidad de los administradores.

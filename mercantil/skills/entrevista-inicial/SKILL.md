@@ -190,7 +190,7 @@ Si no:
 
 #### Protección de datos (Ley 81 de 2019)
 
-- ¿Incluyes siempre un acuerdo de tratamiento de datos (DPA) conforme a la Ley 81 de 2019 [verificar]?
+- ¿Incluyes siempre un acuerdo de tratamiento de datos (DPA) conforme a la Ley 81 de 2019?
 - ¿Posición sobre transferencias internacionales de datos?
 - ¿Quién revisa los aspectos de privacidad — tú, el oficial de protección de datos, un equipo de privacidad?
 

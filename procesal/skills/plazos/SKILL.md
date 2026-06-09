@@ -24,28 +24,28 @@ Esta skill calcula términos procesales en el orden jurisdiccional civil, labora
 
 | Acción | Término | Base legal |
 |--------|---------|------------|
-| Contestación demanda (proceso ordinario) | [n] días [verificar] | Código Judicial [verificar] |
-| Contestación (proceso sumario/oral) | [n] días [verificar] | Código Judicial [verificar] |
-| Recurso de reconsideración | [n] días [verificar] | Código Judicial [verificar] |
-| Recurso de apelación (anuncio/sustentación) | [n] días [verificar] | Código Judicial [verificar] |
-| Oposición en proceso ejecutivo | [n] días [verificar] | Código Judicial [verificar] |
-| Recurso de casación (ante la CSJ) | [n] días [verificar] | Código Judicial [verificar] |
-| Recurso de hecho | [n] días [verificar] | Código Judicial [verificar] |
+| Contestación demanda (proceso ordinario) | [n] días [verificar] | Código Judicial |
+| Contestación (proceso sumario/oral) | [n] días [verificar] | Código Judicial |
+| Recurso de reconsideración | [n] días [verificar] | Código Judicial |
+| Recurso de apelación (anuncio/sustentación) | [n] días [verificar] | Código Judicial |
+| Oposición en proceso ejecutivo | [n] días [verificar] | Código Judicial |
+| Recurso de casación (ante la CSJ) | [n] días [verificar] | Código Judicial |
+| Recurso de hecho | [n] días [verificar] | Código Judicial |
 
 **Jurisdicción laboral (Código de Trabajo de Panamá):** [verificar]
 
 | Acción | Término | Base legal |
 |--------|---------|------------|
-| Recurso de apelación laboral | [n] días [verificar] | Código de Trabajo [verificar] |
-| Recurso de casación laboral (ante la CSJ) | [n] días [verificar] | Código de Trabajo [verificar] |
-| Conciliación previa | Según convocatoria del MITRADEL [verificar] | Código de Trabajo [verificar] |
+| Recurso de apelación laboral | [n] días [verificar] | Código de Trabajo |
+| Recurso de casación laboral (ante la CSJ) | [n] días [verificar] | Código de Trabajo |
+| Conciliación previa | Según convocatoria del MITRADEL [verificar] | Código de Trabajo |
 
 **Jurisdicción contencioso-administrativa (Sala Tercera de la CSJ):** [verificar]
 
 | Acción | Término | Base legal |
 |--------|---------|------------|
-| Demanda contencioso-administrativa de plena jurisdicción | [n] meses [verificar] | Código Judicial / Ley 135 de 1943 [verificar] |
-| Demanda de nulidad | Sin término de caducidad [verificar] | Código Judicial [verificar] |
+| Demanda contencioso-administrativa de plena jurisdicción | [n] meses [verificar] | Código Judicial / Ley 135 de 1943 |
+| Demanda de nulidad | Sin término de caducidad [verificar] | Código Judicial |
 
 ### Paso 3 — Aplicar reglas de cómputo
 

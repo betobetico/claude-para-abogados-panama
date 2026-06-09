@@ -28,13 +28,13 @@ argument-hint: "[pegar los claims o adjuntar material publicitario]"
 
 ## Propósito
 
-Los claims publicitarios son la primera línea de riesgo de consumo. Un claim sin sustanciación es publicidad engañosa bajo la Ley 45 de 2007 [verificar]. Un claim comparativo sin cumplir los requisitos es publicidad ilícita. Un influencer sin etiquetar la publicidad incurre en publicidad encubierta. Este skill revisa cada afirmación y clasifica el riesgo. La autoridad de aplicación es la ACODECO.
+Los claims publicitarios son la primera línea de riesgo de consumo. Un claim sin sustanciación es publicidad engañosa bajo la Ley 45 de 2007. Un claim comparativo sin cumplir los requisitos es publicidad ilícita. Un influencer sin etiquetar la publicidad incurre en publicidad encubierta. Este skill revisa cada afirmación y clasifica el riesgo. La autoridad de aplicación es la ACODECO.
 
 ---
 
 ## Tipos de claims y marco legal
 
-### Publicidad engañosa (Ley 45 de 2007) [verificar]
+### Publicidad engañosa (Ley 45 de 2007)
 
 Es engañosa la publicidad que contenga información falsa o que, siendo veraz, por su contenido o presentación induzca o pueda inducir a error a los consumidores. Se evalúa:
 - Existencia, naturaleza y características del producto
@@ -43,7 +43,7 @@ Es engañosa la publicidad que contenga información falsa o que, siendo veraz, 
 - Necesidad de servicio o pieza
 - Naturaleza, cualificación y derechos del proveedor
 
-### Publicidad comparativa (Ley 45 de 2007) [verificar]
+### Publicidad comparativa (Ley 45 de 2007)
 
 Lícita solo si:
 - No es engañosa
@@ -61,7 +61,7 @@ Lícita solo si:
 
 ### Influencers y publicidad encubierta
 
-- Toda publicidad debe ser identificable como tal (Ley 45 de 2007) [verificar]
+- Toda publicidad debe ser identificable como tal (Ley 45 de 2007)
 - El influencer debe etiquetar el contenido patrocinado de forma clara y visible
 - Buenas prácticas de identificación de publicidad en redes sociales
 
@@ -79,7 +79,7 @@ Para cada claim, evaluar:
 | **Veracidad** | ¿Es verdad? ¿Puede demostrarse? |
 | **Impresión global** | ¿Qué entiende el consumidor medio? |
 | **Superlativos** | ¿Usa "el mejor", "el más", "el único"? → Necesita prueba |
-| **Comparación** | ¿Compara con competidores? → Requisitos de publicidad comparativa (Ley 45 de 2007) [verificar] |
+| **Comparación** | ¿Compara con competidores? → Requisitos de publicidad comparativa (Ley 45 de 2007) |
 | **Salud/medio ambiente** | ¿Alega beneficios de salud o sostenibilidad? → Normativa sectorial |
 
 ---
@@ -117,9 +117,9 @@ Para cada claim, evaluar:
 
 | # | Claim | Tipo | Clasificación | Base legal | Acción requerida |
 |---|---|---|---|---|---|
-| 1 | "El más vendido de Panamá" | Superlativo objetivo | SUSTANCIAR | Ley 45 de 2007 [verificar] | Aportar datos de ventas o reformular a "uno de los más vendidos" |
+| 1 | "El más vendido de Panamá" | Superlativo objetivo | SUSTANCIAR | Ley 45 de 2007 | Aportar datos de ventas o reformular a "uno de los más vendidos" |
 | 2 | "100% natural" | Objetivo | SUSTANCIAR | Ley 45 de 2007 + normativa sanitaria si alimentación [verificar] | Verificar que todos los ingredientes son naturales; definir "natural" |
-| 3 | "Resultados garantizados" | Promesa de resultado | RETIRAR | Ley 45 de 2007 [verificar] | Promesa absoluta de resultado es engañosa si no se puede garantizar |
+| 3 | "Resultados garantizados" | Promesa de resultado | RETIRAR | Ley 45 de 2007 | Promesa absoluta de resultado es engañosa si no se puede garantizar |
 
 ---
 
@@ -135,10 +135,10 @@ Para cada claim, evaluar:
 | Tipo de claim | Normativa específica | Requisito |
 |---|---|---|
 | Alegaciones nutricionales/salud | Normativa sanitaria y de alimentos de Panamá [verificar] | Solo alegaciones autorizadas; base científica |
-| Claims medioambientales (greenwashing) | Ley 45 de 2007 [verificar] | Sustanciación específica; sin genéricos ("ecológico", "verde") |
-| "Gratis" / "gratuito" | Ley 45 de 2007 [verificar] | Solo si realmente no hay coste para el consumidor |
-| Testimonios | Ley 45 de 2007 [verificar] | Deben ser reales y representativos |
-| Precios tachados / descuentos | Ley 45 de 2007 [verificar] | El precio anterior anunciado debe ser real y haber estado vigente |
+| Claims medioambientales (greenwashing) | Ley 45 de 2007 | Sustanciación específica; sin genéricos ("ecológico", "verde") |
+| "Gratis" / "gratuito" | Ley 45 de 2007 | Solo si realmente no hay coste para el consumidor |
+| Testimonios | Ley 45 de 2007 | Deben ser reales y representativos |
+| Precios tachados / descuentos | Ley 45 de 2007 | El precio anterior anunciado debe ser real y haber estado vigente |
 
 ---
 

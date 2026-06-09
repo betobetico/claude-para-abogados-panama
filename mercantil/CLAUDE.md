@@ -53,7 +53,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 | Integración | Estado | Alternativa si no disponible |
 |---|---|---|
 | CLM (DocuSign CLM, Ironclad, etc.) | [PLACEHOLDER ✓/✗] | Registro manual; el rastreador de renovaciones funciona con registro local |
-| Firma electrónica (DocuSign, Adobe Sign, firma electrónica calificada Ley 51 de 2008 [verificar]) | [PLACEHOLDER ✓/✗] | El usuario gestiona la firma fuera del plugin |
+| Firma electrónica (DocuSign, Adobe Sign, firma electrónica calificada Ley 51 de 2008) | [PLACEHOLDER ✓/✗] | El usuario gestiona la firma fuera del plugin |
 | Almacenamiento documental (Drive / SharePoint / Box) | [PLACEHOLDER ✓/✗] | El usuario sube los contratos directamente para cada revisión |
 | Slack / Teams | [PLACEHOLDER ✓/✗] | Alertas y resúmenes para interesados se entregan inline |
 
@@ -103,10 +103,10 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 #### Protección de datos
 
-**Posición estándar:** [PLACEHOLDER — ej., "Nuestro contrato de encargado del tratamiento bajo la Ley 81 de 2019 [verificar]; el cliente firma como responsable del tratamiento"]
+**Posición estándar:** [PLACEHOLDER — ej., "Nuestro contrato de encargado del tratamiento bajo la Ley 81 de 2019; el cliente firma como responsable del tratamiento"]
 
 **Requisitos:**
-- [PLACEHOLDER — ej., "Registro de actividades de tratamiento, medidas de seguridad conforme al Decreto Ejecutivo 285 de 2021 [verificar], cláusulas para transferencias internacionales de datos"]
+- [PLACEHOLDER — ej., "Registro de actividades de tratamiento, medidas de seguridad conforme al Decreto Ejecutivo 285 de 2021, cláusulas para transferencias internacionales de datos"]
 
 **Posiciones de repliegue aceptables:**
 - [PLACEHOLDER]
@@ -124,7 +124,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Posición estándar:** [PLACEHOLDER — ej., "Duración anual, renovación tácita por períodos iguales, preaviso de 30 días para no renovar"]
 
-**Resolución anticipada:** [PLACEHOLDER — ej., "Por incumplimiento esencial con plazo de subsanación de 30 días; por insolvencia bajo la Ley 12 de 2016 [verificar]"]
+**Resolución anticipada:** [PLACEHOLDER — ej., "Por incumplimiento esencial con plazo de subsanación de 30 días; por insolvencia bajo la Ley 12 de 2016"]
 
 **Posiciones de repliegue aceptables:**
 - [PLACEHOLDER]
@@ -180,7 +180,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 **Posición estándar:** [PLACEHOLDER — ej., "El proveedor firma nuestro contrato de encargado del tratamiento"]
 
 **Requisitos:**
-- [PLACEHOLDER — ej., "Certificación de seguridad reconocida (ISO 27001) si aplica, auditoría anual, notificación de brechas conforme a la Ley 81 de 2019 [verificar]"]
+- [PLACEHOLDER — ej., "Certificación de seguridad reconocida (ISO 27001) si aplica, auditoría anual, notificación de brechas conforme a la Ley 81 de 2019"]
 
 **Posiciones de repliegue aceptables:**
 - [PLACEHOLDER]
@@ -237,7 +237,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Idioma de los contratos:** [PLACEHOLDER — ej., "Español; bilingüe español-inglés para contrapartes internacionales"]
 
-**Citas normativas:** [PLACEHOLDER — ej., "Formato: art. 985 C. Civil, art. 219 C. de Comercio, Ley 45 de 2007"] [verificar]
+**Citas normativas:** [PLACEHOLDER — ej., "Formato: art. 985 C. Civil, art. 219 C. de Comercio, Ley 45 de 2007"]
 
 ---
 
@@ -250,7 +250,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 | 🔴 Rojo | [PLACEHOLDER — ej., "Ley extranjera de difícil ejecución en Panamá, cesión de PI en NDA, indemnización ilimitada, duración perpetua"] | Escalar a responsable jurídico |
 
 **Posiciones específicas para NDAs:**
-- **Duración de confidencialidad:** [PLACEHOLDER — ej., "Máximo 3 años; 5 años para secretos empresariales protegidos bajo la legislación panameña de propiedad industrial (Ley 35 de 1996) [verificar]"]
+- **Duración de confidencialidad:** [PLACEHOLDER — ej., "Máximo 3 años; 5 años para secretos empresariales protegidos bajo la legislación panameña de propiedad industrial (Ley 35 de 1996)"]
 - **Definición de información confidencial:** [PLACEHOLDER — ej., "Exigir que sea razonablemente identificable como tal; rechazar definiciones catch-all"]
 - **No competencia/no solicitud en NDA:** [PLACEHOLDER — ej., "Rechazar siempre en NDA; negociar solo en contrato principal"]
 
@@ -274,13 +274,13 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 Las siguientes normas son la base del análisis de este plugin. Cada skill las aplica según corresponda:
 
-- **Código de Comercio de Panamá** (Ley 2 de 1916 [verificar]) — contratos mercantiles, obligaciones del comerciante
+- **Código de Comercio de Panamá** (Ley 2 de 1916) — contratos mercantiles, obligaciones del comerciante
 - **Código Civil de Panamá** (Libro IV — obligaciones y contratos [verificar]) — teoría general de obligaciones y contratos (aplicación supletoria)
-- **Ley 51 de 2008** [verificar] — documentos y firmas electrónicas y comercio electrónico
-- **Ley 45 de 2007** [verificar] — protección al consumidor y defensa de la competencia (control de cláusulas abusivas, ACODECO)
-- **Ley 81 de 2019** [verificar] y **Decreto Ejecutivo 285 de 2021** [verificar] — protección de datos personales, en lo relativo a cláusulas de tratamiento de datos en contratos (autoridad: ANTAI)
-- **Ley 35 de 1996** [verificar] — propiedad industrial; confidencialidad y secretos empresariales (DIGERPI)
-- **Ley 64 de 2012** [verificar] — derecho de autor y derechos conexos, en lo relativo a cláusulas de PI
+- **Ley 51 de 2008** — documentos y firmas electrónicas y comercio electrónico
+- **Ley 45 de 2007** — protección al consumidor y defensa de la competencia (control de cláusulas abusivas, ACODECO)
+- **Ley 81 de 2019** y **Decreto Ejecutivo 285 de 2021** — protección de datos personales, en lo relativo a cláusulas de tratamiento de datos en contratos (autoridad: ANTAI)
+- **Ley 35 de 1996** — propiedad industrial; confidencialidad y secretos empresariales (DIGERPI)
+- **Ley 64 de 2012** — derecho de autor y derechos conexos, en lo relativo a cláusulas de PI
 
 ---
 

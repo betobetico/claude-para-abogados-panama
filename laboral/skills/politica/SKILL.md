@@ -12,14 +12,14 @@ Esta skill redacta políticas laborales internas para empresas panameñas, adapt
 
 ### Paso 1 — Identificar tipo de política
 
-1. **Teletrabajo / trabajo a distancia** — Ley 126 de 2020 [verificar].
+1. **Teletrabajo / trabajo a distancia** — Ley 126 de 2020.
 2. **Uso de dispositivos digitales y datos personales** — Ley 81 de 2019 (protección de datos personales) [verificar].
-3. **Prevención del hostigamiento y la discriminación** — Ley 7 de 2018 [verificar].
-4. **Igualdad y no discriminación** — Constitución y Código de Trabajo [verificar].
-5. **Seguridad y salud en el trabajo / riesgos profesionales** — normativa de la CSS y del Código de Trabajo [verificar].
+3. **Prevención del hostigamiento y la discriminación** — Ley 7 de 2018.
+4. **Igualdad y no discriminación** — Constitución y Código de Trabajo.
+5. **Seguridad y salud en el trabajo / riesgos profesionales** — normativa de la CSS y del Código de Trabajo.
 6. **Código de conducta / canal de denuncias** — buenas prácticas de cumplimiento; en sujetos obligados, alinear con la Ley 23 de 2015 (prevención de blanqueo) y la UAF [verificar].
 7. **Reglamento interno de trabajo** — Código de Trabajo, aprobación por MITRADEL cuando aplique [verificar].
-8. **Capacitación y desarrollo** — Código de Trabajo [verificar].
+8. **Capacitación y desarrollo** — Código de Trabajo.
 
 ### Paso 2 — Cargar contexto
 
@@ -84,7 +84,7 @@ Comprobar que la política:
 
 ### 6. Régimen sancionador
 
-[Remisión a la convención colectiva, al reglamento interno de trabajo y a las causas disciplinarias del Código de Trabajo [verificar]]
+[Remisión a la convención colectiva, al reglamento interno de trabajo y a las causas disciplinarias del Código de Trabajo]
 
 ### 7. Vigencia y revisión
 
@@ -100,12 +100,12 @@ y aprobación de la dirección antes de su entrada en vigor.
 
 ## Referencias normativas principales
 
-- **Ley 126 de 2020** [verificar]: Teletrabajo.
-- **Ley 81 de 2019** [verificar]: Protección de datos personales (tratamiento de datos del trabajador); autoridad de control: ANTAI.
-- **Ley 7 de 2018** [verificar]: Prevención del hostigamiento, acoso y discriminación.
+- **Ley 126 de 2020**: Teletrabajo.
+- **Ley 81 de 2019**: Protección de datos personales (tratamiento de datos del trabajador); autoridad de control: ANTAI.
+- **Ley 7 de 2018**: Prevención del hostigamiento, acoso y discriminación.
 - **Código de Trabajo de Panamá**: reglamento interno de trabajo, jornada, causas disciplinarias [verificar].
 - **Normativa de riesgos profesionales** administrada por la CSS [verificar].
-- **Ley 23 de 2015** [verificar] y **UAF**: prevención de blanqueo (relevante para canales de denuncia en sujetos obligados).
+- **Ley 23 de 2015** y **UAF**: prevención de blanqueo (relevante para canales de denuncia en sujetos obligados).
 - **MITRADEL**: aprobación y registro de reglamentos internos de trabajo cuando aplique [verificar].
 
 ## Guardrails

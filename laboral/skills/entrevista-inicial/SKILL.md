@@ -183,9 +183,9 @@ Si no:
 - **¿Qué políticas internas tenéis?**
   - Manual del empleado / handbook
   - Reglamento interno de trabajo (aprobado por MITRADEL cuando aplica) [verificar]
-  - Protocolo de prevención del hostigamiento y la discriminación (Ley 7 de 2018) [verificar]
-  - Acuerdo de teletrabajo (Ley 126 de 2020) [verificar]
-  - Política de protección de datos del trabajador (Ley 81 de 2019) [verificar]
+  - Protocolo de prevención del hostigamiento y la discriminación (Ley 7 de 2018)
+  - Acuerdo de teletrabajo (Ley 126 de 2020)
+  - Política de protección de datos del trabajador (Ley 81 de 2019)
   - Política de seguridad y salud en el trabajo / riesgos profesionales
   - Canal de denuncias / whistleblowing
   - Código de conducta

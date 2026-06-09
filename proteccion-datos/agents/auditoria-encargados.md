@@ -9,7 +9,7 @@ description: Revisión trimestral de contratos de custodio o encargado de tratam
 ## Propósito
 
 Controlar trimestralmente el estado de los contratos de custodio o encargado de tratamiento
-(Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021) [verificar] y el cumplimiento del plan de
+(Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021) y el cumplimiento del plan de
 auditorías a proveedores que tratan datos personales por cuenta de la organización. Asegura
 que todos los custodios o encargados tienen contrato vigente y que se cumplen las auditorías
 periódicas pactadas.
@@ -17,7 +17,7 @@ periódicas pactadas.
 ## Fuentes
 
 - Registro de custodios o encargados de tratamiento con datos contractuales
-- Contratos de custodio o encargado vigentes (Ley 81 de 2019 / Decreto Ejecutivo 285 de 2021) [verificar]
+- Contratos de custodio o encargado vigentes (Ley 81 de 2019 / Decreto Ejecutivo 285 de 2021)
 - Plan de auditorías a custodios o encargados (anual o según contrato)
 - Informes de auditorías realizadas
 - Registro de Actividades de Tratamiento (RAT): tratamientos delegados a cada custodio o encargado
@@ -28,7 +28,7 @@ periódicas pactadas.
 
 1. Cargar el registro de custodios o encargados de tratamiento activos
 2. Para cada custodio o encargado:
-   a. Verificar existencia y vigencia del contrato de tratamiento conforme a la Ley 81 de 2019 [verificar]
+   a. Verificar existencia y vigencia del contrato de tratamiento conforme a la Ley 81 de 2019
    b. Comprobar que el contrato cubre todos los tratamientos delegados según el RAT
    c. Verificar fecha de vencimiento del contrato y necesidad de renovación
    d. Revisar el plan de auditorías:

@@ -29,7 +29,7 @@ Solicitar al usuario:
 - En contratos por tiempo indefinido, el trabajador tiene derecho a una prima de antigüedad equivalente a una semana de salario por cada año de servicio, desde el inicio de la relación [verificar]. Procede cualquiera que sea la causa de terminación [verificar].
 
 **Indemnización por despido injustificado:**
-- Se calcula según la escala del Código de Trabajo en función de la antigüedad (semanas/días de salario por año de servicio), con tramos para los primeros años y un factor adicional por cada año subsiguiente [verificar]. Confirmar la escala vigente del artículo aplicable del Código de Trabajo [verificar].
+- Se calcula según la escala del Código de Trabajo en función de la antigüedad (semanas/días de salario por año de servicio), con tramos para los primeros años y un factor adicional por cada año subsiguiente [verificar]. Confirmar la escala vigente del artículo aplicable del Código de Trabajo.
 
 **Despido justificado:**
 - No genera indemnización por despido injustificado, pero sí la prima de antigüedad y las prestaciones proporcionales (vacaciones y décimo tercer mes) [verificar].
@@ -45,7 +45,7 @@ Solicitar al usuario:
 1. Computar antigüedad total en años y fracción.
 2. Determinar el salario base de cálculo (promedio de los últimos períodos cuando haya conceptos variables) [verificar].
 3. Calcular la prima de antigüedad (una semana de salario por año de servicio) [verificar].
-4. Calcular la indemnización por despido injustificado aplicando la escala vigente del Código de Trabajo [verificar].
+4. Calcular la indemnización por despido injustificado aplicando la escala vigente del Código de Trabajo.
 5. Sumar prestaciones proporcionales pendientes (vacaciones, décimo tercer mes) si procede.
 
 ### Paso 4 — Generar desglose
@@ -111,5 +111,5 @@ Solicitar al usuario:
 - **NO** calcula cuotas obrero-patronales de la CSS sobre las prestaciones.
 - **NO** sustituye la liquidación final completa — se centra en indemnización y prima de antigüedad.
 - **AVISAR** si el salario proporcionado no contempla conceptos variables promediables.
-- **AVISAR** si la escala de indemnización o la fórmula de la prima de antigüedad deben confirmarse contra el texto vigente del Código de Trabajo [verificar].
+- **AVISAR** si la escala de indemnización o la fórmula de la prima de antigüedad deben confirmarse contra el texto vigente del Código de Trabajo.
 - **ESCALAR** si el caso involucra trabajadores con fuero (maternidad, sindical) o reintegro con salarios caídos.

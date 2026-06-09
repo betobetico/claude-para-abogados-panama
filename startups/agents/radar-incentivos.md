@@ -10,7 +10,7 @@ description: Monitoriza cambios en incentivos, regímenes especiales y opciones 
 
 Rastrear mensualmente los cambios normativos y administrativos que afectan a los
 incentivos, regímenes especiales y opciones migratorias aplicables a empresas
-emergentes en Panamá. Cubre el régimen SEM (Ley 41 de 2007 [verificar]), Ciudad
+emergentes en Panamá. Cubre el régimen SEM (Ley 41 de 2007), Ciudad
 del Saber, Panamá Pacífico, EMMA, la Zona Libre de Colón, el tratamiento del ISR
 bajo el principio de territorialidad, y las categorías migratorias para fundadores
 e inversionistas.

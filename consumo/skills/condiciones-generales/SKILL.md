@@ -14,8 +14,8 @@ argument-hint: "[archivo | enlace | pegar texto de las condiciones]"
 
 1. Cargar `~/.claude/plugins/config/claude-para-abogados/consumo/CLAUDE.md` → sector, tipo de contrato, canal de venta.
 2. Obtener las condiciones generales.
-3. Aplicar control de inclusión del contrato de adhesión (Ley 45 de 2007) [verificar].
-4. Aplicar control de contenido — cláusulas abusivas (Ley 45 de 2007) [verificar].
+3. Aplicar control de inclusión del contrato de adhesión (Ley 45 de 2007).
+4. Aplicar control de contenido — cláusulas abusivas (Ley 45 de 2007).
 5. Generar lista de cláusulas con riesgo de nulidad.
 
 ```
@@ -31,23 +31,23 @@ Las condiciones generales de la contratación (CGC) en contratos de adhesión co
 
 ---
 
-## Control de inclusión del contrato de adhesión (Ley 45 de 2007) [verificar]
+## Control de inclusión del contrato de adhesión (Ley 45 de 2007)
 
 Las CGC solo forman parte del contrato si: [verificar]
 
 | Requisito | Base legal | Verificar |
 |---|---|---|
-| **Transparencia formal** | Ley 45 de 2007 [verificar] | Redacción clara, concreta y sencilla |
-| **Accesibilidad** | Ley 45 de 2007 [verificar] | El adherente pudo conocerlas antes de contratar |
-| **Aceptación expresa** | Ley 45 de 2007 [verificar] | Referencia expresa a las CGC; firmadas o aceptadas |
-| **Legibilidad** | Ley 45 de 2007 [verificar] | Tamaño de letra, formato, estructura comprensible |
-| **Contratación electrónica** | Ley 45 de 2007 [verificar] | Disponibles para almacenar y reproducir |
+| **Transparencia formal** | Ley 45 de 2007 | Redacción clara, concreta y sencilla |
+| **Accesibilidad** | Ley 45 de 2007 | El adherente pudo conocerlas antes de contratar |
+| **Aceptación expresa** | Ley 45 de 2007 | Referencia expresa a las CGC; firmadas o aceptadas |
+| **Legibilidad** | Ley 45 de 2007 | Tamaño de letra, formato, estructura comprensible |
+| **Contratación electrónica** | Ley 45 de 2007 | Disponibles para almacenar y reproducir |
 
 **Consecuencia del incumplimiento:** La cláusula no se incorpora al contrato. El contrato subsiste sin ella si es viable. [verificar]
 
 ---
 
-## Control de contenido — Cláusulas abusivas (Ley 45 de 2007) [verificar]
+## Control de contenido — Cláusulas abusivas (Ley 45 de 2007)
 
 ### Cláusula general de abusividad [verificar]
 
@@ -57,11 +57,11 @@ Son abusivas las cláusulas que, en contra de la buena fe, causen un **desequili
 
 | Tipo | Base legal | Ejemplos |
 |---|---|---|
-| **Vinculación del contrato a la voluntad del proveedor** | Ley 45 de 2007 [verificar] | Reserva de modificación unilateral, plazos excesivos, interpretación unilateral |
-| **Limitación de derechos del consumidor** | Ley 45 de 2007 [verificar] | Exclusión de responsabilidad, limitación de acciones legales, renuncia a derechos |
-| **Falta de reciprocidad** | Ley 45 de 2007 [verificar] | Penalizaciones solo al consumidor, garantías desproporcionadas |
-| **Garantías desproporcionadas** | Ley 45 de 2007 [verificar] | Fianzas excesivas, redondeos al alza |
-| **Contrarias al régimen de protección al consumidor** | Ley 45 de 2007 [verificar] | Renuncia de derechos irrenunciables, foro no del consumidor |
+| **Vinculación del contrato a la voluntad del proveedor** | Ley 45 de 2007 | Reserva de modificación unilateral, plazos excesivos, interpretación unilateral |
+| **Limitación de derechos del consumidor** | Ley 45 de 2007 | Exclusión de responsabilidad, limitación de acciones legales, renuncia a derechos |
+| **Falta de reciprocidad** | Ley 45 de 2007 | Penalizaciones solo al consumidor, garantías desproporcionadas |
+| **Garantías desproporcionadas** | Ley 45 de 2007 | Fianzas excesivas, redondeos al alza |
+| **Contrarias al régimen de protección al consumidor** | Ley 45 de 2007 | Renuncia de derechos irrenunciables, foro no del consumidor |
 
 ### Cláusulas habitualmente abusivas [verificar]
 
@@ -117,9 +117,9 @@ Para cada cláusula de las CGC:
 
 | # | Cláusula (resumen) | Control fallido | Riesgo | Base legal | Recomendación |
 |---|---|---|---|---|---|
-| 1 | [Ej., Modificación unilateral del precio] | Contenido | Nula | Ley 45 de 2007 [verificar] | Eliminar o condicionar a derecho de resolución |
-| 2 | [Ej., Fuero distinto al del consumidor] | Contenido | Nula | Ley 45 de 2007 [verificar] | Sustituir por el foro del domicilio del consumidor |
-| 3 | [Ej., Letra ilegible en scroll] | Inclusión | Alto | Ley 45 de 2007 [verificar] | Reformatear con tamaño legible |
+| 1 | [Ej., Modificación unilateral del precio] | Contenido | Nula | Ley 45 de 2007 | Eliminar o condicionar a derecho de resolución |
+| 2 | [Ej., Fuero distinto al del consumidor] | Contenido | Nula | Ley 45 de 2007 | Sustituir por el foro del domicilio del consumidor |
+| 3 | [Ej., Letra ilegible en scroll] | Inclusión | Alto | Ley 45 de 2007 | Reformatear con tamaño legible |
 | ... | ... | ... | ... | ... | ... |
 
 ---

@@ -1,6 +1,6 @@
 # Inmobiliario — Derecho inmobiliario
 
-Este módulo asiste en operaciones inmobiliarias bajo derecho panameño: arrendamientos, compraventas de inmuebles y cuestiones de propiedad horizontal. Cubre la revisión de contratos de alquiler, análisis de gravámenes inscritos en el Registro Público, cálculo de actualizaciones de canon de arrendamiento, preparación de compraventas y gestión de propiedades horizontales bajo la Ley 31 de 2010. Orientado a despachos inmobiliarios, administradoras de propiedades horizontales y departamentos legales de promotoras e inversores.
+Este módulo asiste en operaciones inmobiliarias bajo derecho panameño: arrendamientos, compraventas de inmuebles y cuestiones de propiedad horizontal. Cubre la revisión de contratos de alquiler, análisis de gravámenes inscritos en el Registro Público, cálculo de actualizaciones de canon de arrendamiento, preparación de compraventas y gestión de propiedades horizontales bajo la Ley 284 de 2022. Orientado a despachos inmobiliarios, administradoras de propiedades horizontales y departamentos legales de promotoras e inversores.
 
 ## Skills disponibles
 
@@ -8,7 +8,7 @@ Este módulo asiste en operaciones inmobiliarias bajo derecho panameño: arrenda
 |-------|---------|-------------|
 | Arrendamiento | `/arrendamiento` | Revisa contratos de arrendamiento, detecta cláusulas abusivas y calcula actualizaciones del canon |
 | Compraventa | `/compraventa` | Analiza contratos de compraventa, gravámenes en el Registro Público, certificado de Registro Público y condiciones de financiación |
-| Comunidad | `/comunidad` | Asiste en cuestiones de propiedad horizontal (Ley 31 de 2010): acuerdos de asamblea, impugnaciones, cuotas extraordinarias y obras |
+| Comunidad | `/comunidad` | Asiste en cuestiones de propiedad horizontal (Ley 284 de 2022): acuerdos de asamblea, impugnaciones, cuotas extraordinarias y obras |
 
 ## Primeros pasos
 
@@ -26,7 +26,7 @@ Este módulo asiste en operaciones inmobiliarias bajo derecho panameño: arrenda
 
 ## Legislación de referencia
 
-- **Ley 31 de 2010** — Régimen de propiedad horizontal en Panamá
+- **Ley 284 de 2022** — Régimen de propiedad horizontal en Panamá
 - **Código Civil de Panamá** — derechos reales, compraventa, hipoteca, arrendamiento
 - **Régimen de arrendamientos** — legislación panameña de arrendamientos [verificar]
 - **Registro Público de Panamá** — inscripción de la propiedad inmueble y gravámenes

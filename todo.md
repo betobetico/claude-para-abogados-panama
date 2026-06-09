@@ -25,9 +25,16 @@
 - [x] Regulatorio: antiblanqueo (Ley 23 de 2015), UAF, sujetos obligados
 - [x] Startups: incentivos SEM, Ciudad del Saber, zonas económicas especiales
 
+## Fase 4 — Verificación de citas ✅
+
+- [x] Verificar la **identidad** de las ~45 normas de base con fuentes oficiales → [VERIFICACION.md](VERIFICACION.md)
+- [x] Resolver ~513 marcadores `[verificar]` de identidad de ley confirmada
+- [x] Corregir normas subrogadas: Ley 31 de 2010 → **Ley 284 de 2022** (PH); Ley 7 de 2014 → **Ley 61 de 2015** (DIP)
+- [x] Documentar matices: arbitraje (Ley 131 de 2013), reglamento antiblanqueo (D.E. 35 de 2022)
+
 ## Pendiente (mejoras futuras)
 
-- [ ] **Verificar manualmente cada cita marcada `[verificar]`** contra la fuente oficial
+- [ ] **Confirmar los ~1.180 `[verificar]` restantes** (artículos, plazos, importes) contra el texto vigente de cada ley
 - [ ] Testear entrevistas iniciales con casos reales
 - [ ] Testear skills principales con documentos jurídicos reales
 - [ ] Desarrollar conectores MCP a fuentes panameñas

@@ -36,7 +36,7 @@ Panamá no cuenta con una ley de IA vinculante, pero el panorama evoluciona: ini
 | Ámbito | Qué seguir |
 |---|---|
 | **Iniciativas locales (Panamá)** | Anteproyectos de ley de IA, estrategias nacionales, lineamientos de la AIG [verificar] |
-| **Protección de datos (Panamá)** | Resoluciones y guías de la ANTAI bajo la Ley 81 de 2019 [verificar] |
+| **Protección de datos (Panamá)** | Resoluciones y guías de la ANTAI bajo la Ley 81 de 2019 |
 | **Estándares internacionales** | Actualizaciones de NIST AI RMF e ISO/IEC 42001 |
 | **Soft law internacional** | Principios de la OCDE, Recomendación de la UNESCO |
 
@@ -72,7 +72,7 @@ Revisar contra los elementos del sistema de gobernanza de IA:
 | Transparencia | [¿Cumplida?] | [requisito] | |
 | Formación del personal | [¿Realizada?] | [requisito] | |
 | Contratos con proveedores | [¿Revisados?] | [requisito] | |
-| Protección de datos (Ley 81 de 2019 [verificar]) | [¿Cumplida?] | [requisito] | |
+| Protección de datos (Ley 81 de 2019) | [¿Cumplida?] | [requisito] | |
 
 ### Paso 3: Priorizar
 
@@ -131,7 +131,7 @@ Revisar contra los elementos del sistema de gobernanza de IA:
 ## Marco de referencia
 
 - Iniciativas y anteproyectos locales de IA en Panamá [verificar]
-- Ley 81 de 2019 [verificar] y Decreto Ejecutivo 285 de 2021 [verificar] sobre protección de datos personales; autoridad: ANTAI
+- Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 sobre protección de datos personales; autoridad: ANTAI
 - NIST AI Risk Management Framework; ISO/IEC 42001
 - Principios de la OCDE sobre IA; Recomendación de la UNESCO sobre la ética de la IA
 - Reglamento Europeo de IA (Reglamento UE 2024/1689): solo como referencia comparada internacional

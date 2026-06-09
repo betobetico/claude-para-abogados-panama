@@ -164,9 +164,9 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 | Obligación | Plazo legal | Alerta interna | Referencia |
 |---|---|---|---|
 | Tasa única anual | Anual [verificar] | [PLACEHOLDER] | Registro Público [verificar] |
-| Declaración jurada de renta (ISR) | Hasta 31 de marzo siguiente al cierre [verificar] | [PLACEHOLDER] | Código Fiscal [verificar] |
-| Mantenimiento del agente residente | Continuo | [PLACEHOLDER] | Ley 32 de 1927 [verificar] |
-| Libros sociales (actas y registro de acciones) | Permanente | [PLACEHOLDER] | Código de Comercio [verificar] |
+| Declaración jurada de renta (ISR) | Hasta 31 de marzo siguiente al cierre [verificar] | [PLACEHOLDER] | Código Fiscal |
+| Mantenimiento del agente residente | Continuo | [PLACEHOLDER] | Ley 32 de 1927 |
+| Libros sociales (actas y registro de acciones) | Permanente | [PLACEHOLDER] | Código de Comercio |
 | Inscripción de nombramientos/remociones | Tras protocolización en escritura pública [verificar] | [PLACEHOLDER] | Registro Público [verificar] |
 | Declaración de beneficiario final | Según normativa de transparencia vigente | [PLACEHOLDER] | Normativa de transparencia [verificar] |
 | [PLACEHOLDER — otras obligaciones periódicas] | | | |
@@ -183,7 +183,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 | Tipo | Capital mínimo | Norma principal | Notas |
 |---|---|---|---|
 | S.A. (Sociedad Anónima) | Sin mínimo legal fijo [verificar] | Ley 32 de 1927 | Tipo más común; acciones nominativas o al portador (con restricciones) [verificar] |
-| S. de R.L. (Sociedad de Responsabilidad Limitada) | Según pacto social [verificar] | Ley 4 de 2009 [verificar] | Cuotas de participación; régimen flexible |
+| S. de R.L. (Sociedad de Responsabilidad Limitada) | Según pacto social [verificar] | Ley 4 de 2009 | Cuotas de participación; régimen flexible |
 | Fundación de interés privado | USD 10.000 de patrimonio inicial [verificar] | Ley 25 de 1995 | Fines no lucrativos; sin accionistas; usada en planificación patrimonial |
 | Sociedad Civil | Sin mínimo | Código Civil de Panamá [verificar] | Para ejercicio de profesiones |
 | Sociedad en Comandita | Según tipo | Código de Comercio de Panamá [verificar] | Socios gestores y comanditarios |
@@ -251,7 +251,7 @@ Las siguientes normas son la base del análisis de este plugin:
 
 - **Ley 32 de 1927** — sobre sociedades anónimas
 - **Ley 25 de 1995** — sobre fundaciones de interés privado
-- **Ley 4 de 2009** [verificar] — sobre sociedades de responsabilidad limitada
+- **Ley 4 de 2009** — sobre sociedades de responsabilidad limitada
 - **Código de Comercio de Panamá** — comerciantes, libros y obligaciones mercantiles
 - **Código Civil de Panamá** — en lo relativo a obligaciones, contratos y personalidad jurídica
 - **Código Fiscal de Panamá** [verificar] — Impuesto sobre la Renta (ISR) e ITBMS, bajo principio de territorialidad

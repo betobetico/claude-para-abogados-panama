@@ -68,7 +68,7 @@ Checklist de cuestiones transversales que el asunto puede implicar y que el estu
 | Menores en riesgo | Menores involucrados + desprotección | [ ] |
 | Migración | Cliente extranjero + estatus migratorio en riesgo | [ ] |
 | Protección de datos | Tratamiento indebido de datos personales (Ley 81 de 2019) | [ ] |
-| Consumo | Relación proveedor-consumidor (Ley 45 de 2007 [verificar]) | [ ] |
+| Consumo | Relación proveedor-consumidor (Ley 45 de 2007) | [ ] |
 | Laboral | Relación de trabajo involucrada (Código de Trabajo) | [ ] |
 | Tributario | Implicaciones tributarias (ISR / ITBMS) | [ ] |
 

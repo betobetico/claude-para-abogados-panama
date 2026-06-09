@@ -14,7 +14,7 @@ Esta skill analiza una demanda, requerimiento o reclamación recibida. Extrae lo
 
 1. **Demanda judicial**: proceso ordinario, sumario, oral, ejecutivo. [verificar]
 2. **Requerimiento extrajudicial**: carta notarial, correo certificado con acuse, email con acuse.
-3. **Reclamación administrativa**: procedimiento sancionador, requerimiento de información (Ley 38 de 2000) [verificar].
+3. **Reclamación administrativa**: procedimiento sancionador, requerimiento de información (Ley 38 de 2000).
 4. **Reclamación arbitral**: solicitud de arbitraje.
 5. **Conciliación**: conciliación previa, incluida la laboral ante el MITRADEL [verificar].
 
@@ -71,7 +71,7 @@ Reglas de cómputo:
 | Opción | Descripción | Riesgo | Coste estimado |
 |--------|-------------|--------|----------------|
 | Contestar y oponerse | [detalle] | [nivel] | [orientativo] |
-| Allanamiento total | Aceptar pretensiones | Efecto sobre costas según el Código Judicial [verificar] | [cuantía] |
+| Allanamiento total | Aceptar pretensiones | Efecto sobre costas según el Código Judicial | [cuantía] |
 | Allanamiento parcial | Aceptar parte | Reduce litigio | [parcial] |
 | Reconvención | Contrarreclamar | [nivel] | [orientativo] |
 | Excepción de incompetencia | Impugnar competencia | [nivel] | [orientativo] |

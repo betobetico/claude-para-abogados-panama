@@ -31,7 +31,7 @@ Determinar con certeza qué régimen patrimonial del matrimonio rige un matrimon
 - **Nacionalidad y residencia de cada cónyuge al momento del matrimonio.**
 - **Capitulaciones matrimoniales** — si existen, cuándo se otorgaron, qué régimen pactaron.
 - **Cambios posteriores de régimen** — si las partes modificaron el régimen mediante escritura pública. [verificar requisitos en el Código de la Familia]
-- **Elemento internacional** — si algún cónyuge es extranjero o el matrimonio se celebró fuera de Panamá, valorar las normas de derecho internacional privado panameño (Código de Bustamante / Código de Derecho Internacional Privado de Panamá, Ley 7 de 2014 [verificar]).
+- **Elemento internacional** — si algún cónyuge es extranjero o el matrimonio se celebró fuera de Panamá, valorar las normas de derecho internacional privado panameño (Código de Bustamante / Código de Derecho Internacional Privado de Panamá, Ley 61 de 2015).
 
 ## Determinación del régimen aplicable
 
@@ -45,7 +45,7 @@ A falta de capitulaciones, rige el régimen legal supletorio previsto en el Cód
 
 | Situación | Régimen aplicable |
 |---|---|
-| Matrimonio sin capitulaciones | Régimen legal supletorio del Código de la Familia [verificar] |
+| Matrimonio sin capitulaciones | Régimen legal supletorio del Código de la Familia |
 | Matrimonio con capitulaciones de separación de bienes | Separación de bienes |
 | Matrimonio con capitulaciones de participación | Participación en las ganancias |
 
@@ -127,7 +127,7 @@ BORRADOR — ANÁLISIS DE RÉGIMEN PATRIMONIAL DEL MATRIMONIO — REVISIÓN DE A
 - **Código de la Familia** — régimen legal supletorio. [verificar art.]
 - **Código de la Familia** — sociedad de gananciales, separación de bienes y participación en las ganancias. [verificar arts.]
 - **Código de la Familia** — compensación por trabajo doméstico. [verificar art.]
-- **Código de Derecho Internacional Privado de Panamá** (Ley 7 de 2014) y Código de Bustamante — régimen patrimonial con elemento internacional. [verificar]
+- **Código de Derecho Internacional Privado de Panamá** (Ley 61 de 2015) y Código de Bustamante — régimen patrimonial con elemento internacional. [verificar]
 
 ## Guardarraíles
 

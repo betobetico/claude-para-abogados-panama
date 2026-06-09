@@ -29,7 +29,7 @@ Este módulo se centra en el cumplimiento normativo en materia de privacidad y p
 ## Legislación de referencia
 
 - **Ley 81 de 2019** — Sobre Protección de Datos Personales (publicada en la Gaceta Oficial de Panamá)
-- **Decreto Ejecutivo 285 de 2021** — que reglamenta la Ley 81 de 2019 [verificar]
+- **Decreto Ejecutivo 285 de 2021** — que reglamenta la Ley 81 de 2019
 
 ## Lo que este plugin no hace
 

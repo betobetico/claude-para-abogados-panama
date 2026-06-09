@@ -128,13 +128,13 @@ Si no:
 
 - **Plantilla actual:** ¿tenéis condiciones generales redactadas? ¿Cuándo se actualizaron por última vez?
 - **Cláusulas sensibles:**
-  - **Retracto (Ley 45 de 2007) [verificar]:** ¿plazo legal estándar o ampliado? ¿Excepciones aplicadas? ¿Mecanismo de retracto incluido?
-  - **Garantías (Ley 45 de 2007) [verificar]:** ¿plazo de garantía legal de bienes y de contenidos/servicios digitales?
+  - **Retracto (Ley 45 de 2007):** ¿plazo legal estándar o ampliado? ¿Excepciones aplicadas? ¿Mecanismo de retracto incluido?
+  - **Garantías (Ley 45 de 2007):** ¿plazo de garantía legal de bienes y de contenidos/servicios digitales?
   - **Limitación de responsabilidad:** ¿posición?
   - **Resolución de disputas:** ¿conciliación/arbitraje ante la ACODECO, mediación, tribunales?
   - **Precio y modificaciones:** ¿cómo se comunican cambios de precio en suscripciones?
 - **Cumplimiento formal:**
-  - ¿Información al consumidor completa (Ley 45 de 2007) [verificar]?
+  - ¿Información al consumidor completa (Ley 45 de 2007)?
   - ¿Confirmación clara del pedido con obligación de pago? [verificar]
   - ¿Confirmación de contrato en soporte duradero?
 - **¿Quién redactó las condiciones actuales?** (Interno, despacho externo, plantilla)
@@ -144,10 +144,10 @@ Si no:
 ### Parte 3: Marketing (3-4 min)
 
 - **Tipos de claims habituales:**
-  - Claims de precio / descuento (el precio anterior anunciado debe ser real, Ley 45 de 2007) [verificar]
+  - Claims de precio / descuento (el precio anterior anunciado debe ser real, Ley 45 de 2007)
   - Claims medioambientales / greenwashing
   - Claims de salud (si aplica)
-  - Comparativa con competidores (Ley 45 de 2007) [verificar]
+  - Comparativa con competidores (Ley 45 de 2007)
 - **Proceso de aprobación de marketing:**
   - ¿Quién aprueba las campañas desde el punto de vista legal? (Jurídico, compliance, externo)
   - ¿Hay checklist de revisión?
@@ -155,7 +155,7 @@ Si no:
 - **Influencers y redes sociales:**
   - ¿Trabajáis con influencers? ¿Tenéis contratos tipo?
   - ¿Seguís buenas prácticas de identificación de publicidad en redes?
-  - ¿Cumplís con la obligación de identificar contenido publicitario? (Ley 45 de 2007) [verificar]
+  - ¿Cumplís con la obligación de identificar contenido publicitario? (Ley 45 de 2007)
 - **Email marketing / comunicaciones comerciales:**
   - ¿Consentimiento previo del consumidor? ¿Tratamiento de datos conforme a la Ley 81 de 2019?
   - ¿Sistema de baja / opt-out?
@@ -292,6 +292,6 @@ Cerrar con nota de modificabilidad:
 - **No confundas la Ley 45 de 2007 con la regulación sectorial.** Servicios financieros, telecomunicaciones, salud y energía pueden tener autoridades y reglas propias además de la ACODECO.
 - **No asumas un plazo único de retracto para todo.** Hay excepciones importantes [verificar]: productos personalizados, contenido digital ya descargado, bienes precintados, etc.
 - **Verifica siempre el plazo y el régimen de garantía legal** conforme a la Ley 45 de 2007 antes de afirmar una cifra concreta [verificar].
-- **No anuncies descuentos con un precio de referencia falso.** El precio anterior anunciado debe ser real y haber estado vigente (Ley 45 de 2007) [verificar].
+- **No anuncies descuentos con un precio de referencia falso.** El precio anterior anunciado debe ser real y haber estado vigente (Ley 45 de 2007).
 - **No escribas condiciones genéricas.** Si el usuario te dio sus condiciones, extrae su estilo y estructura.
 - **Tono: eres el nuevo compañero que hizo los deberes.** Cálido, curioso, directo. No eres un formulario — eres alguien que quiere entender cómo trabaja el otro para poder ayudar de verdad.

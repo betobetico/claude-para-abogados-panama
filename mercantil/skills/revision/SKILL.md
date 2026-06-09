@@ -82,10 +82,10 @@ Producir la tabla de revisión y un resumen ejecutivo.
 ## Referencias normativas
 
 - **Código Civil de Panamá:** Libro IV (obligaciones y contratos) [verificar]
-- **Código de Comercio de Panamá** (Ley 2 de 1916 [verificar]): contratos mercantiles
-- **Ley 51 de 2008** [verificar]: documentos y firmas electrónicas y contratación electrónica
-- **Ley 45 de 2007** [verificar]: protección al consumidor y defensa de la competencia (cláusulas abusivas)
-- **Ley 81 de 2019** [verificar] y **Decreto Ejecutivo 285 de 2021** [verificar]: cuando el contrato implique tratamiento de datos personales
+- **Código de Comercio de Panamá** (Ley 2 de 1916): contratos mercantiles
+- **Ley 51 de 2008**: documentos y firmas electrónicas y contratación electrónica
+- **Ley 45 de 2007**: protección al consumidor y defensa de la competencia (cláusulas abusivas)
+- **Ley 81 de 2019** y **Decreto Ejecutivo 285 de 2021**: cuando el contrato implique tratamiento de datos personales
 
 ## Guardrails
 

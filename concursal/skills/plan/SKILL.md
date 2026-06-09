@@ -33,7 +33,7 @@ Generar la estructura completa de un plan de reorganización que cumpla los requ
 - **Plan de viabilidad:** proyecciones de ingresos y gastos a 3-5 años.
 - **Medidas laborales previstas:** si hay reducciones de planilla, modificaciones de condiciones (sujetas al Código de Trabajo de Panamá).
 
-## Estructura del plan (Ley 12 de 2016 [verificar])
+## Estructura del plan (Ley 12 de 2016)
 
 ### Parte A: Descripción de la situación
 
@@ -71,7 +71,7 @@ Generar la estructura completa de un plan de reorganización que cumpla los requ
 - Administrador o restructurador del proceso [verificar].
 - Consecuencias de incumplimiento (apertura de liquidación).
 
-## Mayorías necesarias (Ley 12 de 2016 [verificar])
+## Mayorías necesarias (Ley 12 de 2016)
 
 ### Clases de acreedores afectados
 
@@ -79,10 +79,10 @@ Los acreedores se agrupan por categoría de crédito. La votación del plan se h
 
 | Clase | Mayoría requerida | Base de cálculo |
 |---|---|---|
-| Acreedores con garantía real / privilegio especial | Mayoría conforme a la Ley 12 de 2016 [verificar] | Importe de los créditos de la clase |
-| Acreedores privilegiados / preferentes | Mayoría conforme a la Ley 12 de 2016 [verificar] | Importe de los créditos de la clase |
-| Acreedores ordinarios / comunes | Mayoría conforme a la Ley 12 de 2016 [verificar] | Importe de los créditos de la clase |
-| Acreedores subordinados | Tratamiento conforme a la Ley 12 de 2016 [verificar] | [verificar] |
+| Acreedores con garantía real / privilegio especial | Mayoría conforme a la Ley 12 de 2016 | Importe de los créditos de la clase |
+| Acreedores privilegiados / preferentes | Mayoría conforme a la Ley 12 de 2016 | Importe de los créditos de la clase |
+| Acreedores ordinarios / comunes | Mayoría conforme a la Ley 12 de 2016 | Importe de los créditos de la clase |
+| Acreedores subordinados | Tratamiento conforme a la Ley 12 de 2016 | [verificar] |
 
 ### Confirmación / aprobación judicial del plan
 
@@ -130,11 +130,11 @@ BORRADOR — PLAN DE REORGANIZACIÓN — REVISIÓN LETRADA OBLIGATORIA
 ## Referencias legislativas
 
 - **Ley 12 de 2016** — proceso concursal de insolvencia (reorganización y liquidación) en Panamá [verificar].
-- **Solicitud y trámite de la reorganización** — Ley 12 de 2016 [verificar].
-- **Contenido del plan de reorganización** — Ley 12 de 2016 [verificar].
-- **Clases de acreedores y mayorías** — Ley 12 de 2016 [verificar].
-- **Confirmación judicial del plan** — Ley 12 de 2016 [verificar].
-- **Administrador / restructurador del proceso** — Ley 12 de 2016 [verificar].
+- **Solicitud y trámite de la reorganización** — Ley 12 de 2016.
+- **Contenido del plan de reorganización** — Ley 12 de 2016.
+- **Clases de acreedores y mayorías** — Ley 12 de 2016.
+- **Confirmación judicial del plan** — Ley 12 de 2016.
+- **Administrador / restructurador del proceso** — Ley 12 de 2016.
 - **Código de Trabajo de Panamá** — medidas laborales, prelación de créditos laborales.
 
 *Nota: la Directiva (UE) 2019/1023 de reestructuración no es derecho aplicable en Panamá; en su caso, solo referencia comparada internacional.*
@@ -143,6 +143,6 @@ BORRADOR — PLAN DE REORGANIZACIÓN — REVISIÓN LETRADA OBLIGATORIA
 
 - **Las proyecciones financieras son del usuario, no del skill.** No inventar cifras. Si no hay proyecciones, marcar [COMPLETAR] y advertir que sin plan de viabilidad creíble el plan fracasará.
 - **Las mayorías dependen de la clasificación exacta de créditos.** Si la clasificación es aproximada, advertirlo. No inventar el porcentaje de mayoría: usar referencia a la Ley 12 de 2016 + `[verificar]`.
-- **El arrastre de disidentes es excepcional.** No presentarlo como la norma — requiere requisitos legales que deben verificarse en la Ley 12 de 2016 [verificar].
+- **El arrastre de disidentes es excepcional.** No presentarlo como la norma — requiere requisitos legales que deben verificarse en la Ley 12 de 2016.
 - **Las medidas laborales requieren cumplir el Código de Trabajo de Panamá.** No se pueden imponer unilateralmente sin observar el procedimiento aplicable.
 - **Siempre derivar a abogado especializado en derecho concursal y, en su caso, a un contador/experto financiero para el plan de viabilidad.**

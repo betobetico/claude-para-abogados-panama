@@ -29,7 +29,7 @@ respecto del ITBMS del período 2024.
 
 ## Propósito
 
-Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedimiento es? ¿Cuánto tiempo tienen? ¿Qué opciones tengo? ¿Debo recurrir o aceptar? Este skill triaja la situación, identifica plazos y opciones, y propone una estrategia procesal bajo el régimen del Código Fiscal y la Ley 38 de 2000 [verificar].
+Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedimiento es? ¿Cuánto tiempo tienen? ¿Qué opciones tengo? ¿Debo recurrir o aceptar? Este skill triaja la situación, identifica plazos y opciones, y propone una estrategia procesal bajo el régimen del Código Fiscal y la Ley 38 de 2000.
 
 ---
 
@@ -59,14 +59,14 @@ Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedi
 | Aspecto | Detalle |
 |---|---|
 | **Qué es** | Acto que determina un impuesto adicional, recargos, intereses y/o multa |
-| **Notificación** | Personal o por edicto conforme a la Ley 38 de 2000 [verificar] |
+| **Notificación** | Personal o por edicto conforme a la Ley 38 de 2000 |
 | **Recurso** | Reconsideración (ante la DGI) y apelación (ante el TAT) [verificar] |
 
 ### 4. Procedimiento sancionador
 
 | Aspecto | Detalle |
 |---|---|
-| **Qué es** | Imposición de multas por morosidad, omisión, defraudación fiscal u otras infracciones del Código Fiscal [verificar] |
+| **Qué es** | Imposición de multas por morosidad, omisión, defraudación fiscal u otras infracciones del Código Fiscal |
 | **Clasificación** | Falta administrativa / defraudación fiscal (puede tener consecuencias penales) [verificar] |
 | **Recurso** | Reconsideración y apelación ante el TAT [verificar] |
 
@@ -82,7 +82,7 @@ Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedi
 
 | Aspecto | Detalle |
 |---|---|
-| **Órgano** | Tribunal Administrativo Tributario (creado por la Ley 8 de 2010) [verificar] |
+| **Órgano** | Tribunal Administrativo Tributario (creado por la Ley 8 de 2010) |
 | **Plazo de interposición** | [verificar — 15 días hábiles desde la notificación de la resolución de reconsideración] |
 | **Resultado** | Agota la vía gubernativa [verificar] |
 
@@ -92,7 +92,7 @@ Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedi
 |---|---|
 | **Órgano** | Sala Tercera de lo Contencioso-Administrativo de la Corte Suprema de Justicia (CSJ) |
 | **Plazo** | [verificar — 2 meses desde la notificación que agota la vía gubernativa] |
-| **Base normativa** | Ley 38 de 2000; Código Judicial [verificar] |
+| **Base normativa** | Ley 38 de 2000; Código Judicial |
 
 ---
 

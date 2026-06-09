@@ -14,7 +14,7 @@ argument-hint: "[adjuntar pliego de cargos o describir la licitación]"
 
 1. Cargar `~/.claude/plugins/config/claude-para-abogados/administrativo/CLAUDE.md` → sector, tipo de entidad, historial de licitaciones.
 2. Obtener la documentación de la licitación.
-3. Revisar contra los requisitos de la Ley 22 de 2006 [verificar].
+3. Revisar contra los requisitos de la Ley 22 de 2006.
 4. Generar informe de revisión.
 
 ```
@@ -26,7 +26,7 @@ argument-hint: "[adjuntar pliego de cargos o describir la licitación]"
 
 ## Propósito
 
-La contratación pública en Panamá se rige por la Ley 22 de 2006 [verificar] y sus reformas (entre ellas la Ley 153 de 2020 [verificar]), administrada por la Dirección General de Contrataciones Públicas (DGCP) a través del portal PanamaCompra. El pliego de cargos es la ley del acto de selección: define quién puede participar, cómo se evalúa, qué se exige y cómo se ejecuta. Un error en el pliego puede invalidar la licitación; un error en la propuesta puede descalificarla. Este skill revisa la documentación desde ambas perspectivas.
+La contratación pública en Panamá se rige por la Ley 22 de 2006 y sus reformas (entre ellas la Ley 153 de 2020), administrada por la Dirección General de Contrataciones Públicas (DGCP) a través del portal PanamaCompra. El pliego de cargos es la ley del acto de selección: define quién puede participar, cómo se evalúa, qué se exige y cómo se ejecuta. Un error en el pliego puede invalidar la licitación; un error en la propuesta puede descalificarla. Este skill revisa la documentación desde ambas perspectivas.
 
 ---
 
@@ -67,7 +67,7 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 [verificar] y
 | Tipo | Importe | Cuándo |
 |---|---|---|
 | **Fianza de propuesta** | Porcentaje del valor de la propuesta según pliego [verificar] | Exigida para participar [verificar] |
-| **Fianza de cumplimiento** | Porcentaje del valor del contrato según la Ley 22 de 2006 [verificar] | Al formalizar el contrato [verificar] |
+| **Fianza de cumplimiento** | Porcentaje del valor del contrato según la Ley 22 de 2006 | Al formalizar el contrato [verificar] |
 | **Fianza de pago anticipado / buen funcionamiento** | Según pliego | Si el pliego lo prevé [verificar] |
 
 ### 5. Plazos
@@ -127,15 +127,15 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 [verificar] y
 
 | # | Área | Hallazgo | Riesgo | Base legal | Acción |
 |---|---|---|---|---|---|
-| 1 | Idoneidad | [Ej., Exigencia desproporcionada] | Alto | Ley 22 de 2006 [verificar] | Impugnar pliego |
-| 2 | Evaluación | [Ej., Fórmula de precio distorsionante] | Medio | Ley 22 de 2006 [verificar] | Solicitar aclaración |
+| 1 | Idoneidad | [Ej., Exigencia desproporcionada] | Alto | Ley 22 de 2006 | Impugnar pliego |
+| 2 | Evaluación | [Ej., Fórmula de precio distorsionante] | Medio | Ley 22 de 2006 | Solicitar aclaración |
 | ... | ... | ... | ... | ... | ... |
 
 ---
 
 ## Viabilidad del recurso ante el TACP
 
-**¿Procede recurso ante el TACP?** [Sí/No — Ley 22 de 2006] [verificar]
+**¿Procede recurso ante el TACP?** [Sí/No — Ley 22 de 2006]
 **Plazo:** [fecha límite]
 **Órgano:** Tribunal Administrativo de Contrataciones Públicas (TACP)
 **Vía posterior:** Demanda contencioso-administrativa ante la Sala Tercera de la CSJ
@@ -151,8 +151,8 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 [verificar] y
 
 ## Legislación de referencia
 
-- Ley 22 de 2006 [verificar] — Que regula la contratación pública
-- Ley 153 de 2020 [verificar] — Reformas a la Ley 22 de 2006
+- Ley 22 de 2006 — Que regula la contratación pública
+- Ley 153 de 2020 — Reformas a la Ley 22 de 2006
 - Reglamentación de la Dirección General de Contrataciones Públicas (DGCP) — portal PanamaCompra [verificar]
 - Fallos y resoluciones del Tribunal Administrativo de Contrataciones Públicas (TACP)
 
@@ -162,4 +162,4 @@ La contratación pública en Panamá se rige por la Ley 22 de 2006 [verificar] y
 
 - No prepara la propuesta técnica ni la oferta económica — revisa el pliego de cargos y señala riesgos.
 - No presenta el recurso ante el TACP — analiza la viabilidad.
-- No cubre contratos del sector privado — solo contratación pública (Ley 22 de 2006 [verificar]).
+- No cubre contratos del sector privado — solo contratación pública (Ley 22 de 2006).

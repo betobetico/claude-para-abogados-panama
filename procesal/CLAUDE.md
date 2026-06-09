@@ -83,8 +83,8 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Proceso | Referencia | Uso habitual |
 |---|---|---|
-| Impugnación de acuerdos de junta de accionistas | Ley 32 de 1927 (sociedades anónimas) + Código Judicial [verificar] | [PLACEHOLDER] |
-| Responsabilidad de directores y dignatarios | Ley 32 de 1927 + Código de Comercio [verificar] | [PLACEHOLDER] |
+| Impugnación de acuerdos de junta de accionistas | Ley 32 de 1927 (sociedades anónimas) + Código Judicial | [PLACEHOLDER] |
+| Responsabilidad de directores y dignatarios | Ley 32 de 1927 + Código de Comercio | [PLACEHOLDER] |
 | Competencia desleal / consumo | Ley 45 de 2007 (ACODECO) [verificar] | [PLACEHOLDER] |
 | Propiedad industrial / intelectual | Ley 35 de 1996 / Ley 64 de 2012 (DIGERPI) [verificar] | [PLACEHOLDER] |
 | [PLACEHOLDER — otros procesos habituales] | | |
@@ -93,10 +93,10 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Proceso | Referencia | Uso habitual |
 |---|---|---|
-| Demanda de plena jurisdicción | Código Judicial / Ley 135 de 1943 [verificar] | [PLACEHOLDER] |
-| Demanda de nulidad | Código Judicial / Ley 135 de 1943 [verificar] | [PLACEHOLDER] |
-| Protección de derechos humanos / amparo | Constitución / Código Judicial [verificar] | [PLACEHOLDER] |
-| Medidas cautelares (suspensión del acto) | Código Judicial [verificar] | [PLACEHOLDER] |
+| Demanda de plena jurisdicción | Código Judicial / Ley 135 de 1943 | [PLACEHOLDER] |
+| Demanda de nulidad | Código Judicial / Ley 135 de 1943 | [PLACEHOLDER] |
+| Protección de derechos humanos / amparo | Constitución / Código Judicial | [PLACEHOLDER] |
+| Medidas cautelares (suspensión del acto) | Código Judicial | [PLACEHOLDER] |
 
 ### Jurisdicción laboral
 
@@ -119,15 +119,15 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 **Términos críticos:** [verificar todos los plazos concretos antes de usarlos]
 | Acto procesal | Término | Norma | Notas |
 |---|---|---|---|
-| Contestación a la demanda (proceso ordinario) | [n] días hábiles [verificar] | Código Judicial [verificar] | Desde notificación |
-| Contestación a la demanda (proceso sumario/oral) | [n] días hábiles [verificar] | Código Judicial [verificar] | Desde notificación |
-| Recurso de reconsideración | [n] días [verificar] | Código Judicial [verificar] | Desde notificación |
-| Recurso de apelación (anuncio/sustentación) | [n] días [verificar] | Código Judicial [verificar] | Desde notificación de resolución |
-| Recurso de casación (ante la CSJ) | [n] días [verificar] | Código Judicial [verificar] | Desde notificación |
-| Recurso de hecho | [n] días [verificar] | Código Judicial [verificar] | Tras negativa de concesión del recurso |
-| Oposición en proceso ejecutivo | [n] días [verificar] | Código Judicial [verificar] | Desde requerimiento/notificación |
-| Demanda contencioso-administrativa de plena jurisdicción | [n] meses [verificar] | Código Judicial / Ley 135 de 1943 [verificar] | Desde notificación/publicación del acto |
-| Demanda por despido (laboral) | [n] días [verificar] | Código de Trabajo [verificar] | Desde el despido |
+| Contestación a la demanda (proceso ordinario) | [n] días hábiles [verificar] | Código Judicial | Desde notificación |
+| Contestación a la demanda (proceso sumario/oral) | [n] días hábiles [verificar] | Código Judicial | Desde notificación |
+| Recurso de reconsideración | [n] días [verificar] | Código Judicial | Desde notificación |
+| Recurso de apelación (anuncio/sustentación) | [n] días [verificar] | Código Judicial | Desde notificación de resolución |
+| Recurso de casación (ante la CSJ) | [n] días [verificar] | Código Judicial | Desde notificación |
+| Recurso de hecho | [n] días [verificar] | Código Judicial | Tras negativa de concesión del recurso |
+| Oposición en proceso ejecutivo | [n] días [verificar] | Código Judicial | Desde requerimiento/notificación |
+| Demanda contencioso-administrativa de plena jurisdicción | [n] meses [verificar] | Código Judicial / Ley 135 de 1943 | Desde notificación/publicación del acto |
+| Demanda por despido (laboral) | [n] días [verificar] | Código de Trabajo | Desde el despido |
 | [PLACEHOLDER — términos adicionales relevantes] | | | |
 
 **Sistema de alertas de términos:** [PLACEHOLDER — ej., "Calendario compartido con alertas 5 días antes del vencimiento; doble verificación por apoderado judicial y abogado"]

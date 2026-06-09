@@ -46,7 +46,7 @@ Toda respuesta incluye obligatoriamente:
 1. **Semáforo** — VERDE / AMARILLO / ROJO
 2. **Respuesta directa** — 2-3 frases con la conclusión
 3. **Fundamento legal** — siempre citar:
-   - Disposición concreta de la Ley 45 de 2007 [verificar]
+   - Disposición concreta de la Ley 45 de 2007
    - Reglamentación de la ACODECO si aplica [verificar]
    - Código de Comercio de Panamá si refuerza el argumento
    - Resolución de la ACODECO o jurisprudencia de la CSJ relevante si existe [verificar]
@@ -59,14 +59,14 @@ Toda respuesta incluye obligatoriamente:
 
 | Área | Normativa principal | Skills relacionados |
 |---|---|---|
-| Información al consumidor | Ley 45 de 2007 [verificar] | `/consumo:lanzamiento` |
-| Derecho de retracto | Ley 45 de 2007 [verificar] | `/consumo:lanzamiento` |
-| Garantías | Ley 45 de 2007 [verificar] | `/consumo:lanzamiento` |
-| Publicidad y claims | Ley 45 de 2007 [verificar] | `/consumo:claims` |
-| Cláusulas abusivas | Ley 45 de 2007 [verificar] | `/consumo:condiciones-generales` |
-| Prácticas comerciales | Ley 45 de 2007 [verificar] | `/consumo:claims` |
-| Contratación electrónica | Ley 45 de 2007 [verificar] | `/consumo:lanzamiento` |
-| Precios y ofertas | Ley 45 de 2007 [verificar] | `/consumo:claims` |
+| Información al consumidor | Ley 45 de 2007 | `/consumo:lanzamiento` |
+| Derecho de retracto | Ley 45 de 2007 | `/consumo:lanzamiento` |
+| Garantías | Ley 45 de 2007 | `/consumo:lanzamiento` |
+| Publicidad y claims | Ley 45 de 2007 | `/consumo:claims` |
+| Cláusulas abusivas | Ley 45 de 2007 | `/consumo:condiciones-generales` |
+| Prácticas comerciales | Ley 45 de 2007 | `/consumo:claims` |
+| Contratación electrónica | Ley 45 de 2007 | `/consumo:lanzamiento` |
+| Precios y ofertas | Ley 45 de 2007 | `/consumo:claims` |
 
 ---
 
@@ -113,10 +113,10 @@ Si no: "No requiere análisis adicional."]
 
 | Pregunta | Semáforo | Clave |
 |---|---|---|
-| "¿Podemos cobrar por las devoluciones?" | AMARILLO | Sí, los gastos de devolución si se informa previamente (Ley 45 de 2007) [verificar] |
-| "¿Podemos eliminar el derecho de retracto?" | ROJO | No, es irrenunciable para el consumidor (Ley 45 de 2007) [verificar] |
-| "¿Podemos imponer un foro distinto al del consumidor?" | ROJO | Riesgo de nulidad en contratos de adhesión con consumidores (Ley 45 de 2007) [verificar] |
-| "¿Podemos ofrecer descuento del 50%?" | AMARILLO | Sí, si el precio anterior anunciado es real y estuvo vigente (Ley 45 de 2007) [verificar] |
+| "¿Podemos cobrar por las devoluciones?" | AMARILLO | Sí, los gastos de devolución si se informa previamente (Ley 45 de 2007) |
+| "¿Podemos eliminar el derecho de retracto?" | ROJO | No, es irrenunciable para el consumidor (Ley 45 de 2007) |
+| "¿Podemos imponer un foro distinto al del consumidor?" | ROJO | Riesgo de nulidad en contratos de adhesión con consumidores (Ley 45 de 2007) |
+| "¿Podemos ofrecer descuento del 50%?" | AMARILLO | Sí, si el precio anterior anunciado es real y estuvo vigente (Ley 45 de 2007) |
 
 ---
 

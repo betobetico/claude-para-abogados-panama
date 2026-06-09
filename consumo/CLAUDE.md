@@ -54,7 +54,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Canal | Activo | Normativa específica | Notas |
 |---|---|---|---|
-| Online (web propia) | [PLACEHOLDER ✓/✗] | Ley 45 de 2007 + comercio electrónico (Ley 51 de 2008 [verificar]) | [PLACEHOLDER — ej., "Tienda Shopify / WooCommerce / desarrollo propio"] |
+| Online (web propia) | [PLACEHOLDER ✓/✗] | Ley 45 de 2007 + comercio electrónico (Ley 51 de 2008) | [PLACEHOLDER — ej., "Tienda Shopify / WooCommerce / desarrollo propio"] |
 | Online (marketplace) | [PLACEHOLDER ✓/✗] | Ley 45 de 2007 + condiciones marketplace | [PLACEHOLDER — ej., "Amazon, MercadoLibre"] |
 | Presencial (tienda física) | [PLACEHOLDER ✓/✗] | Ley 45 de 2007 | [PLACEHOLDER] |
 | Teléfono | [PLACEHOLDER ✓/✗] | Ley 45 de 2007 (ventas a distancia) [verificar] | [PLACEHOLDER] |
@@ -66,7 +66,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Condiciones generales de contratación
 
-### Control de inclusión (contratos de adhesión, Ley 45 de 2007) [verificar]
+### Control de inclusión (contratos de adhesión, Ley 45 de 2007)
 
 **Requisitos cumplidos:**
 - [ ] Información previa sobre existencia de las condiciones generales
@@ -78,14 +78,14 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Estado de las CGC:** [PLACEHOLDER — ej., "Última revisión DD/MM/AAAA; redactadas por despacho X; revisión anual"]
 
-### Control de contenido — Cláusulas abusivas (Ley 45 de 2007) [verificar]
+### Control de contenido — Cláusulas abusivas (Ley 45 de 2007)
 
-**Cláusulas revisadas contra el régimen de cláusulas abusivas de la Ley 45 de 2007:** [verificar]
+**Cláusulas revisadas contra el régimen de cláusulas abusivas de la Ley 45 de 2007:**
 - [ ] Vinculación del contrato a la sola voluntad del proveedor
 - [ ] Limitación o renuncia de derechos del consumidor
 - [ ] Falta de reciprocidad entre las partes
 - [ ] Garantías o penalizaciones desproporcionadas a cargo del consumidor
-- [ ] Cláusulas que infringen el régimen de protección al consumidor (carácter abusivo según la Ley 45 de 2007) [verificar]
+- [ ] Cláusulas que infringen el régimen de protección al consumidor (carácter abusivo según la Ley 45 de 2007)
 - [PLACEHOLDER — cláusulas específicas del sector bajo vigilancia]
 
 **Posición house:** [PLACEHOLDER — ej., "Revisión semestral de CGC contra resoluciones recientes de la ACODECO y la jurisprudencia de la CSJ sobre cláusulas abusivas; consultar siempre con abogado antes de modificar"]
@@ -94,7 +94,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Proceso de contratación online:** [PLACEHOLDER — ej., "1) Selección producto → 2) Resumen pedido → 3) Aceptación de condiciones (checkbox no premarcado) → 4) Confirmación pedido → 5) Correo de confirmación"]
 
-**Información obligatoria al consumidor en contratos a distancia (Ley 45 de 2007):** [verificar]
+**Información obligatoria al consumidor en contratos a distancia (Ley 45 de 2007):**
 - [ ] Características principales del bien/servicio
 - [ ] Identidad, RUC y dirección del proveedor
 - [ ] Precio total con impuestos incluidos (ITBMS)
@@ -109,9 +109,9 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Derecho de retracto
 
-**Plazo:** plazo legal de retracto en ventas a distancia conforme a la Ley 45 de 2007 [verificar]
+**Plazo:** plazo legal de retracto en ventas a distancia conforme a la Ley 45 de 2007
 
-**Plazo ampliado por falta de información:** plazo ampliado si no se informó del derecho de retracto, conforme a la Ley 45 de 2007 [verificar]
+**Plazo ampliado por falta de información:** plazo ampliado si no se informó del derecho de retracto, conforme a la Ley 45 de 2007
 
 **Excepciones aplicables al negocio:** [verificar]
 - [PLACEHOLDER — marcar las que apliquen:
@@ -134,11 +134,11 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Garantías
 
-### Garantía legal (Ley 45 de 2007) [verificar]
+### Garantía legal (Ley 45 de 2007)
 
-**Plazo:** plazo de garantía legal conforme a la Ley 45 de 2007 [verificar]
+**Plazo:** plazo de garantía legal conforme a la Ley 45 de 2007
 
-**Régimen de bienes defectuosos:** el proveedor responde por los defectos del bien o servicio conforme a la Ley 45 de 2007 [verificar]
+**Régimen de bienes defectuosos:** el proveedor responde por los defectos del bien o servicio conforme a la Ley 45 de 2007
 
 **Remedios del consumidor:** [verificar]
 1. Reparación o sustitución (primera opción del consumidor)
@@ -150,7 +150,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 ### Garantía comercial
 
 **¿Se ofrece garantía comercial adicional?** [PLACEHOLDER — Sí / No]
-**Condiciones:** [PLACEHOLDER — ej., "Garantía adicional a la garantía legal; cubre XYZ; excluye ABC; documento de garantía conforme a la Ley 45 de 2007 [verificar]"]
+**Condiciones:** [PLACEHOLDER — ej., "Garantía adicional a la garantía legal; cubre XYZ; excluye ABC; documento de garantía conforme a la Ley 45 de 2007"]
 **Obligaciones del documento de garantía:** [verificar]
 - [ ] Indicar que no afecta a los derechos legales del consumidor
 - [ ] Contenido, duración, ámbito territorial, vías de reclamación
@@ -159,7 +159,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Claims de marketing — Control de legalidad
 
-### Publicidad engañosa (Ley 45 de 2007) [verificar]
+### Publicidad engañosa (Ley 45 de 2007)
 
 **Posición house:** [PLACEHOLDER — ej., "Toda afirmación sobre el producto debe ser verificable y documentada; claims de salud solo con respaldo científico; claims ambientales sin genéricos engañosos (greenwashing)"]
 
@@ -170,7 +170,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 - [PLACEHOLDER — ej., "Comparativas con competidores"]
 - [PLACEHOLDER — ej., "Testimonios y opiniones de clientes"]
 
-### Publicidad comparativa (Ley 45 de 2007) [verificar]
+### Publicidad comparativa (Ley 45 de 2007)
 
 **Requisitos para que sea lícita:**
 - Bienes/servicios con la misma finalidad
@@ -196,7 +196,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 - [ ] Etiquetado conforme a la normativa técnica panameña aplicable [verificar]
 - [ ] Claims de marketing revisados por legal
 - [ ] Política de privacidad y datos personales actualizada (Ley 81 de 2019)
-- [ ] Precio final con impuestos visible (ITBMS incluido) (Ley 45 de 2007) [verificar]
+- [ ] Precio final con impuestos visible (ITBMS incluido) (Ley 45 de 2007)
 - [ ] Desglose de gastos de envío
 - [ ] Confirmación clara del pedido con obligación de pago [verificar]
 - [ ] Canal de atención al cliente / reclamaciones disponible
@@ -237,7 +237,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Acciones de clase / intereses colectivos
 
-**Protección de intereses colectivos de consumidores (Ley 45 de 2007):** [verificar]
+**Protección de intereses colectivos de consumidores (Ley 45 de 2007):**
 - Legitimación para accionar: la ACODECO y las asociaciones de consumidores [verificar]
 - Acción de cesación + acción de reparación / indemnización
 

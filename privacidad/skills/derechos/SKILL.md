@@ -30,7 +30,7 @@ argument-hint: "[pegar la solicitud, o describir el derecho ejercido]"
 
 ## Propósito
 
-Los derechos del titular tienen plazos legales estrictos fijados en la Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021 [verificar], un proceso definido y muchos puntos donde se puede cometer un error: verificación insuficiente, excepción no documentada, plazo vencido. Este skill guía cada paso y genera los borradores de respuesta.
+Los derechos del titular tienen plazos legales estrictos fijados en la Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021, un proceso definido y muchos puntos donde se puede cometer un error: verificación insuficiente, excepción no documentada, plazo vencido. Este skill guía cada paso y genera los borradores de respuesta.
 
 ---
 
@@ -42,11 +42,11 @@ Identificar qué derecho ejerce el titular:
 
 | Derecho | Referencia (Ley 81 de 2019) | Contenido |
 |---|---|---|
-| **Acceso** | Ley 81 de 2019 [verificar] | Copia de datos + información sobre el tratamiento |
-| **Rectificación** | Ley 81 de 2019 [verificar] | Corregir datos inexactos o incompletos |
-| **Cancelación / Supresión** | Ley 81 de 2019 [verificar] | Eliminar datos (con excepciones) |
-| **Oposición** | Ley 81 de 2019 [verificar] | Cesar un tratamiento concreto |
-| **Portabilidad** | Ley 81 de 2019 [verificar] | Datos en formato estructurado y legible por máquina |
+| **Acceso** | Ley 81 de 2019 | Copia de datos + información sobre el tratamiento |
+| **Rectificación** | Ley 81 de 2019 | Corregir datos inexactos o incompletos |
+| **Cancelación / Supresión** | Ley 81 de 2019 | Eliminar datos (con excepciones) |
+| **Oposición** | Ley 81 de 2019 | Cesar un tratamiento concreto |
+| **Portabilidad** | Ley 81 de 2019 | Datos en formato estructurado y legible por máquina |
 
 Si la solicitud combina derechos ("borra mis datos y antes dame una copia"), tratar como solicitudes vinculadas.
 
@@ -81,9 +81,9 @@ Recorrer la lista de sistemas de `~/.claude/plugins/config/claude-para-abogados/
 
 **No toda solicitud procede íntegramente.** Para cada excepción, citar la norma:
 
-- **Cancelación / Supresión** — excepciones de la Ley 81 de 2019 [verificar]: obligación legal de conservar (conservación contable y fiscal según el Código de Comercio y la legislación de la DGI; prevención de blanqueo conforme a la Ley 23 de 2015), ejercicio de defensa de reclamaciones, interés público
-- **Portabilidad** — solo datos proporcionados por el titular y tratados por medios automatizados con base en consentimiento o relación contractual (Ley 81 de 2019) [verificar]
-- **Oposición** — el responsable puede acreditar causas legítimas que prevalezcan, salvo en marketing directo, donde el cese es obligatorio (Ley 81 de 2019) [verificar]
+- **Cancelación / Supresión** — excepciones de la Ley 81 de 2019: obligación legal de conservar (conservación contable y fiscal según el Código de Comercio y la legislación de la DGI; prevención de blanqueo conforme a la Ley 23 de 2015), ejercicio de defensa de reclamaciones, interés público
+- **Portabilidad** — solo datos proporcionados por el titular y tratados por medios automatizados con base en consentimiento o relación contractual (Ley 81 de 2019)
+- **Oposición** — el responsable puede acreditar causas legítimas que prevalezcan, salvo en marketing directo, donde el cese es obligatorio (Ley 81 de 2019)
 
 Cada excepción propuesta lleva nota: **"propuesta — requiere revisión por letrado antes de aplicarla."**
 
@@ -103,7 +103,7 @@ portabilidad / limitación] con fecha [fecha de recepción].
 
 **Próximos pasos:**
 - Nuestra fecha objetivo de respuesta es [fecha — dentro del plazo previsto en la
-  Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021] [verificar]. Si la solicitud
+  Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021]. Si la solicitud
   es compleja, podremos ampliar el plazo conforme a la norma, informándole antes de
   que venza el plazo inicial [verificar].
 - No se aplica ningún cargo a esta solicitud.
@@ -135,7 +135,7 @@ según proceda]
 **Datos no incluidos / no suprimidos y motivo:**
 | Categoría | Excepción aplicada | Base legal |
 |---|---|---|
-| [Ej., Registros fiscales/contables] | Obligación legal de conservación | Ley 81 de 2019 [verificar]; Código de Comercio / legislación de la DGI |
+| [Ej., Registros fiscales/contables] | Obligación legal de conservación | Ley 81 de 2019; Código de Comercio / legislación de la DGI |
 
 **Sus otros derechos:** Puede ejercer [otros derechos] a través de [canal].
 Si no está conforme, puede reclamar ante la ANTAI.

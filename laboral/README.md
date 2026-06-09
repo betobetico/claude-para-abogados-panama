@@ -17,19 +17,19 @@ Este módulo asiste en cuestiones de derecho del trabajo panameño: revisión de
 1. Ejecuta la entrevista inicial del proyecto para configurar tu perfil y preferencias.
 2. Prueba `/revision-despido` con un aviso de despido para obtener un análisis de calificación y defectos.
 3. Usa `/indemnizacion` para calcular importes según distintos escenarios (despido justificado, injustificado, renuncia).
-4. Ejecuta `/politica` para generar una política de teletrabajo conforme a la Ley 126 de 2020 [verificar] sobre teletrabajo.
+4. Ejecuta `/politica` para generar una política de teletrabajo conforme a la Ley 126 de 2020 sobre teletrabajo.
 
 ## Casos de uso típicos
 
 - Análisis de un aviso de despido por causa económica para detectar defectos formales.
 - Cálculo comparativo de prestaciones (indemnización y prima de antigüedad) según calificación de la terminación.
 - Revisión de un contrato por tiempo definido para verificar el cumplimiento de los requisitos de causalidad.
-- Elaboración de una política de prevención del hostigamiento laboral conforme a la Ley 7 de 2018 [verificar].
+- Elaboración de una política de prevención del hostigamiento laboral conforme a la Ley 7 de 2018.
 
 ## Legislación de referencia
 
 - **Código de Trabajo de Panamá** — norma principal del derecho laboral panameño
-- **Ley Orgánica de la Caja de Seguro Social (CSS)** — Ley 51 de 2005 [verificar]
+- **Ley Orgánica de la Caja de Seguro Social (CSS)** — Ley 51 de 2005
 - **MITRADEL** — Ministerio de Trabajo y Desarrollo Laboral (normativa, resoluciones y trámites)
 
 ## Lo que este plugin no hace

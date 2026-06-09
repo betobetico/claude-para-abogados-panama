@@ -24,18 +24,18 @@ Esta skill gestiona el portfolio de activos de propiedad intelectual e industria
 ### Paso 2 — Calcular fechas clave
 
 **Marcas:**
-- Duración: 10 años desde el registro, renovable por períodos iguales (Ley 35 de 1996) [verificar].
+- Duración: 10 años desde el registro, renovable por períodos iguales (Ley 35 de 1996).
 - Renovación: solicitar dentro del plazo previo al vencimiento, con eventual período de gracia con recargo [verificar].
 
 **Patentes:**
-- Duración máxima: 20 años desde la presentación de la solicitud (Ley 35 de 1996) [verificar].
+- Duración máxima: 20 años desde la presentación de la solicitud (Ley 35 de 1996).
 - Anualidades: pago periódico de tasas de mantenimiento ante la DIGERPI [verificar].
 
 **Diseños industriales:**
-- Vigencia y renovaciones según la Ley 35 de 1996 [verificar].
+- Vigencia y renovaciones según la Ley 35 de 1996.
 
 **Modelos de utilidad:**
-- Vigencia y mantenimiento según la Ley 35 de 1996 [verificar].
+- Vigencia y mantenimiento según la Ley 35 de 1996.
 
 ### Paso 3 — Evaluar estado
 

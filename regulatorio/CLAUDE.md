@@ -74,13 +74,13 @@ Operamos en los sectores [PLACEHOLDER]. El equipo de cumplimiento regulatorio cu
 
 | Sector | Supervisores principales | Normativa marco | Activo |
 |---|---|---|---|
-| Bancario | Superintendencia de Bancos de Panamá (SBP) | Ley Bancaria (Decreto Ley 9 de 1998, texto único) [verificar], Ley 23 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
-| Valores | Superintendencia del Mercado de Valores (SMV) | Texto Único de la Ley del Mercado de Valores (Decreto Ley 1 de 1999) [verificar], Ley 23 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
-| Seguros | Superintendencia de Seguros y Reaseguros de Panamá [verificar] | Ley 12 de 2012 (seguros) [verificar], Ley 23 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
-| Antiblanqueo (sujetos no financieros) | Intendencia de Supervisión y Regulación de Sujetos No Financieros [verificar], UAF | Ley 23 de 2015 [verificar], Decreto Ejecutivo 363 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
-| Fiduciario / agentes residentes | SBP / Intendencia de Sujetos No Financieros [verificar] | Ley 21 de 2017 (fideicomiso) [verificar], Ley 23 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
-| Casinos y juegos de suerte y azar | Junta de Control de Juegos [verificar] | Ley 23 de 2015 [verificar], normativa de la Junta de Control de Juegos [verificar] | [PLACEHOLDER ✓/✗] |
-| Zonas económicas especiales | AAUD (Ciudad del Saber), administraciones de Zona Libre de Colón, Panamá Pacífico, régimen SEM [verificar] | Régimen de cada zona + Ley 23 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
+| Bancario | Superintendencia de Bancos de Panamá (SBP) | Ley Bancaria (Decreto Ley 9 de 1998, texto único) [verificar], Ley 23 de 2015 | [PLACEHOLDER ✓/✗] |
+| Valores | Superintendencia del Mercado de Valores (SMV) | Texto Único de la Ley del Mercado de Valores (Decreto Ley 1 de 1999), Ley 23 de 2015 | [PLACEHOLDER ✓/✗] |
+| Seguros | Superintendencia de Seguros y Reaseguros de Panamá [verificar] | Ley 12 de 2012 (seguros) [verificar], Ley 23 de 2015 | [PLACEHOLDER ✓/✗] |
+| Antiblanqueo (sujetos no financieros) | Intendencia de Supervisión y Regulación de Sujetos No Financieros [verificar], UAF | Ley 23 de 2015, Decreto Ejecutivo 363 de 2015 [verificar] | [PLACEHOLDER ✓/✗] |
+| Fiduciario / agentes residentes | SBP / Intendencia de Sujetos No Financieros [verificar] | Ley 21 de 2017 (fideicomiso) [verificar], Ley 23 de 2015 | [PLACEHOLDER ✓/✗] |
+| Casinos y juegos de suerte y azar | Junta de Control de Juegos [verificar] | Ley 23 de 2015, normativa de la Junta de Control de Juegos [verificar] | [PLACEHOLDER ✓/✗] |
+| Zonas económicas especiales | AAUD (Ciudad del Saber), administraciones de Zona Libre de Colón, Panamá Pacífico, régimen SEM [verificar] | Régimen de cada zona + Ley 23 de 2015 | [PLACEHOLDER ✓/✗] |
 | [Otro sector] | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER ✓/✗] |
 
 ---
@@ -181,7 +181,7 @@ Detección → Análisis de impacto → Propuesta de adaptación → Aprobación
 ## Referencias legislativas principales
 
 - **Ley 23 de 2015** — prevención del blanqueo de capitales, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva [verificar]
-- **Decreto Ejecutivo 363 de 2015** — reglamenta la Ley 23 de 2015 [verificar]
+- **Decreto Ejecutivo 363 de 2015** — reglamenta la Ley 23 de 2015
 - **Ley 38 de 2000** — procedimiento administrativo general [verificar]
 - **Normativa sectorial específica** — según sectores activos en la tabla de sectores regulados (acuerdos de la SBP, acuerdos de la SMV, guías de la UAF)
 - **Estándares internacionales de referencia comparada** — Recomendaciones del GAFI/FATF (no vinculantes como derecho interno, pero base de la normativa panameña) [verificar]

@@ -28,7 +28,7 @@ Este módulo asiste en la revisión, gestión y seguimiento de contratos mercant
 ## Legislación de referencia
 
 - **Código Civil de Panamá** (Libro IV — obligaciones y contratos) [verificar]
-- **Código de Comercio de Panamá** (Ley 2 de 1916 [verificar] — contratos mercantiles, compraventa mercantil, comisión, depósito)
+- **Código de Comercio de Panamá** (Ley 2 de 1916 — contratos mercantiles, compraventa mercantil, comisión, depósito)
 - **Ley 51 de 2008** sobre documentos y firmas electrónicas y prestación de servicios de almacenamiento tecnológico de documentos [verificar] (contratación electrónica)
 - **Ley 45 de 2007** de protección al consumidor y defensa de la competencia [verificar] (control de cláusulas abusivas, ACODECO)
 

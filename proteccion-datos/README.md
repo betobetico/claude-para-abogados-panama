@@ -28,7 +28,7 @@ Este módulo cubre la gestión operativa diaria de protección de datos: registr
 ## Legislación de referencia
 
 - **Ley 81 de 2019** — sobre protección de datos personales [verificar]
-- **Decreto Ejecutivo 285 de 2021** — que reglamenta la Ley 81 de 2019 [verificar]
+- **Decreto Ejecutivo 285 de 2021** — que reglamenta la Ley 81 de 2019
 - **Guías ANTAI** — guías y directrices publicadas por la Autoridad Nacional de Transparencia y Acceso a la Información (ANTAI)
 - **Referencia comparada internacional:** el RGPD de la Unión Europea puede consultarse como buena práctica, pero no es derecho aplicable en Panamá.
 

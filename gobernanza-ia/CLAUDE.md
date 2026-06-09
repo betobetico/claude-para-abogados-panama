@@ -42,7 +42,7 @@ para cambiar en todos los plugins. Los campos específicos de gobernanza de IA s
 Desarrollamos o usamos [N] sistemas de IA. El equipo de gobernanza de IA cuenta con [N] personas.
 [Responsable de IA / Oficial de protección de datos / Comité de IA: nombre o ninguno]. La escalación va a [nombre].
 
-**Huella regulatoria IA:** [PLACEHOLDER — Panamá no tiene ley de IA vinculante; marco interno de gobernanza + Ley 81 de 2019 [verificar] sobre protección de datos (decisiones automatizadas) + normativa sectorial específica + marcos internacionales de referencia] *(Desde perfil-empresa.md — editar allí para cambiar en todos los plugins)*
+**Huella regulatoria IA:** [PLACEHOLDER — Panamá no tiene ley de IA vinculante; marco interno de gobernanza + Ley 81 de 2019 sobre protección de datos (decisiones automatizadas) + normativa sectorial específica + marcos internacionales de referencia] *(Desde perfil-empresa.md — editar allí para cambiar en todos los plugins)*
 
 **Asuntos abiertos de gobernanza IA:** [PLACEHOLDER]
 
@@ -99,7 +99,7 @@ Desarrollamos o usamos [N] sistemas de IA. El equipo de gobernanza de IA cuenta 
 
 ## Evaluaciones de impacto de IA
 
-**Cuándo es obligatoria:** [PLACEHOLDER — por política interna: sistemas de alto riesgo, decisiones automatizadas con efectos sobre titulares de datos bajo la Ley 81 de 2019 [verificar], evaluaciones de impacto en derechos de las personas]
+**Cuándo es obligatoria:** [PLACEHOLDER — por política interna: sistemas de alto riesgo, decisiones automatizadas con efectos sobre titulares de datos bajo la Ley 81 de 2019, evaluaciones de impacto en derechos de las personas]
 
 | Evaluación | Sistema | Fecha | Resultado | Próxima revisión |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ Desarrollamos o usamos [N] sistemas de IA. El equipo de gobernanza de IA cuenta 
 **Política de transparencia:** [PLACEHOLDER — cómo informamos a los usuarios de que interactúan con IA]
 **Obligaciones de transparencia (marco interno):** [PLACEHOLDER — etiquetado de contenido generado, notificación de chatbots]
 **Mecanismo de explicabilidad:** [PLACEHOLDER — cómo explicamos las decisiones automatizadas a los afectados]
-**Derechos del titular ante decisiones automatizadas (Ley 81 de 2019 [verificar]):** [PLACEHOLDER — proceso implementado]
+**Derechos del titular ante decisiones automatizadas (Ley 81 de 2019):** [PLACEHOLDER — proceso implementado]
 
 ---
 
@@ -186,7 +186,7 @@ Desarrollamos o usamos [N] sistemas de IA. El equipo de gobernanza de IA cuenta 
 *Panamá no cuenta con una ley de IA vinculante. La gobernanza se apoya en normativa panameña conexa, principios y marcos internacionales de referencia.*
 
 **Normativa panameña conexa**
-- **Protección de datos personales** — Ley 81 de 2019 [verificar] y Decreto Ejecutivo 285 de 2021 [verificar]; autoridad: ANTAI
+- **Protección de datos personales** — Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021; autoridad: ANTAI
 - **Iniciativas/anteproyectos locales en materia de IA** — si procede [verificar]
 
 **Marcos internacionales de referencia (no vinculantes en Panamá, soft law / estándares)**

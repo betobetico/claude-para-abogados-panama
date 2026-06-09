@@ -41,22 +41,22 @@ Si no queda claro, preguntar. Invertir la dirección invierte cada recomendació
 
 ---
 
-## Cláusulas obligatorias del encargo de tratamiento (Ley 81 de 2019) [verificar]
+## Cláusulas obligatorias del encargo de tratamiento (Ley 81 de 2019)
 
 Verificar que el contrato incluye **todas** las cláusulas obligatorias:
 
 | # | Cláusula obligatoria | Referencia | ¿Presente? | Observaciones |
 |---|---|---|---|---|
-| 1 | Objeto, duración, naturaleza y finalidad del tratamiento | Ley 81 de 2019 [verificar] | | |
-| 2 | Tipo de datos y categorías de titulares | Ley 81 de 2019 [verificar] | | |
-| 3 | Tratar solo siguiendo instrucciones documentadas del responsable | Ley 81 de 2019 [verificar] | | |
-| 4 | Confidencialidad del personal autorizado | Ley 81 de 2019 [verificar] | | |
-| 5 | Medidas de seguridad técnicas y organizativas | Ley 81 de 2019 [verificar] | | |
-| 6 | Régimen de subencargados | Ley 81 de 2019 [verificar] | | |
-| 7 | Asistencia al responsable en derechos del titular | Ley 81 de 2019 [verificar] | | |
-| 8 | Asistencia en la evaluación de impacto | Ley 81 de 2019 [verificar] | | |
-| 9 | Devolución o supresión de datos al finalizar | Ley 81 de 2019 [verificar] | | |
-| 10 | Poner a disposición información para auditoría | Ley 81 de 2019 [verificar] | | |
+| 1 | Objeto, duración, naturaleza y finalidad del tratamiento | Ley 81 de 2019 | | |
+| 2 | Tipo de datos y categorías de titulares | Ley 81 de 2019 | | |
+| 3 | Tratar solo siguiendo instrucciones documentadas del responsable | Ley 81 de 2019 | | |
+| 4 | Confidencialidad del personal autorizado | Ley 81 de 2019 | | |
+| 5 | Medidas de seguridad técnicas y organizativas | Ley 81 de 2019 | | |
+| 6 | Régimen de subencargados | Ley 81 de 2019 | | |
+| 7 | Asistencia al responsable en derechos del titular | Ley 81 de 2019 | | |
+| 8 | Asistencia en la evaluación de impacto | Ley 81 de 2019 | | |
+| 9 | Devolución o supresión de datos al finalizar | Ley 81 de 2019 | | |
+| 10 | Poner a disposición información para auditoría | Ley 81 de 2019 | | |
 
 ---
 
@@ -81,9 +81,9 @@ Para cada término, comparar lo que dice el contrato con la posición del playbo
 |---|---|---|
 | Sin lista de subencargados | No sabemos quién trata los datos | Exigir lista + notificación previa |
 | "Medidas de seguridad adecuadas" sin anexo | Promesa vacía | Exigir anexo con controles o referencia a ISO 27001 / SOC 2 |
-| Sin plazo de notificación de brechas | Nos avisan cuando quieren | Exigir plazo concreto (ej. 24-48h), coherente con el plazo de notificación a la ANTAI de la Ley 81 de 2019 [verificar] |
+| Sin plazo de notificación de brechas | Nos avisan cuando quieren | Exigir plazo concreto (ej. 24-48h), coherente con el plazo de notificación a la ANTAI de la Ley 81 de 2019 |
 | Proveedor usa datos para "mejora del servicio" | Posible tratamiento para fines propios | Eliminar; tratamiento limitado a las instrucciones del responsable |
-| Sin mecanismo de transferencia internacional | Transferencia ilícita | Exigir cláusulas contractuales de protección de datos / país con nivel adecuado / consentimiento del titular conforme a la Ley 81 de 2019 [verificar] |
+| Sin mecanismo de transferencia internacional | Transferencia ilícita | Exigir cláusulas contractuales de protección de datos / país con nivel adecuado / consentimiento del titular conforme a la Ley 81 de 2019 |
 | Sin compromiso de supresión | Datos retenidos indefinidamente | Exigir supresión + certificado al finalizar |
 
 ### Puntos críticos como encargado (revisión defensiva)
@@ -157,7 +157,7 @@ Marcar desajustes — normalmente es la política la que está desactualizada.
 ## Legislación de referencia
 
 - Ley 81 de 2019 — encargado del tratamiento, cláusulas obligatorias, seguridad y transferencias internacionales [verificar]
-- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019 [verificar]
+- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019
 - Guías y resoluciones de la ANTAI sobre contratos de encargado del tratamiento
 - Ley 23 de 2015 — prevención de blanqueo (conservación de datos por sujetos obligados ante la UAF)
 

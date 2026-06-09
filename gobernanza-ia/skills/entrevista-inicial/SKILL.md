@@ -38,7 +38,7 @@ Re-ejecuta la comprobación de integraciones disponibles y actualiza `## Integra
 
 Aprender cómo *esta* organización gestiona la IA — qué sistemas tiene desplegados, cómo los clasifica, qué exige a los proveedores, qué política interna aplica a la IA generativa. Escribirlo en `~/.claude/plugins/config/claude-para-abogados/gobernanza-ia/CLAUDE.md` para que todos los demás skills lean desde el mismo entendimiento.
 
-Panamá no cuenta con una ley de IA vinculante, por lo que la gobernanza se construye sobre principios, política interna y marcos internacionales de referencia (OCDE, UNESCO, NIST AI RMF, ISO/IEC 42001), más la normativa panameña conexa de protección de datos (Ley 81 de 2019 [verificar], supervisada por la ANTAI). La gobernanza real varía enormemente: una empresa que solo usa ChatGPT para marketing tiene poco en común con una que despliega modelos de scoring crediticio. La entrevista identifica cuál es esta antes de nada.
+Panamá no cuenta con una ley de IA vinculante, por lo que la gobernanza se construye sobre principios, política interna y marcos internacionales de referencia (OCDE, UNESCO, NIST AI RMF, ISO/IEC 42001), más la normativa panameña conexa de protección de datos (Ley 81 de 2019, supervisada por la ANTAI). La gobernanza real varía enormemente: una empresa que solo usa ChatGPT para marketing tiene poco en común con una que despliega modelos de scoring crediticio. La entrevista identifica cuál es esta antes de nada.
 
 ## Comprobación de arranque en frío
 
@@ -153,7 +153,7 @@ Pausa. Después:
 >    - Uso de datos para entrenamiento del modelo
 >    - Garantías de buenas prácticas de gobernanza de IA (NIST AI RMF / ISO 42001)
 >    - Auditoría y transparencia
->    - Localización de datos y transferencias internacionales (Ley 81 de 2019 [verificar])
+>    - Localización de datos y transferencias internacionales (Ley 81 de 2019)
 >    - Responsabilidad por outputs incorrectos o sesgados
 > 3. **Proceso de revisión** — quién aprueba la contratación de un nuevo proveedor de IA? Hay un proceso formal o es ad hoc?
 >
@@ -189,7 +189,7 @@ Pausa. Después:
 
 **Registro de sistemas:** Extraer cada sistema, su clasificación de riesgo, su estado y los datos que procesa. Comparar con lo declarado en la entrevista.
 
-**Política de uso:** Mapear las restricciones y permisos. Identificar lagunas respecto al marco interno de referencia y a la normativa conexa de protección de datos (Ley 81 de 2019 [verificar]).
+**Política de uso:** Mapear las restricciones y permisos. Identificar lagunas respecto al marco interno de referencia y a la normativa conexa de protección de datos (Ley 81 de 2019).
 
 **Contrato con proveedor:** Extraer las cláusulas clave. Identificar deltas con las posiciones declaradas — "dijiste que exigís que no usen datos para entrenamiento, pero el contrato con [proveedor] no tiene esa cláusula."
 
@@ -341,5 +341,5 @@ La escalación va a [nombre].
 - **No confundir el rol de "implementador" con el de "proveedor".** La mayoría de organizaciones son implementadores (usan IA de terceros), no proveedores (desarrollan modelos). Los controles recomendados son distintos.
 - **No dar por hecho que existe una política de IA generativa.** La mayoría de organizaciones en Panamá todavía no la tienen formalizada. Si no existe, señalarlo como gap pero no bloquearse.
 - **No escribir posiciones contractuales genéricas.** Si el equipo no ha negociado muchos contratos con proveedores de IA, decirlo: `[POSICIONES NO CONSOLIDADAS — este equipo tiene poca experiencia negociando contratos de IA. Tratar como puntos de partida.]`
-- **No olvidar la dimensión de protección de datos.** Gobernanza de IA y protección de datos se solapan (evaluación de impacto, base legal para tratamiento automatizado). En Panamá, la dimensión vinculante suele ser la Ley 81 de 2019 [verificar]. Preguntar si el oficial de protección de datos está implicado en gobernanza IA.
+- **No olvidar la dimensión de protección de datos.** Gobernanza de IA y protección de datos se solapan (evaluación de impacto, base legal para tratamiento automatizado). En Panamá, la dimensión vinculante suele ser la Ley 81 de 2019. Preguntar si el oficial de protección de datos está implicado en gobernanza IA.
 - **No inventar plazos legales de IA.** No existe un calendario legal de obligaciones de IA en Panamá. Si se citan hitos, deben ser de los marcos de referencia voluntarios o de la normativa conexa de datos, y marcados como tales.

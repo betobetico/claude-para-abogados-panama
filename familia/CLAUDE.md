@@ -91,7 +91,7 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 
 | Materia | Posición habitual de la firma | Consideraciones |
 |---|---|---|
-| Guarda y crianza | [PLACEHOLDER — guarda compartida / exclusiva como preferencia] | Interés superior del menor (Código de la Familia [verificar]); criterio de la jurisdicción de familia |
+| Guarda y crianza | [PLACEHOLDER — guarda compartida / exclusiva como preferencia] | Interés superior del menor (Código de la Familia); criterio de la jurisdicción de familia |
 | Régimen de comunicación y visitas | [PLACEHOLDER — modelo estándar: fines de semana alternos + mitad vacaciones] | [PLACEHOLDER] |
 | Uso de vivienda familiar | [PLACEHOLDER — criterio: atribución al progenitor guardador / interés del menor] | Código de la Familia [verificar art.] |
 | Pensión alimenticia a los hijos | [PLACEHOLDER — criterio de proporcionalidad] | Código de la Familia [verificar arts.]; gastos ordinarios vs extraordinarios |
@@ -131,9 +131,9 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 |---|---|---|
 | Reconocimiento | Unión de hecho con efectos de matrimonio tras cumplir los requisitos legales | Código de la Familia [verificar arts.] |
 | Requisitos | [PLACEHOLDER — convivencia estable, singular, por el tiempo legal; ausencia de impedimentos] | [verificar] |
-| Efectos patrimoniales | [PLACEHOLDER — aplicación del régimen patrimonial del matrimonio una vez reconocida] | Código de la Familia [verificar] |
+| Efectos patrimoniales | [PLACEHOLDER — aplicación del régimen patrimonial del matrimonio una vez reconocida] | Código de la Familia |
 
-**Nota:** La unión de hecho reconocida produce, en su caso, efectos análogos al matrimonio conforme al Código de la Familia. [verificar]
+**Nota:** La unión de hecho reconocida produce, en su caso, efectos análogos al matrimonio conforme al Código de la Familia.
 
 ---
 
@@ -141,7 +141,7 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 
 | Campo | Detalle | Base legal |
 |---|---|---|
-| Marco legal | Mediación y métodos alternos de solución de conflictos | Decreto Ley 5 de 1999 [verificar] |
+| Marco legal | Mediación y métodos alternos de solución de conflictos | Decreto Ley 5 de 1999 |
 | Centros / acreditación | [PLACEHOLDER — centros de métodos alternos del Órgano Judicial / privados] | [verificar] |
 | Mediadores acreditados en el equipo | [PLACEHOLDER — sí/no, nombres, número de registro] | |
 | Derivación judicial a mediación | [PLACEHOLDER — frecuencia, juzgados que derivan habitualmente] | [verificar] |
@@ -152,9 +152,9 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 
 | Tipo | Cuándo | Plazo | Base legal |
 |---|---|---|---|
-| Medidas de protección (violencia doméstica) | Urgencia: riesgo para la víctima | [PLACEHOLDER — plazo] | Ley 82 de 2013 [verificar] |
-| Medidas provisionales (con la demanda) | Con la admisión de la demanda | Vigentes hasta sentencia firme | Código Judicial / Código de la Familia [verificar] |
-| Medidas definitivas | En sentencia | Hasta modificación judicial | Código de la Familia [verificar] |
+| Medidas de protección (violencia doméstica) | Urgencia: riesgo para la víctima | [PLACEHOLDER — plazo] | Ley 82 de 2013 |
+| Medidas provisionales (con la demanda) | Con la admisión de la demanda | Vigentes hasta sentencia firme | Código Judicial / Código de la Familia |
+| Medidas definitivas | En sentencia | Hasta modificación judicial | Código de la Familia |
 
 ---
 
@@ -164,7 +164,7 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 |---|---|---|---|
 | Impago de pensión alimenticia | Ejecución; posible apremio corporal / responsabilidad penal por incumplimiento de deberes de familia | [verificar] | Código de la Familia / Código Penal [verificar arts.] |
 | Incumplimiento de régimen de comunicación y visitas | Ejecución no dineraria; medidas coercitivas; revisión de la guarda en casos graves | — | Código de la Familia [verificar art.] |
-| Incumplimiento de uso de vivienda | Lanzamiento / desalojo | — | Código Judicial [verificar] |
+| Incumplimiento de uso de vivienda | Lanzamiento / desalojo | — | Código Judicial |
 
 ---
 
@@ -186,9 +186,9 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 
 | Campo | Detalle | Base legal |
 |---|---|---|
-| Marco legal | Femicidio y violencia contra la mujer; violencia doméstica | Ley 82 de 2013 [verificar] |
+| Marco legal | Femicidio y violencia contra la mujer; violencia doméstica | Ley 82 de 2013 |
 | Medidas de protección | Medidas cautelares a favor de la víctima | Ley 82 de 2013 [verificar art.] |
-| Medidas civiles asociadas | Atribución de vivienda, guarda, régimen de comunicación, pensión alimenticia | Código de la Familia / Ley 82 de 2013 [verificar] |
+| Medidas civiles asociadas | Atribución de vivienda, guarda, régimen de comunicación, pensión alimenticia | Código de la Familia / Ley 82 de 2013 |
 | Suspensión de régimen de comunicación y visitas | Posible si el menor es víctima directa o indirecta | Código de la Familia [verificar art.] |
 
 **Nota sensible:** Los asuntos de violencia doméstica requieren especial cuidado en la confidencialidad y protección de datos de la víctima (Ley 81 de 2019 de protección de datos personales).
@@ -210,14 +210,14 @@ El equipo de familia cuenta con [N] personas. Mediadores familiares: [PLACEHOLDE
 
 ## Referencias legislativas principales
 
-- **Código de la Familia de Panamá** (Ley 3 de 1994 [verificar]) — matrimonio, filiación, patria potestad, guarda y crianza, alimentos, régimen patrimonial del matrimonio, uniones de hecho
-- **Código Judicial de Panamá** — procesos de familia y jurisdicción de familia (Ley 42 de 1999 [verificar])
-- **Ley 82 de 2013** [verificar] — femicidio y violencia contra la mujer
-- **Ley 46 de 2013** [verificar] — adopciones
-- **Decreto Ley 5 de 1999** [verificar] — métodos alternos de solución de conflictos (mediación, arbitraje)
+- **Código de la Familia de Panamá** (Ley 3 de 1994) — matrimonio, filiación, patria potestad, guarda y crianza, alimentos, régimen patrimonial del matrimonio, uniones de hecho
+- **Código Judicial de Panamá** — procesos de familia y jurisdicción de familia (Ley 42 de 1999)
+- **Ley 82 de 2013** — femicidio y violencia contra la mujer
+- **Ley 46 de 2013** — adopciones
+- **Decreto Ley 5 de 1999** — métodos alternos de solución de conflictos (mediación, arbitraje)
 - **Ley 81 de 2019** — protección de datos personales (víctimas y menores)
 - **Convenio de La Haya 1980** — sobre Aspectos Civiles de la Sustracción Internacional de Menores [verificar ratificación]
-- **Código de Derecho Internacional Privado de Panamá** (Ley 7 de 2014 [verificar]) y Código de Bustamante — efectos del matrimonio con elemento internacional
+- **Código de Derecho Internacional Privado de Panamá** (Ley 61 de 2015) y Código de Bustamante — efectos del matrimonio con elemento internacional
 
 ---
 

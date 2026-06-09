@@ -22,7 +22,7 @@ Este módulo está diseñado para consultorios jurídicos universitarios y servi
 ## Casos de uso típicos
 
 - Entrevista inicial con un cliente que acude al consultorio por un problema de arrendamiento.
-- Elaboración de un memo interno analizando las opciones legales de un caso de consumo (Ley 45 de 2007 [verificar]).
+- Elaboración de un memo interno analizando las opciones legales de un caso de consumo (Ley 45 de 2007).
 - Investigación de jurisprudencia de la Corte Suprema de Justicia sobre una cuestión de responsabilidad civil.
 - Redacción de una carta de reclamación a un proveedor en nombre de un cliente del consultorio.
 

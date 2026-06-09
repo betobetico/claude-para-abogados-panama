@@ -108,7 +108,7 @@ La demanda solo procede una vez agotada la vía gubernativa (salvo excepciones l
 
 | Regla | Detalle |
 |---|---|
-| **Condena en costas** | La Sala puede condenar en costas a la parte vencida conforme a las reglas del Código Judicial [verificar] |
+| **Condena en costas** | La Sala puede condenar en costas a la parte vencida conforme a las reglas del Código Judicial |
 | **Liquidación** | Se liquidan según las tarifas y reglas procesales aplicables [verificar] |
 
 ---

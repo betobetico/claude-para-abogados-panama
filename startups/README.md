@@ -29,11 +29,11 @@ Este módulo asiste en las necesidades jurídicas específicas de empresas emerg
 ## Legislación de referencia
 
 - **Ley de sociedades anónimas** — Ley 32 de 1927, sobre sociedades anónimas
-- **Sociedades de responsabilidad limitada** — Ley 4 de 2009 [verificar], sobre sociedades de responsabilidad limitada
+- **Sociedades de responsabilidad limitada** — Ley 4 de 2009, sobre sociedades de responsabilidad limitada
 - **Código de Comercio de Panamá** — disposiciones mercantiles generales
 - **Código Fiscal** — Impuesto sobre la Renta (ISR) bajo el principio de territorialidad [verificar]
 - **Régimen SEM** — Ley 41 de 2007, sobre Sedes de Empresas Multinacionales [verificar]
-- **Ciudad del Saber** — Decreto Ley 6 de 1998 [verificar]
+- **Ciudad del Saber** — Decreto Ley 6 de 1998
 
 ## Lo que este plugin no hace
 

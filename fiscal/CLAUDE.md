@@ -138,11 +138,11 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 
 | Procedimiento | Normativa | Plazos clave | Estado actual |
 |---|---|---|---|
-| Fiscalización / auditoría DGI | Código Fiscal [verificar] | [PLACEHOLDER] [verificar] | [PLACEHOLDER] |
-| Resolución de alcance / liquidación adicional | Código Fiscal [verificar] | [PLACEHOLDER] [verificar] | [PLACEHOLDER] |
-| Recurso de reconsideración (ante la DGI) | Código Fiscal / Ley 38 de 2000 [verificar] | [PLACEHOLDER — 15 días hábiles] [verificar] | [PLACEHOLDER] |
-| Recurso de apelación (Tribunal Administrativo Tributario, TAT) | Ley 8 de 2010 [verificar] | [PLACEHOLDER — 15 días hábiles] [verificar] | [PLACEHOLDER] |
-| Demanda contencioso-administrativa | Sala Tercera de la CSJ — Ley 38 de 2000 [verificar] | [PLACEHOLDER — 2 meses] [verificar] | [PLACEHOLDER] |
+| Fiscalización / auditoría DGI | Código Fiscal | [PLACEHOLDER] [verificar] | [PLACEHOLDER] |
+| Resolución de alcance / liquidación adicional | Código Fiscal | [PLACEHOLDER] [verificar] | [PLACEHOLDER] |
+| Recurso de reconsideración (ante la DGI) | Código Fiscal / Ley 38 de 2000 | [PLACEHOLDER — 15 días hábiles] [verificar] | [PLACEHOLDER] |
+| Recurso de apelación (Tribunal Administrativo Tributario, TAT) | Ley 8 de 2010 | [PLACEHOLDER — 15 días hábiles] [verificar] | [PLACEHOLDER] |
+| Demanda contencioso-administrativa | Sala Tercera de la CSJ — Ley 38 de 2000 | [PLACEHOLDER — 2 meses] [verificar] | [PLACEHOLDER] |
 
 ---
 

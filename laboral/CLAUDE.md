@@ -67,9 +67,9 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Tipo de contrato | Referencia legal | Uso habitual | Posición house |
 |---|---|---|---|
-| Por tiempo indefinido | Código de Trabajo [verificar] | [PLACEHOLDER] | [PLACEHOLDER — ej., "Tipo por defecto"] |
-| Por tiempo definido | Código de Trabajo [verificar] | [PLACEHOLDER] | [PLACEHOLDER — ej., "Solo con causa real; vigilar la conversión a indefinido"] |
-| Por obra determinada | Código de Trabajo [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Por tiempo indefinido | Código de Trabajo | [PLACEHOLDER] | [PLACEHOLDER — ej., "Tipo por defecto"] |
+| Por tiempo definido | Código de Trabajo | [PLACEHOLDER] | [PLACEHOLDER — ej., "Solo con causa real; vigilar la conversión a indefinido"] |
+| Por obra determinada | Código de Trabajo | [PLACEHOLDER] | [PLACEHOLDER] |
 | De aprendizaje / formación | Código de Trabajo / INADEH [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
 
 **Modelos house de contrato:** [PLACEHOLDER — ej., "Repositorio en Drive/carpeta X; usar siempre modelo house"]
@@ -117,8 +117,8 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Período de prueba
 
-**Duración máxima legal (Código de Trabajo [verificar]):**
-- Confirmar el límite máximo de período de prueba aplicable bajo el Código de Trabajo [verificar]
+**Duración máxima legal (Código de Trabajo):**
+- Confirmar el límite máximo de período de prueba aplicable bajo el Código de Trabajo
 
 **Duración según convención aplicable:** [PLACEHOLDER]
 
@@ -150,13 +150,13 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Salario mínimo vigente (MITRADEL):** [PLACEHOLDER — ej., "B/. X.XX por hora según región y actividad; verificar el decreto de salario mínimo vigente"] [verificar]
 
-**Jornada máxima legal:** confirmar la jornada máxima diurna, mixta y nocturna del Código de Trabajo [verificar]
+**Jornada máxima legal:** confirmar la jornada máxima diurna, mixta y nocturna del Código de Trabajo
 **Jornada según convención:** [PLACEHOLDER]
 
 **Registro de jornada y asistencia:** [PLACEHOLDER]
 
 **Sobretiempo (horas extraordinarias):**
-- Recargos según el Código de Trabajo [verificar]
+- Recargos según el Código de Trabajo
 - Compensación: [PLACEHOLDER]
 
 **Décimo tercer mes:**
@@ -170,7 +170,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Complementos salariales habituales:** [PLACEHOLDER — ej., "Bono de transporte, comisiones, viáticos, variable por objetivos"]
 
-**Teletrabajo (Ley 126 de 2020 [verificar]):**
+**Teletrabajo (Ley 126 de 2020):**
 - Acuerdo escrito de teletrabajo
 - [PLACEHOLDER — política house de teletrabajo]
 
@@ -182,8 +182,8 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 |---|---|---|---|
 | Licencia de maternidad | 14 semanas (6 prenatales, 8 posnatales) [verificar] | Código de Trabajo / CSS [verificar] | [PLACEHOLDER — fuero de maternidad] |
 | Licencia de paternidad | [verificar] | Ley aplicable [verificar] | [PLACEHOLDER] |
-| Licencia por duelo | [verificar] | Código de Trabajo [verificar] | [PLACEHOLDER] |
-| Licencia no remunerada | Según acuerdo | Código de Trabajo [verificar] | [PLACEHOLDER] |
+| Licencia por duelo | [verificar] | Código de Trabajo | [PLACEHOLDER] |
+| Licencia no remunerada | Según acuerdo | Código de Trabajo | [PLACEHOLDER] |
 | Incapacidad por enfermedad / riesgo profesional | Según certificación de la CSS | Régimen de la CSS [verificar] | [PLACEHOLDER] |
 | [PLACEHOLDER — permisos adicionales de la convención] | | | |
 
@@ -206,7 +206,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Formato de avisos de despido:** [PLACEHOLDER — ej., "Modelo house obligatorio; siempre revisar por abogado"]
 **Formato de informes laborales:** [PLACEHOLDER — ej., "Encabezado, antecedentes, normativa aplicable, análisis, recomendación"]
-**Citas normativas:** [PLACEHOLDER — ej., "art. 213 del Código de Trabajo [verificar]; fallo de la Sala de lo Laboral de la CSJ de DD/MM/AAAA [verificar]"]
+**Citas normativas:** [PLACEHOLDER — ej., "art. 213 del Código de Trabajo; fallo de la Sala de lo Laboral de la CSJ de DD/MM/AAAA [verificar]"]
 **Idioma:** [PLACEHOLDER — ej., "Español; traducciones para trabajadores extranjeros si es necesario"]
 
 ---

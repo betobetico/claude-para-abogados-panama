@@ -26,7 +26,7 @@ Identificar los regímenes de incentivos y opciones migratorias aplicables a una
 
 ## Incentivos y regímenes disponibles
 
-### 1. Régimen SEM (Sede de Empresa Multinacional) — Ley 41 de 2007 [verificar]
+### 1. Régimen SEM (Sede de Empresa Multinacional) — Ley 41 de 2007
 
 | Beneficio | Detalle | Requisito |
 |---|---|---|
@@ -37,7 +37,7 @@ Identificar los regímenes de incentivos y opciones migratorias aplicables a una
 
 **Idea clave:** el SEM es para grupos multinacionales que centralizan servicios (gestión, tesorería, I+D, soporte) desde Panamá. Encaja para startups que ya operan en varios países.
 
-### 2. Ciudad del Saber — Decreto Ley 6 de 1998 [verificar]
+### 2. Ciudad del Saber — Decreto Ley 6 de 1998
 
 | Beneficio | Detalle |
 |---|---|
@@ -47,7 +47,7 @@ Identificar los regímenes de incentivos y opciones migratorias aplicables a una
 
 **Requisito:** ser admitido como empresa o entidad afiliada a la Fundación Ciudad del Saber, con un proyecto alineado a su misión (tecnología, investigación, innovación, emprendimiento).
 
-### 3. Panamá Pacífico — Ley 41 de 2004 [verificar]
+### 3. Panamá Pacífico — Ley 41 de 2004
 
 | Beneficio | Detalle |
 |---|---|
@@ -55,7 +55,7 @@ Identificar los regímenes de incentivos y opciones migratorias aplicables a una
 | Actividades cubiertas | Servicios multinacionales, logística, manufactura ligera, back-office, call centers [verificar] |
 | Ventanilla única | Trámites empresariales y migratorios centralizados |
 
-### 4. EMMA — Empresa Multinacional de Servicios relacionados con la Manufactura — Ley 159 de 2020 [verificar]
+### 4. EMMA — Empresa Multinacional de Servicios relacionados con la Manufactura — Ley 159 de 2020
 
 | Beneficio | Detalle |
 |---|---|
@@ -124,10 +124,10 @@ BORRADOR — MAPA DE INCENTIVOS Y MIGRACIÓN — REVISIÓN FISCAL Y MIGRATORIA O
 
 ## Referencias legislativas
 
-- **Ley 41 de 2007 [verificar]** — régimen de Sedes de Empresas Multinacionales (SEM).
-- **Decreto Ley 6 de 1998 [verificar]** — Ciudad del Saber.
-- **Ley 41 de 2004 [verificar]** — Área Económica Especial Panamá Pacífico.
-- **Ley 159 de 2020 [verificar]** — Empresa Multinacional de Servicios relacionados con la Manufactura (EMMA).
+- **Ley 41 de 2007** — régimen de Sedes de Empresas Multinacionales (SEM).
+- **Decreto Ley 6 de 1998** — Ciudad del Saber.
+- **Ley 41 de 2004** — Área Económica Especial Panamá Pacífico.
+- **Ley 159 de 2020** — Empresa Multinacional de Servicios relacionados con la Manufactura (EMMA).
 - **Código Fiscal de Panamá** — Impuesto sobre la Renta (ISR), principio de territorialidad.
 - **Decreto Ley 3 de 2008 y normativa migratoria [verificar]** — categorías de visa de inversionista, países amigos, jubilado pensionado.
 

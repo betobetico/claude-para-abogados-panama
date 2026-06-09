@@ -154,7 +154,7 @@ BORRADOR — GUÍA DE CONTRATACIÓN — REVISIÓN LABORAL OBLIGATORIA
 - **Código de Trabajo de Panamá** — relación laboral, tipos de contrato, despido, prestaciones.
 - **Ley de la Caja de Seguro Social (CSS)** — cuotas obrero-patronales [verificar].
 - **Ley del décimo tercer mes** — Ley 15 de 1971 [verificar].
-- **Ley 126 de 2020 [verificar]** — teletrabajo.
+- **Ley 126 de 2020** — teletrabajo.
 - **Decreto de salario mínimo vigente [verificar]** — MITRADEL.
 
 ## Guardarraíles

@@ -87,10 +87,10 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Presupuesto | Descripción | Base legal |
 |---|---|---|
-| Subjetivo | Persona natural o jurídica comerciante / deudor sujeto a la Ley 12 de 2016 [verificar] | Ley 12 de 2016 [verificar] |
-| Objetivo | Insolvencia: el deudor no puede atender el cumplimiento de sus obligaciones | Ley 12 de 2016 [verificar] |
-| Cesación de pagos | El deudor ha incumplido el pago de obligaciones líquidas y exigibles | Ley 12 de 2016 [verificar] |
-| Insolvencia inminente | El deudor prevé que no podrá cumplir [verificar] | Ley 12 de 2016 [verificar] |
+| Subjetivo | Persona natural o jurídica comerciante / deudor sujeto a la Ley 12 de 2016 | Ley 12 de 2016 |
+| Objetivo | Insolvencia: el deudor no puede atender el cumplimiento de sus obligaciones | Ley 12 de 2016 |
+| Cesación de pagos | El deudor ha incumplido el pago de obligaciones líquidas y exigibles | Ley 12 de 2016 |
+| Insolvencia inminente | El deudor prevé que no podrá cumplir [verificar] | Ley 12 de 2016 |
 
 ---
 
@@ -99,9 +99,9 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 | Campo | Detalle |
 |---|---|
 | Finalidad | Recuperar la empresa viable mediante un plan de reorganización acordado con los acreedores |
-| Legitimación | El propio deudor; en su caso, acreedores conforme a la Ley 12 de 2016 [verificar] |
+| Legitimación | El propio deudor; en su caso, acreedores conforme a la Ley 12 de 2016 |
 | Efectos | Protección frente a ejecuciones / suspensión de procesos de ejecución durante el trámite [verificar] |
-| Administrador / restructurador | Designación por el juez conforme a la Ley 12 de 2016 [verificar] |
+| Administrador / restructurador | Designación por el juez conforme a la Ley 12 de 2016 |
 | Desistimiento | Conversión en proceso de liquidación si no se aprueba o se incumple el plan [verificar] |
 
 **Solicitudes de reorganización activas:** [PLACEHOLDER]
@@ -112,7 +112,7 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Tipo | Quién solicita | Plazo | Efectos principales |
 |---|---|---|---|
-| Voluntario | El propio deudor | Conforme a la Ley 12 de 2016 [verificar] | Posible mantenimiento de la administración bajo supervisión [verificar] |
+| Voluntario | El propio deudor | Conforme a la Ley 12 de 2016 | Posible mantenimiento de la administración bajo supervisión [verificar] |
 | Necesario / a instancia de acreedor | Acreedor u otros legitimados | — | Posible desapoderamiento del deudor según el proceso [verificar] |
 
 **Juzgado competente:** Juzgado de Circuito competente del domicilio del deudor [verificar]
@@ -125,19 +125,19 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Concepto | Descripción | Consideraciones |
 |---|---|---|
-| Bienes y derechos del deudor | Todo el patrimonio a la fecha de apertura del proceso | Ley 12 de 2016 [verificar] |
-| Bienes de terceros | Separación de bienes que no pertenecen al deudor | Ley 12 de 2016 / Código Civil [verificar] |
-| Acciones de reintegración / revocatoria | Impugnación de actos perjudiciales realizados en el periodo sospechoso | Ley 12 de 2016 [verificar] |
+| Bienes y derechos del deudor | Todo el patrimonio a la fecha de apertura del proceso | Ley 12 de 2016 |
+| Bienes de terceros | Separación de bienes que no pertenecen al deudor | Ley 12 de 2016 / Código Civil |
+| Acciones de reintegración / revocatoria | Impugnación de actos perjudiciales realizados en el periodo sospechoso | Ley 12 de 2016 |
 
 ### Masa pasiva — Clasificación y prelación de créditos
 
 | Categoría | Descripción | Ejemplos | Base legal |
 |---|---|---|---|
-| Créditos de administración del proceso | Generados tras la apertura del proceso concursal | Honorarios del administrador, gastos del proceso | Ley 12 de 2016 [verificar] |
-| Créditos con garantía real / privilegio especial | Garantía sobre un bien concreto | Hipotecarios, pignoraticios | Código Civil de Panamá / Ley 12 de 2016 [verificar] |
-| Créditos privilegiados / con preferencia | Preferencia legal sin afectación a bien concreto | Salarios y prestaciones laborales (incluido décimo tercer mes), créditos de la CSS, créditos fiscales (DGI) | Código de Trabajo / Código Civil / Ley 12 de 2016 [verificar] |
-| Ordinarios / comunes | Sin privilegio ni subordinación | Proveedores, préstamos sin garantía | Ley 12 de 2016 / Código Civil [verificar] |
-| Subordinados / postergados | Postergados por ley | Intereses, multas, créditos de personas vinculadas | Ley 12 de 2016 [verificar] |
+| Créditos de administración del proceso | Generados tras la apertura del proceso concursal | Honorarios del administrador, gastos del proceso | Ley 12 de 2016 |
+| Créditos con garantía real / privilegio especial | Garantía sobre un bien concreto | Hipotecarios, pignoraticios | Código Civil de Panamá / Ley 12 de 2016 |
+| Créditos privilegiados / con preferencia | Preferencia legal sin afectación a bien concreto | Salarios y prestaciones laborales (incluido décimo tercer mes), créditos de la CSS, créditos fiscales (DGI) | Código de Trabajo / Código Civil / Ley 12 de 2016 |
+| Ordinarios / comunes | Sin privilegio ni subordinación | Proveedores, préstamos sin garantía | Ley 12 de 2016 / Código Civil |
+| Subordinados / postergados | Postergados por ley | Intereses, multas, créditos de personas vinculadas | Ley 12 de 2016 |
 
 **Tratamiento habitual de créditos:** [PLACEHOLDER — política de reconocimiento, impugnación del inventario y la lista de créditos]
 
@@ -147,11 +147,11 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Aspecto | Detalle | Base legal |
 |---|---|---|
-| Contenido mínimo | Descripción de la situación, medidas propuestas, plan de viabilidad | Ley 12 de 2016 [verificar] |
-| Clases de créditos afectados | Agrupación de acreedores por categoría de créditos | Ley 12 de 2016 [verificar] |
-| Mayorías | Mayoría del pasivo conforme a la Ley 12 de 2016 [verificar] | Ley 12 de 2016 [verificar] |
-| Aprobación / confirmación judicial | El juez confirma el plan aprobado por los acreedores | Ley 12 de 2016 [verificar] |
-| Impugnación | Plazo conforme a la Ley 12 de 2016 [verificar] | Ley 12 de 2016 [verificar] |
+| Contenido mínimo | Descripción de la situación, medidas propuestas, plan de viabilidad | Ley 12 de 2016 |
+| Clases de créditos afectados | Agrupación de acreedores por categoría de créditos | Ley 12 de 2016 |
+| Mayorías | Mayoría del pasivo conforme a la Ley 12 de 2016 | Ley 12 de 2016 |
+| Aprobación / confirmación judicial | El juez confirma el plan aprobado por los acreedores | Ley 12 de 2016 |
+| Impugnación | Plazo conforme a la Ley 12 de 2016 | Ley 12 de 2016 |
 
 ---
 
@@ -159,10 +159,10 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Aspecto | Detalle | Base legal |
 |---|---|---|
-| Contenido | Quitas y/o esperas, capitalización de deuda, dación en pago | Ley 12 de 2016 [verificar] |
-| Mayorías | Según la Ley 12 de 2016 [verificar] | Variable |
-| Aprobación judicial | Control de legalidad y confirmación | Ley 12 de 2016 [verificar] |
-| Incumplimiento | Apertura del proceso de liquidación | Ley 12 de 2016 [verificar] |
+| Contenido | Quitas y/o esperas, capitalización de deuda, dación en pago | Ley 12 de 2016 |
+| Mayorías | Según la Ley 12 de 2016 | Variable |
+| Aprobación judicial | Control de legalidad y confirmación | Ley 12 de 2016 |
+| Incumplimiento | Apertura del proceso de liquidación | Ley 12 de 2016 |
 
 ---
 
@@ -170,11 +170,11 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Aspecto | Detalle | Base legal |
 |---|---|---|
-| Apertura | A solicitud del deudor, de acreedores o por fracaso/incumplimiento de la reorganización | Ley 12 de 2016 [verificar] |
-| Liquidador | Designación del liquidador del proceso concursal | Ley 12 de 2016 [verificar] |
-| Venta de unidad productiva | Posibilidad de enajenación como unidad en marcha | Ley 12 de 2016 [verificar] |
-| Sucesión laboral | Riesgo de sucesión laboral conforme al Código de Trabajo de Panamá | Código de Trabajo [verificar] |
-| Pago de créditos | Orden de prelación según clasificación | Ley 12 de 2016 / Código Civil [verificar] |
+| Apertura | A solicitud del deudor, de acreedores o por fracaso/incumplimiento de la reorganización | Ley 12 de 2016 |
+| Liquidador | Designación del liquidador del proceso concursal | Ley 12 de 2016 |
+| Venta de unidad productiva | Posibilidad de enajenación como unidad en marcha | Ley 12 de 2016 |
+| Sucesión laboral | Riesgo de sucesión laboral conforme al Código de Trabajo de Panamá | Código de Trabajo |
+| Pago de créditos | Orden de prelación según clasificación | Ley 12 de 2016 / Código Civil |
 
 ---
 
@@ -182,7 +182,7 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 
 | Supuesto | Consecuencias | Base legal |
 |---|---|---|
-| Conducta de buena fe | Sin consecuencias personales ni patrimoniales adicionales | Ley 12 de 2016 [verificar] |
+| Conducta de buena fe | Sin consecuencias personales ni patrimoniales adicionales | Ley 12 de 2016 |
 | Conducta dolosa o fraudulenta | Responsabilidad patrimonial; posibles consecuencias penales (alzamiento de bienes, quiebra fraudulenta) | Ley 12 de 2016 / Código Penal de Panamá [verificar] |
 
 **Indicios de conducta sancionable [verificar]:** incumplimiento del deber de solicitar el proceso a tiempo, irregularidades contables graves, ocultación o alzamiento de bienes.
@@ -195,7 +195,7 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 |---|---|
 | Bienes inembargables | Excluidos conforme al Código Judicial de Panamá [verificar] |
 | Prestaciones laborales | Protección especial de salarios y prestaciones (incluido décimo tercer mes) |
-| Aplicabilidad de la Ley 12 de 2016 a la persona natural | Verificar el ámbito subjetivo de la Ley 12 de 2016 [verificar] |
+| Aplicabilidad de la Ley 12 de 2016 a la persona natural | Verificar el ámbito subjetivo de la Ley 12 de 2016 |
 
 ---
 
@@ -220,7 +220,7 @@ Juzgados habituales: [PLACEHOLDER — Juzgados de Circuito competentes / Circuit
 - **Código Civil de Panamá** — prelación y graduación de créditos; obligaciones y contratos
 - **Código Judicial de Panamá** — normas procesales supletorias
 - **Código de Trabajo de Panamá** — prelación de créditos laborales, sucesión de empresa
-- **Ley 51 de 2005** [verificar] — régimen de la Caja de Seguro Social (CSS), créditos por cuotas
+- **Ley 51 de 2005** — régimen de la Caja de Seguro Social (CSS), créditos por cuotas
 
 *Nota: la normativa de la Unión Europea (p. ej. la Directiva 2019/1023 de reestructuración) no es derecho aplicable en Panamá; solo se cita, en su caso, como referencia comparada internacional.*
 

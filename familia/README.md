@@ -26,8 +26,8 @@ Este módulo asiste en cuestiones de derecho de familia bajo el Código de la Fa
 
 ## Legislación de referencia
 
-- **Código de la Familia de Panamá** (Ley 3 de 1994 [verificar]) — matrimonio, filiación, patria potestad, guarda y crianza, alimentos, régimen patrimonial del matrimonio
-- **Código Judicial de Panamá** — procesos de familia (jurisdicción de familia, Ley 42 de 1999 [verificar])
+- **Código de la Familia de Panamá** (Ley 3 de 1994) — matrimonio, filiación, patria potestad, guarda y crianza, alimentos, régimen patrimonial del matrimonio
+- **Código Judicial de Panamá** — procesos de familia (jurisdicción de familia, Ley 42 de 1999)
 
 ## Lo que este plugin no hace
 

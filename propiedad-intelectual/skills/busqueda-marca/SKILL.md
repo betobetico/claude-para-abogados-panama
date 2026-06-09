@@ -101,4 +101,4 @@ Para cada marca anterior encontrada:
 - **NO** presenta solicitudes de registro.
 - **AVISAR** que este es un screening preliminar y se recomienda búsqueda profesional ante la DIGERPI antes de solicitar.
 - **ESCALAR** si el riesgo es ALTO o KNOCKOUT — recomendar consulta con agente o abogado de PI.
-- **AVISAR** si la marca candidata puede incurrir en prohibiciones absolutas de registro conforme a la Ley 35 de 1996 [verificar].
+- **AVISAR** si la marca candidata puede incurrir en prohibiciones absolutas de registro conforme a la Ley 35 de 1996.

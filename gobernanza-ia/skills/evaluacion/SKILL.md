@@ -28,7 +28,7 @@ al consumo — clasificado como alto riesgo en triaje previo.
 
 ## Propósito
 
-Panamá no cuenta con una ley de IA vinculante. Por buenas prácticas de gobernanza, los implementadores de sistemas de IA de alto riesgo deben realizar una evaluación de impacto sobre los derechos de las personas antes de poner el sistema en uso, y mantener un sistema de gestión de riesgos sobre el modelo (en línea con el NIST AI RMF y la ISO/IEC 42001). Cuando el sistema trate datos personales, aplican además las obligaciones de la Ley 81 de 2019 [verificar] supervisada por la ANTAI. Este skill genera la evaluación completa cubriendo ambos planos: gobernanza de IA y protección de datos.
+Panamá no cuenta con una ley de IA vinculante. Por buenas prácticas de gobernanza, los implementadores de sistemas de IA de alto riesgo deben realizar una evaluación de impacto sobre los derechos de las personas antes de poner el sistema en uso, y mantener un sistema de gestión de riesgos sobre el modelo (en línea con el NIST AI RMF y la ISO/IEC 42001). Cuando el sistema trate datos personales, aplican además las obligaciones de la Ley 81 de 2019 supervisada por la ANTAI. Este skill genera la evaluación completa cubriendo ambos planos: gobernanza de IA y protección de datos.
 
 ---
 
@@ -52,14 +52,14 @@ Panamá no cuenta con una ley de IA vinculante. Por buenas prácticas de goberna
 
 ### 2. Evaluación de impacto sobre los derechos de las personas
 
-Recomendada para implementadores de sistemas de alto riesgo, especialmente entidades que presten servicios públicos o esenciales, y en áreas de empleo, servicios esenciales (crédito, seguros, servicios sociales) y seguridad. La referencia normativa panameña directa es la protección de los derechos constitucionales y la Ley 81 de 2019 [verificar] cuando hay tratamiento de datos personales.
+Recomendada para implementadores de sistemas de alto riesgo, especialmente entidades que presten servicios públicos o esenciales, y en áreas de empleo, servicios esenciales (crédito, seguros, servicios sociales) y seguridad. La referencia normativa panameña directa es la protección de los derechos constitucionales y la Ley 81 de 2019 cuando hay tratamiento de datos personales.
 
 | Derecho / valor protegido | Impacto potencial | Probabilidad | Severidad | Medida de mitigación |
 |---|---|---|---|---|
 | **No discriminación / igualdad** | [Ej., Sesgo algorítmico por género/raza/edad] | | | |
 | **Igualdad de género** | | | | |
 | **Dignidad humana** | | | | |
-| **Protección de datos personales** (Ley 81 de 2019 [verificar]) | [Ej., Tratamiento masivo de datos personales] | | | |
+| **Protección de datos personales** (Ley 81 de 2019) | [Ej., Tratamiento masivo de datos personales] | | | |
 | **Vida privada / intimidad** | | | | |
 | **Libertad de expresión** | | | | |
 | **Tutela judicial y debido proceso** | [Ej., Dificultad para impugnar decisiones automatizadas] | | | |
@@ -74,7 +74,7 @@ Para cada requisito, evaluar el estado de cumplimiento:
 | Requisito | Referencia | Estado | Gaps identificados | Medida propuesta |
 |---|---|---|---|---|
 | Sistema de gestión de riesgos | NIST AI RMF / ISO 42001 | | | |
-| Gobernanza de datos | Marco interno / Ley 81 de 2019 [verificar] | | | |
+| Gobernanza de datos | Marco interno / Ley 81 de 2019 | | | |
 | Documentación técnica | Marco interno | | | |
 | Registro de eventos (logging) | Marco interno | | | |
 | Transparencia e información | Marco interno | | | |
@@ -87,9 +87,9 @@ Si el sistema trata datos personales (prácticamente siempre):
 
 | Aspecto | Evaluación |
 |---|---|
-| **Base legal del tratamiento** | [consentimiento u otra base — Ley 81 de 2019 [verificar]] |
-| **¿Se requiere evaluación de impacto de datos?** | [Probablemente sí — perfilado/decisiones automatizadas; valorar conforme a la Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 [verificar]] |
-| **Derechos del titular ante decisiones automatizadas** | [acceso, rectificación, oposición — Ley 81 de 2019 [verificar]] |
+| **Base legal del tratamiento** | [consentimiento u otra base — Ley 81 de 2019] |
+| **¿Se requiere evaluación de impacto de datos?** | [Probablemente sí — perfilado/decisiones automatizadas; valorar conforme a la Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021] |
+| **Derechos del titular ante decisiones automatizadas** | [acceso, rectificación, oposición — Ley 81 de 2019] |
 | **Transparencia algorítmica** | [información sobre la lógica, importancia y consecuencias del tratamiento] |
 
 ### 5. Medidas de mitigación
@@ -149,7 +149,7 @@ Si el sistema trata datos personales (prácticamente siempre):
 
 - Principios de la OCDE sobre IA y Recomendación de la UNESCO sobre la ética de la IA (referencia comparada)
 - NIST AI Risk Management Framework; ISO/IEC 42001 (sistema de gestión de IA)
-- Ley 81 de 2019 [verificar] y Decreto Ejecutivo 285 de 2021 [verificar] sobre protección de datos personales (decisiones automatizadas, evaluación de impacto); autoridad: ANTAI
+- Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 sobre protección de datos personales (decisiones automatizadas, evaluación de impacto); autoridad: ANTAI
 - Reglamento Europeo de IA (Reglamento UE 2024/1689): solo como referencia comparada internacional, no aplicable en Panamá
 
 ---

@@ -16,7 +16,7 @@ argument-hint: "[describir el tratamiento o adjuntar la ficha del RAT]"
 2. Determinar si la EIPD es obligatoria (si hay duda, usar `/privacidad:triaje` primero).
 3. Recopilar información del tratamiento (preguntar lo que falte).
 4. Generar la EIPD en el formato configurado.
-5. Evaluar si procede consulta a la ANTAI por riesgo residual alto (Ley 81 de 2019) [verificar].
+5. Evaluar si procede consulta a la ANTAI por riesgo residual alto (Ley 81 de 2019).
 
 ```
 /privacidad:eipd
@@ -28,13 +28,13 @@ en las oficinas.
 
 ## Propósito
 
-La EIPD es obligatoria cuando un tratamiento entraña alto riesgo para los derechos del titular. Es el documento más completo del programa de responsabilidad demostrada en protección de datos y debe realizarse **antes** de iniciar el tratamiento. Este skill genera la EIPD completa siguiendo la Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021 [verificar].
+La EIPD es obligatoria cuando un tratamiento entraña alto riesgo para los derechos del titular. Es el documento más completo del programa de responsabilidad demostrada en protección de datos y debe realizarse **antes** de iniciar el tratamiento. Este skill genera la EIPD completa siguiendo la Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021.
 
 ---
 
 ## Cuándo es obligatoria la EIPD
 
-### Supuestos de alto riesgo (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021) [verificar]
+### Supuestos de alto riesgo (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021)
 
 - Evaluación sistemática y exhaustiva de aspectos personales basada en tratamiento automatizado, incluida la **elaboración de perfiles**, con efectos jurídicos o significativos
 - Tratamiento a **gran escala** de datos sensibles
@@ -58,7 +58,7 @@ Como criterio orientativo, suelen requerir una evaluación de impacto, entre otr
 
 ---
 
-## Estructura de la EIPD (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021) [verificar]
+## Estructura de la EIPD (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021)
 
 ### 1. Descripción sistemática del tratamiento
 
@@ -125,7 +125,7 @@ Si tras aplicar las medidas de mitigación el **riesgo residual sigue siendo alt
 
 La consulta debe incluir: responsabilidades del responsable y encargado, fines y medios del tratamiento, medidas para proteger los derechos del titular, datos de contacto del encargado de protección de datos, y la propia EIPD.
 
-El plazo de respuesta de la ANTAI debe verificarse en la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar].
+El plazo de respuesta de la ANTAI debe verificarse en la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021.
 
 ---
 
@@ -169,7 +169,7 @@ El plazo de respuesta de la ANTAI debe verificarse en la Ley 81 de 2019 y el Dec
 ## Legislación de referencia
 
 - Ley 81 de 2019 — evaluación de impacto en protección de datos [verificar]
-- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019 [verificar]
+- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019
 - Guías y resoluciones de la ANTAI sobre evaluaciones de impacto
 - Referencia comparada (no vinculante en Panamá): directrices del CEPD (WP248 rev.01) sobre EIPD, como criterio internacional orientativo
 

@@ -164,7 +164,7 @@ Si no hay responsable designado: "¿Es obligatorio en vuestro caso según la Ley
 - **Plazos de conservación:** ¿Están definidos por actividad? ¿Hay una política general de retención?
 - **Transferencias internacionales:** ¿Transferís datos fuera de Panamá? ¿Con qué garantías? (Nivel adecuado de protección, cláusulas contractuales, consentimiento del titular.) [verificar]
 
-Si no hay RAT: "El RAT es exigible conforme a la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar]. Incluso si no fuera obligatorio en vuestro caso, es la base de todo lo demás. ¿Quieres que te ayude a construir uno desde cero?"
+Si no hay RAT: "El RAT es exigible conforme a la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021. Incluso si no fuera obligatorio en vuestro caso, es la base de todo lo demás. ¿Quieres que te ayude a construir uno desde cero?"
 
 ### Parte 3: Evaluaciones de Impacto (EIPD)
 

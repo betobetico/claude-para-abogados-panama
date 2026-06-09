@@ -101,7 +101,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Búsqueda previa:** [PLACEHOLDER — ej., "Siempre búsqueda fonética y gráfica en la base de datos de la DIGERPI antes de solicitar"]
 **Tasa de solicitud vigente:** [PLACEHOLDER — verificar tarifa oficial de la DIGERPI]
-**Plazo de oposición:** [PLACEHOLDER — plazo de oposición desde la publicación, conforme a la Ley 35 de 1996] [verificar]
+**Plazo de oposición:** [PLACEHOLDER — plazo de oposición desde la publicación, conforme a la Ley 35 de 1996]
 **Duración del registro:** 10 años renovables [verificar]
 **Posición ante oposiciones recibidas:** [PLACEHOLDER — ej., "Contestar siempre; escalar a responsable si oposición de marca notoria"]
 
@@ -137,7 +137,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 - Registro: [PLACEHOLDER — ej., "Registro ante la Dirección Nacional de Derecho de Autor (DIGERPI) para acreditación de autoría y fecha"] [verificar]
 
 **Bases de datos:**
-- Protección de las compilaciones y bases de datos originales bajo la Ley 64 de 2012 [verificar]
+- Protección de las compilaciones y bases de datos originales bajo la Ley 64 de 2012
 - Alcance de la protección: [PLACEHOLDER — ej., "Protección de la estructura/selección original; verificar régimen aplicable"] [verificar]
 
 **Cesión de derechos por empleados:**
@@ -150,7 +150,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Información clasificada como secreto empresarial:** [PLACEHOLDER — ej., "Algoritmos, bases de clientes, estrategias comerciales, know-how técnico"]
 
-**Medidas razonables de protección adoptadas (régimen de secretos industriales de la Ley 35 de 1996):** [verificar]
+**Medidas razonables de protección adoptadas (régimen de secretos industriales de la Ley 35 de 1996):**
 - [PLACEHOLDER — ej., "NDAs con empleados y terceros"]
 - [PLACEHOLDER — ej., "Control de acceso por niveles"]
 - [PLACEHOLDER — ej., "Marcado de documentos como confidenciales"]
@@ -160,7 +160,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 1. [PLACEHOLDER — ej., "Identificar la fuente de la filtración"]
 2. [PLACEHOLDER — ej., "Solicitud de medidas cautelares urgentes ante la jurisdicción competente"] [verificar]
 3. [PLACEHOLDER — ej., "Requerimiento extrajudicial al infractor"]
-4. [PLACEHOLDER — ej., "Acción judicial por competencia desleal (Ley 45 de 2007)"] [verificar]
+4. [PLACEHOLDER — ej., "Acción judicial por competencia desleal (Ley 45 de 2007)"]
 
 ---
 
@@ -194,7 +194,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ### Empleados (Ley 64 de 2012 / Ley 35 de 1996)
 
-**Cláusula house en contratos de trabajo:** [PLACEHOLDER — ej., "Referencia expresa al régimen de obras creadas en relación laboral de la Ley 64 de 2012 para derecho de autor y al régimen de invenciones laborales de la Ley 35 de 1996"] [verificar]
+**Cláusula house en contratos de trabajo:** [PLACEHOLDER — ej., "Referencia expresa al régimen de obras creadas en relación laboral de la Ley 64 de 2012 para derecho de autor y al régimen de invenciones laborales de la Ley 35 de 1996"]
 
 ---
 
@@ -240,7 +240,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 Las siguientes normas son la base del análisis de este plugin:
 
 - **Ley de Propiedad Industrial** — Ley 35 de 1996 (marcas, patentes, modelos de utilidad, diseños industriales y secretos industriales) [verificar]
-- **Ley de Derecho de Autor y Derechos Conexos** — Ley 64 de 2012 [verificar]
+- **Ley de Derecho de Autor y Derechos Conexos** — Ley 64 de 2012
 - **Ley de protección al consumidor y defensa de la competencia** — Ley 45 de 2007 — en lo relativo a actos de imitación, confusión y aprovechamiento de reputación ajena [verificar]
 - **Protocolo de Madrid** (marcas internacionales) [verificar]
 - **Tratado de Cooperación en materia de Patentes (PCT)** (solicitudes internacionales de patente)

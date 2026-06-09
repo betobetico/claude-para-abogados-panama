@@ -83,16 +83,16 @@ Orden de fuentes:
 | Licencias y permisos | Art. [X] [verificar] | Convención colectiva |
 | Maternidad / fuero | Art. [X] [verificar] | Licencia de 14 semanas [verificar] |
 | Riesgos profesionales | — | Régimen de riesgos profesionales de la CSS [verificar] |
-| Teletrabajo | — | Ley 126 de 2020 [verificar] |
+| Teletrabajo | — | Ley 126 de 2020 |
 | Seguridad Social | — | Ley Orgánica de la CSS [verificar] |
 
 ## Referencias normativas
 
 - **Código de Trabajo de Panamá**: norma principal del derecho laboral.
-- **Ley Orgánica de la CSS** (Ley 51 de 2005 [verificar]): seguridad social.
+- **Ley Orgánica de la CSS** (Ley 51 de 2005): seguridad social.
 - **Régimen de riesgos profesionales** administrado por la CSS [verificar].
 - **Régimen del décimo tercer mes** — Decreto de Gabinete sobre el XIII mes [verificar].
-- **Ley 126 de 2020** [verificar]: teletrabajo.
+- **Ley 126 de 2020**: teletrabajo.
 - **MITRADEL**: resoluciones, salario mínimo y trámites administrativos laborales.
 
 ## Guardrails

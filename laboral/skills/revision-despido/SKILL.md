@@ -57,8 +57,8 @@ Esta skill analiza un despido propuesto o ejecutado verificando el cumplimiento 
 |-----------|--------|------------|---------------|
 | Aviso de despido por escrito | [SÍ/NO] | Código de Trabajo, art. [X] [verificar] | [detalle] |
 | Causal específica invocada | [SÍ/NO/N/A] | Código de Trabajo, art. 213 [verificar] | [detalle] |
-| Autorización judicial previa (fuero) | [SÍ/NO/N/A] | Código de Trabajo [verificar] | [detalle] |
-| Pago de prestaciones que correspondan | [SÍ/NO/N/A] | Código de Trabajo [verificar] | [detalle] |
+| Autorización judicial previa (fuero) | [SÍ/NO/N/A] | Código de Trabajo | [detalle] |
+| Pago de prestaciones que correspondan | [SÍ/NO/N/A] | Código de Trabajo | [detalle] |
 
 ### Análisis de causa
 
@@ -77,7 +77,7 @@ Esta skill analiza un despido propuesto o ejecutado verificando el cumplimiento 
 
 - **Riesgo de despido injustificado:** [ALTO/MEDIO/BAJO] — [justificación]
 - **Riesgo de ineficacia / reintegro:** [ALTO/MEDIO/BAJO] — [justificación]
-- **Coste de despido injustificado:** [cálculo orientativo — indemnización y prima de antigüedad según el Código de Trabajo [verificar]]
+- **Coste de despido injustificado:** [cálculo orientativo — indemnización y prima de antigüedad según el Código de Trabajo]
 - **Salarios caídos:** [si aplica, en caso de reintegro [verificar]]
 
 ### Recomendaciones

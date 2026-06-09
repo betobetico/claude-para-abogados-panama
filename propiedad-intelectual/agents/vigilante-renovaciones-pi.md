@@ -32,10 +32,10 @@ por falta de renovación oportuna.
 2. Para cada registro:
    a. Calcular la fecha de próxima renovación o pago de anualidad:
       - Marcas: cada 10 años desde la fecha de registro/última renovación [verificar]
-      - Patentes nacionales: anualidades de mantenimiento según la Ley 35 de 1996 [verificar]
+      - Patentes nacionales: anualidades de mantenimiento según la Ley 35 de 1996
       - Patentes vía PCT: anualidades ante DIGERPI tras la fase nacional [verificar]
-      - Modelos de utilidad: vigencia y renovación según la Ley 35 de 1996 [verificar]
-      - Diseños industriales: vigencia y renovaciones según la Ley 35 de 1996 [verificar]
+      - Modelos de utilidad: vigencia y renovación según la Ley 35 de 1996
+      - Diseños industriales: vigencia y renovaciones según la Ley 35 de 1996
       - Dominios: según período contratado (1-10 años)
    b. Calcular días restantes hasta el vencimiento
    c. Verificar si hay período de gracia disponible (habitualmente 6 meses con recargo)

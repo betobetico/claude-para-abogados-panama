@@ -89,8 +89,8 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 | Fase | Plazo legal | Consideraciones clave |
 |---|---|---|
 | Iniciación (de oficio o a petición de parte) | — | Derecho de petición (art. 41 de la Constitución); deber de impulsar de oficio el procedimiento [verificar] |
-| Instrucción | — | Práctica de pruebas, alegaciones del interesado y vista del expediente conforme a la Ley 38 de 2000 [verificar] |
-| Resolución | Plazo específico según procedimiento; en su defecto, plazo general de la Ley 38 de 2000 [verificar] | Deber de decidir y notificar (principio de obligatoriedad) |
+| Instrucción | — | Práctica de pruebas, alegaciones del interesado y vista del expediente conforme a la Ley 38 de 2000 |
+| Resolución | Plazo específico según procedimiento; en su defecto, plazo general de la Ley 38 de 2000 | Deber de decidir y notificar (principio de obligatoriedad) |
 | Silencio administrativo | Agotado el plazo sin resolución expresa | Regla general en Panamá: silencio administrativo NEGATIVO (se entiende denegada la petición), salvo norma especial que disponga lo contrario [verificar] |
 
 ### Plazos clave
@@ -98,7 +98,7 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 | Concepto | Plazo | Base legal |
 |---|---|---|
 | Resolución del derecho de petición | 30 días [verificar] | Constitución (art. 41) / Ley 38 de 2000 |
-| Notificación personal del acto | Conforme a las reglas de notificación de la Ley 38 de 2000 [verificar] | Ley 38 de 2000 |
+| Notificación personal del acto | Conforme a las reglas de notificación de la Ley 38 de 2000 | Ley 38 de 2000 |
 | Corrección/subsanación de la petición | Plazo señalado por la entidad [verificar] | Ley 38 de 2000 |
 | Período de consulta o información pública | Según norma sectorial aplicable [verificar] | Norma sectorial |
 
@@ -108,9 +108,9 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 | Recurso | Contra qué actos | Plazo | Órgano | Base legal |
 |---|---|---|---|---|
-| Reconsideración | Actos del funcionario que los dictó | 5 días hábiles desde la notificación [verificar] | Mismo funcionario que dictó el acto | Ley 38 de 2000 [verificar] |
-| Apelación | Actos recurribles ante el superior jerárquico | 5 días hábiles desde la notificación [verificar] | Superior jerárquico | Ley 38 de 2000 [verificar] |
-| Hecho omisivo / silencio | Cuando la entidad no resuelve en plazo | Según régimen del silencio administrativo negativo [verificar] | — | Ley 38 de 2000 [verificar] |
+| Reconsideración | Actos del funcionario que los dictó | 5 días hábiles desde la notificación [verificar] | Mismo funcionario que dictó el acto | Ley 38 de 2000 |
+| Apelación | Actos recurribles ante el superior jerárquico | 5 días hábiles desde la notificación [verificar] | Superior jerárquico | Ley 38 de 2000 |
+| Hecho omisivo / silencio | Cuando la entidad no resuelve en plazo | Según régimen del silencio administrativo negativo [verificar] | — | Ley 38 de 2000 |
 
 > Con la resolución del recurso de apelación (o cuando contra el acto no quepa apelación) se entiende **agotada la vía gubernativa**, requisito para acudir a la Sala Tercera de lo Contencioso-Administrativo de la CSJ [verificar].
 
@@ -118,7 +118,7 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 ---
 
-## Contratación pública (Ley 22 de 2006 [verificar] y sus reformas)
+## Contratación pública (Ley 22 de 2006 y sus reformas)
 
 ### Tipos de contrato habituales
 
@@ -152,7 +152,7 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 | Órgano | Tribunal Administrativo de Contrataciones Públicas (TACP) [verificar] |
 | Plazo | Plazo señalado en la Ley 22 de 2006 desde el acto recurrido [verificar] |
 | Actos recurribles | Pliego de cargos, acto de adjudicación, resolución administrativa del contrato [verificar] |
-| Efecto | Según lo previsto en la Ley 22 de 2006 [verificar] |
+| Efecto | Según lo previsto en la Ley 22 de 2006 |
 | Vía posterior | Demanda contencioso-administrativa ante la Sala Tercera de la CSJ |
 
 ---
@@ -161,9 +161,9 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 | Campo | Detalle | Base legal |
 |---|---|---|
-| Plazo de reclamación | Plazo de prescripción aplicable a la acción de indemnización [verificar] | Código Judicial / Código Civil [verificar] |
+| Plazo de reclamación | Plazo de prescripción aplicable a la acción de indemnización [verificar] | Código Judicial / Código Civil |
 | Requisitos | Daño efectivo, evaluable, individualizable y antijurídico; nexo causal con la actuación administrativa | Doctrina de la Sala Tercera de la CSJ [verificar] |
-| Procedimiento | Demanda de plena jurisdicción ante la Sala Tercera de lo Contencioso-Administrativo de la CSJ | Código Judicial [verificar] |
+| Procedimiento | Demanda de plena jurisdicción ante la Sala Tercera de lo Contencioso-Administrativo de la CSJ | Código Judicial |
 | Dictamen previo | Concepto de la Procuraduría de la Administración en el proceso contencioso [verificar] | Ley 38 de 2000 |
 
 **Asuntos de responsabilidad patrimonial abiertos:** [PLACEHOLDER]
@@ -224,7 +224,7 @@ El equipo de derecho administrativo cuenta con [N] personas. Áreas principales 
 
 - **Ley 38 de 2000** — Estatuto Orgánico de la Procuraduría de la Administración y Procedimiento Administrativo General
 - **Código Judicial de Panamá** — jurisdicción contencioso-administrativa y atribuciones de la Sala Tercera de la CSJ
-- **Ley 22 de 2006** [verificar] — Contratación pública (y sus reformas, incluida la Ley 153 de 2020 [verificar])
+- **Ley 22 de 2006** — Contratación pública (y sus reformas, incluida la Ley 153 de 2020)
 - **Constitución Política de la República de Panamá** — control de legalidad de los actos administrativos
 - **Ley de expropiación panameña** [verificar] — régimen de la expropiación por causa de utilidad pública
 - **Ley 106 de 1973** [verificar] — régimen municipal

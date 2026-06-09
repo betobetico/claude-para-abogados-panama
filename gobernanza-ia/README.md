@@ -1,6 +1,6 @@
 # Gobernanza de IA — Inteligencia Artificial
 
-Este módulo asiste en la gobernanza interna de sistemas de inteligencia artificial en Panamá. **Panamá no cuenta con una ley de IA vinculante**, por lo que el módulo se apoya en principios, buenas prácticas de gobernanza interna y marcos internacionales de referencia (OCDE, UNESCO, NIST AI RMF, ISO/IEC 42001 y, solo como referencia comparada, el Reglamento Europeo de IA). Adicionalmente, integra las obligaciones panameñas conexas en protección de datos personales (Ley 81 de 2019 [verificar] y su Decreto Ejecutivo 285 de 2021 [verificar], supervisadas por la ANTAI). Cubre la clasificación de riesgo de sistemas de IA, evaluaciones de impacto, análisis de proveedores de IA y brechas de gobernanza. Pensado para responsables de innovación, oficiales de cumplimiento, oficiales de protección de datos, departamentos legales de empresas tecnológicas y despachos especializados en derecho digital en Panamá.
+Este módulo asiste en la gobernanza interna de sistemas de inteligencia artificial en Panamá. **Panamá no cuenta con una ley de IA vinculante**, por lo que el módulo se apoya en principios, buenas prácticas de gobernanza interna y marcos internacionales de referencia (OCDE, UNESCO, NIST AI RMF, ISO/IEC 42001 y, solo como referencia comparada, el Reglamento Europeo de IA). Adicionalmente, integra las obligaciones panameñas conexas en protección de datos personales (Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021, supervisadas por la ANTAI). Cubre la clasificación de riesgo de sistemas de IA, evaluaciones de impacto, análisis de proveedores de IA y brechas de gobernanza. Pensado para responsables de innovación, oficiales de cumplimiento, oficiales de protección de datos, departamentos legales de empresas tecnológicas y despachos especializados en derecho digital en Panamá.
 
 ## Skills disponibles
 
@@ -23,11 +23,11 @@ Este módulo asiste en la gobernanza interna de sistemas de inteligencia artific
 - Clasificación de riesgo de un sistema de IA utilizado en procesos de selección de personal.
 - Evaluación de impacto de un sistema de scoring crediticio basado en IA.
 - Análisis de un contrato con un proveedor de IA generativa para verificar obligaciones de transparencia y protección de datos.
-- Auditoría de gobernanza de decisiones automatizadas con efectos sobre los titulares de datos bajo la Ley 81 de 2019 [verificar].
+- Auditoría de gobernanza de decisiones automatizadas con efectos sobre los titulares de datos bajo la Ley 81 de 2019.
 
 ## Marco de referencia
 
-- **Protección de datos personales** — Ley 81 de 2019 [verificar] y Decreto Ejecutivo 285 de 2021 [verificar]; autoridad: ANTAI
+- **Protección de datos personales** — Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021; autoridad: ANTAI
 - **Principios y marcos internacionales (referencia comparada, no derecho aplicable)** — Recomendación de la OCDE sobre IA, Recomendación de la UNESCO sobre la ética de la IA, NIST AI Risk Management Framework, ISO/IEC 42001; el Reglamento Europeo de IA se cita únicamente como referencia comparada
 - **Iniciativas locales** — Estrategia/anteproyectos panameños en materia de IA, si procede [verificar]
 

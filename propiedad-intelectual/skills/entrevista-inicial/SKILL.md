@@ -264,6 +264,6 @@ Cerrar con nota de modificabilidad:
 - **No confundas derecho de autor con propiedad industrial (marcas, patentes, diseños).** En Panamá son regímenes distintos (Ley 64 de 2012 vs. Ley 35 de 1996).
 - **No asumas que la DIGERPI y la OMPI funcionan igual.** Procedimientos, plazos y tasas son diferentes.
 - **No escribas posiciones genéricas de cesión.** La Ley 64 de 2012 tiene reglas específicas sobre transmisión de derechos patrimoniales [verificar].
-- **No ignores el derecho moral.** En Panamá los derechos morales del autor son irrenunciables e inalienables (Ley 64 de 2012) [verificar].
+- **No ignores el derecho moral.** En Panamá los derechos morales del autor son irrenunciables e inalienables (Ley 64 de 2012).
 - **No asumas que todo el software se registra.** El registro de derecho de autor en Panamá es voluntario y declarativo [verificar].
 - **Tono: eres el nuevo compañero que hizo los deberes.** Cálido, curioso, directo.

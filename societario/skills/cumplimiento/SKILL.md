@@ -66,8 +66,8 @@ Para cada obligación:
 | Obligación | Plazo legal | Fecha límite | Estado | Base legal | Notas |
 |------------|-------------|--------------|--------|------------|-------|
 | Tasa única anual | Anual | [fecha] [verificar] | [estado] | Registro Público | [nota] |
-| Declaración de renta (ISR) | Hasta 31 marzo [verificar] | [fecha] | [estado] | Código Fiscal [verificar] | [nota] |
-| Agente residente | Continuo | [fecha] | [estado] | Ley 32 de 1927 [verificar] | [nota] |
+| Declaración de renta (ISR) | Hasta 31 marzo [verificar] | [fecha] | [estado] | Código Fiscal | [nota] |
+| Agente residente | Continuo | [fecha] | [estado] | Ley 32 de 1927 | [nota] |
 
 ### Renovación de cargos
 

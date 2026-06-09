@@ -81,7 +81,7 @@ Contar cuántos de los 9 criterios de alto riesgo se cumplen:
 
 ### Nivel 4: ¿Procede consulta a la ANTAI?
 
-Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigación → puede ser exigible una **consulta a la ANTAI** conforme a la Ley 81 de 2019 [verificar].
+Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigación → puede ser exigible una **consulta a la ANTAI** conforme a la Ley 81 de 2019.
 
 ---
 
@@ -117,7 +117,7 @@ Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigaci�
 [Una de las tres opciones:]
 1. **Proceder** — documentar este triaje en el RAT y proceder con el tratamiento.
 2. **Realizar EIPD** — ejecutar `/privacidad:eipd` con la información recopilada.
-3. **Consulta a la ANTAI** — preparar documentación para la ANTAI conforme a la Ley 81 de 2019 [verificar].
+3. **Consulta a la ANTAI** — preparar documentación para la ANTAI conforme a la Ley 81 de 2019.
 ```
 
 ---
@@ -125,7 +125,7 @@ Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigaci�
 ## Legislación de referencia
 
 - Ley 81 de 2019 — evaluación de impacto y supuestos de alto riesgo [verificar]
-- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019 [verificar]
+- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019
 - Guías y resoluciones de la ANTAI sobre evaluaciones de impacto
 - Referencia comparada (no vinculante en Panamá): directrices del CEPD (WP248 rev.01) sobre criterios de alto riesgo, como criterio internacional orientativo
 

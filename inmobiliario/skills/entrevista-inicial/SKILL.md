@@ -80,7 +80,7 @@ Esperar elección.
 - **No más de 2-3 preguntas por turno**, contando subpartes.
 - **Pedir documentos.** "Tienes un contrato de arrendamiento tipo? Pégalo o comparte ruta."
 - **Pausa y reanudación.** Al pausar, escribir configuración parcial con `<!-- CONFIGURACIÓN PAUSADA EN: [sección] -->` y marcadores `[PENDIENTE]`.
-- **Verificar datos legales.** Si el usuario cita la Ley 31 de 2010 (propiedad horizontal), la legislación de arrendamientos o el Código Civil de Panamá, comprobar antes de escribirlo. El régimen de arrendamientos panameño y la Ley 31 de 2010 deben verificarse en su texto vigente — no asumir artículos de memoria.
+- **Verificar datos legales.** Si el usuario cita la Ley 284 de 2022 (propiedad horizontal), la legislación de arrendamientos o el Código Civil de Panamá, comprobar antes de escribirlo. El régimen de arrendamientos panameño y la Ley 284 de 2022 deben verificarse en su texto vigente — no asumir artículos de memoria.
 
 ## La entrevista
 
@@ -168,7 +168,7 @@ Comprobar cada conector. Reportar resultados.
 > - **Cuántas PH gestionas?**
 > - **Tipo de PH** — residencial, comercial, mixta, macroproyecto?
 > - **Tipo de incidencias más habituales:**
->   - Morosidad de cuotas (Ley 31 de 2010) — procedimiento de cobro? Volumen?
+>   - Morosidad de cuotas (Ley 284 de 2022) — procedimiento de cobro? Volumen?
 >   - Obras y mejoras sobre bienes comunes — frecuencia de conflictos con las mayorías?
 >   - Actividades molestas / uso indebido de unidades — las habéis invocado?
 >   - Alquiler de corto plazo / turístico — os afecta? Habéis modificado el reglamento para limitarlo?
@@ -277,7 +277,7 @@ La escalación va a [nombre].
 
 ---
 
-## Propiedad horizontal (Ley 31 de 2010)
+## Propiedad horizontal (Ley 284 de 2022)
 
 **PH gestionadas:** [número]
 **Tipo:** [residencial / comercial / mixta / macro]
@@ -287,7 +287,7 @@ La escalación va a [nombre].
 
 | Incidencia | Frecuencia | Procedimiento | Notas |
 |---|---|---|---|
-| Morosidad de cuotas | [frecuencia] | [vía de cobro Ley 31 de 2010] | [verificar] |
+| Morosidad de cuotas | [frecuencia] | [vía de cobro Ley 284 de 2022] | [verificar] |
 | Obras sobre bienes comunes | [frecuencia] | [tipo de mayoría] | [verificar] |
 | [otra] | [frecuencia] | [procedimiento] | |
 
@@ -355,6 +355,6 @@ La escalación va a [nombre].
 - **No asumir artículos del régimen de arrendamientos de memoria.** El marco de arrendamientos panameño ha tenido distintas normas y reformas, con umbrales de canon que excluyen ciertos contratos del régimen tutelado. Verificar siempre la norma y el umbral vigentes.
 - **No olvidar la retención de la ganancia de capital.** En compraventas, el comprador suele retener un porcentaje del precio como adelanto de la ganancia de capital del vendedor a enterar ante la DGI. Verificar tarifas vigentes.
 - **No asumir el régimen de la propiedad.** Verificar la titularidad en el Registro Público (persona natural, sociedad anónima, fundación de interés privado, fideicomiso) y el régimen económico matrimonial cuando proceda (Código de la Familia de Panamá).
-- **No dar por hecho que la Ley 31 de 2010 dice lo que crees.** Verificar quórums, mayorías y plazos en el texto vigente antes de citar artículos.
+- **No dar por hecho que la Ley 284 de 2022 dice lo que crees.** Verificar quórums, mayorías y plazos en el texto vigente antes de citar artículos.
 - **No olvidar la prevención de blanqueo.** Las operaciones inmobiliarias pueden estar sujetas a la Ley 23 de 2015 y obligaciones ante la UAF (sujetos obligados). Verificar la debida diligencia exigida.
 ```

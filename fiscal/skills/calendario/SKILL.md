@@ -25,7 +25,7 @@ argument-hint: "[--trimestre X | --mes X | --anual | --todo]"
 
 ## Propósito
 
-Cumplir los plazos tributarios es una obligación de resultado. Una declaración presentada fuera de plazo genera automáticamente recargos e intereses y potenciales multas conforme al Código Fiscal [verificar]. Este skill genera el calendario de obligaciones tributarias de la entidad para que nada se escape.
+Cumplir los plazos tributarios es una obligación de resultado. Una declaración presentada fuera de plazo genera automáticamente recargos e intereses y potenciales multas conforme al Código Fiscal. Este skill genera el calendario de obligaciones tributarias de la entidad para que nada se escape.
 
 ---
 
@@ -70,10 +70,10 @@ Si la entidad opera bajo un régimen especial, las obligaciones y exenciones var
 
 | Régimen | Norma | Tratamiento fiscal típico |
 |---|---|---|
-| **SEM (Sede de Empresa Multinacional)** | Ley 41 de 2007 [verificar] | Tarifa reducida del ISR sobre servicios a partes del grupo; exenciones de ITBMS en ciertos servicios al exterior [verificar] |
+| **SEM (Sede de Empresa Multinacional)** | Ley 41 de 2007 | Tarifa reducida del ISR sobre servicios a partes del grupo; exenciones de ITBMS en ciertos servicios al exterior [verificar] |
 | **Ciudad del Saber** | Ley respectiva [verificar] | Exención de ISR e ITBMS sobre actividades autorizadas [verificar] |
 | **Zona Libre de Colón** | Régimen de la ZLC [verificar] | Renta de reexportación tratada como de fuente extranjera (no gravada); operaciones internas sujetas [verificar] |
-| **Panamá Pacífico** | Ley 41 de 2004 [verificar] | Incentivos de ISR, ITBMS y otros para actividades elegibles [verificar] |
+| **Panamá Pacífico** | Ley 41 de 2004 | Incentivos de ISR, ITBMS y otros para actividades elegibles [verificar] |
 
 **Recordatorio de territorialidad:** la renta de fuente extranjera no tributa en Panamá. Verificar siempre la fuente de la renta antes de incluir una obligación.
 

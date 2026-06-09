@@ -7,7 +7,7 @@ Este módulo asiste en derecho administrativo general panameño: procedimientos 
 | Skill | Comando | Descripción |
 |-------|---------|-------------|
 | Procedimiento | `/procedimiento` | Guía la tramitación de procedimientos administrativos (peticiones, alegaciones, recursos de reconsideración y de apelación) conforme a la Ley 38 de 2000 |
-| Contratación pública | `/contratacion` | Asiste en la preparación y revisión de documentación para licitaciones públicas (pliego de cargos, propuestas) conforme a la Ley 22 de 2006 [verificar] |
+| Contratación pública | `/contratacion` | Asiste en la preparación y revisión de documentación para licitaciones públicas (pliego de cargos, propuestas) conforme a la Ley 22 de 2006 |
 | Contencioso | `/contencioso` | Prepara borradores de demandas contencioso-administrativas ante la Sala Tercera de la CSJ y analiza actos impugnables |
 
 ## Primeros pasos
@@ -28,7 +28,7 @@ Este módulo asiste en derecho administrativo general panameño: procedimientos 
 
 - **Ley 38 de 2000** — Que aprueba el Estatuto Orgánico de la Procuraduría de la Administración, regula el Procedimiento Administrativo General y dicta disposiciones especiales
 - **Código Judicial de Panamá** — Libro relativo a la jurisdicción contencioso-administrativa y a la Sala Tercera de la CSJ
-- **Ley 22 de 2006** [verificar] — Que regula la contratación pública (y sus reformas, incluida la Ley 153 de 2020 [verificar])
+- **Ley 22 de 2006** — Que regula la contratación pública (y sus reformas, incluida la Ley 153 de 2020)
 - **Constitución Política de la República de Panamá** — control de legalidad de los actos administrativos (atribuciones de la Sala Tercera)
 
 ## Lo que este plugin no hace

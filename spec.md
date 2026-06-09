@@ -35,7 +35,7 @@ Adaptar al **derecho panameño** la suite de agentes legales [claude-para-abogad
 | 9 | **gobernanza-ia** | Marcos internacionales de referencia (sin ley de IA vinculante en Panamá) |
 | 10 | **fiscal** | Código Fiscal, principio de territorialidad, ISR, ITBMS, DGI |
 | 11 | **administrativo** | Ley 38 de 2000 (procedimiento administrativo), Sala Tercera de la CSJ |
-| 12 | **inmobiliario** | Registro Público, Ley 31 de 2010 (propiedad horizontal), ANATI |
+| 12 | **inmobiliario** | Registro Público, Ley 284 de 2022 (propiedad horizontal), ANATI |
 | 13 | **concursal** | Ley 12 de 2016 (proceso concursal de insolvencia) |
 | 14 | **familia** | Código de la Familia de Panamá |
 | 15 | **proteccion-datos** | Ley 81 de 2019, ANTAI (enfoque operativo) |

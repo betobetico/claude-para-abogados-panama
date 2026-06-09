@@ -41,7 +41,7 @@ Producir un borrador de convenio de divorcio por mutuo consentimiento completo q
 
 - **Guarda compartida:** distribución del tiempo (semanas alternas, 5-2-2-5, u otro modelo), domicilio de referencia del menor, decisiones ordinarias y extraordinarias.
 - **Guarda exclusiva:** progenitor guardador, régimen de comunicación y visitas del no guardador.
-- **Criterio rector:** interés superior del menor (principio recogido en el Código de la Familia [verificar]).
+- **Criterio rector:** interés superior del menor (principio recogido en el Código de la Familia).
 - **Patria potestad:** ejercida por ambos progenitores salvo circunstancias excepcionales.
 
 ### 2. Régimen de comunicación y visitas
@@ -136,7 +136,7 @@ En [ciudad], a [fecha].
 - **Código de la Familia** — pensión alimenticia entre cónyuges. [verificar arts.]
 - **Código de la Familia** — régimen patrimonial del matrimonio y compensación por trabajo doméstico. [verificar arts.]
 - **Código Judicial de Panamá** — procedimiento de divorcio por mutuo consentimiento ante el juzgado seccional de familia. [verificar arts.]
-- **Interés superior del menor** — principio rector recogido en el Código de la Familia. [verificar]
+- **Interés superior del menor** — principio rector recogido en el Código de la Familia.
 
 ## Guardarraíles
 

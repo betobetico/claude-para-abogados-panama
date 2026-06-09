@@ -137,16 +137,16 @@ La escalación va a [nombre].
 
 ---
 
-## Propiedad horizontal (Ley 31 de 2010)
+## Propiedad horizontal (Ley 284 de 2022)
 
 | Aspecto | Normativa | Consideraciones |
 |---|---|---|
-| Reglamento de copropiedad | Ley 31 de 2010 [verificar] | [PLACEHOLDER — restricciones habituales, uso de corto plazo] |
-| Actas y acuerdos de asamblea | Ley 31 de 2010 [verificar] | Mayorías: simple, calificada, unanimidad según materia [verificar] |
-| Cuotas y gastos extraordinarios | Ley 31 de 2010 [verificar] | [PLACEHOLDER — política habitual] |
-| Impugnación de acuerdos | Ley 31 de 2010 [verificar] | Plazo según la ley [verificar] |
-| Morosos | Ley 31 de 2010 [verificar] | Cobro de cuotas con certificación de deuda [verificar] |
-| Alquiler de corto plazo / turístico | Reglamento de copropiedad + Ley 31 de 2010 [verificar] | Mayoría para limitar o condicionar [verificar] |
+| Reglamento de copropiedad | Ley 284 de 2022 | [PLACEHOLDER — restricciones habituales, uso de corto plazo] |
+| Actas y acuerdos de asamblea | Ley 284 de 2022 | Mayorías: simple, calificada, unanimidad según materia [verificar] |
+| Cuotas y gastos extraordinarios | Ley 284 de 2022 | [PLACEHOLDER — política habitual] |
+| Impugnación de acuerdos | Ley 284 de 2022 | Plazo según la ley [verificar] |
+| Morosos | Ley 284 de 2022 | Cobro de cuotas con certificación de deuda [verificar] |
+| Alquiler de corto plazo / turístico | Reglamento de copropiedad + Ley 284 de 2022 | Mayoría para limitar o condicionar [verificar] |
 
 ---
 
@@ -208,7 +208,7 @@ La escalación va a [nombre].
 
 - **Código Civil de Panamá** — derechos reales, compraventa, arras, hipoteca, arrendamiento [verificar]
 - **Régimen de arrendamientos de Panamá** — legislación de arrendamientos vigente [verificar]
-- **Ley 31 de 2010** — Régimen de propiedad horizontal
+- **Ley 284 de 2022** — Régimen de propiedad horizontal
 - **Normativa del Registro Público de Panamá** — inscripción de la propiedad y gravámenes [verificar]
 - **ANATI** — administración de tierras y catastro
 - **Régimen del ITBI y de la ganancia de capital (DGI)** — fiscalidad de la transferencia [verificar]

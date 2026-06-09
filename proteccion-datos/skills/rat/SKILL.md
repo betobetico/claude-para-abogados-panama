@@ -14,14 +14,14 @@ argument-hint: "[descripción de la actividad de tratamiento o 'nuevo RAT comple
 
 1. Leer `~/.claude/plugins/config/claude-para-abogados/proteccion-datos/CLAUDE.md` — perfil de práctica.
 2. Identificar las actividades de tratamiento a documentar.
-3. Completar cada ficha con los campos exigidos por la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar].
+3. Completar cada ficha con los campos exigidos por la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021.
 4. Producir las fichas en formato tabla ANTAI.
 
 ---
 
 ## Propósito
 
-Documentar las actividades de tratamiento de datos personales de una organización en un RAT que cumpla la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 [verificar]. En la práctica, el RAT es recomendable para cualquier organización que trate datos de forma no ocasional (que son casi todas).
+Documentar las actividades de tratamiento de datos personales de una organización en un RAT que cumpla la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021. En la práctica, el RAT es recomendable para cualquier organización que trate datos de forma no ocasional (que son casi todas).
 
 ## Campos obligatorios por ficha
 

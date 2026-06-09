@@ -25,7 +25,7 @@ Guiar paso a paso la constitución de una sociedad panameña (S.A. o S. de R.L.)
 ## Elección de forma jurídica
 
 - **Sociedad Anónima (S.A.) — Ley 32 de 1927.** La más utilizada en Panamá. Acciones, junta de accionistas, junta directiva (mínimo 3 directores: presidente, secretario y tesorero) [verificar]. Requiere agente residente (abogado o firma idónea).
-- **Sociedad de Responsabilidad Limitada (S. de R.L.) — Ley 4 de 2009 [verificar].** Cuotas de participación en lugar de acciones. Estructura más sencilla; suele preferirse para vehículos con pocos socios o por motivos de tratamiento fiscal en el extranjero.
+- **Sociedad de Responsabilidad Limitada (S. de R.L.) — Ley 4 de 2009.** Cuotas de participación en lugar de acciones. Estructura más sencilla; suele preferirse para vehículos con pocos socios o por motivos de tratamiento fiscal en el extranjero.
 - **Fundación de Interés Privado — Ley 25 de 1995.** No es una sociedad mercantil, pero es un vehículo habitual en Panamá para tenencia patrimonial y planificación; mencionarlo solo si encaja con el objetivo del usuario.
 
 ## Datos necesarios
@@ -123,7 +123,7 @@ BORRADOR — CONSTITUCIÓN DE SOCIEDAD — REVISIÓN LETRADA OBLIGATORIA
 ## Referencias legislativas
 
 - **Ley 32 de 1927** — sobre sociedades anónimas.
-- **Ley 4 de 2009 [verificar]** — sobre sociedades de responsabilidad limitada.
+- **Ley 4 de 2009** — sobre sociedades de responsabilidad limitada.
 - **Código de Comercio de Panamá** — disposiciones mercantiles generales.
 - **Ley 25 de 1995** — fundaciones de interés privado (vehículo alternativo).
 - **Normativa de registro de beneficiario final [verificar]** — Ley 129 de 2020 [verificar].

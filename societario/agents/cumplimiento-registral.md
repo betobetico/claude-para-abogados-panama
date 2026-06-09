@@ -21,7 +21,7 @@ obligaciones ante el Registro Público y la DGI.
   - Tasa única anual: pago anual para el mantenimiento de la sociedad [verificar]
   - Declaración jurada de renta (ISR) ante la DGI: hasta el 31 de marzo siguiente al cierre del período fiscal [verificar]
   - Mantenimiento del agente residente: continuo [verificar]
-  - Libros sociales (actas y registro de acciones): actualizados conforme al Código de Comercio [verificar]
+  - Libros sociales (actas y registro de acciones): actualizados conforme al Código de Comercio
   - Declaración de beneficiario final: según la normativa de transparencia vigente [verificar]
 - Registro de cargos sociales (dignatarios y directores) con fecha de nombramiento y duración prevista en el pacto social
 - Histórico de cumplimiento de cada entidad

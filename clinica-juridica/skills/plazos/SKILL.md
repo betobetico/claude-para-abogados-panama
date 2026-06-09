@@ -139,7 +139,7 @@ PLAZOS — CONSULTORIO JURÍDICO — [FECHA]
 
 ## Guardarraíles
 
-- **Los plazos procesales se cuentan en días hábiles según el Código Judicial; los plazos administrativos según la Ley 38 de 2000 [verificar].** No confundir con días calendario. Verificar siempre los días no laborables y feriados nacionales en el cómputo.
+- **Los plazos procesales se cuentan en días hábiles según el Código Judicial; los plazos administrativos según la Ley 38 de 2000.** No confundir con días calendario. Verificar siempre los días no laborables y feriados nacionales en el cómputo.
 - **El cómputo empieza al día siguiente de la notificación.** No el mismo día [verificar].
 - **Verificar siempre la base legal del plazo.** Un plazo mal calculado es tan peligroso como un plazo olvidado.
 - **Nunca confiar solo en este tracker.** Es un complemento — el sistema oficial de notificaciones del Órgano Judicial es la fuente vinculante.

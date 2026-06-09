@@ -80,7 +80,7 @@ Sector: [PLACEHOLDER]. Fundadores: [PLACEHOLDER — nombres]. Domicilio social: 
 | Notaría | [PLACEHOLDER] |
 | Inscripción en el Registro Público de Panamá | [PLACEHOLDER — completada Sí/No, ficha/documento/asiento] |
 
-*Referencia: Ley 32 de 1927 (sociedades anónimas); Ley 4 de 2009 [verificar] (S. de R.L.); Código de Comercio de Panamá.*
+*Referencia: Ley 32 de 1927 (sociedades anónimas); Ley 4 de 2009 (S. de R.L.); Código de Comercio de Panamá.*
 
 ---
 
@@ -142,11 +142,11 @@ Sector: [PLACEHOLDER]. Fundadores: [PLACEHOLDER — nombres]. Domicilio social: 
 
 | Incentivo | Aplicable | Detalle |
 |---|---|---|
-| Régimen SEM (Sede de Empresa Multinacional) | [PLACEHOLDER] | Ley 41 de 2007 [verificar] |
-| Ciudad del Saber | [PLACEHOLDER] | Decreto Ley 6 de 1998 [verificar] |
+| Régimen SEM (Sede de Empresa Multinacional) | [PLACEHOLDER] | Ley 41 de 2007 |
+| Ciudad del Saber | [PLACEHOLDER] | Decreto Ley 6 de 1998 |
 | Zona Libre de Colón | [PLACEHOLDER] | [verificar] |
-| Panamá Pacífico | [PLACEHOLDER] | Ley 41 de 2004 [verificar] |
-| EMMA (manufactura multinacional) | [PLACEHOLDER] | Ley 159 de 2020 [verificar] |
+| Panamá Pacífico | [PLACEHOLDER] | Ley 41 de 2004 |
+| EMMA (manufactura multinacional) | [PLACEHOLDER] | Ley 159 de 2020 |
 | Visa de inversionista para fundadores extranjeros | [PLACEHOLDER — solicitada / obtenida / no aplica] | |
 
 *Referencia: regímenes de incentivos y zonas económicas especiales de Panamá [verificar].*
@@ -162,7 +162,7 @@ Sector: [PLACEHOLDER]. Fundadores: [PLACEHOLDER — nombres]. Domicilio social: 
 | Tipos de contrato usados | [PLACEHOLDER — indefinido, por tiempo definido, por obra determinada] |
 | Practicantes/pasantes | [PLACEHOLDER — convenio con universidad, Sí/No] |
 | Independientes/contratistas | [PLACEHOLDER — riesgo de relación laboral encubierta evaluado Sí/No] |
-| Teletrabajo | [PLACEHOLDER — acuerdo de teletrabajo firmado, Ley 126 de 2020 [verificar]] |
+| Teletrabajo | [PLACEHOLDER — acuerdo de teletrabajo firmado, Ley 126 de 2020] |
 
 *Referencia: Código de Trabajo de Panamá; Ley 126 de 2020 sobre teletrabajo [verificar].*
 
@@ -228,10 +228,10 @@ Sector: [PLACEHOLDER]. Fundadores: [PLACEHOLDER — nombres]. Domicilio social: 
 | Norma | Referencia | Ámbito |
 |---|---|---|
 | Ley de sociedades anónimas | Ley 32 de 1927 | Sociedades anónimas (S.A.) |
-| Ley de S. de R.L. | Ley 4 de 2009 [verificar] | Sociedades de responsabilidad limitada |
+| Ley de S. de R.L. | Ley 4 de 2009 | Sociedades de responsabilidad limitada |
 | Código de Comercio | Código de Comercio de Panamá | Disposiciones mercantiles generales |
 | Código Fiscal | ISR — principio de territorialidad [verificar] | Incentivos y tributación |
-| Régimen SEM | Ley 41 de 2007 [verificar] | Sedes de empresas multinacionales |
+| Régimen SEM | Ley 41 de 2007 | Sedes de empresas multinacionales |
 | Código de Trabajo | Código de Trabajo de Panamá | Relaciones laborales |
 | Derecho de autor | Ley 64 de 2012 | Propiedad intelectual (cesión código) |
 

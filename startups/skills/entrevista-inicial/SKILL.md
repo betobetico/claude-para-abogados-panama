@@ -208,7 +208,7 @@ Si no han levantado: "¿Estáis financiando con recursos propios (bootstrapping)
 - **Contratistas independientes:** ¿Trabajáis con colaboradores externos? ¿Cuántos? (Alerta de relación laboral encubierta si es relevante.)
 - **Régimen laboral:** ¿Aplica el Código de Trabajo general o un régimen especial de zona (SEM, Panamá Pacífico, Ciudad del Saber)?
 - **Fundadores como trabajadores:** ¿Los fundadores cobran salario? ¿Están inscritos en la CSS?
-- **Teletrabajo:** ¿Tenéis acuerdo de teletrabajo? (Ley 126 de 2020 [verificar].)
+- **Teletrabajo:** ¿Tenéis acuerdo de teletrabajo? (Ley 126 de 2020.)
 - **Personal extranjero:** ¿Hay empleados extranjeros? ¿Con permiso de trabajo y visa? (Recordar la proporción de trabajadores nacionales exigida [verificar].)
 
 ### Parte 7: Documentos semilla

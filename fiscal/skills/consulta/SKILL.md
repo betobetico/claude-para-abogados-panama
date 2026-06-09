@@ -54,11 +54,11 @@ Toda respuesta incluye obligatoriamente:
 
 | Área | Normativa principal |
 |---|---|
-| ISR — principio de territorialidad | Código Fiscal; Decreto Ejecutivo 170 de 1993 [verificar] |
-| ITBMS | Código Fiscal; Ley 8 de 2010 [verificar] |
-| Dividendos y complementario | Código Fiscal [verificar] |
-| CAIR (Cálculo Alternativo del ISR) | Código Fiscal [verificar] |
-| Retenciones (salarios, no residentes, dividendos) | Código Fiscal [verificar] |
+| ISR — principio de territorialidad | Código Fiscal; Decreto Ejecutivo 170 de 1993 |
+| ITBMS | Código Fiscal; Ley 8 de 2010 |
+| Dividendos y complementario | Código Fiscal |
+| CAIR (Cálculo Alternativo del ISR) | Código Fiscal |
+| Retenciones (salarios, no residentes, dividendos) | Código Fiscal |
 | Precios de transferencia | Código Fiscal; normativa de PT (informe 930) [verificar] |
 | Regímenes de zona especial | Ley 41 de 2007 (SEM); Ley 41 de 2004 (Panamá Pacífico); normas de Ciudad del Saber y ZLC [verificar] |
 | Procedimientos tributarios | Código Fiscal; Ley 38 de 2000; Ley 8 de 2010 (TAT) [verificar] |
