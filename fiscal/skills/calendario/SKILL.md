@@ -35,31 +35,31 @@ Cumplir los plazos tributarios es una obligación de resultado. Una declaración
 
 | Formulario | Descripción | Periodicidad | Plazo |
 |---|---|---|---|
-| **430** [verificar] | Declaración-liquidación del ITBMS | Mensual | Dentro de los 15 días calendario siguientes al cierre del mes [verificar] |
-| **433** [verificar] | Declaración de retenciones de ITBMS (agentes de retención) | Mensual | Dentro de los 15 días siguientes al mes [verificar] |
+| **430** | Declaración-liquidación del ITBMS (tarifa general 7%; especiales 10% bebidas alcohólicas y hospedaje, 15% tabaco; art. 1057-V) | Mensual | Dentro de los 15 días siguientes al cierre del mes |
+| **433** | Declaración de retenciones de ITBMS de los agentes de retención (en particular entidades del sector público y demás agentes designados); el proveedor refleja la retención sufrida en el Formulario 430 | Mensual | Dentro de los 15 días siguientes al mes |
 
 ### Retenciones del ISR
 
 | Formulario | Descripción | Periodicidad | Plazo |
 |---|---|---|---|
-| **03** [verificar] | Planilla de retenciones del ISR sobre salarios | Mensual | Dentro de los primeros días del mes siguiente [verificar] |
-| **Retención a no residentes** [verificar] | Retención del ISR sobre pagos al exterior (servicios, regalías) gravados de fuente panameña | Según pago | Al momento del pago / mes siguiente [verificar] |
-| **Retención sobre dividendos** [verificar] | 10% acciones nominativas / 5% al portador o de zona libre; complementario | Según distribución | [verificar] |
+| **03** (Planilla 03) | Informe mensual de retenciones del ISR sobre salarios | Mensual | Dentro de los primeros días del mes siguiente [verificar] |
+| **Retención a no residentes** (Formulario 5) | Retención del ISR sobre pagos al exterior (servicios, regalías) gravados de fuente panameña: tarifa general (25% jurídicas / progresiva naturales) sobre el 50% de la suma remesada → retención efectiva 12,5% en el caso corporativo (art. 694 lit. e y art. 733-A) | Según pago | Al momento del pago / mes siguiente [verificar] |
+| **Retención sobre dividendos** | 10% acciones nominativas (fuente panameña); 5% renta exenta, de fuente extranjera, de exportación o de Zona Libre de Colón / Panamá Pacífico / zonas francas; 20% acciones al portador; impuesto complementario 10% (art. 733) | Según distribución | [verificar] |
 
 ### Impuesto sobre la Renta (ISR)
 
 | Formulario | Descripción | Periodicidad | Plazo |
 |---|---|---|---|
-| **1** [verificar] | Declaración jurada de rentas (personas jurídicas y naturales) | Anual | Hasta el 31 de marzo siguiente al cierre del período; prórroga de hasta 1 mes [verificar] |
-| **Estimada / CAIR** [verificar] | Impuesto estimado del período siguiente; Cálculo Alternativo del ISR si los ingresos gravables superan 1.500.000 B/. [verificar] | Anual / cuotas | Junto con la declaración jurada [verificar] |
+| **1** | Declaración jurada de rentas de **persona natural** (las personas jurídicas usan otros formularios según actividad) | Anual | Hasta el 31 de marzo siguiente al cierre del período (art. 710); prórroga de hasta 1 mes [verificar] |
+| **Estimada / CAIR** | Impuesto estimado del período siguiente; CAIR obligatorio si la renta gravable supera B/.1.500.000 — se compara la tarifa del art. 699 con el 4.67% sobre la renta gravable y se paga el mayor (art. 699) | Anual / cuotas | Junto con la declaración jurada [verificar] |
 
 ### Otros tributos habituales
 
 | Formulario | Descripción | Periodicidad | Plazo |
 |---|---|---|---|
 | **Tasa única** [verificar] | Tasa única anual de sociedades anónimas y fundaciones de interés privado | Anual | Según fecha de inscripción en el Registro Público [verificar] |
-| **Aviso de operación** [verificar] | Impuesto anual sobre el aviso de operación de empresa | Anual | [verificar] |
-| **Impuesto de inmuebles** [verificar] | Sobre bienes inmuebles, tasa progresiva | Trimestral / anual | [verificar] |
+| **Aviso de operación** | Impuesto anual del 2% sobre el **capital** de la empresa (mínimo B/.100, máximo B/.60.000; 0,5% con tope B/.50.000 en zonas francas/ZLC) — Ley 5 de 2007 | Anual | [verificar] |
+| **Impuesto de inmuebles** | Sobre bienes inmuebles, tarifa progresiva reformada por la Ley 66 de 2017; exención del Patrimonio Familiar Tributario / Vivienda Principal hasta B/.120.000 de base imponible | Trimestral / anual | [verificar] |
 | **Planilla CSS** [verificar] | Cuota obrero-patronal de la Caja de Seguro Social (incluye décimo tercer mes) | Mensual | [verificar] |
 
 ---
@@ -70,9 +70,9 @@ Si la entidad opera bajo un régimen especial, las obligaciones y exenciones var
 
 | Régimen | Norma | Tratamiento fiscal típico |
 |---|---|---|
-| **SEM (Sede de Empresa Multinacional)** | Ley 41 de 2007 | Tarifa reducida del ISR sobre servicios a partes del grupo; exenciones de ITBMS en ciertos servicios al exterior [verificar] |
-| **Ciudad del Saber** | Ley respectiva [verificar] | Exención de ISR e ITBMS sobre actividades autorizadas [verificar] |
-| **Zona Libre de Colón** | Régimen de la ZLC [verificar] | Renta de reexportación tratada como de fuente extranjera (no gravada); operaciones internas sujetas [verificar] |
+| **SEM (Sede de Empresa Multinacional)** | Ley 41 de 2007 | ISR del 5% sobre servicios al grupo; exenciones de ITBMS en ciertos servicios al exterior |
+| **Ciudad del Saber** | Decreto Ley 6 de 1998 | Exención de ISR e ITBMS sobre actividades autorizadas [verificar] |
+| **Zona Libre de Colón** | Ley 8 de 2016 | Renta de reexportación (origen y destino fuera de Panamá) tratada como de fuente extranjera (no gravada); las ventas locales sí tributan |
 | **Panamá Pacífico** | Ley 41 de 2004 | Incentivos de ISR, ITBMS y otros para actividades elegibles [verificar] |
 
 **Recordatorio de territorialidad:** la renta de fuente extranjera no tributa en Panamá. Verificar siempre la fuente de la renta antes de incluir una obligación.
@@ -129,10 +129,11 @@ Si la entidad opera bajo un régimen especial, las obligaciones y exenciones var
 
 ## Legislación de referencia
 
-- **Código Fiscal de Panamá** — régimen del ISR, ITBMS y obligaciones formales [verificar]
+- **Código Fiscal de Panamá** — ISR (arts. 699, 700, 710), ITBMS (art. 1057-V), dividendos (art. 733), retención a no residentes (arts. 694 lit. e y 733-A) y obligaciones formales
 - **Decreto Ejecutivo 170 de 1993** — reglamentación del ISR [verificar]
 - **Ley 8 de 2010** — reforma tributaria e ITBMS [verificar]
-- **Ley 41 de 2007 (SEM), Ley 41 de 2004 (Panamá Pacífico)** y normas de Ciudad del Saber y ZLC [verificar]
+- **Ley 41 de 2007 (SEM), Ley 41 de 2004 (Panamá Pacífico), Decreto Ley 6 de 1998 (Ciudad del Saber), Ley 8 de 2016 (ZLC)**
+- **Ley 5 de 2007** (aviso de operación) y **Ley 66 de 2017** (impuesto de inmuebles)
 - Resoluciones de la DGI de aprobación de formularios (actualizadas periódicamente)
 - Calendario tributario de la DGI (dgi.mef.gob.pa) [verificar]
 

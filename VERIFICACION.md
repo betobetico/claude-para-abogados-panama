@@ -144,6 +144,34 @@ normativa de transparencia. Marcadores: **50 → 8**.
 - Acciones al portador: régimen de custodia/inmovilización — **Ley 47 de 2013** (ref. **Ley 18 de 2015**).
 - Control de concentraciones: **Ley 45 de 2007 / ACODECO**, régimen de **verificación previa voluntaria**.
 
+### Módulo `fiscal` (verificado el 8 de junio de 2026)
+
+Verificado contra el Código Fiscal y normativa tributaria vigente. Marcadores: **123 → 63**.
+(Los 24 marcadores de la entrevista inicial se conservan: son instrucciones al entrevistador,
+no datos factuales.)
+
+**ISR (Código Fiscal)**
+- Personas jurídicas **25%**: **art. 699**. Personas naturales (exento ≤ B/.11.000; 15% de 11.000 a 50.000; 25% sobre el exceso): **art. 700**.
+- **CAIR** si renta gravable > **B/.1.500.000**: se paga el mayor entre el art. 699 y el **4,67%** sobre la renta gravable (**art. 699**).
+- Territorialidad (solo renta de fuente panameña): **art. 694**. Arrastre de pérdidas (5 años, 20%/año, tope 50% de la renta): **art. 698-A**.
+- Retención a no residentes: tarifa general sobre el **50%** de lo remesado (efectiva **12,5%** corporativa), Formulario 5: **arts. 694 lit. e y 733-A**.
+- **Corrección de fondo (dividendos, art. 733):** **10%** acciones nominativas (fuente panameña); **5%** renta exenta/extranjera/exportación/zona libre; **20%** acciones **al portador** (el repo decía erróneamente 5%); impuesto complementario **10%** si se distribuye menos del 40%.
+
+**ITBMS y formularios (Código Fiscal art. 1057-V)**
+- ITBMS general **7%** (10% alcohol/hospedaje, 15% tabaco); territorial. Formulario **430** (mensual, 15 días), **433** (agentes de retención/sector público), Planilla **03** (retenciones ISR salarios).
+- **Formulario 1**: corregido — es la declaración de **persona natural** (las jurídicas usan otros formularios); plazo 31 de marzo (**art. 710**).
+- **Aviso de operación**: corregido — **2% sobre el capital** (no patrimonio), mín. B/.100, máx. B/.60.000 (**Ley 5 de 2007**). Inmuebles: progresivo, exención ≤ B/.120.000 (**Ley 66 de 2017**).
+
+**Procedimiento (TAT, recursos, sanción penal)**
+- **TAT**: **Ley 8 de 2010**. Reconsideración (DGI) + apelación (TAT), **15 días hábiles** (**art. 1238-A**); desde el **1 de junio de 2024** rige el **Código de Procedimiento Tributario (Ley 76 de 2019)**. Contencioso ante la Sala Tercera, 2 meses (art. 42-B Ley 135 de 1943).
+- **Defraudación fiscal**: precisada — **delito penal** (**Ley 70 de 2019**) cuando lo defraudado ≥ **B/.300.000** (pena 2-4 años; delito precedente del blanqueo); por debajo, falta administrativa.
+
+**Precios de transferencia y regímenes especiales**
+- Precios de transferencia (plena competencia), **Informe/Formulario 930** en 6 meses: **arts. 762-A y ss.** (multa por no presentar: 1%, tope B/.1.000.000, art. 762-I).
+- SEM (Ley 41 de 2007, ISR 5%), Panamá Pacífico (Ley 41 de 2004), Ciudad del Saber (Decreto Ley 6 de 1998), ZLC (Ley 8 de 2016: renta de reexportación = fuente extranjera no gravada).
+
+*(Se renombró el agente `calendario-aeat` → `calendario-dgi`, residuo del nombre español.)*
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes

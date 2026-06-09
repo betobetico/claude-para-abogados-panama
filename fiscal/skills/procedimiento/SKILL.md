@@ -52,7 +52,7 @@ Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedi
 | **Inicio** | Notificación de inicio de fiscalización [verificar] |
 | **Plazo máximo** | [verificar — plazo de duración del procedimiento conforme al Código Fiscal] |
 | **Resultado** | Resolución de alcance (liquidación adicional) o cierre sin ajustes |
-| **Recurso** | Reconsideración y apelación ante el TAT [verificar] |
+| **Recurso** | Reconsideración ante la DGI y apelación ante el TAT (art. 1238-A) |
 
 ### 3. Resolución de alcance / liquidación adicional
 
@@ -60,39 +60,41 @@ Recibir una notificación de la DGI genera incertidumbre. ¿Qué tipo de procedi
 |---|---|
 | **Qué es** | Acto que determina un impuesto adicional, recargos, intereses y/o multa |
 | **Notificación** | Personal o por edicto conforme a la Ley 38 de 2000 |
-| **Recurso** | Reconsideración (ante la DGI) y apelación (ante el TAT) [verificar] |
+| **Recurso** | Reconsideración (ante la DGI) y apelación (ante el TAT), ambos con plazo de 15 días hábiles (art. 1238-A) |
 
 ### 4. Procedimiento sancionador
 
 | Aspecto | Detalle |
 |---|---|
 | **Qué es** | Imposición de multas por morosidad, omisión, defraudación fiscal u otras infracciones del Código Fiscal |
-| **Clasificación** | Falta administrativa / defraudación fiscal (puede tener consecuencias penales) [verificar] |
-| **Recurso** | Reconsideración y apelación ante el TAT [verificar] |
+| **Clasificación** | Falta administrativa o **delito** de defraudación fiscal: la Ley 70 de 2019 tipificó la defraudación como delito penal (contra el Tesoro Nacional y delito precedente del blanqueo) cuando el monto defraudado en un período fiscal sea igual o superior a B/.300.000 (pena de 2 a 4 años); por debajo de ese umbral es falta administrativa |
+| **Recurso** | Reconsideración y apelación ante el TAT (art. 1238-A) |
 
 ### 5. Recurso de reconsideración (vía gubernativa)
 
 | Aspecto | Detalle |
 |---|---|
 | **Órgano** | La propia DGI |
-| **Plazo de interposición** | [verificar — 15 días hábiles desde la notificación] |
+| **Plazo de interposición** | 15 días hábiles desde la notificación (art. 1238-A) |
 | **Efecto** | Suspende la ejecución según las reglas aplicables [verificar] |
 
 ### 6. Recurso de apelación — Tribunal Administrativo Tributario (TAT)
 
 | Aspecto | Detalle |
 |---|---|
-| **Órgano** | Tribunal Administrativo Tributario (creado por la Ley 8 de 2010) |
-| **Plazo de interposición** | [verificar — 15 días hábiles desde la notificación de la resolución de reconsideración] |
-| **Resultado** | Agota la vía gubernativa [verificar] |
+| **Órgano** | Tribunal Administrativo Tributario, tribunal autónomo e independiente de la DGI que resuelve en segunda instancia administrativa (creado por la Ley 8 de 2010) |
+| **Plazo de interposición** | 15 días hábiles desde la notificación de la resolución de reconsideración (art. 1238-A) |
+| **Resultado** | Agota la vía gubernativa |
+
+> **Nota:** desde el 1 de junio de 2024 rige el **Código de Procedimiento Tributario (Ley 76 de 2019)**, que mantiene la estructura reconsideración/apelación y el plazo de 15 días hábiles.
 
 ### 7. Demanda contencioso-administrativa
 
 | Aspecto | Detalle |
 |---|---|
 | **Órgano** | Sala Tercera de lo Contencioso-Administrativo de la Corte Suprema de Justicia (CSJ) |
-| **Plazo** | [verificar — 2 meses desde la notificación que agota la vía gubernativa] |
-| **Base normativa** | Ley 38 de 2000; Código Judicial |
+| **Plazo** | 2 meses desde la notificación que agota la vía gubernativa (demanda de plena jurisdicción; art. 42-B de la Ley 135 de 1943) |
+| **Base normativa** | Ley 135 de 1943 (art. 42-B); Ley 38 de 2000; Código Judicial |
 
 ---
 
@@ -104,10 +106,10 @@ Notificación recibida
 │   ├── Requerimiento de información → Atender en plazo
 │   ├── Inicio de fiscalización → Analizar alcance y plazo
 │   ├── Resolución de alcance / liquidación adicional → ¿Recurrir?
-│   │   ├── Reconsideración (ante la DGI) [verificar plazo]
-│   │   └── Apelación ante el TAT [verificar plazo]
+│   │   ├── Reconsideración (ante la DGI) — 15 días hábiles
+│   │   └── Apelación ante el TAT — 15 días hábiles
 │   ├── Resolución sancionadora → ¿Aceptar y pagar o recurrir?
-│   └── Resolución que agota la vía gubernativa → ¿Contencioso ante la Sala Tercera CSJ? [verificar plazo]
+│   └── Resolución que agota la vía gubernativa → ¿Contencioso ante la Sala Tercera CSJ? — 2 meses
 ```
 
 ---
@@ -134,8 +136,8 @@ Notificación recibida
 
 | Concepto | Plazo | Fecha límite | Estado |
 |---|---|---|---|
-| [Ej., Recurso de reconsideración] | [15 días hábiles] [verificar] | [fecha] | [Pendiente] |
-| [Ej., Apelación ante el TAT] | [15 días hábiles] [verificar] | [fecha] | [Pendiente] |
+| [Ej., Recurso de reconsideración] | 15 días hábiles (art. 1238-A) | [fecha] | [Pendiente] |
+| [Ej., Apelación ante el TAT] | 15 días hábiles (art. 1238-A) | [fecha] | [Pendiente] |
 
 ---
 
@@ -157,8 +159,8 @@ Notificación recibida
 
 ## Suspensión / garantía
 
-**¿Procede solicitar la suspensión del cobro?** [Sí/No] [verificar]
-**Tipo de garantía:** [fianza / depósito / otra] [verificar]
+**¿Procede solicitar la suspensión del cobro?** [Sí/No] — puede requerir garantía según el supuesto concreto
+**Tipo de garantía:** [fianza / depósito / garantía bancaria, según el supuesto]
 **Garantía necesaria:** [tipo y cuantía estimada]
 ```
 
@@ -166,10 +168,12 @@ Notificación recibida
 
 ## Legislación de referencia
 
-- **Código Fiscal de Panamá** — procedimientos de fiscalización, sancionador y recursos [verificar]
-- **Ley 8 de 2010** — creación y competencias del Tribunal Administrativo Tributario (TAT) [verificar]
+- **Código Fiscal de Panamá** — procedimientos de fiscalización, sancionador y recursos (art. 1238-A: reconsideración y apelación, 15 días hábiles)
+- **Código de Procedimiento Tributario (Ley 76 de 2019)** — en vigor desde el 1 de junio de 2024; mantiene reconsideración/apelación y el plazo de 15 días hábiles
+- **Ley 8 de 2010** — creación y competencias del Tribunal Administrativo Tributario (TAT)
+- **Ley 70 de 2019** — tipificación de la defraudación fiscal como delito penal (umbral B/.300.000)
 - **Ley 38 de 2000** — procedimiento administrativo general (notificaciones, recursos, términos)
-- **Código Judicial de Panamá** — demanda contencioso-administrativa ante la Sala Tercera de la CSJ [verificar]
+- **Ley 135 de 1943 (art. 42-B)** — demanda contencioso-administrativa de plena jurisdicción ante la Sala Tercera de la CSJ (plazo 2 meses)
 
 ---
 

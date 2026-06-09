@@ -35,17 +35,17 @@ Una declaración tributaria incoherente internamente o con otras declaraciones d
 
 ## Comprobaciones por formulario
 
-### Formulario 430 (ITBMS) [verificar]
+### Formulario 430 (ITBMS)
 
 | Comprobación | Cruce | Discrepancia típica |
 |---|---|---|
-| ITBMS causado vs registro de facturación | Base × 7% (o tasa especial) = impuesto causado | Error en tasa aplicada o base |
+| ITBMS causado vs registro de facturación | Base × 7% general (o tasas especiales: 10% bebidas alcohólicas y hospedaje, 15% tabaco; art. 1057-V) = impuesto causado | Error en tasa aplicada o base |
 | ITBMS soportado deducible vs facturas de compra | Solo deducible si vincula a operaciones gravadas y cumple requisitos [verificar] | Crédito no deducible incluido |
 | Operaciones exentas / no gravadas | ¿Se han declarado correctamente? | Operaciones mal clasificadas |
 | Retenciones de ITBMS soportadas | ¿Se aplican como crédito? | Retención no acreditada |
-| Coherencia con servicios de fuente extranjera | Servicios prestados o consumidos fuera de Panamá — fuera del ámbito del ITBMS [verificar] | Inclusión indebida de operación no territorial |
+| Coherencia con servicios de fuente extranjera | Servicios prestados o consumidos fuera de Panamá — fuera del ámbito del ITBMS (territorialidad; art. 1057-V) | Inclusión indebida de operación no territorial |
 
-### Planilla 03 / retenciones del ISR sobre salarios [verificar]
+### Planilla 03 / retenciones del ISR sobre salarios
 
 | Comprobación | Cruce | Discrepancia típica |
 |---|---|---|
@@ -53,23 +53,25 @@ Una declaración tributaria incoherente internamente o con otras declaraciones d
 | Coherencia planilla CSS ↔ planilla ISR | Salarios reportados coinciden | Trabajador no incluido |
 | Décimo tercer mes | Tratamiento correcto de la partida | Cálculo o exención mal aplicados [verificar] |
 
-### Formulario 1 (Impuesto sobre la Renta) [verificar]
+### Formulario 1 (Impuesto sobre la Renta — persona natural)
+
+> El **Formulario 1** es la declaración jurada de renta de **persona natural**. Las personas jurídicas usan otros formularios (modelos según actividad). El plazo anual del 31 de marzo (art. 710) es común a ambos.
 
 | Comprobación | Cruce | Discrepancia típica |
 |---|---|---|
 | Resultado contable → Renta gravable | Conciliación fiscal con ajustes correctamente aplicados | Ajuste omitido o duplicado |
-| Segregación territorial | Renta de fuente panameña (gravada) vs extranjera (no gravada) y costos/gastos prorrateados | Renta extranjera gravada por error o gastos mal prorrateados |
-| Tarifa del ISR | ¿Se aplica la tarifa correcta? (25% personas jurídicas / tarifa progresiva personas naturales) [verificar] | Tarifa incorrecta |
-| CAIR | Si ingresos gravables > 1.500.000 B/.: ¿se comparó con el cálculo alternativo? [verificar] | CAIR omitido |
+| Segregación territorial | Renta de fuente panameña (gravada) vs extranjera (no gravada) y costos/gastos prorrateados (territorialidad; art. 694) | Renta extranjera gravada por error o gastos mal prorrateados |
+| Tarifa del ISR | ¿Se aplica la tarifa correcta? Personas jurídicas: 25% (art. 699). Personas naturales: progresiva — exento hasta B/.11.000; 15% del tramo B/.11.000–50.000; 25% sobre el exceso de B/.50.000 (art. 700) | Tarifa incorrecta |
+| CAIR | Si la renta gravable > B/.1.500.000: ¿se comparó la tarifa del art. 699 con el 4.67% sobre la renta gravable y se pagó el mayor? (art. 699) | CAIR omitido |
 | Estimada del período siguiente | ¿Coherente con la renta del período? | Estimada mal calculada |
-| Arrastre de pérdidas | ¿Dentro de los límites legales? [verificar] | Aplicación excesiva |
+| Arrastre de pérdidas | ¿Dentro de los límites legales? Deducibles en los 5 períodos siguientes al 20% por año, sin reducir más del 50% de la renta neta gravable del año (art. 698-A) | Aplicación excesiva |
 
-### Retención sobre dividendos [verificar]
+### Retención sobre dividendos
 
 | Comprobación | Cruce | Discrepancia típica |
 |---|---|---|
-| Tasa de retención | 10% acciones nominativas / 5% al portador o de zona libre [verificar] | Tasa incorrecta |
-| Impuesto complementario | ¿Se calculó sobre las utilidades no distribuidas? [verificar] | Complementario omitido |
+| Tasa de retención | 10% sobre dividendos de fuente panameña (acciones nominativas); 5% sobre dividendos de renta exenta, de fuente extranjera, de exportación o de Zona Libre de Colón / Panamá Pacífico / zonas francas; 20% sobre acciones **al portador** (art. 733) | Tasa incorrecta |
+| Impuesto complementario | 10% cuando se distribuye menos del 40% de la utilidad neta (o menos del 20% si la tasa aplicable es 5%); ¿se calculó sobre las utilidades no distribuidas? (art. 733) | Complementario omitido |
 
 ---
 
@@ -128,10 +130,10 @@ Una declaración tributaria incoherente internamente o con otras declaraciones d
 
 ## Legislación de referencia
 
-- **Código Fiscal de Panamá** — régimen del ISR, ITBMS, retenciones y obligaciones formales [verificar]
+- **Código Fiscal de Panamá** — ISR (arts. 694 territorialidad, 699 jurídicas y CAIR, 700 naturales, 698-A arrastre de pérdidas, 733 dividendos), ITBMS (art. 1057-V), retenciones y obligaciones formales
 - **Decreto Ejecutivo 170 de 1993** — reglamentación del ISR, prorrateo de gastos y territorialidad [verificar]
 - **Ley 8 de 2010** — ITBMS y reforma tributaria [verificar]
-- Normativa de precios de transferencia (informe 930) [verificar]
+- Normativa de precios de transferencia — arts. 762-A y ss. del Código Fiscal; Informe 930
 
 ---
 

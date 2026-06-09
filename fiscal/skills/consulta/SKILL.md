@@ -39,7 +39,7 @@ Toda respuesta incluye obligatoriamente:
 
 1. **Respuesta directa** — 2-4 frases claras con la conclusión
 2. **Fuente de la renta** — si aplica, indicar si es de fuente panameña (gravada) o extranjera (no gravada)
-3. **Norma aplicable** — siempre citar el artículo concreto del Código Fiscal o ley especial (ISR, ITBMS, dividendos, CAIR, etc.) [verificar]
+3. **Norma aplicable** — siempre citar el artículo concreto del Código Fiscal o ley especial (ISR jurídicas/CAIR art. 699, ISR naturales art. 700, territorialidad art. 694, dividendos art. 733, arrastre de pérdidas art. 698-A, ITBMS art. 1057-V, precios de transferencia arts. 762-A y ss., etc.)
 4. **Criterio DGI** — si existe una resolución, nota o criterio de la DGI que respalde la posición, citarlo con fecha y referencia
 5. **Jurisprudencia** — si hay fallos relevantes del Tribunal Administrativo Tributario (TAT), la Sala Tercera de la CSJ o la Corte Suprema de Justicia
 6. **Alertas** — marcar explícitamente cuando:
@@ -59,9 +59,9 @@ Toda respuesta incluye obligatoriamente:
 | Dividendos y complementario | Código Fiscal |
 | CAIR (Cálculo Alternativo del ISR) | Código Fiscal |
 | Retenciones (salarios, no residentes, dividendos) | Código Fiscal |
-| Precios de transferencia | Código Fiscal; normativa de PT (informe 930) [verificar] |
-| Regímenes de zona especial | Ley 41 de 2007 (SEM); Ley 41 de 2004 (Panamá Pacífico); normas de Ciudad del Saber y ZLC [verificar] |
-| Procedimientos tributarios | Código Fiscal; Ley 38 de 2000; Ley 8 de 2010 (TAT) [verificar] |
+| Precios de transferencia | Código Fiscal arts. 762-A y ss. (principio de plena competencia; Informe 930) |
+| Regímenes de zona especial | Ley 41 de 2007 (SEM); Ley 41 de 2004 (Panamá Pacífico); Decreto Ley 6 de 1998 (Ciudad del Saber); Ley 8 de 2016 (ZLC) |
+| Procedimientos tributarios | Código Fiscal (art. 1238-A); Código de Procedimiento Tributario (Ley 76 de 2019); Ley 8 de 2010 (TAT) |
 | Tributos municipales | Régimen municipal aplicable [verificar] |
 
 ---
@@ -130,10 +130,10 @@ Si no: "Sin alertas."]
 
 ## Legislación de referencia
 
-- **Código Fiscal de Panamá** — régimen del ISR, ITBMS, dividendos, procedimientos [verificar]
+- **Código Fiscal de Panamá** — ISR (arts. 694, 699, 700, 698-A, 733), ITBMS (art. 1057-V), precios de transferencia (arts. 762-A y ss.), procedimientos (art. 1238-A)
 - **Decreto Ejecutivo 170 de 1993** — reglamentación del ISR [verificar]
 - **Ley 8 de 2010** — reforma tributaria, ITBMS y TAT [verificar]
-- **Ley 41 de 2007 (SEM)**, **Ley 41 de 2004 (Panamá Pacífico)** y normas de Ciudad del Saber y ZLC [verificar]
+- **Ley 41 de 2007 (SEM)**, **Ley 41 de 2004 (Panamá Pacífico)**, **Decreto Ley 6 de 1998 (Ciudad del Saber)** y **Ley 8 de 2016 (ZLC)**
 - Base de criterios y resoluciones de la DGI (dgi.mef.gob.pa) [verificar]
 
 ---

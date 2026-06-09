@@ -1,5 +1,5 @@
 ---
-name: calendario-aeat
+name: calendario-dgi
 schedule: "0 9 1 * *"
 description: Genera el calendario de obligaciones fiscales del mes con declaraciones, plazos y estado de cumplimiento
 ---
@@ -27,12 +27,12 @@ evitando recargos e intereses por presentación tardía.
 
 1. Cargar el perfil fiscal de cada entidad gestionada
 2. Identificar las declaraciones tributarias a presentar en el mes en curso:
-   - Declaración mensual de ITBMS (formulario 430) [verificar]
-   - Planilla mensual de retenciones del ISR sobre salarios (formulario 03) [verificar]
+   - Declaración mensual de ITBMS (formulario 430; tarifa general 7%, art. 1057-V) dentro de los 15 días siguientes al cierre del mes
+   - Planilla mensual (Planilla 03) de retenciones del ISR sobre salarios
    - Retenciones de ITBMS y de servicios profesionales
-   - Declaración jurada anual del ISR (formulario 1) [verificar]
-   - Estimada del ISR y CAIR (Cálculo Alternativo del Impuesto sobre la Renta) [verificar]
-   - Retención sobre dividendos y complementario [verificar]
+   - Declaración jurada anual del ISR — Formulario 1 para persona natural (las personas jurídicas usan otros formularios); plazo 31 de marzo (art. 710)
+   - Estimada del ISR y CAIR (obligatorio si la renta gravable supera B/.1.500.000; 4.67% sobre la renta gravable, art. 699)
+   - Retención sobre dividendos (10% nominativas / 5% renta exenta, fuente extranjera, exportación o zona libre / 20% al portador; complementario 10%, art. 733)
    - Tasa única de sociedades anónimas y fundaciones — coordinar con módulo societario
 3. Para cada obligación:
    a. Verificar el plazo exacto de presentación (día del mes)

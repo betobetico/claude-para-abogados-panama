@@ -89,11 +89,11 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 
 | Tributo | Formulario | Periodicidad | Plazo | Notas |
 |---|---|---|---|---|
-| ISR — Declaración jurada de rentas | 1 (jurídicas) / 1 (naturales) [verificar] | Anual | [PLACEHOLDER — hasta 31 de marzo año calendario, con prórroga de 1 mes] [verificar] | [PLACEHOLDER] |
-| ISR — Estimada | [PLACEHOLDER] | Anual / cuotas | [PLACEHOLDER] | [PLACEHOLDER — CAIR si ingresos > 1,5 millones B/.] [verificar] |
-| ITBMS — Declaración | 430 [verificar] | Mensual | [PLACEHOLDER — dentro de los 15 días siguientes al mes] [verificar] | [PLACEHOLDER] |
-| ISR — Retenciones sobre salarios (planilla) | 03 [verificar] | Mensual | [PLACEHOLDER] | [PLACEHOLDER] |
-| Retención sobre dividendos / complementario | [PLACEHOLDER] | Según distribución | [PLACEHOLDER] | [PLACEHOLDER — 10% nominativas / 5% al portador o ZL] [verificar] |
+| ISR — Declaración jurada de rentas | 1 (persona natural; las jurídicas usan otros formularios) | Anual | [PLACEHOLDER — hasta 31 de marzo (art. 710), con prórroga de 1 mes] | [PLACEHOLDER] |
+| ISR — Estimada | [PLACEHOLDER] | Anual / cuotas | [PLACEHOLDER] | CAIR si la renta gravable > B/.1.500.000: 4.67% sobre la renta gravable, se paga el mayor (art. 699) |
+| ITBMS — Declaración | 430 | Mensual | [PLACEHOLDER — dentro de los 15 días siguientes al mes] | Tarifa general 7%; especiales 10%/15% (art. 1057-V) |
+| ISR — Retenciones sobre salarios (planilla) | 03 (Planilla 03) | Mensual | [PLACEHOLDER] | [PLACEHOLDER] |
+| Retención sobre dividendos / complementario | [PLACEHOLDER] | Según distribución | [PLACEHOLDER] | 10% nominativas / 5% renta exenta, fuente extranjera, exportación o zona libre / 20% al portador; complementario 10% (art. 733) |
 | Retención a no residentes / servicios del exterior | [PLACEHOLDER] | Según pago | [PLACEHOLDER] | [PLACEHOLDER] |
 | CSS — Planilla (cuota obrero-patronal) | [PLACEHOLDER] | Mensual | [PLACEHOLDER] | [PLACEHOLDER] |
 | Tasa única (S.A. / fundaciones) | [PLACEHOLDER] | Anual | [PLACEHOLDER] | [PLACEHOLDER] |
@@ -105,8 +105,8 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 
 | Período | Obligaciones principales | Plazo presentación |
 |---|---|---|
-| Mensual | ITBMS (430), planilla retenciones ISR (03), planilla CSS | [PLACEHOLDER — primeros 15 días del mes siguiente] [verificar] |
-| Anual | Declaración jurada del ISR, informe de no declarante si aplica | [PLACEHOLDER — hasta 31 de marzo, prórroga hasta 30 de abril] [verificar] |
+| Mensual | ITBMS (430), planilla retenciones ISR (03), planilla CSS | [PLACEHOLDER — dentro de los 15 días siguientes al cierre del mes para el 430] |
+| Anual | Declaración jurada del ISR, informe de no declarante si aplica | [PLACEHOLDER — hasta 31 de marzo (art. 710), prórroga hasta 30 de abril] |
 | Anual | Tasa única de sociedades y fundaciones | [PLACEHOLDER] [verificar] |
 
 **Plazos especiales:** [PLACEHOLDER — grandes contribuyentes, regímenes de zona especial, prórrogas]
@@ -117,8 +117,8 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 
 | Tributo | Municipio | Tasa | Notas |
 |---|---|---|---|
-| Impuesto de aviso de operación | [PLACEHOLDER — municipio] | [PLACEHOLDER — 2% del capital, tope B/. 60.000] [verificar] | [PLACEHOLDER] |
-| Impuesto de inmuebles | ANATI / DGI [verificar] | [PLACEHOLDER — tasa progresiva] [verificar] | [PLACEHOLDER] |
+| Impuesto de aviso de operación | [PLACEHOLDER — municipio] | 2% del capital de la empresa, mínimo B/.100 y máximo B/.60.000 (0,5% con tope B/.50.000 en zonas francas/ZLC; Ley 5 de 2007) | [PLACEHOLDER] |
+| Impuesto de inmuebles | ANATI / DGI [verificar] | Tarifa progresiva (Ley 66 de 2017); exención del Patrimonio Familiar Tributario / Vivienda Principal hasta B/.120.000 de base imponible | [PLACEHOLDER] |
 | Tasas y arbitrios municipales | [PLACEHOLDER — municipio] | [PLACEHOLDER] | [PLACEHOLDER] |
 | [Otro tributo municipal] | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER] |
 
@@ -140,9 +140,9 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 |---|---|---|---|
 | Fiscalización / auditoría DGI | Código Fiscal | [PLACEHOLDER] [verificar] | [PLACEHOLDER] |
 | Resolución de alcance / liquidación adicional | Código Fiscal | [PLACEHOLDER] [verificar] | [PLACEHOLDER] |
-| Recurso de reconsideración (ante la DGI) | Código Fiscal / Ley 38 de 2000 | [PLACEHOLDER — 15 días hábiles] [verificar] | [PLACEHOLDER] |
-| Recurso de apelación (Tribunal Administrativo Tributario, TAT) | Ley 8 de 2010 | [PLACEHOLDER — 15 días hábiles] [verificar] | [PLACEHOLDER] |
-| Demanda contencioso-administrativa | Sala Tercera de la CSJ — Ley 38 de 2000 | [PLACEHOLDER — 2 meses] [verificar] | [PLACEHOLDER] |
+| Recurso de reconsideración (ante la DGI) | Código Fiscal (art. 1238-A) / Código de Procedimiento Tributario (Ley 76 de 2019) | 15 días hábiles desde la notificación | [PLACEHOLDER] |
+| Recurso de apelación (Tribunal Administrativo Tributario, TAT) | Ley 8 de 2010; art. 1238-A | 15 días hábiles desde la notificación | [PLACEHOLDER] |
+| Demanda contencioso-administrativa | Sala Tercera de la CSJ — Ley 135 de 1943 (art. 42-B) | 2 meses desde la notificación que agota la vía gubernativa | [PLACEHOLDER] |
 
 ---
 
@@ -152,8 +152,8 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 |---|---|---|
 | Principio de territorialidad | [PLACEHOLDER — segregación de renta de fuente panameña vs extranjera] | [PLACEHOLDER] |
 | Régimen de zona especial (SEM, Ciudad del Saber, ZLC, Panamá Pacífico) | [PLACEHOLDER — incentivos aplicados, requisitos de elegibilidad] | [PLACEHOLDER] |
-| Precios de transferencia | [PLACEHOLDER — informe 930 / estudio de PT con partes relacionadas] [verificar] | [PLACEHOLDER] |
-| Arrastre de pérdidas | [PLACEHOLDER — pérdidas pendientes de aplicar, límite anual] [verificar] | [PLACEHOLDER] |
+| Precios de transferencia | [PLACEHOLDER — Informe 930 / estudio de PT con partes relacionadas; principio de plena competencia, arts. 762-A y ss., declaración informativa dentro de los 6 meses siguientes al cierre] | [PLACEHOLDER] |
+| Arrastre de pérdidas | [PLACEHOLDER — pérdidas pendientes; deducibles en los 5 períodos siguientes al 20% por año, sin reducir más del 50% de la renta neta gravable del año, art. 698-A] | [PLACEHOLDER] |
 | Incentivos sectoriales (turismo, agro, energía) | [PLACEHOLDER] | [PLACEHOLDER] |
 | [Otro elemento de planificación] | [PLACEHOLDER] | [PLACEHOLDER] |
 
@@ -197,13 +197,16 @@ Administración: DGI (Dirección General de Ingresos). El equipo fiscal cuenta c
 
 ## Referencias legislativas principales
 
-- **Código Fiscal de Panamá** — régimen del ISR, ITBMS y demás tributos nacionales [verificar]
+- **Código Fiscal de Panamá** — ISR (arts. 694 territorialidad, 699 jurídicas/CAIR, 700 naturales, 698-A pérdidas, 710 plazo, 733 dividendos), ITBMS (art. 1057-V), precios de transferencia (arts. 762-A y ss.), procedimientos (art. 1238-A)
 - **Decreto Ejecutivo 170 de 1993** — reglamentación del Impuesto sobre la Renta [verificar]
-- **Ley 8 de 2010** — reforma tributaria, ITBMS y creación del TAT [verificar]
-- **Ley 41 de 2007** — régimen de Sedes de Empresas Multinacionales (SEM) [verificar]
-- **Decreto Ley 6 de 1998 / régimen de la Zona Libre de Colón** [verificar]
-- **Ley 41 de 2004** — régimen de Panamá Pacífico [verificar]
-- **Decreto Ley 6 de 1998 — Ciudad del Saber / Ley respectiva** [verificar]
+- **Ley 8 de 2010** — reforma tributaria, ITBMS y creación del TAT
+- **Código de Procedimiento Tributario (Ley 76 de 2019)** — en vigor desde el 1 de junio de 2024
+- **Ley 70 de 2019** — defraudación fiscal como delito penal (umbral B/.300.000)
+- **Ley 41 de 2007** — régimen de Sedes de Empresas Multinacionales (SEM)
+- **Ley 8 de 2016** — régimen de la Zona Libre de Colón
+- **Ley 41 de 2004** — régimen de Panamá Pacífico
+- **Decreto Ley 6 de 1998** — Ciudad del Saber
+- **Ley 5 de 2007** (aviso de operación); **Ley 66 de 2017** (impuesto de inmuebles)
 - **Ley 38 de 2000** — procedimiento administrativo general
 - Resoluciones y notas interpretativas de la DGI
 
