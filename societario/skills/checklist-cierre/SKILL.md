@@ -91,7 +91,7 @@ Para cada elemento:
 - **Ley 25 de 1995**: fundaciones de interés privado, cuando intervengan en la estructura.
 - **Código de Comercio de Panamá**: escritura pública y formalidades de constitución y reforma.
 - **Código Civil de Panamá** [verificar]: compraventa — aplicable supletoriamente.
-- **Ley 45 de 2007**: protección al consumidor y defensa de la competencia — control de concentraciones (ACODECO) si aplica [verificar].
+- **Ley 45 de 2007**: protección al consumidor y defensa de la competencia — control de concentraciones (ACODECO) bajo régimen de verificación previa voluntaria (no notificación obligatoria por umbrales), si aplica.
 - **Registro Público de Panamá**: inscripción de la transmisión de acciones / cuotas de participación.
 
 ## Guardrails

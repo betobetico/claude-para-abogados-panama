@@ -122,6 +122,28 @@ verificación (umbrales de cuantía, subsanación, expropiación, responsabilida
 subsidios, demandas de protección de derechos humanos, supletoriedad de la Ley 38) y siguen
 marcados.
 
+### Módulo `societario` (verificado el 8 de junio de 2026)
+
+Verificado contra Ley 32 de 1927, Ley 25 de 1995, Código Fiscal, Código de Comercio y la
+normativa de transparencia. Marcadores: **50 → 8**.
+
+**Fundaciones de interés privado (Ley 25 de 1995)**
+- Nombre ("Fundación", no igual a otra): **art. 5.1**. Patrimonio mínimo **B/. 10.000**: **art. 5.2**. Domicilio y agente residente: **art. 5.4 y 5.5**.
+- **Consejo de Fundación** (corregido: no "consejo de fundadores"), mínimo 3 personas naturales o 1 jurídica: **art. 17**.
+- Constitución por documento privado autenticado o ante notario: **art. 4**; la inscripción en el Registro Público confiere personalidad jurídica: **art. 9**.
+- **Corrección de fondo:** la Ley 25 **excluye** el Título II del Libro I del Código Civil (**art. 2**); los registros contables derivan de la **Ley 52 de 2016 (ref. Ley 254 de 2021)**, no del Código de Comercio; las disposiciones de la fundación prevalecen sobre las legítimas (**art. 14**).
+
+**Sociedades anónimas y cumplimiento (Ley 32 de 1927 + Código Fiscal)**
+- S.A. sin capital mínimo: **art. 2 Ley 32 de 1927**. Agente residente (abogado/firma): **art. 2.7** + **Ley 2 de 2011**.
+- **Tasa única anual B/. 300** (sociedades) — **art. 318-A Código Fiscal**; suspensión de derechos a los **3 periodos**, disolución a los **10 periodos**. Fundaciones: **B/. 400** (verificar tarifa con la DGI).
+- ISR hasta el **31 de marzo**: **art. 710 Código Fiscal** (mod. Ley 6 de 2005).
+- Libros de actas y de acciones (admite medios electrónicos): **art. 71 Código de Comercio** (mod. **Ley 22 de 2015**). S. de R.L.: **Ley 4 de 2009**. Suscripción preferente: **art. 13 Ley 32 de 1927**.
+
+**Transparencia**
+- **Corrección de fondo:** beneficiario final → **Ley 129 de 2020** (Sistema Privado y Único de Registro de Beneficiarios Finales, administrado por la **SSNF**, reglamento **D.E. 13 de 2022**), con el **agente residente** como obligado a reportar — sustituye la referencia vaga a "normativa de transparencia".
+- Acciones al portador: régimen de custodia/inmovilización — **Ley 47 de 2013** (ref. **Ley 18 de 2015**).
+- Control de concentraciones: **Ley 45 de 2007 / ACODECO**, régimen de **verificación previa voluntaria**.
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes

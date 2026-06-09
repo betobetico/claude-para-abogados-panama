@@ -163,16 +163,16 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Obligación | Plazo legal | Alerta interna | Referencia |
 |---|---|---|---|
-| Tasa única anual | Anual [verificar] | [PLACEHOLDER] | Registro Público [verificar] |
-| Declaración jurada de renta (ISR) | Hasta 31 de marzo siguiente al cierre [verificar] | [PLACEHOLDER] | Código Fiscal |
-| Mantenimiento del agente residente | Continuo | [PLACEHOLDER] | Ley 32 de 1927 |
-| Libros sociales (actas y registro de acciones) | Permanente | [PLACEHOLDER] | Código de Comercio |
+| Tasa única anual | Anual — B/. 300; 15 jul (1.er sem.) o 15 ene (2.º sem.) | [PLACEHOLDER] | Código Fiscal, art. 318-A |
+| Declaración jurada de renta (ISR) | Hasta 31 de marzo siguiente al cierre | [PLACEHOLDER] | Código Fiscal, art. 710 |
+| Mantenimiento del agente residente | Continuo | [PLACEHOLDER] | Ley 32 de 1927, art. 2.7; Ley 2 de 2011 |
+| Libros sociales (actas y registro de acciones) | Permanente | [PLACEHOLDER] | Código de Comercio, art. 71 (Ley 22 de 2015) |
 | Inscripción de nombramientos/remociones | Tras protocolización en escritura pública [verificar] | [PLACEHOLDER] | Registro Público [verificar] |
-| Declaración de beneficiario final | Según normativa de transparencia vigente | [PLACEHOLDER] | Normativa de transparencia [verificar] |
+| Declaración de beneficiario final | Según Ley 129 de 2020 | [PLACEHOLDER] | Ley 129 de 2020 (SSNF; DE 13 de 2022) |
 | [PLACEHOLDER — otras obligaciones periódicas] | | | |
 
 **Consecuencias del incumplimiento:**
-- Suspensión de derechos corporativos y eventual disolución por falta de pago de la tasa única anual [verificar]
+- Por falta de pago de la tasa única anual: recargo B/. 50, multa B/. 300 por morosidad de dos periodos, suspensión de derechos corporativos a los 3 periodos consecutivos y disolución/cancelación registral a los 10 periodos consecutivos (Código Fiscal, art. 318-A)
 - Multas y recargos por presentación tardía de declaraciones ante la DGI [verificar]
 - Responsabilidad de directores y dignatarios por incumplimiento de sus deberes [verificar]
 
@@ -182,11 +182,11 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Tipo | Capital mínimo | Norma principal | Notas |
 |---|---|---|---|
-| S.A. (Sociedad Anónima) | Sin mínimo legal fijo [verificar] | Ley 32 de 1927 | Tipo más común; acciones nominativas o al portador (con restricciones) [verificar] |
-| S. de R.L. (Sociedad de Responsabilidad Limitada) | Según pacto social [verificar] | Ley 4 de 2009 | Cuotas de participación; régimen flexible |
-| Fundación de interés privado | USD 10.000 de patrimonio inicial [verificar] | Ley 25 de 1995 | Fines no lucrativos; sin accionistas; usada en planificación patrimonial |
-| Sociedad Civil | Sin mínimo | Código Civil de Panamá [verificar] | Para ejercicio de profesiones |
-| Sociedad en Comandita | Según tipo | Código de Comercio de Panamá [verificar] | Socios gestores y comanditarios |
+| S.A. (Sociedad Anónima) | Sin mínimo legal fijo | Ley 32 de 1927, art. 2 | Tipo más común; acciones nominativas o al portador (estas, totalmente liberadas y bajo el régimen de custodia/inmovilización de la Ley 47 de 2013, ref. Ley 18 de 2015) |
+| S. de R.L. (Sociedad de Responsabilidad Limitada) | Según pacto social | Ley 4 de 2009, arts. 4 y 6 | Capital dividido en participaciones/cuotas; régimen flexible |
+| Fundación de interés privado | B/. 10.000 de patrimonio inicial | Ley 25 de 1995, art. 5.2 | Fines no lucrativos; sin accionistas; usada en planificación patrimonial |
+| Sociedad Civil | Sin mínimo | Código Civil de Panamá | Para ejercicio de profesiones |
+| Sociedad en Comandita | Según tipo | Código de Comercio de Panamá | Socios gestores y comanditarios |
 | Empresa Individual | Según patrimonio afectado [verificar] | Ley específica [verificar] | Limitación de responsabilidad del comerciante individual |
 
 **Tipo societario del cliente / entidades del grupo:**
@@ -254,9 +254,11 @@ Las siguientes normas son la base del análisis de este plugin:
 - **Ley 4 de 2009** — sobre sociedades de responsabilidad limitada
 - **Código de Comercio de Panamá** — comerciantes, libros y obligaciones mercantiles
 - **Código Civil de Panamá** — en lo relativo a obligaciones, contratos y personalidad jurídica
-- **Código Fiscal de Panamá** [verificar] — Impuesto sobre la Renta (ISR) e ITBMS, bajo principio de territorialidad
-- **Ley 23 de 2015** — prevención de blanqueo de capitales (sujetos obligados, UAF) y régimen de beneficiario final
-- **Ley 45 de 2007** — protección al consumidor y defensa de la competencia (ACODECO) — control de concentraciones [verificar]
+- **Código Fiscal de Panamá** — Impuesto sobre la Renta (ISR, art. 710) e ITBMS, bajo principio de territorialidad; tasa única anual (art. 318-A)
+- **Ley 129 de 2020** — Sistema Privado y Único de Registro de Beneficiarios Finales (SSNF; Decreto Ejecutivo 13 de 2022); el agente residente es el obligado a reportar
+- **Ley 23 de 2015** — prevención de blanqueo de capitales (sujetos obligados, UAF) y debida diligencia sobre el cliente y el beneficiario final
+- **Ley 47 de 2013 (reformada por la Ley 18 de 2015)** — régimen de custodia/inmovilización obligatoria de las acciones al portador ante custodio autorizado
+- **Ley 45 de 2007** — protección al consumidor y defensa de la competencia (ACODECO) — control de concentraciones bajo régimen de verificación previa voluntaria (no notificación obligatoria por umbrales)
 - **Ley 81 de 2019** — protección de datos personales (ANTAI)
 
 ---

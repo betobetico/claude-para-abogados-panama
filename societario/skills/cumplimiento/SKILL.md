@@ -20,17 +20,18 @@ Esta skill genera y mantiene el calendario de obligaciones societarias legales p
 
 Obligaciones comunes a S.A. y S. de R.L.:
 
-1. **Tasa única anual**: pago anual obligatorio para el mantenimiento de la sociedad ante el Registro Público [verificar].
-2. **Declaración jurada de renta (ISR)**: presentación ante la DGI dentro del plazo legal — generalmente hasta el 31 de marzo siguiente al cierre del período fiscal [verificar].
-3. **Mantenimiento del agente residente**: la sociedad debe contar en todo momento con agente residente (abogado o firma de abogados) [verificar].
-4. **Libros sociales**: libro de actas y registro de acciones actualizados (Código de Comercio de Panamá) [verificar].
+1. **Tasa única anual**: B/. 300.00 anuales para sociedades (S.A., S. de R.L. y demás personas jurídicas); vencimiento hasta el 15 de julio si la entidad se inscribió en el 1.er semestre, o hasta el 15 de enero si se inscribió en el 2.º semestre (Código Fiscal, art. 318-A).
+2. **Declaración jurada de renta (ISR)**: presentación ante la DGI hasta el 31 de marzo siguiente al cierre del período fiscal ordinario; cabe prórroga de un mes (hasta el 30 de abril), pero el impuesto se paga al 31 de marzo (Código Fiscal, art. 710, modificado por la Ley 6 de 2005).
+3. **Mantenimiento del agente residente**: la sociedad debe contar en todo momento con agente residente (abogado o firma de abogados) (Ley 32 de 1927, art. 2, numeral 7; Ley 2 de 2011, art. 2).
+4. **Libros sociales**: libro de actas y registro de acciones actualizados, admitiéndose libros físicos o registros electrónicos (Código de Comercio, art. 71, modificado por la Ley 22 de 2015).
 5. **Renovación de cargos**: según duración prevista en el pacto social.
 6. **Registro de acciones / cuotas de participación**: actualización tras cada traspaso.
-7. **Declaración de beneficiario final**: ante el sistema correspondiente conforme a la normativa de transparencia [verificar].
+7. **Declaración de beneficiario final**: ante el Sistema Privado y Único de Registro de Beneficiarios Finales (Ley 129 de 2020, administrado por la SSNF; Decreto Ejecutivo 13 de 2022); el agente residente es el obligado a reportar.
 
 Obligaciones específicas según régimen:
 
 8. **Estados financieros auditados**: cuando la entidad esté obligada conforme a su régimen o actividad [verificar].
+   *(Recargo B/. 50 y multa B/. 300 por morosidad de dos periodos en la tasa única; suspensión de derechos corporativos a los 3 periodos consecutivos; disolución/cancelación registral a los 10 periodos consecutivos — Código Fiscal, art. 318-A.)*
 9. **Reporte a la UAF**: si la entidad es sujeto obligado bajo la Ley 23 de 2015.
 10. **Junta de accionistas ordinaria**: según lo previsto en el pacto social.
 
@@ -65,9 +66,9 @@ Para cada obligación:
 
 | Obligación | Plazo legal | Fecha límite | Estado | Base legal | Notas |
 |------------|-------------|--------------|--------|------------|-------|
-| Tasa única anual | Anual | [fecha] [verificar] | [estado] | Registro Público | [nota] |
-| Declaración de renta (ISR) | Hasta 31 marzo [verificar] | [fecha] | [estado] | Código Fiscal | [nota] |
-| Agente residente | Continuo | [fecha] | [estado] | Ley 32 de 1927 | [nota] |
+| Tasa única anual | Anual (B/. 300; 15 jul o 15 ene) | [fecha] | [estado] | Código Fiscal, art. 318-A | [nota] |
+| Declaración de renta (ISR) | Hasta 31 marzo | [fecha] | [estado] | Código Fiscal, art. 710 | [nota] |
+| Agente residente | Continuo | [fecha] | [estado] | Ley 32 de 1927, art. 2.7 | [nota] |
 
 ### Renovación de cargos
 
@@ -82,18 +83,19 @@ Para cada obligación:
 
 ## Referencias normativas
 
-- **Ley 32 de 1927**: sociedades anónimas — junta directiva, dignatarios y agente residente.
+- **Ley 32 de 1927**: sociedades anónimas — junta directiva, dignatarios y agente residente (art. 2, numeral 7; agente residente obligatorio y permanente).
+- **Ley 2 de 2011**: definición y régimen del agente residente.
 - **Ley 25 de 1995**: fundaciones de interés privado — obligaciones de mantenimiento.
-- **Código de Comercio de Panamá**: libros sociales y obligaciones contables.
-- **Código Fiscal de Panamá** [verificar]: declaración de renta (ISR) y tasa única anual.
-- **Ley 23 de 2015**: prevención de blanqueo de capitales y sujetos obligados (UAF).
-- **Normativa de transparencia y beneficiario final** [verificar]: registro y reporte de beneficiarios finales.
+- **Código de Comercio de Panamá, art. 71 (modificado por la Ley 22 de 2015)**: libros sociales (actas y registro de acciones); admite libros físicos o registros electrónicos.
+- **Código Fiscal de Panamá**: declaración de renta (ISR) hasta el 31 de marzo (art. 710, modificado por la Ley 6 de 2005) y tasa única anual de B/. 300.00 (art. 318-A).
+- **Ley 129 de 2020**: Sistema Privado y Único de Registro de Beneficiarios Finales (SSNF; Decreto Ejecutivo 13 de 2022); el agente residente reporta.
+- **Ley 23 de 2015**: prevención de blanqueo de capitales — debida diligencia y conocimiento del cliente y del beneficiario final por los sujetos obligados (UAF).
 
 ## Guardrails
 
 - **NO** presenta ni tramita documentos ante el Registro Público ni la DGI.
 - **NO** redacta los estados financieros ni el informe de gestión.
 - **NO** verifica la corrección contable de las cuentas.
-- **ESCALAR** si se detectan obligaciones vencidas que puedan acarrear sanciones (multas, suspensión de derechos corporativos por falta de pago de la tasa única anual, caducidad de cargos) [verificar].
+- **ESCALAR** si se detectan obligaciones vencidas que puedan acarrear sanciones (recargo B/. 50, multa B/. 300, suspensión de derechos corporativos a los 3 periodos consecutivos de morosidad y disolución/cancelación registral a los 10 periodos consecutivos por falta de pago de la tasa única anual; caducidad de cargos) (Código Fiscal, art. 318-A).
 - **ESCALAR** si la sociedad debería estar obligada a auditar y no consta auditor nombrado.
 - **AVISAR** si faltan datos para calcular algún plazo (ej. fecha de cierre del período fiscal).

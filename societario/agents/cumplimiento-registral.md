@@ -18,11 +18,11 @@ obligaciones ante el Registro Público y la DGI.
 
 - Registro de entidades gestionadas (denominación, RUC, forma jurídica, folio del Registro Público)
 - Calendario legal de obligaciones societarias panameñas:
-  - Tasa única anual: pago anual para el mantenimiento de la sociedad [verificar]
-  - Declaración jurada de renta (ISR) ante la DGI: hasta el 31 de marzo siguiente al cierre del período fiscal [verificar]
-  - Mantenimiento del agente residente: continuo [verificar]
-  - Libros sociales (actas y registro de acciones): actualizados conforme al Código de Comercio
-  - Declaración de beneficiario final: según la normativa de transparencia vigente [verificar]
+  - Tasa única anual: B/. 300.00 para sociedades; vencimiento hasta el 15 de julio (inscritas en el 1.er semestre) o hasta el 15 de enero (inscritas en el 2.º semestre) (Código Fiscal, art. 318-A)
+  - Declaración jurada de renta (ISR) ante la DGI: hasta el 31 de marzo siguiente al cierre del período fiscal; prórroga posible de un mes, pero el impuesto se paga al 31 de marzo (Código Fiscal, art. 710, modificado por la Ley 6 de 2005)
+  - Mantenimiento del agente residente: continuo (Ley 32 de 1927, art. 2, numeral 7; Ley 2 de 2011, art. 2)
+  - Libros sociales (actas y registro de acciones): actualizados conforme al Código de Comercio, art. 71 (modificado por la Ley 22 de 2015); admite libros físicos o registros electrónicos
+  - Declaración de beneficiario final: ante el Sistema Privado y Único de Registro de Beneficiarios Finales (Ley 129 de 2020; SSNF; Decreto Ejecutivo 13 de 2022); el agente residente es el obligado a reportar
 - Registro de cargos sociales (dignatarios y directores) con fecha de nombramiento y duración prevista en el pacto social
 - Histórico de cumplimiento de cada entidad
 
@@ -71,4 +71,4 @@ obligaciones ante el Registro Público y la DGI.
 - **Solo log**: obligaciones cumplidas o con más de 60 días de margen
 - **Notificación al responsable**: obligación a menos de 30 días sin acción iniciada
 - **Alerta al equipo societario**: obligación vencida o a menos de 7 días
-- **Escalado a dirección**: riesgo de suspensión de derechos corporativos, multas o disolución por incumplimiento reiterado [verificar]
+- **Escalado a dirección**: riesgo de suspensión de derechos corporativos a los 3 periodos consecutivos de morosidad, multas (recargo B/. 50; multa B/. 300) o disolución/cancelación registral a los 10 periodos consecutivos por falta de pago de la tasa única anual (Código Fiscal, art. 318-A)

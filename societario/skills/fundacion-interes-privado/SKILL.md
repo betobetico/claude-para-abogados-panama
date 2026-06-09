@@ -6,7 +6,7 @@ argument-hint: "<accion: constituir | revisar | cumplimiento> [datos-de-la-funda
 
 ## Propósito
 
-Esta skill asiste en el ciclo de vida de las fundaciones de interés privado panameñas (Ley 25 de 1995): constitución (acta fundacional / carta fundacional), definición de órganos (fundador, consejo de fundación, protector), beneficiarios, patrimonio y reglamentos, así como en el seguimiento de las obligaciones de mantenimiento. Es la figura típica de planificación patrimonial y sucesoria en Panamá, sin accionistas y con fines no lucrativos.
+Esta skill asiste en el ciclo de vida de las fundaciones de interés privado panameñas (Ley 25 de 1995): constitución (acta fundacional / carta fundacional), definición de órganos (fundador, Consejo de Fundación, protector), beneficiarios, patrimonio y reglamentos, así como en el seguimiento de las obligaciones de mantenimiento. Es la figura típica de planificación patrimonial y sucesoria en Panamá, sin accionistas y con fines no lucrativos.
 
 ## Instrucciones
 
@@ -23,10 +23,10 @@ Determinar qué se solicita:
 Solicitar al usuario los datos según la acción:
 
 - **Fundador**: nombre, cédula / pasaporte; puede ser persona natural o jurídica.
-- **Nombre de la fundación**: debe incluir la palabra "Fundación" y no ser igual al de otra existente [verificar].
-- **Patrimonio inicial**: mínimo de USD 10.000 (B/. 10.000) [verificar].
-- **Domicilio** y **agente residente** (abogado o firma de abogados en Panamá) [verificar].
-- **Consejo de fundación**: miembros (mínimo 3 personas naturales, o 1 persona jurídica) [verificar].
+- **Nombre de la fundación**: debe incluir la palabra "Fundación" y no ser igual o similar al de otra preexistente (art. 5, numeral 1, Ley 25 de 1995).
+- **Patrimonio inicial**: mínimo de USD 10.000 (B/. 10.000), expresable en cualquier moneda (art. 5, numeral 2, Ley 25 de 1995).
+- **Domicilio** en Panamá y **agente residente** (abogado o firma de abogados en Panamá) (art. 5, numerales 4 y 5, Ley 25 de 1995).
+- **Consejo de Fundación**: miembros (mínimo 3 si son personas naturales, o 1 si es persona jurídica) (art. 17, Ley 25 de 1995).
 - **Beneficiarios**: identificación o forma de determinarlos (a menudo en reglamento privado).
 - **Protector** (opcional): facultades de supervisión.
 - **Objeto / fines**: no lucrativos; pueden incluir manutención y educación de beneficiarios.
@@ -35,12 +35,12 @@ Solicitar al usuario los datos según la acción:
 
 Comprobar conforme a la Ley 25 de 1995:
 
-- **Patrimonio mínimo** afectado a los fines de la fundación [verificar].
-- **Acta fundacional** otorgada en escritura pública e inscrita en el Registro Público [verificar].
-- **Órganos**: consejo de fundación válidamente designado.
+- **Patrimonio mínimo** de B/. 10.000 afectado a los fines de la fundación (art. 5, numeral 2, Ley 25 de 1995).
+- **Acta fundacional**: puede otorgarse por documento privado con firma del fundador autenticada por notario o directamente ante notario (escritura pública) — la escritura pública no es la única vía (art. 4, Ley 25 de 1995). La **inscripción en el Registro Público confiere la personalidad jurídica** (art. 9, Ley 25 de 1995).
+- **Órganos**: Consejo de Fundación válidamente designado (art. 17, Ley 25 de 1995).
 - **Reglamento**: documento privado que regula beneficiarios y distribución (no necesariamente inscrito).
 - **Agente residente** vigente.
-- **Beneficiario final**: cumplimiento de la normativa de transparencia y de la Ley 23 de 2015 (si la fundación es sujeto obligado o si interviene su agente residente).
+- **Beneficiario final**: cumplimiento del registro de beneficiarios finales (Ley 129 de 2020, administrada por la SSNF; Decreto Ejecutivo 13 de 2022) y de la debida diligencia de la Ley 23 de 2015 (si la fundación es sujeto obligado o si interviene su agente residente).
 
 ### Paso 4 — Generar el documento o informe
 
@@ -63,7 +63,7 @@ Según la acción, redactar el borrador del acta fundacional, el informe de revi
 
 | Elemento | Detalle | Estado / Referencia |
 |----------|---------|---------------------|
-| Consejo de fundación | [miembros] | Ley 25 de 1995 |
+| Consejo de Fundación | [miembros] | Ley 25 de 1995, art. 17 |
 | Protector | [nombre / no designado] | [opcional] |
 | Beneficiarios | [identificación / reglamento] | [privado] |
 | Reglamento | [sí / no] | [privado] |
@@ -72,10 +72,10 @@ Según la acción, redactar el borrador del acta fundacional, el informe de revi
 
 | Obligación | Plazo | Estado | Base legal |
 |------------|-------|--------|------------|
-| Tasa única anual | Anual [verificar] | [estado] | Registro Público [verificar] |
-| Agente residente | Continuo | [estado] | Ley 25 de 1995 |
-| Libros / registros contables | Permanente | [estado] | Ley 25 de 1995 |
-| Beneficiario final | Según normativa vigente | [estado] | Ley 23 de 2015 / transparencia [verificar] |
+| Tasa única anual | Anual (B/. 400.00) | [estado] | Código Fiscal, art. 318-A |
+| Agente residente | Continuo | [estado] | Ley 25 de 1995, art. 5.5 |
+| Libros / registros contables | Permanente | [estado] | Ley 52 de 2016 (ref. Ley 254 de 2021) |
+| Beneficiario final | Según Ley 129 de 2020 | [estado] | Ley 129 de 2020 / Ley 23 de 2015 |
 
 ### Incidencias / Acciones recomendadas
 
@@ -84,11 +84,11 @@ Según la acción, redactar el borrador del acta fundacional, el informe de revi
 
 ## Referencias normativas
 
-- **Ley 25 de 1995**: sobre fundaciones de interés privado — constitución, órganos, patrimonio, beneficiarios.
-- **Código Civil de Panamá** [verificar]: en lo relativo a personalidad jurídica, obligaciones y sucesiones.
-- **Código de Comercio de Panamá**: libros y registros contables [verificar].
-- **Ley 23 de 2015**: prevención de blanqueo de capitales — sujetos obligados, UAF y beneficiario final.
-- **Normativa de transparencia y beneficiario final** [verificar]: registro de beneficiarios finales.
+- **Ley 25 de 1995**: sobre fundaciones de interés privado — constitución (arts. 4 y 9), nombre y patrimonio (art. 5), órganos (art. 17) y régimen sucesorio (art. 14). Esta ley **excluye expresamente la aplicación del Título II del Libro I del Código Civil** (art. 2), por lo que dicho código no se aplica supletoriamente en esa materia. En materia sucesoria, las disposiciones de la fundación **prevalecen sobre las legítimas hereditarias** (art. 14).
+- **Ley 52 de 2016 (reformada por la Ley 254 de 2021)**: obligación de llevar registros contables y documentación de soporte de las fundaciones (no deriva del Código de Comercio).
+- **Código Fiscal, art. 318-A**: tasa única anual de las fundaciones, B/. 400.00 anuales (verificar tarifa vigente con la DGI).
+- **Ley 129 de 2020**: Sistema Privado y Único de Registro de Beneficiarios Finales de las Personas Jurídicas, administrado por la Superintendencia de Sujetos No Financieros (SSNF), reglamentada por el Decreto Ejecutivo 13 de 2022; el agente residente es el obligado a reportar.
+- **Ley 23 de 2015**: prevención de blanqueo de capitales — debida diligencia y conocimiento del cliente y del beneficiario final por los sujetos obligados (incl. agentes residentes); UAF.
 
 ## Guardrails
 
@@ -98,4 +98,4 @@ Según la acción, redactar el borrador del acta fundacional, el informe de revi
 - **NO** sustituye el reglamento privado, que debe redactarse según la voluntad del fundador.
 - **ESCALAR** si la estructura busca eludir normas imperativas de sucesiones o de acreedores.
 - **ESCALAR** si hay indicios de uso para blanqueo de capitales o evasión fiscal (Ley 23 de 2015).
-- **AVISAR** si faltan datos esenciales (fundador, patrimonio, consejo de fundación o agente residente).
+- **AVISAR** si faltan datos esenciales (fundador, patrimonio, Consejo de Fundación o agente residente).

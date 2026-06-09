@@ -85,7 +85,7 @@ Aplicar el umbral de materialidad:
 - **Registro Público de Panamá**: inscripciones y publicidad registral.
 - **Código de Comercio de Panamá**: contabilidad y obligaciones mercantiles.
 - **Código de Trabajo de Panamá**: relaciones laborales y contingencias.
-- **Código Fiscal de Panamá** [verificar]: obligaciones y contingencias tributarias (ISR, ITBMS).
+- **Código Fiscal de Panamá**: obligaciones y contingencias tributarias — declaración jurada de renta ISR hasta el 31 de marzo (art. 710); ITBMS.
 - **Ley 25 de 1995**: fundaciones de interés privado.
 
 ## Guardrails

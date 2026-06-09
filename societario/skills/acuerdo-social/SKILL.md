@@ -82,7 +82,7 @@ Mayoría requerida: pacto social / Ley 32 de 1927 — Cumplida: [SÍ/NO]
 |---------|-------|-------------|--------|
 | Protocolización en escritura pública | [plazo] | [nombre] | Pendiente |
 | Inscripción en el Registro Público | [plazo] [verificar] | [nombre] | Pendiente |
-| Pago de tasa única anual | [plazo] [verificar] | [nombre] | Pendiente |
+| Pago de tasa única anual | Anual (B/. 300; 15 jul o 15 ene — Código Fiscal, art. 318-A) | [nombre] | Pendiente |
 ```
 
 ## Referencias normativas
@@ -91,7 +91,7 @@ Mayoría requerida: pacto social / Ley 32 de 1927 — Cumplida: [SÍ/NO]
 - **Ley 32 de 1927**: reforma del pacto social.
 - **Ley 32 de 1927**: junta de accionistas — convocatoria, constitución y adopción de acuerdos.
 - **Pacto social**: quórum y mayorías aplicables a cada tipo de acuerdo.
-- **Ley 32 de 1927**: aumento de capital y derecho de suscripción preferente [verificar].
+- **Ley 32 de 1927, art. 13**: derecho de suscripción preferente en el aumento de capital (de carácter dispositivo: el pacto social puede excluirlo). El aumento de capital es reforma del pacto social (arts. 21, 56 y ss.), con protocolización en escritura pública e inscripción en el Registro Público.
 - **Código de Comercio de Panamá**: protocolización e inscripción de actos societarios.
 - **Registro Público de Panamá**: inscripción de acuerdos sociales.
 

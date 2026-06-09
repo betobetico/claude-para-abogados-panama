@@ -75,7 +75,7 @@ Para cada documento:
 - **Ley 32 de 1927**: sobre sociedades anónimas — estructura societaria, órganos, acciones.
 - **Ley 25 de 1995**: sobre fundaciones de interés privado.
 - **Código de Comercio de Panamá**: comerciantes, contabilidad y obligaciones mercantiles.
-- **Código Fiscal de Panamá** [verificar]: Impuesto sobre la Renta (ISR) — obligaciones fiscales bajo principio de territorialidad.
+- **Código Fiscal de Panamá**: Impuesto sobre la Renta (ISR) — declaración jurada hasta el 31 de marzo (art. 710), bajo principio de territorialidad.
 - **Código de Trabajo de Panamá**: documentación laboral.
 - **Ley 23 de 2015**: prevención de blanqueo de capitales — sujetos obligados.
 

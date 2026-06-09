@@ -34,8 +34,9 @@
 
 ## Fase 5 — Verificación a fondo por módulo (en curso)
 
-- [x] **administrativo** — verificado artículo por artículo (123 → 53 marcadores): Ley 38 de 2000 (arts. 41, 156-157, 166-172, 200), Ley 135 de 1943 (arts. 42-A, 42-B, 43-A, 43-B, 73), art. 97 Código Judicial, Texto Único Ley 22 de 2006 (arts. 93, 123, 125). Ver [VERIFICACION.md](VERIFICACION.md) §4.
-- [ ] societario / fiscal / laboral / procesal / inmobiliario — pendientes de verificación a fondo
+- [x] **administrativo** — verificado artículo por artículo (123 → 53): Ley 38 de 2000 (arts. 41, 156-157, 166-172, 200), Ley 135 de 1943 (arts. 42-A, 42-B, 43-A, 43-B, 73), art. 97 Código Judicial, Texto Único Ley 22 de 2006 (arts. 93, 123, 125). Ver [VERIFICACION.md](VERIFICACION.md) §4.
+- [x] **societario** — verificado artículo por artículo (50 → 8): Ley 25 de 1995 (arts. 2, 4, 5, 9, 14, 17), Ley 32 de 1927 (arts. 2, 13), Código Fiscal (arts. 318-A, 710), art. 71 Código de Comercio, Ley 129 de 2020 (beneficiario final), Ley 47 de 2013 (acciones al portador). Corregidos 2 errores de fondo. Ver [VERIFICACION.md](VERIFICACION.md) §4.
+- [ ] fiscal / laboral / procesal / inmobiliario — pendientes de verificación a fondo
 
 ## Pendiente (mejoras futuras)
 
