@@ -34,7 +34,7 @@ acciones administrativas pendientes para evitar incumplimientos laborales.
    c. Verificar si se acerca algún hito legal:
       - Incapacidad por enfermedad: límites de subsidio de la CSS y vencimiento [verificar]
       - Licencia no remunerada: fin del período concedido, derecho de reintegro
-      - Licencia de maternidad: 14 semanas (6 prenatales y 8 posnatales) [verificar]
+      - Licencia de maternidad: 14 semanas (6 prenatales y 8 posnatales) — Código de Trabajo, art. 107; fuero de maternidad en el art. 106
    d. Identificar acciones administrativas pendientes (avisos a la CSS y a MITRADEL)
 3. Clasificar por urgencia temporal
 4. Generar informe semanal con acciones requeridas

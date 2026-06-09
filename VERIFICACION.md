@@ -172,6 +172,27 @@ no datos factuales.)
 
 *(Se renombró el agente `calendario-aeat` → `calendario-dgi`, residuo del nombre español.)*
 
+### Módulo `laboral` (verificado el 9 de junio de 2026)
+
+Verificado contra el Código de Trabajo (Decreto de Gabinete 252 de 1971) y normativa laboral
+vigente. Marcadores: **111 → 34**.
+
+**Despido / terminación**
+- Causas justificadas: **art. 213** — acápites **A** (disciplinaria), **B** (no imputable al trabajador: incapacidad, prisión) y **C** (económica/de mercado). *Corrección:* el repo etiquetaba B como "económica"; lo económico es C.
+- Período de prueba (máx. 3 meses): **art. 78**. Caducidad del despido disciplinario (2 meses): **art. 220**. Reintegro o indemnización + salarios caídos: **art. 218** (estabilidad a partir de 2 años).
+- Fuero de maternidad (autorización judicial previa): **art. 106**; fuero sindical: **art. 383**. Competencia: Juzgados de Trabajo y Juntas de Conciliación y Decisión (Ley 7 de 1975).
+
+**Prestaciones**
+- Prima de antigüedad (1 semana por año, base promedio de 5 años, Fondo de Cesantía Ley 44 de 1995): **art. 224**.
+- **Indemnización por despido injustificado (art. 225):** **3,4 semanas de salario por año los primeros 10 años + 1 semana adicional por año desde el año 11** (dato que el repo no tenía).
+- Vacaciones (30 días por cada 11 meses): **art. 54**. Décimo tercer mes (tres partidas: 15 abril, 15 agosto, 15 diciembre): **Decreto de Gabinete 221 de 1971**.
+
+**Contratación / jornada / CSS / fuero**
+- Modalidades y conversión a indefinido: **arts. 74 y 77**. Jornadas (8/48, 7/42, 7,5/45 h): **arts. 30-31**.
+- CSS obligatoria (afiliación en 6 días hábiles) y riesgos profesionales: **Ley 51 de 2005**. Maternidad 14 semanas (6+8): **art. 107**. Teletrabajo: **Ley 126 de 2020** (modifica art. 151 CT).
+- **Corrección de fondo (no competencia postcontractual):** en Panamá **no se admite** con carácter general (contraria a la libertad de trabajo, **art. 40 Constitución** y **art. 6 CT**); no basta con compensación. El repo la trataba como válida-con-compensación (enfoque importado).
+- **Corrección (aprendizaje):** se rige por el **Decreto Ley 4 de 1997** y el INADEH, no por el Código de Trabajo (supletorio).
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes

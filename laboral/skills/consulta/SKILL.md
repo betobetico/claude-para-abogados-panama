@@ -21,8 +21,8 @@ Esta skill proporciona respuestas rápidas y estructuradas a consultas de derech
 Orden de fuentes:
 
 1. **Constitución Política de Panamá** — derechos laborales fundamentales [verificar].
-2. **Código de Trabajo de Panamá** — norma principal.
-3. **Leyes y decretos especiales**: régimen del décimo tercer mes [verificar], Ley 126 de 2020 (teletrabajo) [verificar], Ley Orgánica de la CSS [verificar], normativa de riesgos profesionales [verificar].
+2. **Código de Trabajo de Panamá** — norma principal (Decreto de Gabinete 252 de 1971).
+3. **Leyes y decretos especiales**: décimo tercer mes (Decreto de Gabinete 221 de 1971), Ley 126 de 2020 (teletrabajo, modifica el art. 151 del Código de Trabajo), Ley 51 de 2005 (CSS) y régimen de riesgos profesionales administrado por la CSS (Ley 51 de 2005).
 4. **Convención colectiva**: mejoras sobre los mínimos legales.
 5. **Jurisprudencia de la Corte Suprema de Justicia**: cuando la interpretación no sea pacífica [verificar].
 
@@ -75,24 +75,25 @@ Orden de fuentes:
 
 | Tema | Código de Trabajo | Normativa especial |
 |------|-------------------|-------------------|
-| Período de prueba | Art. [X] [verificar] | Convención colectiva |
-| Jornada y sobretiempo | Art. [X] [verificar] | Jornada máxima legal |
-| Vacaciones | Art. [X] [verificar] | 30 días por cada 11 meses de trabajo continuo [verificar] |
-| Décimo tercer mes | — | Decreto de Gabinete sobre el XIII mes [verificar] |
-| Prima de antigüedad | Art. [X] [verificar] | Una semana de salario por año de servicio [verificar] |
+| Período de prueba | Art. 78 | Máx. 3 meses, por escrito; convención colectiva |
+| Jornada y sobretiempo | Arts. 30-31 | Diurna 8h/48h; nocturna 7h/42h; mixta 7,5h/45h |
+| Vacaciones | Art. 54 | 30 días por cada 11 meses de trabajo continuo |
+| Décimo tercer mes | — | Decreto de Gabinete 221 de 1971 (15 abr, 15 ago, 15 dic) |
+| Prima de antigüedad | Art. 224 | Una semana de salario por año de servicio |
+| Indemnización despido injustificado | Art. 225 | 3,4 semanas/año (primeros 10 años) + 1 semana/año desde el año 11 |
 | Licencias y permisos | Art. [X] [verificar] | Convención colectiva |
-| Maternidad / fuero | Art. [X] [verificar] | Licencia de 14 semanas [verificar] |
-| Riesgos profesionales | — | Régimen de riesgos profesionales de la CSS [verificar] |
+| Maternidad / fuero | Arts. 106-107 | Licencia de 14 semanas (6 antes + 8 después del parto) |
+| Riesgos profesionales | — | Administrados por la CSS (Ley 51 de 2005) |
 | Teletrabajo | — | Ley 126 de 2020 |
-| Seguridad Social | — | Ley Orgánica de la CSS [verificar] |
+| Seguridad Social | — | Ley 51 de 2005 |
 
 ## Referencias normativas
 
-- **Código de Trabajo de Panamá**: norma principal del derecho laboral.
-- **Ley Orgánica de la CSS** (Ley 51 de 2005): seguridad social.
-- **Régimen de riesgos profesionales** administrado por la CSS [verificar].
-- **Régimen del décimo tercer mes** — Decreto de Gabinete sobre el XIII mes [verificar].
-- **Ley 126 de 2020**: teletrabajo.
+- **Código de Trabajo de Panamá**: norma principal del derecho laboral (Decreto de Gabinete 252 de 1971).
+- **Ley 51 de 2005**: seguridad social (CSS).
+- **Régimen de riesgos profesionales** administrado por la CSS (Ley 51 de 2005).
+- **Décimo tercer mes** — Decreto de Gabinete 221 de 1971 (tres partidas: 15 de abril, 15 de agosto y 15 de diciembre).
+- **Ley 126 de 2020**: teletrabajo (modifica el art. 151 del Código de Trabajo).
 - **MITRADEL**: resoluciones, salario mínimo y trámites administrativos laborales.
 
 ## Guardrails

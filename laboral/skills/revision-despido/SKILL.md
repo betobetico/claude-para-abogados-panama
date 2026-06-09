@@ -12,24 +12,27 @@ Esta skill analiza un despido propuesto o ejecutado verificando el cumplimiento 
 
 ### Paso 1 — Identificar tipo de despido
 
-1. **Despido por causa justificada de naturaleza disciplinaria** (Código de Trabajo, art. 213 [verificar]): incumplimiento grave del trabajador.
-2. **Despido por causa justificada de naturaleza económica o de mercado** (Código de Trabajo, art. 213 [verificar]): causas económicas o de operación de la empresa.
-3. **Despido de trabajador con fuero** (maternidad, sindical, dirigente) — requiere autorización judicial previa [verificar].
-4. **Terminación durante el período de prueba** (Código de Trabajo, art. 78 [verificar]).
+El art. 213 del Código de Trabajo agrupa las causas justificadas en tres acápites: **A) causas de naturaleza disciplinaria; B) causas no imputables al trabajador** (p. ej., incapacidad física o mental, pena de prisión); **C) causas de naturaleza económica o de mercado** (quiebra, cierre, reducción comprobada de operaciones).
+
+1. **Despido por causa justificada de naturaleza disciplinaria** (Código de Trabajo, art. 213, acápite A): incumplimiento grave del trabajador.
+2. **Despido por causa no imputable al trabajador** (Código de Trabajo, art. 213, acápite B): incapacidad física o mental, pena de prisión y supuestos análogos.
+3. **Despido por causa justificada de naturaleza económica o de mercado** (Código de Trabajo, art. 213, acápite C): quiebra, cierre o reducción comprobada de operaciones de la empresa.
+4. **Despido de trabajador con fuero** (maternidad, sindical, dirigente) — requiere autorización judicial previa (Código de Trabajo, arts. 106 para maternidad y 383 para fuero sindical).
+5. **Terminación durante el período de prueba** (Código de Trabajo, art. 78): máximo 3 meses, debe constar por escrito.
 
 ### Paso 2 — Verificar requisitos formales
 
-**Despido por causa justificada (Código de Trabajo, art. 213 y ss. [verificar]):**
+**Despido por causa justificada (Código de Trabajo, art. 213 y ss.):**
 - Aviso de despido por escrito expresando la causa concreta y la fecha de efectos.
 - Invocación de causal específica del Código de Trabajo; no pueden alegarse después otras causas.
-- Plazo de caducidad para invocar la causa disciplinaria desde su conocimiento [verificar].
+- Plazo de caducidad para invocar la causa disciplinaria: 2 meses desde los hechos, o desde su conocimiento si constituyen delito (Código de Trabajo, art. 220).
 - Pago de las prestaciones que correspondan según el caso (prima de antigüedad, vacaciones proporcionales, décimo tercer mes proporcional).
 
 **Despido de trabajador con fuero:**
-- Autorización judicial previa ante el Juzgado de Trabajo o la Junta de Conciliación y Decisión competente [verificar].
-- Sin autorización previa, el despido es ineficaz y procede el reintegro.
+- Autorización judicial previa ante el Juzgado de Trabajo (la autorización de despido de aforados se tramita ante el juzgado de trabajo; competencia laboral repartida entre Juzgados de Trabajo y Juntas de Conciliación y Decisión, Ley 7 de 1975).
+- Sin autorización previa, el despido es ineficaz y procede el reintegro con salarios caídos. En contrato indefinido, el trabajador despedido injustificadamente puede pedir reintegro con salarios caídos o la indemnización del art. 225 (Código de Trabajo, art. 218); estabilidad reforzada a partir de 2 años de antigüedad.
 
-**Despido por causas económicas o de operación:**
+**Despido por causas económicas o de operación (art. 213, acápite C):**
 - Cumplimiento del procedimiento ante MITRADEL cuando aplique (autorización o notificación) [verificar].
 - Sustento documental de la causa económica o de mercado invocada.
 
@@ -55,10 +58,10 @@ Esta skill analiza un despido propuesto o ejecutado verificando el cumplimiento 
 
 | Requisito | Cumple | Base legal | Observaciones |
 |-----------|--------|------------|---------------|
-| Aviso de despido por escrito | [SÍ/NO] | Código de Trabajo, art. [X] [verificar] | [detalle] |
-| Causal específica invocada | [SÍ/NO/N/A] | Código de Trabajo, art. 213 [verificar] | [detalle] |
-| Autorización judicial previa (fuero) | [SÍ/NO/N/A] | Código de Trabajo | [detalle] |
-| Pago de prestaciones que correspondan | [SÍ/NO/N/A] | Código de Trabajo | [detalle] |
+| Aviso de despido por escrito | [SÍ/NO] | Código de Trabajo, art. 213 | [detalle] |
+| Causal específica invocada | [SÍ/NO/N/A] | Código de Trabajo, art. 213 (acápites A/B/C) | [detalle] |
+| Autorización judicial previa (fuero) | [SÍ/NO/N/A] | Código de Trabajo, arts. 106 (maternidad) y 383 (sindical) | [detalle] |
+| Pago de prestaciones que correspondan | [SÍ/NO/N/A] | Código de Trabajo, arts. 224 y 225 | [detalle] |
 
 ### Análisis de causa
 
@@ -77,8 +80,8 @@ Esta skill analiza un despido propuesto o ejecutado verificando el cumplimiento 
 
 - **Riesgo de despido injustificado:** [ALTO/MEDIO/BAJO] — [justificación]
 - **Riesgo de ineficacia / reintegro:** [ALTO/MEDIO/BAJO] — [justificación]
-- **Coste de despido injustificado:** [cálculo orientativo — indemnización y prima de antigüedad según el Código de Trabajo]
-- **Salarios caídos:** [si aplica, en caso de reintegro [verificar]]
+- **Coste de despido injustificado:** [cálculo orientativo — indemnización (art. 225) y prima de antigüedad (art. 224) del Código de Trabajo]
+- **Salarios caídos:** [si aplica, en caso de reintegro — Código de Trabajo, art. 218]
 
 ### Recomendaciones
 
@@ -87,10 +90,10 @@ Esta skill analiza un despido propuesto o ejecutado verificando el cumplimiento 
 
 ## Referencias normativas
 
-- **Código de Trabajo de Panamá** — Terminación de la relación de trabajo [verificar].
-- **Código de Trabajo, art. 213** — Causas justificadas de despido [verificar].
-- **Código de Trabajo** — Régimen de fueros (maternidad, sindical, riesgo profesional) y autorización judicial previa [verificar].
-- **Código de Trabajo** — Prima de antigüedad e indemnización por despido injustificado [verificar].
+- **Código de Trabajo de Panamá** — Terminación de la relación de trabajo (Decreto de Gabinete 252 de 1971).
+- **Código de Trabajo, art. 213** — Causas justificadas de despido (acápite A disciplinario; acápite B no imputable al trabajador; acápite C económico o de mercado). Caducidad de la causa disciplinaria: art. 220 (2 meses).
+- **Código de Trabajo, arts. 106 y 383** — Régimen de fueros: maternidad (art. 106; licencia en el art. 107) y fuero sindical (art. 383; amparados en el art. 381), con autorización judicial previa.
+- **Código de Trabajo, arts. 218, 224 y 225** — Reintegro con salarios caídos o indemnización (art. 218), prima de antigüedad (art. 224) e indemnización por despido injustificado (art. 225).
 - **MITRADEL** — Procedimientos administrativos en despidos por causa económica [verificar].
 - **Constitución Política de Panamá** — Garantías laborales y no discriminación [verificar].
 

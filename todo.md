@@ -37,7 +37,8 @@
 - [x] **administrativo** — verificado artículo por artículo (123 → 53): Ley 38 de 2000 (arts. 41, 156-157, 166-172, 200), Ley 135 de 1943 (arts. 42-A, 42-B, 43-A, 43-B, 73), art. 97 Código Judicial, Texto Único Ley 22 de 2006 (arts. 93, 123, 125). Ver [VERIFICACION.md](VERIFICACION.md) §4.
 - [x] **societario** — verificado artículo por artículo (50 → 8): Ley 25 de 1995 (arts. 2, 4, 5, 9, 14, 17), Ley 32 de 1927 (arts. 2, 13), Código Fiscal (arts. 318-A, 710), art. 71 Código de Comercio, Ley 129 de 2020 (beneficiario final), Ley 47 de 2013 (acciones al portador). Corregidos 2 errores de fondo. Ver [VERIFICACION.md](VERIFICACION.md) §4.
 - [x] **fiscal** — verificado artículo por artículo (123 → 63): ISR (arts. 694, 698-A, 699, 700, 710, 733, 733-A), ITBMS (art. 1057-V), procedimiento (art. 1238-A, Ley 8 de 2010, Ley 76 de 2019, Ley 70 de 2019), precios de transferencia (arts. 762-A y ss.). Corregido el error de dividendos al portador (20%). Agente `calendario-aeat` → `calendario-dgi`. Ver [VERIFICACION.md](VERIFICACION.md) §4.
-- [ ] laboral / procesal / inmobiliario — pendientes de verificación a fondo
+- [x] **laboral** — verificado artículo por artículo (111 → 34): Código de Trabajo (arts. 30-31, 54, 74, 77, 78, 106-107, 213, 218, 220, 224, 225, 383), Decreto de Gabinete 221 de 1971 (XIII mes), Ley 51 de 2005 (CSS), Decreto Ley 4 de 1997 (aprendizaje). Insertada la escala del art. 225; corregidos 2 errores de fondo (art. 213 acápites, no competencia postcontractual). Ver [VERIFICACION.md](VERIFICACION.md) §4.
+- [ ] procesal / inmobiliario — pendientes de verificación a fondo
 
 ## Pendiente (mejoras futuras)
 

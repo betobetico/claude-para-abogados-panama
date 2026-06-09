@@ -67,10 +67,10 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Tipo de contrato | Referencia legal | Uso habitual | Posición house |
 |---|---|---|---|
-| Por tiempo indefinido | Código de Trabajo | [PLACEHOLDER] | [PLACEHOLDER — ej., "Tipo por defecto"] |
-| Por tiempo definido | Código de Trabajo | [PLACEHOLDER] | [PLACEHOLDER — ej., "Solo con causa real; vigilar la conversión a indefinido"] |
-| Por obra determinada | Código de Trabajo | [PLACEHOLDER] | [PLACEHOLDER] |
-| De aprendizaje / formación | Código de Trabajo / INADEH [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Por tiempo indefinido | Código de Trabajo, art. 74 | [PLACEHOLDER] | [PLACEHOLDER — ej., "Tipo por defecto"] |
+| Por tiempo definido | Código de Trabajo, arts. 74 y 77 | [PLACEHOLDER] | [PLACEHOLDER — ej., "Solo con causa real; vigilar la conversión a indefinido (art. 77)"] |
+| Por obra determinada | Código de Trabajo, arts. 74 y 77 | [PLACEHOLDER] | [PLACEHOLDER] |
+| De aprendizaje / formación | Decreto Ley 4 de 1997 / INADEH | [PLACEHOLDER] | [PLACEHOLDER] |
 
 **Modelos house de contrato:** [PLACEHOLDER — ej., "Repositorio en Drive/carpeta X; usar siempre modelo house"]
 
@@ -81,25 +81,27 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Despido — Tipos y requisitos
 
-### Despido por causa económica o de operación de la empresa (Código de Trabajo, art. 213 [verificar])
+> **Estructura del art. 213.** El art. 213 del Código de Trabajo agrupa las causas justificadas en tres acápites: **A) de naturaleza disciplinaria; B) no imputables al trabajador** (incapacidad física o mental, pena de prisión); **C) de naturaleza económica o de mercado** (quiebra, cierre, reducción comprobada de operaciones). Lo económico es el acápite C, no el B.
 
-**Causas:** Pérdidas económicas comprobadas, reducción de operaciones, cierre de la empresa o de unidades de producción [verificar]
+### Despido por causa económica o de mercado (Código de Trabajo, art. 213, acápite C)
+
+**Causas:** Quiebra, cierre de la empresa o de unidades de producción, reducción comprobada de operaciones por motivos económicos o de mercado.
 
 **Requisitos formales:**
 - Aviso de despido por escrito con causa concreta y fecha de efectos
 - Trámite ante MITRADEL cuando aplique (autorización o notificación) [verificar]
-- Pago de la indemnización por despido injustificado cuando proceda y de la prima de antigüedad [verificar]
+- Pago de la indemnización por despido injustificado cuando proceda (art. 225) y de la prima de antigüedad (art. 224)
 - [PLACEHOLDER — requisitos adicionales de la convención aplicable]
 
 **Posición house:** [PLACEHOLDER — ej., "Siempre revisar el aviso con abogado antes de entregar; documentar la causa con evidencia objetiva"]
 
-### Despido por causa justificada disciplinaria (Código de Trabajo, art. 213 [verificar])
+### Despido por causa justificada disciplinaria (Código de Trabajo, art. 213, acápite A)
 
 **Causas:** Faltas repetidas de asistencia, indisciplina, ofensas, abuso de confianza, bajo rendimiento, embriaguez/toxicomanía en el trabajo, acoso [verificar]
 
 **Requisitos formales:**
 - Aviso de despido por escrito con hechos concretos, fechas y causal legal invocada
-- Plazo de caducidad para invocar la causa desde su conocimiento [verificar]
+- Plazo de caducidad: 2 meses desde los hechos, o desde su conocimiento si constituyen delito (Código de Trabajo, art. 220)
 - No pueden alegarse posteriormente causas distintas a las indicadas en el aviso
 - [PLACEHOLDER — requisitos de la convención: sanciones previas, graduación de faltas]
 
@@ -108,8 +110,8 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 ### Despido de trabajador con fuero (maternidad, sindical, dirigente)
 
 **Requisito esencial:**
-- Autorización judicial previa ante el Juzgado de Trabajo o la Junta de Conciliación y Decisión competente [verificar]
-- Sin autorización previa, el despido es ineficaz y procede el reintegro con salarios caídos [verificar]
+- Autorización judicial previa ante el Juzgado de Trabajo (la autorización de despido de aforados se tramita ante el juzgado de trabajo). Fuero de maternidad: art. 106 (la licencia se regula en el art. 107); fuero sindical: art. 383 (amparados en el art. 381). Competencia laboral repartida entre Juzgados de Trabajo y Juntas de Conciliación y Decisión (Ley 7 de 1975).
+- Sin autorización previa, el despido es ineficaz y procede el reintegro con salarios caídos (Código de Trabajo, art. 218)
 
 **Posición house:** [PLACEHOLDER — ej., "Nunca despedir a trabajador con fuero sin autorización judicial previa; acompañamiento de abogado especializado"]
 
@@ -117,8 +119,8 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Período de prueba
 
-**Duración máxima legal (Código de Trabajo):**
-- Confirmar el límite máximo de período de prueba aplicable bajo el Código de Trabajo
+**Duración máxima legal (Código de Trabajo, art. 78):**
+- Máximo 3 meses; debe constar por escrito
 
 **Duración según convención aplicable:** [PLACEHOLDER]
 
@@ -130,11 +132,11 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ### No competencia post-contractual
 
-**Posición house:** [PLACEHOLDER — ej., "Incluir solo en contratos de personal clave; pactar contraprestación e interés legítimo del empleador; duración razonable [verificar]"]
+> **Aviso de validez (Panamá).** El pacto de no competencia es válido durante la relación, pero el pacto **postcontractual no se admite con carácter general**: es contrario a la libertad de trabajo (art. 40 de la Constitución) y al carácter de orden público del Código de Trabajo (art. 6). A diferencia de otros ordenamientos, no basta con prever una compensación; una cláusula postcontractual es de validez muy dudosa y frecuentemente nula o inejecutable. No importar el enfoque de "compensación + interés legítimo" de otras jurisdicciones.
 
-**Contraprestación económica:** [PLACEHOLDER]
+**Posición house:** [PLACEHOLDER — ej., "Evitar cláusulas postcontractuales de no competencia; si se plantean, escalar a abogado por su dudosa ejecutabilidad en Panamá"]
 
-**Interés legítimo del empleador:** [PLACEHOLDER — ej., "Documentar siempre el interés empresarial legítimo"]
+**Interés legítimo del empleador:** [PLACEHOLDER — ej., "Para no competencia durante la relación; documentar el interés empresarial legítimo"]
 
 ### Cláusula de confidencialidad
 
@@ -150,7 +152,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **Salario mínimo vigente (MITRADEL):** [PLACEHOLDER — ej., "B/. X.XX por hora según región y actividad; verificar el decreto de salario mínimo vigente"] [verificar]
 
-**Jornada máxima legal:** confirmar la jornada máxima diurna, mixta y nocturna del Código de Trabajo
+**Jornada máxima legal (Código de Trabajo, arts. 30-31):** diurna 8h/día y 48h/semana; nocturna 7h/día y 42h/semana; mixta 7,5h/día y 45h/semana
 **Jornada según convención:** [PLACEHOLDER]
 
 **Registro de jornada y asistencia:** [PLACEHOLDER]
@@ -159,18 +161,17 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 - Recargos según el Código de Trabajo
 - Compensación: [PLACEHOLDER]
 
-**Décimo tercer mes:**
-- Tres partidas al año (15 de abril, 15 de agosto y 15 de diciembre) [verificar]
-- Equivalente a un día de salario por cada once días trabajados [verificar]
+**Décimo tercer mes (Decreto de Gabinete 221 de 1971):**
+- Un mes de salario al año, en tres partidas (15 de abril, 15 de agosto y 15 de diciembre)
 - [PLACEHOLDER — observaciones house]
 
-**Prima de antigüedad:**
-- Una semana de salario por cada año de servicio en contratos por tiempo indefinido [verificar]
+**Prima de antigüedad (Código de Trabajo, art. 224):**
+- Una semana de salario por cada año de servicio en contratos por tiempo indefinido, cualquiera sea la causa de terminación; base de cálculo: promedio de la remuneración de los últimos 5 años (provisionada vía Fondo de Cesantía, Ley 44 de 1995)
 - [PLACEHOLDER — observaciones house]
 
 **Complementos salariales habituales:** [PLACEHOLDER — ej., "Bono de transporte, comisiones, viáticos, variable por objetivos"]
 
-**Teletrabajo (Ley 126 de 2020):**
+**Teletrabajo (Ley 126 de 2020, modifica el art. 151 del Código de Trabajo):**
 - Acuerdo escrito de teletrabajo
 - [PLACEHOLDER — política house de teletrabajo]
 
@@ -180,11 +181,11 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 | Tipo | Duración | Referencia | Posición house |
 |---|---|---|---|
-| Licencia de maternidad | 14 semanas (6 prenatales, 8 posnatales) [verificar] | Código de Trabajo / CSS [verificar] | [PLACEHOLDER — fuero de maternidad] |
-| Licencia de paternidad | [verificar] | Ley aplicable [verificar] | [PLACEHOLDER] |
+| Licencia de maternidad | 14 semanas (6 antes + 8 después del parto) | Código de Trabajo, art. 107 (licencia) y art. 106 (fuero) | [PLACEHOLDER — fuero de maternidad] |
+| Licencia de paternidad | [verificar] | Ley 238 de 2021 (fuero de paternidad) [verificar] | [PLACEHOLDER] |
 | Licencia por duelo | [verificar] | Código de Trabajo | [PLACEHOLDER] |
 | Licencia no remunerada | Según acuerdo | Código de Trabajo | [PLACEHOLDER] |
-| Incapacidad por enfermedad / riesgo profesional | Según certificación de la CSS | Régimen de la CSS [verificar] | [PLACEHOLDER] |
+| Incapacidad por enfermedad / riesgo profesional | Según certificación de la CSS | Régimen de la CSS (Ley 51 de 2005) | [PLACEHOLDER] |
 | [PLACEHOLDER — permisos adicionales de la convención] | | | |
 
 ---
@@ -215,10 +216,10 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 Las siguientes normas son la base del análisis de este plugin:
 
-- **Código de Trabajo de Panamá** — norma principal del derecho laboral [verificar]
-- **Régimen del décimo tercer mes** — Decreto de Gabinete sobre el XIII mes [verificar]
-- **Ley Orgánica de la CSS** — Ley 51 de 2005 (seguridad social y riesgos profesionales) [verificar]
-- **Ley 126 de 2020** — Teletrabajo [verificar]
+- **Código de Trabajo de Panamá** — norma principal del derecho laboral (Decreto de Gabinete 252 de 1971)
+- **Décimo tercer mes** — Decreto de Gabinete 221 de 1971 (un mes de salario al año en tres partidas: 15 de abril, 15 de agosto y 15 de diciembre)
+- **Ley 51 de 2005** — Ley Orgánica de la CSS (seguridad social y riesgos profesionales; afiliación obligatoria, art. 77)
+- **Ley 126 de 2020** — Teletrabajo (modifica el art. 151 del Código de Trabajo)
 - **Ley 7 de 2018** — Prevención del hostigamiento, acoso y discriminación [verificar]
 - **Ley 81 de 2019** — Protección de datos personales (datos del trabajador); autoridad: ANTAI [verificar]
 - **MITRADEL** — Resoluciones, salario mínimo y procedimientos administrativos laborales

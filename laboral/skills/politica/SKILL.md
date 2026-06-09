@@ -104,7 +104,7 @@ y aprobación de la dirección antes de su entrada en vigor.
 - **Ley 81 de 2019**: Protección de datos personales (tratamiento de datos del trabajador); autoridad de control: ANTAI.
 - **Ley 7 de 2018**: Prevención del hostigamiento, acoso y discriminación.
 - **Código de Trabajo de Panamá**: reglamento interno de trabajo, jornada, causas disciplinarias [verificar].
-- **Normativa de riesgos profesionales** administrada por la CSS [verificar].
+- **Normativa de riesgos profesionales** administrada por la CSS (Ley 51 de 2005).
 - **Ley 23 de 2015** y **UAF**: prevención de blanqueo (relevante para canales de denuncia en sujetos obligados).
 - **MITRADEL**: aprobación y registro de reglamentos internos de trabajo cuando aplique [verificar].
 

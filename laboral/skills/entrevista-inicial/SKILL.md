@@ -154,9 +154,9 @@ Si no:
 Si no:
 
 - **Tipos de despido que manejas habitualmente:**
-  - Despido por causa justificada disciplinaria (Código de Trabajo, art. 213 [verificar])
-  - Despido por causa económica o de operación de la empresa
-  - Despido de trabajador con fuero (maternidad, sindical) — requiere autorización judicial previa [verificar]
+  - Despido por causa justificada disciplinaria (Código de Trabajo, art. 213, acápite A)
+  - Despido por causa económica o de operación de la empresa (Código de Trabajo, art. 213, acápite C)
+  - Despido de trabajador con fuero (maternidad, sindical) — requiere autorización judicial previa (Código de Trabajo, arts. 106 y 383)
   - Renuncia / mutuo acuerdo
   - Vencimiento de contrato por tiempo definido o por obra
   - Terminación en período de prueba

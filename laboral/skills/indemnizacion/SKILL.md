@@ -25,17 +25,17 @@ Solicitar al usuario:
 
 ### Paso 2 — Determinar régimen aplicable
 
-**Prima de antigüedad:**
-- En contratos por tiempo indefinido, el trabajador tiene derecho a una prima de antigüedad equivalente a una semana de salario por cada año de servicio, desde el inicio de la relación [verificar]. Procede cualquiera que sea la causa de terminación [verificar].
+**Prima de antigüedad (Código de Trabajo, art. 224):**
+- En contratos por tiempo indefinido, el trabajador tiene derecho a una prima de antigüedad equivalente a una semana de salario por cada año de servicio, desde el inicio de la relación. Procede cualquiera que sea la causa de terminación. La base de cálculo es el promedio de la remuneración de los últimos 5 años; se provisiona vía Fondo de Cesantía (Ley 44 de 1995).
 
-**Indemnización por despido injustificado:**
-- Se calcula según la escala del Código de Trabajo en función de la antigüedad (semanas/días de salario por año de servicio), con tramos para los primeros años y un factor adicional por cada año subsiguiente [verificar]. Confirmar la escala vigente del artículo aplicable del Código de Trabajo.
+**Indemnización por despido injustificado (Código de Trabajo, art. 225):**
+- Para relaciones iniciadas bajo la Ley 44 de 1995, la escala es: 3,4 semanas de salario por cada año en los primeros 10 años de servicio, más 1 semana adicional por cada año a partir del año 11. Es adicional a la prima de antigüedad del art. 224.
 
 **Despido justificado:**
-- No genera indemnización por despido injustificado, pero sí la prima de antigüedad y las prestaciones proporcionales (vacaciones y décimo tercer mes) [verificar].
+- No genera indemnización por despido injustificado, pero sí la prima de antigüedad (art. 224) y las prestaciones proporcionales (vacaciones y décimo tercer mes).
 
 **Renuncia / mutuo acuerdo:**
-- Prima de antigüedad y prestaciones proporcionales según el caso [verificar].
+- Prima de antigüedad (art. 224) y prestaciones proporcionales según el caso.
 
 **Vencimiento de contrato por tiempo definido o por obra:**
 - Prestaciones proporcionales; verificar si procede indemnización por terminación anticipada injustificada [verificar].
@@ -43,9 +43,9 @@ Solicitar al usuario:
 ### Paso 3 — Calcular
 
 1. Computar antigüedad total en años y fracción.
-2. Determinar el salario base de cálculo (promedio de los últimos períodos cuando haya conceptos variables) [verificar].
-3. Calcular la prima de antigüedad (una semana de salario por año de servicio) [verificar].
-4. Calcular la indemnización por despido injustificado aplicando la escala vigente del Código de Trabajo.
+2. Determinar el salario base de cálculo: para la prima de antigüedad, promedio de la remuneración de los últimos 5 años (art. 224); para vacaciones y décimo tercer mes, promedio del período correspondiente.
+3. Calcular la prima de antigüedad (una semana de salario por año de servicio, art. 224).
+4. Calcular la indemnización por despido injustificado aplicando la escala del art. 225 (3,4 semanas por año en los primeros 10 años, más 1 semana adicional por cada año a partir del año 11).
 5. Sumar prestaciones proporcionales pendientes (vacaciones, décimo tercer mes) si procede.
 
 ### Paso 4 — Generar desglose
@@ -70,19 +70,19 @@ Solicitar al usuario:
 #### Prima de antigüedad
 
 - Antigüedad computable: [X años]
-- Fórmula: una semana de salario × [años de servicio] [verificar]
+- Fórmula: una semana de salario × [años de servicio] (Código de Trabajo, art. 224)
 - Resultado: [importe] B/.
 
 #### Indemnización por despido injustificado (si aplica)
 
 - Antigüedad computable: [X años]
-- Escala del Código de Trabajo aplicada: [detalle de tramos] [verificar]
+- Escala aplicada (Código de Trabajo, art. 225): 3,4 semanas de salario por año en los primeros 10 años + 1 semana adicional por año a partir del año 11 — [detalle de tramos]
 - Resultado: [importe] B/.
 
 #### Prestaciones proporcionales pendientes
 
-- Vacaciones proporcionales: [importe] B/. [verificar]
-- Décimo tercer mes proporcional: [importe] B/. [verificar]
+- Vacaciones proporcionales (Código de Trabajo, art. 54): [importe] B/.
+- Décimo tercer mes proporcional (Decreto de Gabinete 221 de 1971): [importe] B/.
 
 #### Total
 
@@ -90,7 +90,7 @@ Solicitar al usuario:
 
 ### Base legal
 
-[Artículos aplicados del Código de Trabajo: prima de antigüedad, indemnización por despido injustificado, vacaciones y décimo tercer mes — todos marcados [verificar] hasta confirmar artículo y escala vigentes]
+[Artículos aplicados: prima de antigüedad (Código de Trabajo, art. 224), indemnización por despido injustificado (art. 225), vacaciones (art. 54) y décimo tercer mes (Decreto de Gabinete 221 de 1971)]
 
 ### Advertencias
 
@@ -99,10 +99,10 @@ Solicitar al usuario:
 
 ## Referencias normativas
 
-- **Código de Trabajo de Panamá** — Prima de antigüedad [verificar].
-- **Código de Trabajo de Panamá** — Indemnización por despido injustificado y escala aplicable [verificar].
-- **Código de Trabajo de Panamá** — Vacaciones (30 días por cada 11 meses de trabajo continuo) [verificar].
-- **Régimen del décimo tercer mes** — Decreto de Gabinete sobre el XIII mes [verificar].
+- **Código de Trabajo de Panamá, art. 224** — Prima de antigüedad (una semana de salario por año de servicio; base: promedio de los últimos 5 años; Fondo de Cesantía, Ley 44 de 1995).
+- **Código de Trabajo de Panamá, art. 225** — Indemnización por despido injustificado: 3,4 semanas de salario por año en los primeros 10 años + 1 semana adicional por año a partir del año 11 (relaciones bajo la Ley 44 de 1995).
+- **Código de Trabajo de Panamá, art. 54** — Vacaciones: 30 días por cada 11 meses de trabajo continuo (un día por cada 11 días trabajados).
+- **Décimo tercer mes** — Decreto de Gabinete 221 de 1971: un mes de salario al año en tres partidas (15 de abril, 15 de agosto y 15 de diciembre).
 
 ## Guardrails
 
