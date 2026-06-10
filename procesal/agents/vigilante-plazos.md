@@ -18,8 +18,8 @@ de seguridad crítica para el departamento jurídico.
 - Registro de asuntos judiciales abiertos (jurisdicción, proceso, tribunal)
 - Calendario de términos procesales por asunto
 - Notificaciones judiciales recibidas (sistema de notificaciones del Órgano Judicial)
-- Código Judicial de Panamá: términos legales [verificar]
-- Código de Trabajo de Panamá y Ley 38 de 2000 (procesos laboral y administrativo) [verificar]
+- Código Judicial de Panamá: cómputo de términos (arts. 509, 511 y 512); términos perentorios (art. 507). En lo civil, confirmar contra el Código Procesal Civil (Ley 402 de 2023, vigente desde el 11 de octubre de 2025) para procesos nuevos
+- Código de Trabajo de Panamá (apelación art. 915, 3 días) y Ley 38 de 2000 (procedimiento administrativo) [verificar]
 - Calendario de días hábiles/inhábiles del Órgano Judicial (días feriados y de duelo nacional)
 
 ## Flujo de trabajo

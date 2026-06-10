@@ -29,7 +29,7 @@ Esta skill redacta secciones individuales de una demanda civil siguiendo la estr
 - Norma sustantiva aplicable.
 - Jurisdicción y competencia (Código Judicial de Panamá) [verificar].
 - Legitimación activa y pasiva.
-- Tipo de proceso (ordinario / sumario / oral, según cuantía y materia) [verificar].
+- Tipo de proceso (ordinario, sumario o ejecutivo, según cuantía y materia). En el Código Judicial el "proceso oral" no es una cuarta categoría general; la oralidad como sistema general se introduce con el Código Procesal Civil (Ley 402 de 2023). La clasificación por cuantía es: menor (B/.1.000-10.000, Jueces Municipales) y mayor (> B/.10.000, Jueces de Circuito).
 - Jurisprudencia de apoyo de la Corte Suprema de Justicia (si disponible).
 
 **Para petitum:**
@@ -83,11 +83,11 @@ Seguir el formato del despacho (si existe en config) o el formato estándar.
 
 ## Referencias normativas
 
-- **Código Judicial de Panamá**: requisitos de la demanda [verificar].
+- **Código Judicial de Panamá, art. 665**: requisitos de la demanda (libelo): designación del tribunal; datos del demandante y apoderado; datos del demandado; cosa, declaración o hecho que se demanda y cuantía; hechos y fundamentos de derecho.
 - **Código Judicial de Panamá**: preclusión de la alegación de hechos y fundamentos jurídicos [verificar].
-- **Código Judicial de Panamá**: determinación del tipo de proceso (ordinario / sumario / oral) [verificar].
+- **Código Judicial de Panamá**: determinación del tipo de proceso (ordinario, sumario o ejecutivo; la oralidad general se introduce con el Código Procesal Civil, Ley 402 de 2023).
 - **Código Judicial de Panamá**: jurisdicción y competencia [verificar].
-- **Código Judicial de Panamá**: comparecencia, poder y representación judicial (apoderado) [verificar].
+- **Código Judicial de Panamá, art. 626** (y arts. 612 y ss.): comparecencia, poder y representación mediante apoderado judicial (abogado idóneo, con certificado de idoneidad de la Sala Cuarta de la CSJ).
 - **Código Judicial de Panamá**: condena con reserva de liquidación [verificar].
 - **Código Judicial de Panamá**: imposición de costas [verificar].
 

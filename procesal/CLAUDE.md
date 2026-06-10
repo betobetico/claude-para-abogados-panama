@@ -111,23 +111,31 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Términos procesales — Reglas de cómputo
 
-**Regla general (Código Judicial de Panamá):** [verificar]
-- Días hábiles: lunes a viernes (excluidos sábados, domingos y días feriados o de duelo nacional declarados)
-- No existe una vacancia judicial general anual equivalente al "agosto inhábil" español; los términos corren salvo declaratoria oficial de feriado o duelo nacional. Verificar el calendario del Órgano Judicial [verificar]
-- Hora límite de presentación: hasta el cierre del despacho judicial del último día del término, o según el sistema de notificaciones del Órgano Judicial [verificar]
+> **Aviso — régimen civil.** Desde el 11 de octubre de 2025 rige el Código Procesal Civil (Ley 402 de 2023) para los procesos civiles nuevos; el Código Judicial (Libro II) solo se aplica a procesos en transición. Los términos civiles que siguen provienen del Código Judicial y deben confirmarse contra el Código Procesal Civil antes de aplicarlos a un proceso nuevo.
 
-**Términos críticos:** [verificar todos los plazos concretos antes de usarlos]
+**Regla general (Código Judicial de Panamá):**
+- Días hábiles: lunes a viernes (excluidos sábados, domingos, feriados, fiesta y duelo nacional declarados) — arts. 509 y 512 del Código Judicial; art. 267 sobre días de despacho
+- Cómputo: los términos de días corren desde el día siguiente a la notificación; el día de la notificación no cuenta (art. 511 del Código Judicial)
+- Términos perentorios e improrrogables (art. 507), salvo los fijados por el juez, prorrogables una vez (art. 510)
+- Si el último día es inhábil, se prorroga al próximo día hábil (art. 509)
+- No existe una vacancia judicial general anual equivalente al "agosto inhábil" español; los términos corren salvo declaratoria oficial de feriado o duelo nacional. Verificar el calendario del Órgano Judicial
+- Hora límite de presentación: el vencimiento se produce a las 5:00 p.m. del último día del término (art. 511 del Código Judicial)
+- Jurisdicción penal: el Sistema Penal Acusatorio se rige por el Código Procesal Penal (Ley 63 de 2008); sus plazos por días también se cuentan en días hábiles (art. 142 CPP); los plazos por horas corren sin interrupción
+
+**Términos críticos:**
 | Acto procesal | Término | Norma | Notas |
 |---|---|---|---|
-| Contestación a la demanda (proceso ordinario) | [n] días hábiles [verificar] | Código Judicial | Desde notificación |
-| Contestación a la demanda (proceso sumario/oral) | [n] días hábiles [verificar] | Código Judicial | Desde notificación |
-| Recurso de reconsideración | [n] días [verificar] | Código Judicial | Desde notificación |
-| Recurso de apelación (anuncio/sustentación) | [n] días [verificar] | Código Judicial | Desde notificación de resolución |
-| Recurso de casación (ante la CSJ) | [n] días [verificar] | Código Judicial | Desde notificación |
-| Recurso de hecho | [n] días [verificar] | Código Judicial | Tras negativa de concesión del recurso |
-| Oposición en proceso ejecutivo | [n] días [verificar] | Código Judicial | Desde requerimiento/notificación |
-| Demanda contencioso-administrativa de plena jurisdicción | [n] meses [verificar] | Código Judicial / Ley 135 de 1943 | Desde notificación/publicación del acto |
-| Demanda por despido (laboral) | [n] días [verificar] | Código de Trabajo | Desde el despido |
+| Contestación a la demanda (proceso ordinario) | 10 días hábiles | Código Judicial (coincide con el Código Procesal Civil) | Desde notificación |
+| Contestación a la demanda (proceso sumario) | 5 días hábiles (confirmar en el Código Procesal Civil) | Código Judicial | Desde notificación |
+| Recurso de reconsideración | 2 días (confirmar en el Código Procesal Civil) | Código Judicial, art. 1129 | Desde notificación |
+| Recurso de apelación (anuncio/sustentación) | anuncio 2 días, sustentación 5 días (confirmar en el Código Procesal Civil) | Código Judicial | Desde notificación de resolución |
+| Recurso de casación (ante la CSJ) | anuncio 3 días (art. 1173), formalización 10 días (el Código Procesal Civil podría elevarla a 15 días — confirmar) | Código Judicial | Desde notificación |
+| Recurso de hecho | 2 días para copias (art. 1152) y 3 días para alegatos (art. 1154) | Código Judicial | Tras negativa de concesión del recurso |
+| Oposición en proceso ejecutivo | 8 días; traslado al ejecutante 5 días (confirmar en el Código Procesal Civil) | Código Judicial | Desde requerimiento/notificación |
+| Demanda contencioso-administrativa de plena jurisdicción | 2 meses | Ley 135 de 1943, art. 42-B | Desde notificación/publicación del acto |
+| Demanda de nulidad (contencioso-administrativo) | Sin caducidad (en cualquier tiempo) | Ley 135 de 1943, art. 42-A | — |
+| Recurso de apelación laboral | 3 días | Código de Trabajo, art. 915 | Desde la notificación |
+| Recurso de casación laboral (Sala Tercera CSJ) | 5 días | Código de Trabajo, arts. 925-927 | — |
 | [PLACEHOLDER — términos adicionales relevantes] | | | |
 
 **Sistema de alertas de términos:** [PLACEHOLDER — ej., "Calendario compartido con alertas 5 días antes del vencimiento; doble verificación por apoderado judicial y abogado"]
@@ -230,12 +238,14 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 Las siguientes normas son la base del análisis de este plugin:
 
-- **Código Judicial de Panamá** — norma procesal general (civil, penal, contencioso) [verificar]
+- **Código Procesal Civil (Ley 402 de 2023)** — norma procesal civil vigente desde el 11 de octubre de 2025 para los procesos civiles nuevos
+- **Código Judicial de Panamá (Libro II)** — norma procesal general en lo penal y contencioso; en lo civil queda derogado y solo se aplica a procesos en transición (iniciados antes del 11 de octubre de 2025)
 - **Constitución Política de la República de Panamá** — garantías del debido proceso y organización del Órgano Judicial
-- **Código de Trabajo de Panamá** — proceso laboral [verificar]
+- **Código de Trabajo de Panamá** — proceso laboral (apelación art. 915, 3 días; casación arts. 925-927, 5 días)
+- **Código Procesal Penal (Ley 63 de 2008)** — Sistema Penal Acusatorio (cómputo de plazos, art. 142)
 - **Ley 38 de 2000** — procedimiento administrativo general [verificar]
 - **Ley 12 de 2016** — proceso concursal de insolvencia [verificar]
-- **Ley 135 de 1943** y reformas — jurisdicción contencioso-administrativa (Sala Tercera de la CSJ) [verificar]
+- **Ley 135 de 1943** y reformas — jurisdicción contencioso-administrativa (Sala Tercera de la CSJ): demanda de plena jurisdicción 2 meses (art. 42-B); demanda de nulidad sin caducidad (art. 42-A)
 - **Código de Ética y Responsabilidad Profesional del Abogado** [verificar]
 - **Régimen legal de arbitraje en Panamá** (Ley 131 de 2013, arbitraje comercial) [verificar]
 

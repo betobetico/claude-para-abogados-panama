@@ -193,6 +193,29 @@ vigente. Marcadores: **111 → 34**.
 - **Corrección de fondo (no competencia postcontractual):** en Panamá **no se admite** con carácter general (contraria a la libertad de trabajo, **art. 40 Constitución** y **art. 6 CT**); no basta con compensación. El repo la trataba como válida-con-compensación (enfoque importado).
 - **Corrección (aprendizaje):** se rige por el **Decreto Ley 4 de 1997** y el INADEH, no por el Código de Trabajo (supletorio).
 
+### Módulo `procesal` (verificado el 9 de junio de 2026)
+
+Verificado contra el Código Judicial, el Código de Trabajo, el Código Procesal Penal (Ley 63
+de 2008) y la Ley 135 de 1943. Marcadores: **119 → 55**.
+
+> **Hallazgo estructural:** desde el **11 de octubre de 2025** rige el **Código Procesal Civil
+> (Ley 402 de 2023)** para los procesos civiles nuevos; el **Código Judicial (Libro II)** solo
+> se aplica a procesos en transición. Se añadió un aviso prominente al módulo. Los términos
+> civiles de abajo provienen del Código Judicial y deben confirmarse contra el nuevo Código.
+
+**Reglas de cómputo (Código Judicial)**
+- Dies a quo (día siguiente a la notificación): **art. 511**. Días hábiles: **arts. 509 y 512** (despacho, art. 267). Prórroga al día hábil siguiente: **art. 509**.
+- **Hora límite corregida: 5:00 p.m. del último día** (**art. 511**), no "cierre del despacho". Términos perentorios e improrrogables: **art. 507**.
+
+**Términos civiles (Código Judicial; confirmar en el Código Procesal Civil)**
+- Contestación proceso ordinario **10 días** (coincide con el nuevo CPC); sumario **5 días**; reconsideración **2 días** (art. 1129); apelación **anuncio 2 / sustentación 5 días**; oposición ejecutiva **8 días**; casación **anuncio 3 (art. 1173) / formalización 10 días**; recurso de hecho 2 días copias (art. 1152) + 3 días alegatos (art. 1154).
+- Requisitos de la demanda: **art. 665**. Apoderado judicial (abogado idóneo) y poder: **art. 626**.
+
+**Penal, laboral y contencioso**
+- Penal (SPA): **Ley 63 de 2008**; los plazos por días se cuentan en días **hábiles** (art. 142), no corridos.
+- Apelación laboral **3 días**: **art. 915 CT**; casación laboral **5 días**: **arts. 925-927 CT**. Juntas de Conciliación y Decisión (hasta B/.1.500) vs. Juzgados de Trabajo (Ley 7 de 1975).
+- Contencioso: plena jurisdicción **2 meses** (**art. 42-B Ley 135 de 1943**); nulidad **sin caducidad** (**art. 42-A**).
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes

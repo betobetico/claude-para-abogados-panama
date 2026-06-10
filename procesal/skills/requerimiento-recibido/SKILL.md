@@ -16,7 +16,7 @@ Esta skill analiza una demanda, requerimiento o reclamación recibida. Extrae lo
 2. **Requerimiento extrajudicial**: carta notarial, correo certificado con acuse, email con acuse.
 3. **Reclamación administrativa**: procedimiento sancionador, requerimiento de información (Ley 38 de 2000).
 4. **Reclamación arbitral**: solicitud de arbitraje.
-5. **Conciliación**: conciliación previa, incluida la laboral ante el MITRADEL [verificar].
+5. **Conciliación**: la conciliación administrativa individual ante el MITRADEL es voluntaria (no requisito previo obligatorio general); la conciliación obligatoria es la fase dentro de la audiencia ante la Junta de Conciliación y Decisión o el Juzgado de Trabajo.
 
 ### Paso 2 — Extraer datos clave
 
@@ -31,16 +31,17 @@ Esta skill analiza una demanda, requerimiento o reclamación recibida. Extrae lo
 
 | Tipo de proceso | Término de contestación | Base legal |
 |-----------------|-------------------------|------------|
-| Ordinario | [n] días hábiles [verificar] | Código Judicial de Panamá [verificar] |
-| Sumario / oral | [n] días hábiles [verificar] | Código Judicial de Panamá [verificar] |
-| Ejecutivo | [n] días hábiles para oposición [verificar] | Código Judicial de Panamá [verificar] |
-| Laboral | Según traslado del juez de trabajo [verificar] | Código de Trabajo de Panamá [verificar] |
-| Conciliación laboral | Comparecencia en fecha señalada | MITRADEL [verificar] |
+| Ordinario | 10 días hábiles | Código Judicial (coincide con el Código Procesal Civil) |
+| Sumario | 5 días hábiles (confirmar en el Código Procesal Civil) | Código Judicial de Panamá |
+| Ejecutivo | 8 días hábiles para oposición/excepciones; traslado al ejecutante 5 días (confirmar en el Código Procesal Civil) | Código Judicial de Panamá |
+| Laboral | Según traslado del juez de trabajo | Código de Trabajo de Panamá |
+| Conciliación laboral | Comparecencia en fecha señalada (la conciliación administrativa individual ante el MITRADEL es voluntaria) | MITRADEL |
 
 Reglas de cómputo:
-- Días hábiles (no sábados, domingos ni días feriados/de duelo nacional).
-- No existe un mes de vacancia judicial general equivalente al agosto inhábil español; verificar el calendario del Órgano Judicial [verificar].
-- El día de la notificación no cuenta (dies a quo) [verificar].
+- Días hábiles (no sábados, domingos ni días feriados/de duelo nacional) — arts. 509 y 512 del Código Judicial.
+- No existe un mes de vacancia judicial general equivalente al agosto inhábil español; verificar el calendario del Órgano Judicial.
+- Los términos de días corren desde el día siguiente a la notificación; el día de la notificación no cuenta (dies a quo) — art. 511 del Código Judicial.
+- El vencimiento se produce a las 5:00 p.m. del último día (art. 511 del Código Judicial).
 
 ### Paso 4 — Evaluar opciones y riesgos
 
@@ -60,7 +61,7 @@ Reglas de cómputo:
 |--------|-------|--------------|------------|
 | Contestación/oposición | [días] hábiles | [fecha] | [artículo del Código Judicial — verificar] |
 | Reconvención | [días] hábiles | [fecha] | [artículo del Código Judicial — verificar] |
-| Excepción de incompetencia | [días] hábiles | [fecha] | Código Judicial de Panamá [verificar] |
+| Excepción de incompetencia | dentro del traslado de la demanda (10 días en el ordinario) | [fecha] | Código Judicial (en el Código Procesal Civil se ventila en el saneamiento/audiencia preliminar) |
 
 ### Resumen de pretensiones
 
@@ -92,13 +93,13 @@ Reglas de cómputo:
 
 ## Referencias normativas
 
-- **Código Judicial de Panamá**: contestación a la demanda en proceso ordinario [verificar].
-- **Código Judicial de Panamá**: traslado y contestación en procesos sumarios y orales [verificar].
-- **Código Judicial de Panamá**: excepciones, incluida la de incompetencia [verificar].
+- **Código Judicial de Panamá**: contestación a la demanda en proceso ordinario (10 días; confirmar en el Código Procesal Civil para procesos nuevos).
+- **Código Judicial de Panamá**: traslado y contestación en proceso sumario (5 días; confirmar en el Código Procesal Civil).
+- **Código Judicial de Panamá**: excepciones, incluida la de incompetencia (en el Código Procesal Civil se ventilan en el saneamiento/audiencia preliminar).
 - **Código Judicial de Panamá**: efectos del allanamiento sobre las costas [verificar].
 - **Código Judicial de Panamá**: reconvención [verificar].
-- **Código Judicial de Panamá**: proceso ejecutivo [verificar].
-- **Código Judicial de Panamá**: días y horas hábiles y cómputo de términos [verificar].
+- **Código Judicial de Panamá**: proceso ejecutivo (oposición/excepciones 8 días; confirmar en el Código Procesal Civil).
+- **Código Judicial de Panamá, arts. 509, 511 y 512**: días hábiles y cómputo de términos.
 - **Código de Trabajo de Panamá**: proceso laboral [verificar].
 
 ## Guardrails
