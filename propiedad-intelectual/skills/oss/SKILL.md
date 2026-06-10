@@ -79,8 +79,8 @@ Modelos de distribución de la empresa:
 
 ## Referencias normativas
 
-- **Ley 64 de 2012** (derecho de autor): protección de los programas de ordenador como obras [verificar].
-- **Ley 64 de 2012**: cesión de derechos patrimoniales de explotación de software [verificar].
+- **Ley 64 de 2012** (derecho de autor): protección de los programas de ordenador como obras (no por patente; duración patrimonial de 70 años desde la primera publicación).
+- **Ley 64 de 2012**: cesión de derechos patrimoniales de explotación de software — por escrito y limitada a las modalidades expresamente cedidas.
 - **Ley 64 de 2012**: límites y excepciones a los derechos — copia de seguridad e interoperabilidad [verificar].
 - **Convenio de Berna** (derecho de autor): referencia internacional aplicable en Panamá.
 - *Referencia comparada (no vinculante en Panamá):* Directiva (UE) 2009/24/CE sobre protección jurídica de programas de ordenador.

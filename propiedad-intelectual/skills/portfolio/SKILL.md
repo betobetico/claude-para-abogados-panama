@@ -14,28 +14,28 @@ Esta skill gestiona el portfolio de activos de propiedad intelectual e industria
 
 1. Leer el registro de activos de PI proporcionado por el usuario.
 2. Clasificar cada activo por tipo:
-   - **Marcas**: nacionales (DIGERPI), internacionales (OMPI/Protocolo de Madrid).
+   - **Marcas**: nacionales (DIGERPI); internacionales por registro nacional en cada país (Panamá NO es parte del Protocolo de Madrid).
    - **Patentes**: nacionales (DIGERPI), internacionales (PCT).
    - **Modelos de utilidad**: DIGERPI.
    - **Diseños industriales**: DIGERPI.
    - **Nombres de dominio**: .pa, .com, otros.
-   - **Derechos de autor**: registros en la Dirección Nacional de Derecho de Autor (DIGERPI) [verificar].
+   - **Derechos de autor**: registros en la Dirección Nacional de Derecho de Autor (DNDA) del Ministerio de Cultura — registro declarativo y optativo; la obra se protege desde su creación (Ley 64 de 2012; competencia traspasada al Ministerio de Cultura por la Ley 90 de 2019).
 
 ### Paso 2 — Calcular fechas clave
 
 **Marcas:**
-- Duración: 10 años desde el registro, renovable por períodos iguales (Ley 35 de 1996).
-- Renovación: solicitar dentro del plazo previo al vencimiento, con eventual período de gracia con recargo [verificar].
+- Duración: 10 años contados desde la fecha de presentación de la solicitud (no desde la concesión), renovable indefinidamente por períodos iguales de 10 años (art. 109 de la Ley 35 de 1996).
+- Renovación: se solicita en la ventana de 1 año antes del vencimiento, con período de gracia de 6 meses posteriores con recargo (arts. 110 y 205 de la Ley 35 de 1996).
 
 **Patentes:**
-- Duración máxima: 20 años desde la presentación de la solicitud (Ley 35 de 1996).
-- Anualidades: pago periódico de tasas de mantenimiento ante la DIGERPI [verificar].
+- Duración máxima: 20 años improrrogables desde la presentación de la solicitud (art. 20 de la Ley 35 de 1996).
+- Tasas de mantenimiento por quinquenios (cada 5 años), no anualidades (art. 207); la falta de pago, tras 6 meses de gracia con recargo, causa caducidad de pleno derecho.
 
 **Diseños industriales:**
-- Vigencia y renovaciones según la Ley 35 de 1996.
+- 10 años, prorrogable una vez por 5 años adicionales (máx. 15 años) (arts. 79-80 de la Ley 35 de 1996).
 
 **Modelos de utilidad:**
-- Vigencia y mantenimiento según la Ley 35 de 1996.
+- 10 años improrrogables (art. 26 de la Ley 35 de 1996).
 
 ### Paso 3 — Evaluar estado
 
@@ -89,10 +89,10 @@ Para cada activo:
 
 ## Referencias normativas
 
-- **Ley 35 de 1996** (propiedad industrial): duración y renovación de marcas [verificar].
-- **Ley 35 de 1996**: duración y mantenimiento de patentes y modelos de utilidad [verificar].
-- **Ley 35 de 1996**: protección y vigencia de los diseños industriales [verificar].
-- **Protocolo de Madrid**: gestión y renovación de marcas internacionales (OMPI).
+- **Ley 35 de 1996** (propiedad industrial, mod. Ley 61 de 2012): duración (10 años, art. 109) y renovación de marcas (arts. 110 y 205).
+- **Ley 35 de 1996**: duración y mantenimiento de patentes (20 años, art. 20; tasas por quinquenios, art. 207) y modelos de utilidad (10 años, art. 26).
+- **Ley 35 de 1996**: protección y vigencia de los diseños industriales (10 años prorrogables una vez por 5 años, arts. 79-80).
+- **Protocolo de Madrid**: Panamá NO es parte contratante; las marcas se gestionan por la vía nacional ante la DIGERPI o por registro nacional en cada país extranjero.
 - **Tratado de Cooperación en materia de Patentes (PCT)**: solicitudes internacionales de patente.
 
 ## Guardrails

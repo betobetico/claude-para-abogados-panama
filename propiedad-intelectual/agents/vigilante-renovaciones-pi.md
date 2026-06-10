@@ -10,18 +10,19 @@ description: Monitoriza el portfolio de propiedad intelectual e industrial para 
 
 Controlar mensualmente los plazos de renovación y mantenimiento del portfolio de
 propiedad intelectual e industrial de la organización. Incluye marcas (renovación
-cada 10 años) [verificar], patentes (anualidades), modelos de utilidad, diseños industriales,
+cada 10 años, art. 109 de la Ley 35 de 1996), patentes (tasas de mantenimiento por
+quinquenios, art. 207), modelos de utilidad, diseños industriales,
 nombres de dominio y derechos de autor registrados. Evita la pérdida de derechos
 por falta de renovación oportuna.
 
 ## Fuentes
 
 - Registro de portfolio de PI de la entidad:
-  - Marcas nacionales (DIGERPI) e internacionales (OMPI / Protocolo de Madrid)
+  - Marcas nacionales (DIGERPI); internacionales por registro nacional en cada país (Panamá NO es parte del Protocolo de Madrid)
   - Patentes nacionales (DIGERPI) e internacionales (PCT)
   - Modelos de utilidad, diseños industriales
   - Nombres de dominio (.pa, .com, gTLDs)
-  - Registros de derecho de autor (DIGERPI — Dirección Nacional de Derecho de Autor) [verificar]
+  - Registros de derecho de autor (Dirección Nacional de Derecho de Autor — DNDA, Ministerio de Cultura)
 - Tablas de tasas oficiales vigentes (DIGERPI, OMPI)
 - Historial de renovaciones anteriores
 - Agentes o abogados de propiedad industrial asignados
@@ -30,12 +31,12 @@ por falta de renovación oportuna.
 
 1. Cargar el portfolio completo de registros de PI activos
 2. Para cada registro:
-   a. Calcular la fecha de próxima renovación o pago de anualidad:
-      - Marcas: cada 10 años desde la fecha de registro/última renovación [verificar]
-      - Patentes nacionales: anualidades de mantenimiento según la Ley 35 de 1996
-      - Patentes vía PCT: anualidades ante DIGERPI tras la fase nacional [verificar]
-      - Modelos de utilidad: vigencia y renovación según la Ley 35 de 1996
-      - Diseños industriales: vigencia y renovaciones según la Ley 35 de 1996
+   a. Calcular la fecha de próxima renovación o pago de tasa de mantenimiento:
+      - Marcas: 10 años contados desde la fecha de presentación de la solicitud; renovación en la ventana de 1 año antes del vencimiento (arts. 109 y 110 de la Ley 35 de 1996)
+      - Patentes nacionales: tasas de mantenimiento por quinquenios (cada 5 años), no anualidades (art. 207 de la Ley 35 de 1996); caducidad de pleno derecho tras 6 meses de gracia con recargo
+      - Patentes vía PCT: tasas de mantenimiento por quinquenios ante DIGERPI tras la fase nacional (art. 207 de la Ley 35 de 1996)
+      - Modelos de utilidad: 10 años improrrogables (art. 26 de la Ley 35 de 1996)
+      - Diseños industriales: 10 años, prorrogable una vez por 5 años (máx. 15 años) (arts. 79-80 de la Ley 35 de 1996)
       - Dominios: según período contratado (1-10 años)
    b. Calcular días restantes hasta el vencimiento
    c. Verificar si hay período de gracia disponible (habitualmente 6 meses con recargo)

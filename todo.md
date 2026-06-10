@@ -41,7 +41,9 @@
 - [x] **procesal** — verificado artículo por artículo (119 → 55): Código Judicial (arts. 507, 509, 511, 512, 626, 665, 1152, 1154, 1173), Código de Trabajo (arts. 915, 925-927), Código Procesal Penal (Ley 63 de 2008), Ley 135 de 1943 (arts. 42-A/42-B). **Hallazgo estructural: nuevo Código Procesal Civil (Ley 402 de 2023) vigente desde 11-oct-2025** — aviso añadido. Ver [VERIFICACION.md](VERIFICACION.md) §4.
 - [x] **inmobiliario** — verificado artículo por artículo (100 → 40): Ley 93 de 1973 (art. 13, arrendamientos/MIVIOT), Código Fiscal (art. 701-g ITBI, art. 701 ganancia de capital, art. 1057-V), Código Civil (arras art. 1224, inscripción arts. 1753-1762), Ley 284 de 2022 (mayorías, art. 46 Fondo para Imprevistos), Ley 23 de 2015. Corregidos 2 errores de fondo (arras art. 1224, propietarios ausentes). Ver [VERIFICACION.md](VERIFICACION.md) §4.
 
-**Verificación a fondo completada en los 6 módulos de mayor densidad** (administrativo, societario, fiscal, laboral, procesal, inmobiliario).
+- [x] **propiedad-intelectual** — verificado artículo por artículo (56 → 7): Ley 35 de 1996 (arts. 20, 26, 79-80, 109-110, 167-172, 176-177, 205, 207), Ley 64 de 2012, Código de Trabajo (arts. 193-196), Ley 45 de 2007 (art. 124.5), Código Penal (art. 268). Corregidos 5 errores de fondo (Madrid, DNDA, invenciones laborales, competencia desleal, quinquenios). Ver [VERIFICACION.md](VERIFICACION.md) §4.
+
+**Verificación a fondo completada en 7 módulos** (administrativo, societario, fiscal, laboral, procesal, inmobiliario, propiedad-intelectual).
 
 ## Pendiente (mejoras futuras)
 

@@ -12,9 +12,9 @@ Esta skill redacta una carta de requerimiento extrajudicial (cease & desist) por
 
 ### Paso 1 — Identificar tipo de infracción
 
-1. **Infracción de marca**: uso no autorizado de marca registrada (Ley 35 de 1996 — derechos del titular) [verificar].
+1. **Infracción de marca**: uso no autorizado de marca registrada (Ley 35 de 1996 — derechos del titular; acción civil y medidas cautelares, arts. 167-172; prescribe a los 6 años, art. 168).
 2. **Infracción de derechos de autor**: reproducción, distribución o comunicación pública sin autorización (Ley 64 de 2012).
-3. **Competencia desleal**: imitación, aprovechamiento de reputación ajena, confusión (Ley 45 de 2007).
+3. **Competencia desleal**: imitación, aprovechamiento de reputación ajena, confusión (Ley 45 de 2007). Estos actos se ventilan ante los Juzgados de Circuito Civil especializados (art. 124.5 de la Ley 45 de 2007), mediante acción privada del comerciante afectado; la ACODECO solo conoce prácticas monopolísticas.
 4. **Infracción de patente/diseño**: fabricación o comercialización sin licencia (Ley 35 de 1996).
 
 ### Paso 2 — Cargar postura de enforcement
@@ -86,11 +86,12 @@ Sin otro particular, le saluda atentamente,
 
 ## Referencias normativas
 
-- **Ley 35 de 1996** (propiedad industrial): derechos del titular de la marca y acciones por infracción [verificar].
-- **Ley 64 de 2012** (derecho de autor): acciones por infracción de derechos de autor y derechos conexos [verificar].
-- **Ley 45 de 2007** (protección al consumidor y defensa de la competencia): actos de competencia desleal y acciones ante ACODECO [verificar].
-- **Ley 35 de 1996** (patentes y diseños): infracción y acciones disponibles [verificar].
-- **Código Judicial de Panamá**: procedimiento aplicable a las acciones civiles por infracción de PI [verificar].
+- **Ley 35 de 1996** (propiedad industrial, mod. Ley 61 de 2012): derechos del titular de la marca y acciones por infracción — cese, indemnización, medidas para evitar la repetición, publicación de la sentencia y medidas cautelares inmediatas (arts. 167-172); la acción prescribe a los 6 años (art. 168). Medidas en frontera por la Aduana, incluida la Zona Libre de Colón (arts. 176-177; caución de hasta el 50% del avalúo, art. 171).
+- **Ley 64 de 2012** (derecho de autor): acciones por infracción de derechos de autor y derechos conexos.
+- **Ley 45 de 2007** (protección al consumidor y defensa de la competencia): actos de competencia desleal ante los Juzgados de Circuito Civil especializados (art. 124.5), por acción privada del afectado; la ACODECO solo conoce prácticas monopolísticas.
+- **Ley 35 de 1996** (patentes y diseños): infracción y acciones disponibles. Las acciones civiles de PI se tramitan ante los Juzgados de Circuito Civil especializados (Ley 45 de 2007, arts. 124 y 127; definición de los procesos de propiedad industrial en el art. 181 de la Ley 35 de 1996).
+- **Código Penal de Panamá**: falsificación de marca (art. 268, prisión 4-6 años); piratería de derecho de autor (arts. 262-266); delitos contra la propiedad industrial (arts. 267-273). Dimensión penal ante la Fiscalía Superior Especializada en PI.
+- **Código Judicial de Panamá**: procedimiento aplicable a las acciones civiles por infracción de PI.
 
 ## Guardrails
 
@@ -99,6 +100,6 @@ Sin otro particular, le saluda atentamente,
 - **NO afirma** que existe infracción — usa lenguaje condicional ("presunta infracción").
 - **NO amenaza** con acciones penales salvo instrucción expresa del abogado.
 - **NO incluye** cuantificación de daños salvo que el usuario proporcione datos verificados.
-- **ESCALAR** si la infracción puede tener dimensión penal (falsificación de marcas y piratería bajo el Código Penal de Panamá) [verificar].
+- **ESCALAR** si la infracción puede tener dimensión penal: falsificación de marca (art. 268 del Código Penal), piratería de derecho de autor (arts. 262-266) y demás delitos contra la propiedad industrial (arts. 267-273).
 - **ESCALAR** si el presunto infractor es un competidor directo o empresa de mayor tamaño.
 - **AVISAR** si no se dispone de pruebas documentadas de la infracción.

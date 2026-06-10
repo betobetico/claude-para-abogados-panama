@@ -108,7 +108,7 @@ Si no:
 
 - **Marcas registradas:**
   - ¿Cuántas, aproximadamente?
-  - ¿Registradas dónde? (DIGERPI para Panamá, OMPI/Protocolo de Madrid para internacional)
+  - ¿Registradas dónde? (DIGERPI para Panamá; registro nacional en cada país para el extranjero — Panamá NO es parte del Protocolo de Madrid)
   - ¿Clases de Niza principales?
 - **Patentes:**
   - ¿Cuántas solicitudes/concesiones?
@@ -117,7 +117,7 @@ Si no:
 - **Diseños industriales:**
   - ¿Registrados? ¿Dónde? (DIGERPI)
 - **Software:**
-  - ¿Propio? ¿Registrado en la Dirección Nacional de Derecho de Autor (DIGERPI)? [verificar]
+  - ¿Propio? ¿Registrado en la Dirección Nacional de Derecho de Autor (DNDA) del Ministerio de Cultura? (registro declarativo y optativo: la obra se protege desde su creación)
   - ¿Licencias a terceros?
 - **Nombres de dominio:**
   - ¿Portfolio de dominios? (.pa, .com, otros)
@@ -161,17 +161,17 @@ Si no:
 ### Parte 4: Cláusulas de PI en contratos (3-4 min)
 
 - **Cesión vs. licencia:** ¿tu posición por defecto en contratos de desarrollo?
-  - ¿Cesión plena de derechos patrimoniales (Ley 64 de 2012) o licencia? [verificar]
+  - ¿Cesión plena de derechos patrimoniales (Ley 64 de 2012; por escrito y limitada a las modalidades expresamente cedidas) o licencia?
   - ¿Exclusiva o no exclusiva?
 - **Obra por encargo:** ¿cómo manejas la titularidad?
   - ¿Cláusula expresa de cesión?
   - ¿Referencia al régimen de obra colectiva (Ley 64 de 2012)? [verificar]
 - **Empleados (Ley 64 de 2012):**
   - ¿Cláusula adicional en contrato de trabajo sobre invenciones y creaciones?
-  - ¿Cómo manejas el software creado por empleados? [verificar]
-- **Invenciones laborales (Ley 35 de 1996):**
+  - ¿Cómo manejas el software creado por empleados? (los derechos patrimoniales corresponden, salvo pacto en contrario, al empleador; los morales permanecen en el autor — Ley 64 de 2012)
+- **Invenciones laborales (Código de Trabajo, arts. 193-196; la Ley 35 de 1996, art. 9, remite al Código de Trabajo):**
   - ¿Procedimiento interno para comunicación de invenciones?
-  - ¿Compensación adicional pactada?
+  - ¿Compensación adicional pactada? (no inferior al 10% de las utilidades netas para invención de servicio con beneficios desproporcionados, art. 196)
 
 ---
 
@@ -197,7 +197,7 @@ Si no:
 
 | Tipo de activo | Cantidad | Registros | Jurisdicciones |
 |---|---|---|---|
-| Marcas | [PLACEHOLDER] | [DIGERPI/Madrid] | [PLACEHOLDER] |
+| Marcas | [PLACEHOLDER] | [DIGERPI / registro nacional extranjero] | [PLACEHOLDER] |
 | Patentes | [PLACEHOLDER] | [DIGERPI/PCT] | [PLACEHOLDER] |
 | Diseños | [PLACEHOLDER] | [DIGERPI] | [PLACEHOLDER] |
 | Software | [PLACEHOLDER] | [Derecho de autor/no registrado] | [PLACEHOLDER] |
@@ -240,7 +240,7 @@ Si sí:
 
 > **Esto es lo que hago bien en propiedad intelectual:**
 >
-> - **Búsqueda de disponibilidad de marca** — verifico en la DIGERPI y la OMPI antes de registrar. Prueba: `/propiedad-intelectual:busqueda-marca`
+> - **Búsqueda de disponibilidad de marca** — verifico en la DIGERPI antes de registrar (Panamá NO es parte del Protocolo de Madrid). Prueba: `/propiedad-intelectual:busqueda-marca`
 > - **Revisar cláusulas de PI en contratos** — verifico cesión, licencia, titularidad. Prueba: `/propiedad-intelectual:revision-pi`
 > - **Auditoría de licencias OSS** — reviso las licencias de tu stack. Prueba: `/propiedad-intelectual:auditoria-oss`
 > - **Gestión de portfolio** — estado de registros, renovaciones, vigilancia. Prueba: `/propiedad-intelectual:portfolio`
@@ -263,7 +263,7 @@ Cerrar con nota de modificabilidad:
 
 - **No confundas derecho de autor con propiedad industrial (marcas, patentes, diseños).** En Panamá son regímenes distintos (Ley 64 de 2012 vs. Ley 35 de 1996).
 - **No asumas que la DIGERPI y la OMPI funcionan igual.** Procedimientos, plazos y tasas son diferentes.
-- **No escribas posiciones genéricas de cesión.** La Ley 64 de 2012 tiene reglas específicas sobre transmisión de derechos patrimoniales [verificar].
+- **No escribas posiciones genéricas de cesión.** La Ley 64 de 2012 exige que la transmisión de derechos patrimoniales conste por escrito y se limite a las modalidades de explotación expresamente cedidas.
 - **No ignores el derecho moral.** En Panamá los derechos morales del autor son irrenunciables e inalienables (Ley 64 de 2012).
-- **No asumas que todo el software se registra.** El registro de derecho de autor en Panamá es voluntario y declarativo [verificar].
+- **No asumas que todo el software se registra.** El registro de derecho de autor en Panamá es declarativo y optativo (la obra se protege desde su creación), ante la Dirección Nacional de Derecho de Autor (DNDA) del Ministerio de Cultura.
 - **Tono: eres el nuevo compañero que hizo los deberes.** Cálido, curioso, directo.

@@ -42,17 +42,18 @@ Para cada cláusula de PI verificar:
 ### Paso 3 — Verificar conformidad legal
 
 **Software (Ley 64 de 2012):**
-- Si es empleado: los derechos patrimoniales sobre la obra creada en cumplimiento de la relación laboral corresponden al empleador, salvo pacto en contrario [verificar].
+- El software se protege como obra por el derecho de autor (no por patente); su duración patrimonial es de 70 años desde la primera publicación.
+- Si es empleado: los derechos patrimoniales sobre la obra creada en cumplimiento de la relación laboral corresponden, salvo pacto en contrario, al empleador (los derechos morales permanecen en el autor).
 - Si es contratista independiente/encargo: se rige por el contrato — conviene cláusula expresa de cesión.
 
 **Obras no software:**
-- La transmisión de los derechos patrimoniales se limita a las modalidades expresamente cedidas en el contrato (Ley 64 de 2012).
-- Los derechos morales del autor son irrenunciables e inalienables (Ley 64 de 2012).
+- La transmisión de los derechos patrimoniales debe constar por escrito y se limita a las modalidades expresamente cedidas en el contrato (Ley 64 de 2012).
+- Los derechos morales del autor son perpetuos, inalienables, irrenunciables e inembargables (Ley 64 de 2012).
 
-**Invenciones laborales (Ley 35 de 1996):**
-- Las invenciones del trabajador realizadas en el marco de su actividad contratada de investigación pertenecen al empleador [verificar].
-- Las invenciones libres del trabajador le pertenecen [verificar].
-- Eventual compensación económica al trabajador inventor según la ley y el contrato [verificar].
+**Invenciones laborales (Código de Trabajo, arts. 193-196; la Ley 35 de 1996, art. 9, remite al Código de Trabajo):**
+- Las invenciones de empresa y de servicio pertenecen al empleador; el trabajador inventor conserva el derecho moral a ser reconocido como autor.
+- Las invenciones libres del trabajador le pertenecen.
+- Compensación especial al trabajador inventor de invención de servicio cuando los beneficios sean desproporcionados, no inferior al 10% de las utilidades netas (art. 196 del Código de Trabajo).
 
 ### Paso 4 — Generar informe
 
@@ -75,7 +76,7 @@ Para cada cláusula de PI verificar:
 
 | # | Cláusula | Problema | Base legal | Severidad | Recomendación |
 |---|----------|----------|------------|-----------|---------------|
-| 1 | [ref] | [descripción] | [Ley 64 de 2012 / Ley 35 de 1996] | [nivel] | [acción] |
+| 1 | [ref] | [descripción] | [Ley 64 de 2012 / Ley 35 de 1996 / Código de Trabajo arts. 193-196] | [nivel] | [acción] |
 
 ### PI preexistente
 
@@ -93,11 +94,11 @@ Para cada cláusula de PI verificar:
 ## Referencias normativas
 
 - **Ley 64 de 2012**: Ley de Derecho de Autor y Derechos Conexos de Panamá.
-- **Ley 64 de 2012**: derechos morales del autor — irrenunciables e inalienables [verificar].
-- **Ley 64 de 2012**: transmisión de derechos patrimoniales — formalidades y limitación a las modalidades cedidas [verificar].
-- **Ley 64 de 2012**: protección y titularidad de los programas de ordenador y obras creadas en relación laboral [verificar].
-- **Ley 35 de 1996**: invenciones laborales y de servicio [verificar].
-- **Código Civil de Panamá**: teoría general de las obligaciones y los contratos [verificar].
+- **Ley 64 de 2012**: derechos morales del autor — perpetuos, inalienables, irrenunciables e inembargables.
+- **Ley 64 de 2012**: transmisión de derechos patrimoniales — por escrito y limitada a las modalidades de explotación expresamente cedidas.
+- **Ley 64 de 2012**: protección del software como obra (no por patente; 70 años desde la primera publicación) y titularidad de obras creadas en relación laboral (patrimoniales al empleador salvo pacto en contrario; morales del autor).
+- **Código de Trabajo, arts. 193-196**: invenciones laborales y de servicio (la Ley 35 de 1996, art. 9, remite al Código de Trabajo); compensación al inventor no inferior al 10% de las utilidades netas (art. 196).
+- **Código Civil de Panamá**: teoría general de las obligaciones y los contratos.
 
 ## Guardrails
 
@@ -105,6 +106,6 @@ Para cada cláusula de PI verificar:
 - **NO** determina la titularidad de derechos de PI en caso de disputa.
 - **NO** valora la adecuación comercial de la cesión/licencia.
 - **ESCALAR** si el contrato contiene renuncia a derechos morales (nula por imperativo de la Ley 64 de 2012).
-- **ESCALAR** si la cesión de PI en un contrato laboral no respeta el régimen de invenciones laborales de la Ley 35 de 1996.
+- **ESCALAR** si la cesión de PI en un contrato laboral no respeta el régimen de invenciones laborales del Código de Trabajo, arts. 193-196 (al que remite la Ley 35 de 1996, art. 9).
 - **AVISAR** si el contrato no distingue entre PI preexistente y PI generada.
 - **AVISAR** si no se establece qué ocurre con la PI a la terminación del contrato.

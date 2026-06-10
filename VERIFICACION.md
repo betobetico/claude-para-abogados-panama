@@ -238,6 +238,26 @@ Marcadores: **100 → 40**.
 - Cobro de cuotas morosas por proceso ejecutivo (obligación de carácter real sobre la unidad). **Fondo para Imprevistos** obligatorio, mínimo **1%** de los ingresos anuales: **art. 46**.
 - **Corrección de fondo:** se eliminó el régimen español de adhesión/discrepancia de propietarios ausentes en plazo (art. 17.8 LPH española) — en Panamá los acuerdos válidos vinculan a presentes y ausentes sin tal plazo.
 
+### Módulo `propiedad-intelectual` (verificado el 10 de junio de 2026)
+
+Verificado contra la Ley 35 de 1996 (mod. Ley 61 de 2012), la Ley 64 de 2012, el Código de
+Trabajo, la Ley 45 de 2007 y el Código Penal. Marcadores: **56 → 7**.
+
+**Propiedad industrial (Ley 35 de 1996)**
+- Marca: **10 años renovable indefinidamente**, desde la presentación de la solicitud (**art. 109**); renovación con gracia de 6 meses (**arts. 110, 205**). Patente: **20 años improrrogables** (**art. 20**). Modelo de utilidad: **10 años** (**art. 26**). Diseño industrial: **10 + prórroga única de 5 = máx. 15 años** (**arts. 79-80**).
+- Infracción de marca: acción civil (cese, indemnización, cautelares), prescripción 6 años: **arts. 167-172**. Medidas en frontera (aduanas, ZLC): **arts. 176-177**. Autoridad: DIGERPI/MICI.
+
+**Cinco correcciones de fondo**
+- **Protocolo de Madrid:** Panamá **NO es parte** — el registro de marcas es por vía nacional ante la DIGERPI (el repo lo daba como aplicable).
+- **Registro de derecho de autor:** corresponde a la **Dirección Nacional de Derecho de Autor (DNDA) del Ministerio de Cultura** (Ley 90 de 2019), **no a la DIGERPI** (que es propiedad industrial).
+- **Invenciones laborales:** el régimen está en el **Código de Trabajo, arts. 193-196** (compensación ≥10% de utilidades netas), no en la Ley 35 (cuyo art. 9 solo remite).
+- **Competencia desleal:** la conocen los **Juzgados de Circuito Civil especializados** (**art. 124.5 Ley 45 de 2007**), **no la ACODECO** (que solo ve prácticas monopolísticas).
+- **Patentes:** el mantenimiento se paga por **quinquenios** (cada 5 años, **art. 207**), no como "anualidades".
+
+**Derecho de autor (Ley 64 de 2012)**
+- Derechos morales perpetuos, inalienables, irrenunciables e inembargables. Software como obra (70 años desde publicación). Obra laboral → empleador (salvo pacto). Duración general: vida + **70 años**. Panamá parte del Convenio de Berna y del Convenio de París (1996).
+- Penal: falsificación de marca **art. 268 CP**; piratería arts. 262-266; PI arts. 267-273.
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes

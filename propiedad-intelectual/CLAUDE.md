@@ -64,7 +64,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 |---|---|---|---|---|
 | [PLACEHOLDER] | [DIGERPI/PCT] | [PLACEHOLDER] | [PLACEHOLDER] | [vigente/pendiente] |
 
-**Pago de anualidades:** [PLACEHOLDER — ej., "Recordatorio 3 meses antes; gestor externo: [nombre]"]
+**Pago de tasas de mantenimiento (quinquenios, art. 207):** [PLACEHOLDER — ej., "Recordatorio 3 meses antes; gestor externo: [nombre]"]
 
 ### Diseños industriales
 
@@ -102,13 +102,14 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 **Búsqueda previa:** [PLACEHOLDER — ej., "Siempre búsqueda fonética y gráfica en la base de datos de la DIGERPI antes de solicitar"]
 **Tasa de solicitud vigente:** [PLACEHOLDER — verificar tarifa oficial de la DIGERPI]
 **Plazo de oposición:** [PLACEHOLDER — plazo de oposición desde la publicación, conforme a la Ley 35 de 1996]
-**Duración del registro:** 10 años renovables [verificar]
+**Duración del registro:** 10 años contados desde la fecha de presentación de la solicitud, renovable indefinidamente por períodos iguales de 10 años (art. 109 de la Ley 35 de 1996). Renovación en la ventana de 1 año antes del vencimiento, con período de gracia de 6 meses con recargo (arts. 110 y 205)
 **Posición ante oposiciones recibidas:** [PLACEHOLDER — ej., "Contestar siempre; escalar a responsable si oposición de marca notoria"]
 
-### OMPI (Organización Mundial de la Propiedad Intelectual)
+### Protección de marca en el extranjero
 
-**Sistema de Madrid — uso:** [PLACEHOLDER — ej., "Para extensión a otros países; marca base en la DIGERPI"]
-**Territorios designados habitualmente:** [PLACEHOLDER — ej., "EE.UU., México, Colombia, China"]
+**Panamá NO es parte del Protocolo de Madrid** (ni del Arreglo de Madrid): no puede designarse a Panamá vía el Sistema de Madrid, ni usarse una marca base panameña para una solicitud internacional de Madrid. La protección en el extranjero se obtiene por **registro nacional en cada país**.
+
+**Territorios de interés habituales:** [PLACEHOLDER — ej., "EE.UU., México, Colombia, China"]
 
 ---
 
@@ -116,7 +117,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ### DIGERPI
 
-**Tipos de protección:** Patente de invención (20 años) / Modelo de utilidad [verificar]
+**Tipos de protección:** Patente de invención (20 años improrrogables desde la presentación, art. 20) / Modelo de utilidad (10 años improrrogables, art. 26) / Diseño industrial (10 años, prorrogable una vez por 5 años, máx. 15 años, arts. 79-80). Mantenimiento de patente por tasas quinquenales (cada 5 años), no anualidades (art. 207)
 **Informe sobre el estado de la técnica / examen:** [PLACEHOLDER — ej., "Política sobre examen de fondo y tiempos de tramitación ante la DIGERPI"]
 **Política de mantenimiento:** [PLACEHOLDER — ej., "Evaluar anualmente la utilidad comercial; abandonar patentes sin explotación tras 5 años"]
 
@@ -132,16 +133,16 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 **Obras protegidas principales:** [PLACEHOLDER — ej., "Software, bases de datos, contenido web, materiales de formación, diseños gráficos"]
 
 **Software:**
-- Protección: Derecho de autor (Ley 64 de 2012); el software se protege como obra, no por patente [verificar]
-- Titularidad: [PLACEHOLDER — ej., "La empresa como titular de los derechos patrimoniales si la obra es creada por empleados en el ejercicio de sus funciones"] [verificar]
-- Registro: [PLACEHOLDER — ej., "Registro ante la Dirección Nacional de Derecho de Autor (DIGERPI) para acreditación de autoría y fecha"] [verificar]
+- Protección: Derecho de autor (Ley 64 de 2012); el software se protege como obra, no por patente; duración patrimonial de 70 años desde la primera publicación
+- Titularidad: [PLACEHOLDER — ej., "La empresa como titular de los derechos patrimoniales si la obra es creada por empleados en el ejercicio de sus funciones, salvo pacto en contrario; los derechos morales permanecen en el autor (Ley 64 de 2012)"]
+- Registro: [PLACEHOLDER — ej., "Registro ante la Dirección Nacional de Derecho de Autor (DNDA) del Ministerio de Cultura para acreditación de autoría y fecha; registro declarativo y optativo, la obra se protege desde su creación"]
 
 **Bases de datos:**
 - Protección de las compilaciones y bases de datos originales bajo la Ley 64 de 2012
 - Alcance de la protección: [PLACEHOLDER — ej., "Protección de la estructura/selección original; verificar régimen aplicable"] [verificar]
 
 **Cesión de derechos por empleados:**
-- Bajo la Ley 64 de 2012, los derechos patrimoniales sobre obras creadas en virtud de relación laboral corresponden, salvo pacto en contrario, al empleador [verificar]
+- Bajo la Ley 64 de 2012, los derechos patrimoniales sobre obras creadas en virtud de relación laboral corresponden, salvo pacto en contrario, al empleador (los derechos morales permanecen en el autor)
 - [PLACEHOLDER — cláusula house adicional en contratos de trabajo]
 
 ---
@@ -160,7 +161,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 1. [PLACEHOLDER — ej., "Identificar la fuente de la filtración"]
 2. [PLACEHOLDER — ej., "Solicitud de medidas cautelares urgentes ante la jurisdicción competente"] [verificar]
 3. [PLACEHOLDER — ej., "Requerimiento extrajudicial al infractor"]
-4. [PLACEHOLDER — ej., "Acción judicial por competencia desleal (Ley 45 de 2007)"]
+4. [PLACEHOLDER — ej., "Acción judicial por competencia desleal (Ley 45 de 2007) ante los Juzgados de Circuito Civil especializados (art. 124.5); la ACODECO solo conoce prácticas monopolísticas"]
 
 ---
 
@@ -190,11 +191,11 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ### Obra por encargo
 
-**Posición house:** [PLACEHOLDER — ej., "Contrato escrito de cesión (Ley 64 de 2012); especificar modalidades de explotación, ámbito territorial y temporal, remuneración si aplica"] [verificar]
+**Posición house:** [PLACEHOLDER — ej., "Contrato escrito de cesión (Ley 64 de 2012; por escrito y limitada a las modalidades de explotación expresamente cedidas); especificar ámbito territorial y temporal, remuneración si aplica"]
 
-### Empleados (Ley 64 de 2012 / Ley 35 de 1996)
+### Empleados (Ley 64 de 2012 / Código de Trabajo, arts. 193-196)
 
-**Cláusula house en contratos de trabajo:** [PLACEHOLDER — ej., "Referencia expresa al régimen de obras creadas en relación laboral de la Ley 64 de 2012 para derecho de autor y al régimen de invenciones laborales de la Ley 35 de 1996"]
+**Cláusula house en contratos de trabajo:** [PLACEHOLDER — ej., "Referencia expresa al régimen de obras creadas en relación laboral de la Ley 64 de 2012 para derecho de autor y al régimen de invenciones laborales del Código de Trabajo, arts. 193-196 (al que remite la Ley 35 de 1996, art. 9)"]
 
 ---
 
@@ -230,7 +231,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 ## Estilo house
 
 **Formato de informes de PI:** [PLACEHOLDER]
-**Citas normativas:** [PLACEHOLDER — ej., "Ley 35 de 1996 para marcas y patentes, Ley 64 de 2012 para derecho de autor"] [verificar]
+**Citas normativas:** [PLACEHOLDER — ej., "Ley 35 de 1996 (mod. Ley 61 de 2012) para marcas y patentes, Ley 64 de 2012 para derecho de autor, Código de Trabajo arts. 193-196 para invenciones laborales"]
 **Idioma:** [PLACEHOLDER — ej., "Español para registros DIGERPI; inglés/español para OMPI"]
 
 ---
@@ -239,12 +240,14 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 Las siguientes normas son la base del análisis de este plugin:
 
-- **Ley de Propiedad Industrial** — Ley 35 de 1996 (marcas, patentes, modelos de utilidad, diseños industriales y secretos industriales) [verificar]
-- **Ley de Derecho de Autor y Derechos Conexos** — Ley 64 de 2012
-- **Ley de protección al consumidor y defensa de la competencia** — Ley 45 de 2007 — en lo relativo a actos de imitación, confusión y aprovechamiento de reputación ajena [verificar]
-- **Protocolo de Madrid** (marcas internacionales) [verificar]
+- **Ley de Propiedad Industrial** — Ley 35 de 1996, mod. Ley 61 de 2012 (reglamento: Decreto Ejecutivo 85 de 2017); cubre marcas, patentes, modelos de utilidad, diseños industriales y secretos industriales. Autoridad: DIGERPI (Dirección General del Registro de la Propiedad Industrial) del MICI
+- **Ley de Derecho de Autor y Derechos Conexos** — Ley 64 de 2012. Registro ante la Dirección Nacional de Derecho de Autor (DNDA) del Ministerio de Cultura (competencia traspasada por la Ley 90 de 2019; registro declarativo y optativo)
+- **Código de Trabajo** (arts. 193-196) — régimen de invenciones laborales (la Ley 35 de 1996, art. 9, remite al Código de Trabajo)
+- **Ley de protección al consumidor y defensa de la competencia** — Ley 45 de 2007 — actos de imitación, confusión y aprovechamiento de reputación ajena (competencia desleal ante los Juzgados de Circuito Civil especializados, art. 124.5; la ACODECO solo conoce prácticas monopolísticas)
+- **Código Penal** — falsificación de marca (art. 268), piratería de derecho de autor (arts. 262-266), delitos contra la propiedad industrial (arts. 267-273)
+- **Protocolo de Madrid** (marcas internacionales): Panamá NO es parte contratante (ni del Arreglo de Madrid); las marcas se registran por la vía nacional ante la DIGERPI o por registro nacional en cada país extranjero
 - **Tratado de Cooperación en materia de Patentes (PCT)** (solicitudes internacionales de patente)
-- **Convenio de Berna** y **Convenio de París** (referencias internacionales aplicables en Panamá) [verificar]
+- **Convenio de Berna** (derecho de autor, en vigor desde 1996) y **Convenio de París** (propiedad industrial, 1996) — Panamá es parte de ambos
 
 *Referencias comparadas (no vinculantes en Panamá): normativa de marcas, diseños y patentes de la Unión Europea, citada solo con fines ilustrativos.*
 

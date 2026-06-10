@@ -6,7 +6,7 @@ argument-hint: "<denominación-de-marca> <clase-niza>"
 
 ## Propósito
 
-Esta skill realiza un análisis preliminar (knockout check) de disponibilidad de una denominación como marca. Evalúa el riesgo de confusión con marcas anteriores en los registros de la DIGERPI (Panamá) y de la OMPI (Protocolo de Madrid), aplicando criterios de similitud visual, fonética y conceptual.
+Esta skill realiza un análisis preliminar (knockout check) de disponibilidad de una denominación como marca. Evalúa el riesgo de confusión con marcas anteriores en los registros de la DIGERPI (Panamá), aplicando criterios de similitud visual, fonética y conceptual. Nota: Panamá NO es parte del Protocolo de Madrid; el registro de marcas se realiza por la vía nacional ante la DIGERPI y no puede designarse a Panamá vía el Sistema de Madrid.
 
 ## Instrucciones
 
@@ -15,7 +15,7 @@ Esta skill realiza un análisis preliminar (knockout check) de disponibilidad de
 1. **Denominación**: nombre exacto de la marca propuesta.
 2. **Tipo de marca**: denominativa, figurativa, mixta, tridimensional, sonora.
 3. **Clases de Niza**: productos/servicios que se pretende proteger.
-4. **Territorio**: Panamá (DIGERPI), internacional (OMPI/Protocolo de Madrid).
+4. **Territorio**: Panamá (DIGERPI). Para protección en el extranjero, registro nacional en cada país (Panamá NO es parte del Protocolo de Madrid).
 
 ### Paso 2 — Definir estrategia de búsqueda
 
@@ -72,7 +72,7 @@ Para cada marca anterior encontrada:
 
 ### Análisis de confusión
 
-[Para cada marca de riesgo ALTO, análisis detallado de la similitud aplicando los criterios de la Ley 35 de 1996 y la doctrina de la DIGERPI]
+[Para cada marca de riesgo ALTO, análisis detallado de la similitud aplicando los criterios de la Ley 35 de 1996 (mod. Ley 61 de 2012) y la doctrina de la DIGERPI]
 
 ### Recomendaciones
 
@@ -87,11 +87,11 @@ Para cada marca anterior encontrada:
 
 ## Referencias normativas
 
-- **Ley 35 de 1996** (propiedad industrial): prohibiciones de registro y signos no registrables como marca [verificar].
-- **Ley 35 de 1996**: riesgo de confusión y asociación con marcas anteriores [verificar].
-- **Protocolo de Madrid** (marcas internacionales) — Panamá como parte contratante [verificar].
+- **Ley 35 de 1996** (propiedad industrial, mod. Ley 61 de 2012): prohibiciones de registro y signos no registrables como marca.
+- **Ley 35 de 1996**: riesgo de confusión y asociación con marcas anteriores. La marca se registra por 10 años, renovable indefinidamente por períodos iguales (art. 109).
+- **Protocolo de Madrid**: Panamá NO es parte contratante (ni del Arreglo de Madrid). El registro de marcas se efectúa por la vía nacional ante la DIGERPI; no puede designarse a Panamá vía el Sistema de Madrid.
 - **Clasificación de Niza**: clasificación internacional de productos y servicios.
-- **Ley 45 de 2007** (protección al consumidor y defensa de la competencia): actos de confusión y aprovechamiento de reputación ajena [verificar].
+- **Ley 45 de 2007** (protección al consumidor y defensa de la competencia): actos de confusión y aprovechamiento de reputación ajena. Los actos de competencia desleal corresponden de forma exclusiva a los Juzgados de Circuito Civil especializados (art. 124.5); la ACODECO solo conoce prácticas monopolísticas. La falsificación de marca se tipifica en el art. 268 del Código Penal.
 
 ## Guardrails
 
