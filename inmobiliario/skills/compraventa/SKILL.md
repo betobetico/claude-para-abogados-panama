@@ -39,11 +39,11 @@ La compraventa inmobiliaria en Panamá combina derecho civil (Código Civil de P
 
 | Tipo de arras | Base legal | Efecto |
 |---|---|---|
-| **Penitenciales / de desistimiento** | Código Civil de Panamá [verificar] | Permiten desistir: comprador pierde las arras; vendedor devuelve el doble (si se pacta) |
-| **Confirmatorias** | Código Civil de Panamá [verificar] | Señal de cumplimiento; no permiten desistir — incumplimiento → resolver + daños |
+| **Penitenciales / de desistimiento** | Art. 1224 del Código Civil de Panamá | Permiten desistir: comprador pierde las arras; vendedor las devuelve dobladas |
+| **Confirmatorias** | Categoría doctrinal / jurisprudencial (sin texto legal expreso) | Señal de cumplimiento; no permiten desistir — incumplimiento → resolver + daños |
 | **Penales** | Pacto expreso (cláusula penal) | Penalización por incumplimiento que no sustituye la obligación de cumplir (salvo pacto) |
 
-**Clave:** si el contrato no especifica el tipo, debe interpretarse conforme al Código Civil de Panamá y la intención de las partes; es esencial que el tipo quede expresamente pactado. En Panamá es habitual instrumentar la operación mediante un **contrato de promesa de compraventa**. [verificar]
+**Clave:** el art. 1224 del Código Civil de Panamá recoge únicamente las arras penitenciales / de desistimiento (rescindir perdiéndolas o devolviéndolas dobladas); las arras confirmatorias son una categoría doctrinal/jurisprudencial, no de texto legal expreso. No confundir con el art. 1221, que regula la promesa de compraventa. Si el contrato no especifica el tipo, debe interpretarse conforme al Código Civil de Panamá y la intención de las partes; es esencial que el tipo quede expresamente pactado. En Panamá es habitual instrumentar la operación mediante un **contrato de promesa de compraventa**.
 
 **Verificar en el contrato de promesa / arras:**
 - [ ] Tipo de arras expresamente indicado
@@ -85,9 +85,9 @@ Si se facilita certificado del Registro Público, verificar:
 | Paso | Verificar |
 |---|---|
 | **Escritura pública** | Otorgada ante notario; necesaria para la inscripción en el Registro Público y la oponibilidad frente a terceros |
-| **Inscripción en el Registro Público** | La transferencia de inmuebles se perfecciona frente a terceros con la inscripción; principio de prioridad registral [verificar] |
-| **Medios de pago** | Identificación de los medios de pago conforme a normativa de prevención de blanqueo (Ley 23 de 2015 y sujetos obligados ante la UAF) — transferencia, cheque de gerencia [verificar] |
-| **Retención por ganancia de capital** | En Panamá el comprador retiene un porcentaje del precio en concepto de adelanto de la ganancia de capital del vendedor y lo entera ante la DGI [verificar] |
+| **Inscripción en el Registro Público** | Entre las partes la transferencia se perfecciona por la escritura pública; frente a terceros se perfecciona con la inscripción (publicidad y prioridad registral) — arts. 1753-1762 del Código Civil de Panamá (en particular art. 1762) |
+| **Medios de pago** | Identificación de los medios de pago conforme a la prevención de blanqueo (Ley 23 de 2015, arts. 22 y ss.; promotores y agentes/corredores son sujetos obligados no financieros supervisados por la Superintendencia de Sujetos No Financieros, con reportes a la UAF) — transferencia, cheque de gerencia |
+| **Retención por ganancia de capital** | El comprador retiene el 3% del mayor entre el valor de venta y el catastral como adelanto de la ganancia de capital del vendedor (Formulario 107) y lo entera ante la DGI (art. 701 del Código Fiscal y Decreto Ejecutivo 170 de 1993) |
 
 ---
 
@@ -97,9 +97,9 @@ Si se facilita certificado del Registro Público, verificar:
 
 | Concepto | Impuesto | Notas |
 |---|---|---|
-| **Transferencia de inmueble** | **ITBI** — Impuesto de Transferencia de Bienes Inmuebles | Tarifa del 2% sobre el mayor entre el valor catastral actualizado y el valor de venta [verificar]; a cargo del vendedor |
-| **Ganancia de capital** | Impuesto sobre la ganancia de capital | Tarifa del 10% sobre la ganancia; con retención anticipada del 3% del valor de venta a enterar por el comprador [verificar] |
-| **ITBMS** | Impuesto de Transferencia de Bienes Muebles y Servicios | No grava la transferencia de inmuebles como tal; verificar su incidencia en operaciones de promotor o servicios asociados [verificar] |
+| **Transferencia de inmueble** | **ITBI** — Impuesto de Transferencia de Bienes Inmuebles | Tarifa del 2% sobre el mayor entre (i) el valor de la escritura y (ii) el valor catastral de adquisición + mejoras + 5% del valor catastral por cada año transcurrido; a cargo del vendedor (Formulario 106); requisito para inscribir (art. 701, lit. g, del Código Fiscal — Ley 106 de 1974) |
+| **Ganancia de capital** | Impuesto sobre la ganancia de capital | 10% sobre la ganancia, con retención anticipada del 3% del mayor entre el valor de venta y el catastral (la retiene el comprador, Formulario 107); el vendedor puede optar por el 3% como definitivo o pedir devolución del excedente (art. 701 del Código Fiscal y Decreto Ejecutivo 170 de 1993). **Promotores / giro ordinario:** tarifa única y definitiva del 3,75% sobre el mayor entre valor de enajenación y catastral; vivienda nueva con escala progresiva 0,5%-2,5% (4,5% comercial) |
+| **ITBMS** | Impuesto de Transferencia de Bienes Muebles y Servicios | No grava la transferencia de inmuebles (art. 1057-V del Código Fiscal); verificar su incidencia en servicios asociados |
 
 **Principio de territorialidad:** la fiscalidad panameña grava la renta de fuente panameña; la ganancia por la venta de inmuebles situados en Panamá es de fuente panameña. [verificar]
 
@@ -108,7 +108,7 @@ Si se facilita certificado del Registro Público, verificar:
 | Concepto | Sujeto pasivo | Notas |
 |---|---|---|
 | **Impuesto de inmueble** | Titular del inmueble | Anual; verificar exoneraciones (p. ej. patrimonio familiar tributario / vivienda principal) y que esté al día (paz y salvo) [verificar] |
-| **Paz y salvo nacional (DGI)** | Vendedor | Suele exigirse para inscribir la transferencia [verificar] |
+| **Paz y salvo nacional (DGI)** | Vendedor | Para inscribir se requieren el paz y salvo del impuesto de inmueble (DGI) y el paz y salvo municipal, más la acreditación del pago del ITBI (Formulario 106) y del 3% de ganancia de capital (Formulario 107) |
 | **Cuotas de propiedad horizontal** | Vendedor (al corriente) | Certificación de no adeudo de la administración (Ley 284 de 2022) |
 
 ---
@@ -150,8 +150,8 @@ Si se facilita certificado del Registro Público, verificar:
 
 | Concepto | Régimen | Tarifa | Importe estimado | Sujeto pasivo |
 |---|---|---|---|---|
-| ITBI | Transferencia de inmueble | 2% [verificar] | [importe] | [vendedor] |
-| Ganancia de capital | Retención anticipada | 3% del valor / 10% sobre ganancia [verificar] | [importe] | [vendedor / retiene comprador] |
+| ITBI | Transferencia de inmueble | 2% (Formulario 106; art. 701-g Código Fiscal) | [importe] | [vendedor] |
+| Ganancia de capital | Retención anticipada | 3% del mayor entre valor de venta y catastral / 10% sobre ganancia (Formulario 107) | [importe] | [vendedor / retiene comprador] |
 | Impuesto de inmueble | Paz y salvo | — | [al día] | [vendedor] |
 
 ---
@@ -170,7 +170,7 @@ Si se facilita certificado del Registro Público, verificar:
 
 - [ ] Certificado del Registro Público actualizado (próximo a la fecha de escritura)
 - [ ] Paz y salvo de impuesto de inmueble
-- [ ] Paz y salvo nacional (DGI) del vendedor [verificar]
+- [ ] Paz y salvo nacional (DGI) del impuesto de inmueble y paz y salvo municipal del vendedor
 - [ ] Certificación de no adeudo de cuotas de propiedad horizontal (Ley 284 de 2022)
 - [ ] Permiso de ocupación (obra nueva) si aplica
 - [ ] Medios de pago preparados (transferencia / cheque de gerencia) y cumplimiento de prevención de blanqueo (Ley 23 de 2015)
@@ -180,13 +180,14 @@ Si se facilita certificado del Registro Público, verificar:
 
 ## Legislación de referencia
 
-- Código Civil de Panamá — compraventa, arras, derechos reales, hipoteca [verificar]
+- Código Civil de Panamá — compraventa, arras (art. 1224), promesa de compraventa (art. 1221), derechos reales, hipoteca, inscripción (arts. 1753-1762, en particular 1762)
 - Registro Público de Panamá — inscripción de la propiedad y gravámenes
 - ANATI — catastro y administración de tierras
-- Régimen del ITBI (Impuesto de Transferencia de Bienes Inmuebles) [verificar]
-- Régimen de la ganancia de capital y retención anticipada (DGI) [verificar]
+- ITBI — art. 701, lit. g) del Código Fiscal (Ley 106 de 1974); Formulario 106
+- Ganancia de capital — art. 701 del Código Fiscal y Decreto Ejecutivo 170 de 1993; Formulario 107 (incl. régimen de promotores 3,75% y vivienda nueva 0,5%-2,5%)
+- Art. 1057-V del Código Fiscal — el ITBMS no grava la transferencia de inmuebles
 - Ley 284 de 2022 — propiedad horizontal (certificación de no adeudo)
-- Ley 23 de 2015 — prevención de blanqueo de capitales (sujetos obligados, UAF)
+- Ley 23 de 2015 (arts. 22 y ss.) — prevención de blanqueo; promotores y agentes/corredores como sujetos obligados no financieros (Superintendencia de Sujetos No Financieros, UAF)
 
 ---
 

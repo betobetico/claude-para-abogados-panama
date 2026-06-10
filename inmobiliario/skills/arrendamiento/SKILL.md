@@ -28,9 +28,9 @@ argument-hint: "[archivo | enlace | pegar texto del contrato]"
 
 ## Propósito
 
-En Panamá los arrendamientos de vivienda están sujetos a un régimen tutelado regulado por la legislación de arrendamientos [verificar], que fija reglas imperativas de protección al arrendatario; las cláusulas contrarias se tienen por no puestas. Los arrendamientos comerciales o de uso distinto a vivienda se rigen principalmente por la autonomía de la voluntad y el Código Civil de Panamá. Distinguir correctamente el tipo de arrendamiento es el paso más importante.
+En Panamá los arrendamientos de vivienda están sujetos a un régimen tutelado regulado por la **Ley 93 de 1973** ("por la cual se dictan medidas sobre los arrendamientos"), modificada por la Ley 28 de 1974 y la Ley 259 de 2021, que fija reglas imperativas de protección al arrendatario; las cláusulas contrarias se tienen por no puestas. El órgano competente es la **Dirección General de Arrendamientos del MIVIOT**. Los arrendamientos comerciales o de uso distinto a vivienda también están alcanzados por la Ley 93 de 1973, y supletoriamente por el Código Civil de Panamá. Distinguir correctamente el tipo de arrendamiento es el paso más importante.
 
-> **Nota de verificación:** El marco de arrendamientos panameño ha tenido diversas normas y reformas, y existen umbrales de canon que determinan si un contrato queda bajo el régimen tutelado o queda excluido. Verificar la norma y los umbrales vigentes antes de citar artículos concretos. [verificar]
+> **Nota sobre umbrales de canon:** Históricamente la Ley 93 de 1973 excluía los arrendamientos de vivienda con canon superior a B/.150/mes (Decreto Ejecutivo 294 de 1994), dejándolos a libre contratación. Sin embargo, el Decreto Ejecutivo 145 de 2020 suspendió ese umbral y facultó al MIVIOT a conocer de todos los contratos sin distinción de monto. Por tanto, no debe afirmarse un umbral fijo vigente sin más; los locales comerciales también están regulados por la Ley 93 de 1973 (verificar en el texto oficial).
 
 ---
 
@@ -39,8 +39,8 @@ En Panamá los arrendamientos de vivienda están sujetos a un régimen tutelado 
 | Criterio | Vivienda (régimen tutelado) | Uso distinto / comercial |
 |---|---|---|
 | **Destino** | Satisfacer necesidad de vivienda del arrendatario | Local comercial, oficina, depósito, temporada, estacionamiento independiente |
-| **Régimen** | Imperativo (protección al arrendatario) — irrenunciabilidad de derechos [verificar] | Dispositivo — autonomía de la voluntad (Código Civil de Panamá) |
-| **Norma aplicable** | Legislación de arrendamientos [verificar] + supletoriamente Código Civil de Panamá | Voluntad de las partes → Código Civil de Panamá |
+| **Régimen** | Imperativo (protección al arrendatario) — irrenunciabilidad de derechos (Ley 93 de 1973) | Dispositivo — autonomía de la voluntad (Ley 93 de 1973 + Código Civil de Panamá) |
+| **Norma aplicable** | Ley 93 de 1973 (mod. Ley 28 de 1974 y Ley 259 de 2021) + supletoriamente Código Civil de Panamá | Ley 93 de 1973 y voluntad de las partes → Código Civil de Panamá |
 
 **Arrendamientos de temporada / amueblados de corto plazo:** suelen quedar fuera del régimen tutelado de vivienda. Verificar que realmente es temporal y no un uso fraudulento para eludir la protección del arrendatario. [verificar]
 
@@ -52,7 +52,7 @@ En Panamá los arrendamientos de vivienda están sujetos a un régimen tutelado 
 
 | Aspecto | Norma | Verificar |
 |---|---|---|
-| **Duración mínima / prórroga** | Régimen de arrendamientos panameño [verificar] | ¿El contrato respeta la protección del arrendatario frente al desalojo? |
+| **Duración mínima / prórroga** | Ley 93 de 1973 (verificar en el texto oficial) | ¿El contrato respeta la protección del arrendatario frente al desalojo? |
 | **Renovación** | Según pacto y ley aplicable [verificar] | ¿Se respetan los plazos de preaviso? |
 | **Desistimiento del arrendatario** | Según pacto y ley aplicable [verificar] | ¿Se ha pactado indemnización? |
 
@@ -69,9 +69,9 @@ En Panamá los arrendamientos de vivienda están sujetos a un régimen tutelado 
 
 | Aspecto | Norma |
 |---|---|
-| **Depósito de garantía** | Habitualmente equivalente a uno o varios cánones mensuales, según la ley aplicable [verificar] |
-| **Custodia del depósito** | En Panamá el depósito de los arrendamientos sujetos al régimen tutelado se consigna ante la autoridad competente en materia de vivienda (MIVIOT) [verificar] |
-| **Devolución** | Al término del contrato, descontando daños o cánones pendientes |
+| **Depósito de garantía** | Un (1) mes de canon (art. 13 de la Ley 93 de 1973, mod. Ley 259 de 2021) |
+| **Custodia del depósito** | Se consigna ante la Dirección General de Arrendamientos del MIVIOT (no lo retiene el arrendador); desde la Ley 259 de 2021 se canaliza por la banca estatal (art. 13 de la Ley 93 de 1973) |
+| **Devolución** | Al término del contrato, con intereses, descontando daños o cánones pendientes (Ley 259 de 2021) |
 
 ### Mejoras y reparaciones
 
@@ -90,7 +90,7 @@ En Panamá los arrendamientos de vivienda están sujetos a un régimen tutelado 
 | Daños dolosos u obras no consentidas | |
 | Uso distinto al pactado / actividades ilícitas | |
 
-**Nota procesal:** El desalojo en arrendamientos de vivienda sujetos al régimen tutelado puede requerir trámite ante la autoridad administrativa de vivienda antes que la vía judicial. Verificar el procedimiento aplicable. [verificar]
+**Nota procesal:** El desalojo (desahucio / lanzamiento) en arrendamientos sujetos al régimen tutelado se tramita por vía gubernativa ante la Dirección General de Arrendamientos del MIVIOT, con reconsideración ante la propia Dirección y apelación ante el Ministro del MIVIOT antes de acudir a lo contencioso-administrativo (Ley 93 de 1973).
 
 ### Cláusulas nulas en vivienda (régimen tutelado)
 
@@ -142,8 +142,8 @@ En uso distinto, prima la autonomía de la voluntad bajo el Código Civil de Pan
 
 | # | Cláusula | Lo que dice el contrato | Norma aplicable | Riesgo | Observación |
 |---|---|---|---|---|---|
-| 1 | Duración | [Ej., 1 año sin prórroga] | Régimen de arrendamientos [verificar] | Riesgo | Verificar protección del arrendatario |
-| 2 | Depósito de garantía | [Ej., 3 cánones] | Régimen de arrendamientos [verificar] | Riesgo | Verificar tope legal |
+| 1 | Duración | [Ej., 1 año sin prórroga] | Ley 93 de 1973 | Riesgo | Verificar protección del arrendatario |
+| 2 | Depósito de garantía | [Ej., 3 cánones] | Art. 13 Ley 93 de 1973 (mod. Ley 259 de 2021) | Riesgo | El depósito es de un (1) mes y se consigna ante el MIVIOT |
 | ... | ... | ... | ... | ... | ... |
 
 ---
@@ -163,9 +163,10 @@ En uso distinto, prima la autonomía de la voluntad bajo el Código Civil de Pan
 
 ## Legislación de referencia
 
-- Legislación de arrendamientos de Panamá [verificar]
-- Código Civil de Panamá (arrendamiento — disposiciones supletorias) [verificar]
-- MIVIOT (Ministerio de Vivienda y Ordenamiento Territorial) — autoridad en materia de vivienda y arrendamientos [verificar]
+- Ley 93 de 1973 (mod. Ley 28 de 1974 y Ley 259 de 2021) — medidas sobre los arrendamientos
+- Decreto Ejecutivo 145 de 2020 — suspensión del umbral de canon (sin distinción de monto)
+- Código Civil de Panamá — supletorio en lo no previsto por la Ley 93 de 1973 (verificar en el texto oficial; no hay artículo de remisión expreso)
+- MIVIOT (Ministerio de Vivienda y Ordenamiento Territorial) — Dirección General de Arrendamientos, autoridad competente en arrendamientos
 
 ---
 

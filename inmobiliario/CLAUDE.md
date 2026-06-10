@@ -90,8 +90,8 @@ La escalación va a [nombre].
 
 | Tipo de arras | Efecto | Uso habitual | Base legal |
 |---|---|---|---|
-| Penitenciales / de desistimiento | Desistimiento: comprador pierde arras / vendedor devuelve el doble (si se pacta) | [PLACEHOLDER] | Código Civil de Panamá [verificar] |
-| Confirmatorias | Señal a cuenta del precio; no permiten desistimiento | [PLACEHOLDER] | Código Civil de Panamá [verificar] |
+| Penitenciales / de desistimiento | Desistimiento: comprador pierde arras / vendedor las devuelve dobladas | [PLACEHOLDER] | Art. 1224 del Código Civil de Panamá |
+| Confirmatorias | Señal a cuenta del precio; no permiten desistimiento | [PLACEHOLDER] | Categoría doctrinal / jurisprudencial (sin texto legal expreso; el art. 1224 solo recoge las penitenciales; el art. 1221 regula la promesa de compraventa) |
 | Penales | Pena convencional + cumplimiento forzoso | [PLACEHOLDER] | Cláusula penal — Código Civil de Panamá [verificar] |
 
 **Importe habitual de arras:** [PLACEHOLDER — % del precio]
@@ -106,8 +106,8 @@ La escalación va a [nombre].
 | Condiciones suspensivas | [PLACEHOLDER] | Promesa de compraventa / arras | [PLACEHOLDER — financiación, permisos, etc.] |
 | Gravámenes inscritos | [PLACEHOLDER] | Certificado de finca | Hipotecas, embargos, secuestros, medidas cautelares |
 | Escritura pública | Notario | Escritura de compraventa | [PLACEHOLDER] |
-| Liquidación de impuestos | [PLACEHOLDER] | ITBI (2%) y ganancia de capital ante la DGI [verificar] | [PLACEHOLDER] |
-| Inscripción en el Registro Público | [PLACEHOLDER] | Copia de la escritura | Principio de prioridad registral |
+| Liquidación de impuestos | [PLACEHOLDER] | ITBI 2% (Formulario 106, art. 701-g Código Fiscal) y ganancia de capital (retención 3%, Formulario 107) ante la DGI | [PLACEHOLDER] |
+| Inscripción en el Registro Público | [PLACEHOLDER] | Copia de la escritura | Perfecciona frente a terceros (publicidad y prioridad registral); arts. 1753-1762 del Código Civil (art. 1762) |
 
 ---
 
@@ -117,13 +117,13 @@ La escalación va a [nombre].
 
 | Aspecto | Régimen legal | Posición habitual |
 |---|---|---|
-| Duración mínima / prórroga | Régimen de arrendamientos panameño [verificar] | [PLACEHOLDER] |
+| Duración mínima / prórroga | Ley 93 de 1973 (verificar en el texto oficial) | [PLACEHOLDER] |
 | Canon inicial | Libre fijación, salvo límites del régimen tutelado [verificar] | [PLACEHOLDER] |
 | Actualización del canon | Según pacto y límite legal [verificar] | [PLACEHOLDER] |
-| Régimen tutelado por cuantía | Aplica según umbral de canon [verificar] | [PLACEHOLDER — dentro/fuera sí/no] |
-| Depósito de garantía | Cánones según ley; consignación ante MIVIOT [verificar] | [PLACEHOLDER] |
+| Régimen tutelado por cuantía | El umbral histórico de B/.150/mes (DE 294 de 1994) quedó suspendido por el DE 145 de 2020; el MIVIOT conoce de todos los contratos sin distinción de monto (verificar en el texto oficial) | [PLACEHOLDER — dentro/fuera sí/no] |
+| Depósito de garantía | Un (1) mes de canon; consignación ante la Dirección General de Arrendamientos del MIVIOT (art. 13 Ley 93 de 1973, mod. Ley 259 de 2021) | [PLACEHOLDER] |
 | Obras del arrendatario | Consentimiento del arrendador [verificar] | [PLACEHOLDER] |
-| Resolución / desalojo | Causas según ley aplicable [verificar] | [PLACEHOLDER] |
+| Resolución / desalojo | Vía gubernativa ante la Dirección General de Arrendamientos del MIVIOT (reconsideración y apelación ante el Ministro) — Ley 93 de 1973 | [PLACEHOLDER] |
 
 ### Comercial / uso distinto de vivienda
 
@@ -141,11 +141,12 @@ La escalación va a [nombre].
 
 | Aspecto | Normativa | Consideraciones |
 |---|---|---|
-| Reglamento de copropiedad | Ley 284 de 2022 | [PLACEHOLDER — restricciones habituales, uso de corto plazo] |
-| Actas y acuerdos de asamblea | Ley 284 de 2022 | Mayorías: simple, calificada, unanimidad según materia [verificar] |
-| Cuotas y gastos extraordinarios | Ley 284 de 2022 | [PLACEHOLDER — política habitual] |
+| Reglamento de copropiedad | Ley 284 de 2022 (Dirección de PH del MIVIOT) | [PLACEHOLDER — restricciones habituales, uso de corto plazo] |
+| Actas y acuerdos de asamblea | Ley 284 de 2022 | Un voto por unidad; morosas inhabilitadas para votar (solo voz). Ordinarios: mayoría de unidades presentes/al día. Calificadas (verificar en el texto oficial): 51% para cuota/coeficiente y mejoras adicionales; 66% para fachadas; 66% de unidades que representen ≥75% del valor para reformar el Reglamento. Los acuerdos vinculan a presentes y ausentes (sin plazo de adhesión) |
+| Cuotas y gastos extraordinarios | Ley 284 de 2022 | Gastos urgentes vía Desembolso Extraordinario y Fondo para Imprevistos (art. 46) [PLACEHOLDER — política habitual] |
 | Impugnación de acuerdos | Ley 284 de 2022 | Plazo según la ley [verificar] |
-| Morosos | Ley 284 de 2022 | Cobro de cuotas con certificación de deuda [verificar] |
+| Morosos | Ley 284 de 2022 | Proceso ejecutivo (título = estado de cuenta, a partir de 2 meses de mora); obligación de carácter real sobre la unidad; recargo de hasta 20% |
+| Fondo para Imprevistos | Art. 46 de la Ley 284 de 2022 | Obligatorio, mínimo 1% de los ingresos anuales; cuenta separada (art. 82); embargo limitado al 20% (art. 47) |
 | Alquiler de corto plazo / turístico | Reglamento de copropiedad + Ley 284 de 2022 | Mayoría para limitar o condicionar [verificar] |
 
 ---
@@ -182,9 +183,10 @@ La escalación va a [nombre].
 
 | Operación | Impuesto | Tarifa | Notas |
 |---|---|---|---|
-| Compraventa — transferencia | ITBI (Impuesto de Transferencia de Bienes Inmuebles) | 2% sobre el mayor entre valor catastral y precio [verificar] | A cargo del vendedor [verificar] |
-| Compraventa — ganancia | Impuesto sobre la ganancia de capital | 10% sobre la ganancia; retención anticipada del 3% del valor [verificar] | Retiene el comprador, entera ante la DGI [verificar] |
-| Operación de promotor | ITBMS (si aplica) | [PLACEHOLDER — verificar incidencia] | El ITBMS no grava la transferencia de inmueble como tal [verificar] |
+| Compraventa — transferencia | ITBI (Impuesto de Transferencia de Bienes Inmuebles) | 2% sobre el mayor entre (i) el valor de la escritura y (ii) el valor catastral de adquisición + mejoras + 5% del catastral por año transcurrido (art. 701-g Código Fiscal, Ley 106 de 1974; Formulario 106) | A cargo del vendedor; requisito para inscribir |
+| Compraventa — ganancia | Impuesto sobre la ganancia de capital | 10% sobre la ganancia; retención anticipada del 3% del mayor entre valor de venta y catastral (Formulario 107; art. 701 Código Fiscal y DE 170 de 1993) | Retiene el comprador, entera ante la DGI; el vendedor puede optar por el 3% como definitivo o pedir devolución |
+| Operación de promotor / giro ordinario | Ganancia de capital — régimen de promotor | 3,75% único y definitivo sobre el mayor entre valor de enajenación y catastral; vivienda nueva escala 0,5%-2,5% (4,5% comercial) | Régimen específico de promotores |
+| Operación de promotor | ITBMS (si aplica) | [PLACEHOLDER — verificar incidencia] | El ITBMS no grava la transferencia de inmueble (art. 1057-V Código Fiscal) |
 | Impuesto de inmueble | Impuesto de inmueble | Según valor catastral [verificar] | Verificar exoneraciones (p. ej. patrimonio familiar tributario) y paz y salvo [verificar] |
 | Renta del arrendador | ISR (Impuesto sobre la Renta) | Según régimen del arrendador [verificar] | Principio de territorialidad |
 | Arrendamiento | ITBMS (si comercial) + ISR | [PLACEHOLDER] | [PLACEHOLDER — verificar incidencia del ITBMS] |
@@ -206,13 +208,13 @@ La escalación va a [nombre].
 
 ## Referencias legislativas principales
 
-- **Código Civil de Panamá** — derechos reales, compraventa, arras, hipoteca, arrendamiento [verificar]
-- **Régimen de arrendamientos de Panamá** — legislación de arrendamientos vigente [verificar]
-- **Ley 284 de 2022** — Régimen de propiedad horizontal
+- **Código Civil de Panamá** — derechos reales, compraventa, arras (art. 1224), promesa (art. 1221), hipoteca, inscripción (arts. 1753-1762); supletorio en arrendamiento
+- **Ley 93 de 1973** (mod. Ley 28 de 1974 y Ley 259 de 2021) — medidas sobre los arrendamientos; Dirección General de Arrendamientos del MIVIOT; DE 145 de 2020 (suspensión del umbral de canon)
+- **Ley 284 de 2022** — Régimen de propiedad horizontal (subroga la Ley 31 de 2010); art. 46 (Fondo para Imprevistos); Dirección de PH del MIVIOT
 - **Normativa del Registro Público de Panamá** — inscripción de la propiedad y gravámenes [verificar]
 - **ANATI** — administración de tierras y catastro
-- **Régimen del ITBI y de la ganancia de capital (DGI)** — fiscalidad de la transferencia [verificar]
-- **Ley 23 de 2015** — prevención de blanqueo de capitales (sujetos obligados, UAF)
+- **Código Fiscal (Ley 106 de 1974)** — ITBI (art. 701-g, Formulario 106), ganancia de capital (art. 701, DE 170 de 1993, Formulario 107), ITBMS no grava inmuebles (art. 1057-V)
+- **Ley 23 de 2015** (arts. 22 y ss.) — prevención de blanqueo; promotores y agentes/corredores como sujetos obligados no financieros (Superintendencia de Sujetos No Financieros, UAF)
 - **Normativa municipal de uso de suelo y construcción** — según provincia/distrito de actuación
 
 ---

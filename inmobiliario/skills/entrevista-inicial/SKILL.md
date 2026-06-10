@@ -80,7 +80,7 @@ Esperar elección.
 - **No más de 2-3 preguntas por turno**, contando subpartes.
 - **Pedir documentos.** "Tienes un contrato de arrendamiento tipo? Pégalo o comparte ruta."
 - **Pausa y reanudación.** Al pausar, escribir configuración parcial con `<!-- CONFIGURACIÓN PAUSADA EN: [sección] -->` y marcadores `[PENDIENTE]`.
-- **Verificar datos legales.** Si el usuario cita la Ley 284 de 2022 (propiedad horizontal), la legislación de arrendamientos o el Código Civil de Panamá, comprobar antes de escribirlo. El régimen de arrendamientos panameño y la Ley 284 de 2022 deben verificarse en su texto vigente — no asumir artículos de memoria.
+- **Verificar datos legales.** Si el usuario cita la Ley 284 de 2022 (propiedad horizontal), la Ley 93 de 1973 (arrendamientos) o el Código Civil de Panamá, comprobar antes de escribirlo. Los arrendamientos se rigen por la Ley 93 de 1973 (mod. Ley 28 de 1974 y Ley 259 de 2021); la Ley 284 de 2022 y los porcentajes de mayorías deben verificarse en su texto vigente — no asumir artículos de memoria.
 
 ## La entrevista
 
@@ -146,9 +146,9 @@ Comprobar cada conector. Reportar resultados.
 > **Arrendamiento de vivienda (régimen tutelado):**
 > - **Duración:** Qué periodo obligatorio pactáis? [verificar el mínimo legal aplicable]
 > - **Renovación / prórroga:** Intentáis limitar la prórroga cuando actuáis como arrendador?
-> - **Canon:** Cómo fijáis el canon inicial? En B/. o USD? Conocéis si el inmueble queda dentro o fuera del régimen tutelado por su cuantía? [verificar umbral]
+> - **Canon:** Cómo fijáis el canon inicial? En B/. o USD? Conocéis si el inmueble queda dentro o fuera del régimen tutelado por su cuantía? (El umbral histórico de B/.150/mes quedó suspendido por el DE 145 de 2020; el MIVIOT conoce de todos los contratos — verificar en el texto oficial)
 > - **Actualización del canon:** Qué criterio usáis y dentro de qué límite legal? [verificar]
-> - **Depósito de garantía:** Cuántos cánones pedís? Lo consignáis ante la autoridad de vivienda (MIVIOT)? [verificar]
+> - **Depósito de garantía:** El depósito legal es de un (1) mes de canon y se consigna ante la Dirección General de Arrendamientos del MIVIOT (art. 13 Ley 93 de 1973, mod. Ley 259 de 2021). Lo consignáis así?
 > - **Mejoras del arrendatario:** Posición sobre obras de conservación y mejora?
 > - **Resolución / desalojo:** Causas habituales que invocáis como arrendador? Cómo gestionáis el impago?
 >
@@ -258,9 +258,9 @@ La escalación va a [nombre].
 |---|---|---|
 | Duración | [periodo] | [verificar mínimo legal] |
 | Renovación / prórroga | [posición] | |
-| Canon inicial | [criterio] | Dentro/fuera del régimen tutelado: [verificar] |
+| Canon inicial | [criterio] | Umbral de cuantía suspendido (DE 145 de 2020): el MIVIOT conoce de todos los contratos (verificar en el texto oficial) |
 | Actualización del canon | [criterio] | [verificar límite legal] |
-| Depósito de garantía | [cánones] | Consignación MIVIOT: [sí/no] [verificar] |
+| Depósito de garantía | [1 mes de canon] | Consignación ante la Dirección General de Arrendamientos del MIVIOT (art. 13 Ley 93 de 1973, mod. Ley 259 de 2021) |
 | Obras arrendatario | [posición] | |
 | Resolución por impago | [procedimiento] | |
 
@@ -352,7 +352,7 @@ La escalación va a [nombre].
 ## Modos de fallo
 
 - **No confundir vivienda con uso distinto.** El arrendamiento de vivienda sujeto al régimen tutelado tiene normas imperativas de protección al arrendatario que no aplican al arrendamiento comercial (mayoritariamente dispositivo). Un contrato de local redactado como si fuera vivienda es un error grave. [verificar umbrales y alcance del régimen tutelado]
-- **No asumir artículos del régimen de arrendamientos de memoria.** El marco de arrendamientos panameño ha tenido distintas normas y reformas, con umbrales de canon que excluyen ciertos contratos del régimen tutelado. Verificar siempre la norma y el umbral vigentes.
+- **No asumir artículos del régimen de arrendamientos de memoria.** El marco aplicable es la Ley 93 de 1973 (mod. Ley 28 de 1974 y Ley 259 de 2021). El umbral histórico de canon (B/.150/mes, DE 294 de 1994) quedó suspendido por el DE 145 de 2020. Verificar el detalle de los artículos en el texto oficial.
 - **No olvidar la retención de la ganancia de capital.** En compraventas, el comprador suele retener un porcentaje del precio como adelanto de la ganancia de capital del vendedor a enterar ante la DGI. Verificar tarifas vigentes.
 - **No asumir el régimen de la propiedad.** Verificar la titularidad en el Registro Público (persona natural, sociedad anónima, fundación de interés privado, fideicomiso) y el régimen económico matrimonial cuando proceda (Código de la Familia de Panamá).
 - **No dar por hecho que la Ley 284 de 2022 dice lo que crees.** Verificar quórums, mayorías y plazos en el texto vigente antes de citar artículos.

@@ -216,6 +216,28 @@ de 2008) y la Ley 135 de 1943. Marcadores: **119 → 55**.
 - Apelación laboral **3 días**: **art. 915 CT**; casación laboral **5 días**: **arts. 925-927 CT**. Juntas de Conciliación y Decisión (hasta B/.1.500) vs. Juzgados de Trabajo (Ley 7 de 1975).
 - Contencioso: plena jurisdicción **2 meses** (**art. 42-B Ley 135 de 1943**); nulidad **sin caducidad** (**art. 42-A**).
 
+### Módulo `inmobiliario` (verificado el 10 de junio de 2026)
+
+Verificado contra la Ley 93 de 1973, el Código Fiscal, el Código Civil y la Ley 284 de 2022.
+Marcadores: **100 → 40**.
+
+**Arrendamientos**
+- Ley de arrendamientos: **Ley 93 de 1973** (mod. Ley 28 de 1974 y **Ley 259 de 2021**); autoridad: Dirección General de Arrendamientos del **MIVIOT**.
+- Depósito de garantía: **un (1) mes de canon** (el repo decía "uno o varios"), consignado ante el MIVIOT — **art. 13** (mod. Ley 259 de 2021). Desahucio/lanzamiento: vía gubernativa ante el MIVIOT.
+- Umbral de canon: histórico B/.150/mes (Decreto 294 de 1994) **suspendido** por el Decreto 145 de 2020 (a confirmar en el texto oficial).
+
+**Compraventa y fiscalidad**
+- **ITBI 2%** sobre el mayor entre el valor de escritura y (valor catastral de adquisición + mejoras + 5% anual): **art. 701-g Código Fiscal** (Ley 106 de 1974), Formulario 106.
+- **Ganancia de capital**: 10% sobre la ganancia, retención anticipada del 3% (Formulario 107): **art. 701 Código Fiscal**; promotores/giro ordinario: tarifa única **3,75%**. ITBMS no grava inmuebles (art. 1057-V).
+- Inscripción frente a terceros: **arts. 1753-1762 Código Civil** (esp. 1762). Blanqueo: promotores y corredores son sujetos obligados (**Ley 23 de 2015**, Superintendencia de Sujetos No Financieros, UAF).
+- **Corrección de cita (arras):** es el **art. 1224 del Código Civil** (no el 1221, que regula la promesa de compraventa); el 1224 solo recoge las arras penitenciales (las confirmatorias son doctrinales).
+
+**Propiedad horizontal (Ley 284 de 2022)**
+- Autoridad: Dirección de Propiedad Horizontal del MIVIOT. Voto por unidad (morosas inhabilitadas); asuntos ordinarios por mayoría de presentes/al día.
+- Mayorías calificadas: **51%** (cuota/coeficiente, mejoras sobre bienes comunes), **66%** (fachadas), **66% de unidades con ≥75% del valor** (reforma del Reglamento de Copropiedad) — a confirmar en el texto oficial.
+- Cobro de cuotas morosas por proceso ejecutivo (obligación de carácter real sobre la unidad). **Fondo para Imprevistos** obligatorio, mínimo **1%** de los ingresos anuales: **art. 46**.
+- **Corrección de fondo:** se eliminó el régimen español de adhesión/discrepancia de propietarios ausentes en plazo (art. 17.8 LPH española) — en Panamá los acuerdos válidos vinculan a presentes y ausentes sin tal plazo.
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes
