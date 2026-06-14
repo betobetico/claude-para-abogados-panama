@@ -13,7 +13,7 @@ argument-hint: "[descripción del tratamiento a evaluar]"
 # /eipd
 
 1. Leer `~/.claude/plugins/config/claude-para-abogados/proteccion-datos/CLAUDE.md` — perfil de práctica.
-2. Determinar si la EIPD es obligatoria (criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021).
+2. Determinar si conviene la EIPD (buena práctica voluntaria, art. 8 de la Ley 81 de 2019; obligatoria solo si la ANTAI la ordena, art. 41 del Decreto Ejecutivo 285 de 2021; factores de riesgo en el art. 36).
 3. Ejecutar la evaluación siguiendo la metodología de la ANTAI.
 4. Producir el documento EIPD completo.
 
@@ -21,11 +21,13 @@ argument-hint: "[descripción del tratamiento a evaluar]"
 
 ## Propósito
 
-Producir un documento de EIPD completo que cumpla los requisitos de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021, siguiendo la metodología y guías de la ANTAI. La EIPD se recomienda (y puede ser exigible) cuando un tratamiento "entrañe probablemente un alto riesgo" para los derechos de los titulares.
+Producir un documento de EIPD completo que cumpla los requisitos de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021, siguiendo la metodología y guías de la ANTAI. En Panamá la EIPD está definida (Decreto Ejecutivo 285 de 2021, art. 1.9) pero **NO es obligatoria con carácter general** (no rige el modelo del art. 35 del RGPD): es una **buena práctica voluntaria** del responsable (art. 8 de la Ley 81 de 2019) y **solo deviene exigible si la ANTAI la ORDENA** en función de la gravedad del riesgo o la novedad tecnológica (art. 41 del Decreto Ejecutivo 285 de 2021).
 
-## Cuándo es obligatoria o recomendable
+## Cuándo conviene la EIPD
 
-### Supuestos de alto riesgo [verificar]
+No hay una lista cerrada de "supuestos de alto riesgo" que obliguen a EIPD: el Decreto Ejecutivo 285 de 2021 fija **9 factores de evaluación del riesgo (art. 36)** y la ANTAI puede ordenar la EIPD (art. 41).
+
+### Factores de riesgo a valorar (art. 36 del Decreto Ejecutivo 285 de 2021)
 
 - Evaluación sistemática y exhaustiva de aspectos personales (perfilado con efectos significativos para el titular).
 - Tratamiento a gran escala de datos sensibles.
@@ -39,7 +41,7 @@ Entre otros:
 - Tratamientos a gran escala de datos genéticos, biométricos o de salud.
 - Uso de tecnologías invasivas (geolocalización, videovigilancia con reconocimiento facial).
 - Tratamientos masivos de datos de menores.
-- Tratamientos que impliquen transferencias internacionales a países sin nivel adecuado de protección [verificar].
+- Tratamientos que impliquen transferencias internacionales a destinos que no ofrezcan un nivel de protección equivalente o superior (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021).
 
 ### Criterio de los "dos de nueve"
 
@@ -107,9 +109,9 @@ BORRADOR — EVALUACIÓN DE IMPACTO EN PROTECCIÓN DE DATOS — REVISIÓN OBLIGA
 
 > **Nota para el revisor**
 > - **Tratamiento evaluado:** [nombre]
-> - **EIPD obligatoria:** [sí — motivo / recomendable]
+> - **EIPD:** [voluntaria — buena práctica / ordenada por la ANTAI ex art. 41 del Decreto Ejecutivo 285 de 2021]
 > - **Riesgos altos/muy altos identificados:** [N]
-> - **Antes de actuar:** validar evaluación de riesgos con el responsable de protección de datos y con IT; consultar con la ANTAI si el riesgo residual sigue siendo alto [verificar].
+> - **Antes de actuar:** validar evaluación de riesgos con el responsable de protección de datos y con IT. Nota: en Panamá NO existe la "consulta previa" a la ANTAI del art. 36 del RGPD; si el riesgo residual sigue siendo alto, reforzar las medidas (la ANTAI puede ordenar una EIPD ex art. 41).
 
 ## EIPD: [Nombre del tratamiento]
 
@@ -128,28 +130,28 @@ BORRADOR — EVALUACIÓN DE IMPACTO EN PROTECCIÓN DE DATOS — REVISIÓN OBLIGA
 ### 5. Conclusión y decisión
 
 **Riesgo residual global:** [bajo/medio/alto/muy alto]
-**Decisión recomendada:** [proceder con medidas / consulta previa a la ANTAI / no proceder] [verificar]
+**Decisión recomendada:** [proceder con medidas / reforzar medidas si el riesgo residual sigue siendo alto / no proceder] (en Panamá no existe la "consulta previa" a la ANTAI del RGPD; la ANTAI puede ordenar la EIPD ex art. 41 del Decreto Ejecutivo 285 de 2021)
 
 ---
 
 **Qué hacer a continuación:**
 1. **Implementar medidas** — detallo las medidas técnicas y organizativas.
-2. **Consulta previa a la ANTAI** — si el riesgo residual es alto, preparo la solicitud [verificar].
+2. **Reforzar medidas** — si el riesgo residual sigue siendo alto (en Panamá no existe la "consulta previa" del RGPD; la ANTAI puede ordenar la EIPD ex art. 41 del Decreto Ejecutivo 285 de 2021).
 3. **Actualizar RAT** — `/proteccion-datos:rat` para reflejar este tratamiento.
 4. **Otra cosa** — dime qué necesitas.
 ```
 
 ## Referencias legislativas
 
-- **Ley 81 de 2019** — principios de tratamiento, datos sensibles y evaluación de riesgos [verificar].
-- **Decreto Ejecutivo 285 de 2021** — reglamento; criterios de alto riesgo y medidas de seguridad [verificar].
+- **Ley 81 de 2019** — principios de tratamiento; datos sensibles (art. 4; régimen reforzado art. 13); la EIPD como buena práctica voluntaria del responsable (art. 8).
+- **Decreto Ejecutivo 285 de 2021** — reglamento; definición de EIPD (art. 1.9); factores de evaluación del riesgo (art. 36); la ANTAI puede ordenar la EIPD (art. 41).
 - **Guías de la ANTAI** — metodología de referencia para análisis de riesgos y EIPD.
 - **Referencia comparada internacional:** Directrices del GT29/EDPB sobre EIPD (WP 248 rev.01), no vinculantes en Panamá.
 
 ## Guardarraíles
 
 - **La EIPD no es un trámite — es un análisis real.** Si el usuario quiere una EIPD "de relleno", advertir que una EIPD que no refleja los riesgos reales es peor que no tenerla (evidencia de que se conocían los riesgos y se ignoraron).
-- **Si el riesgo residual es alto tras las medidas, valorar la consulta previa a la ANTAI.** [verificar]
+- **Si el riesgo residual es alto tras las medidas, reforzar las medidas y documentarlo.** En Panamá no existe la "consulta previa" a la ANTAI del RGPD; la ANTAI puede ordenar una EIPD (art. 41 del Decreto Ejecutivo 285 de 2021).
 - **No inventar riesgos ni medidas genéricas.** Los riesgos deben ser específicos del tratamiento evaluado.
 - **La EIPD debe hacerse ANTES de iniciar el tratamiento.** Si el tratamiento ya está en marcha, señalar que la EIPD es extemporánea pero sigue siendo necesaria.
 - **Involucrar al responsable de protección de datos.** Si la organización lo tiene designado, el documento debe pasar por su revisión.

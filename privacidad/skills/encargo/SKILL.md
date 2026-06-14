@@ -156,7 +156,7 @@ Marcar desajustes — normalmente es la política la que está desactualizada.
 
 ## Legislación de referencia
 
-- Ley 81 de 2019 — encargado del tratamiento, cláusulas obligatorias, seguridad y transferencias internacionales [verificar]
+- Ley 81 de 2019 — encargado del tratamiento, cláusulas obligatorias, seguridad y transferencias internacionales (las transferencias requieren que el destino ofrezca un nivel de protección equivalente o superior, o que concurran condiciones como consentimiento o contrato; Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021)
 - Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019
 - Guías y resoluciones de la ANTAI sobre contratos de encargado del tratamiento
 - Ley 23 de 2015 — prevención de blanqueo (conservación de datos por sujetos obligados ante la UAF)

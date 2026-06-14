@@ -1,5 +1,5 @@
 ---
-name: aepd
+name: antai
 description: >
   Gestiona la relación con la Autoridad Nacional de Transparencia y Acceso a la Información
   (ANTAI): reclamaciones recibidas, actuaciones previas de investigación, procedimientos
@@ -10,7 +10,7 @@ description: >
 argument-hint: "[tipo de actuación ANTAI y datos del expediente]"
 ---
 
-# /aepd
+# /antai
 
 1. Leer `~/.claude/plugins/config/claude-para-abogados/proteccion-datos/CLAUDE.md` — perfil de práctica.
 2. Identificar el tipo de actuación de la ANTAI.
@@ -55,22 +55,25 @@ Orientar la respuesta ante actuaciones de la ANTAI, desde la reclamación inicia
 
 #### Resolución
 
-- **Recurso de reconsideración ante la propia ANTAI** [verificar].
-- **Recurso ante la Sala Tercera de lo Contencioso-Administrativo de la Corte Suprema de Justicia** [verificar].
+- **Recurso de reconsideración** ante la Dirección que dictó el acto.
+- **Recurso de apelación ante el director general de la ANTAI** (segunda instancia administrativa).
+- Agotada la vía gubernativa, **demanda contencioso-administrativa ante la Sala Tercera de lo Contencioso-Administrativo de la Corte Suprema de Justicia**.
 
 ## Régimen sancionador (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021)
 
 ### Clasificación de infracciones
 
-| Tipo | Prescripción | Sanción | Ejemplos |
+Multas de **B/.1.000,00 a B/.10.000,00** (balboa = USD 1:1), según gravedad y reincidencia; además, amonestación, cierre del registro de la base de datos y suspensión/inhabilitación de las actividades de tratamiento.
+
+| Tipo | Prescripción de la infracción | Sanción (rango B/.1.000-10.000) | Ejemplos |
 |---|---|---|---|
-| Leve | [verificar] | [verificar — importe en USD/B/.] | Incumplimientos formales menores |
-| Grave | [verificar] | [verificar — importe en USD/B/.] | No notificar brechas, no realizar EIPD, obstaculizar derechos del titular |
-| Muy grave | [verificar] | [verificar — importe en USD/B/.] | Tratamiento sin base de legitimación, transferencias internacionales sin garantías, obstaculización a la ANTAI |
+| Leve | 1 año (verificar el desglose en el Decreto 285) | Tramo inferior del rango B/.1.000-10.000 | Incumplimientos formales menores |
+| Grave | 3 años (verificar el desglose en el Decreto 285) | Tramo intermedio del rango B/.1.000-10.000 | No notificar brechas, obstaculizar derechos del titular |
+| Muy grave | 5 años (verificar el desglose en el Decreto 285) | Tramo superior del rango B/.1.000-10.000 | Tratamiento sin base de legitimación, transferencias internacionales sin garantías, obstaculización a la ANTAI |
 
-*Nota: la clasificación de infracciones, los plazos de prescripción y los importes de las multas deben confirmarse en el texto vigente de la Ley 81 de 2019 y su reglamento. [verificar]*
+*Prescripción de las sanciones (confianza media; verificar el desglose en el Decreto 285): leves 3 años, graves 5 años, muy graves imprescriptibles.*
 
-### Criterios de graduación [verificar]
+### Criterios de graduación
 
 - Naturaleza, gravedad y duración de la infracción.
 - Intencionalidad o negligencia.
@@ -143,16 +146,16 @@ BORRADOR — RESPUESTA A ACTUACIÓN ANTAI — REVISIÓN LETRADA OBLIGATORIA
 1. **Completar alegaciones** — relleno con la documentación que aportes.
 2. **Preparar prueba** — listo la documentación acreditativa del cumplimiento.
 3. **Valorar atenuantes** — si procede subsanación o reconocimiento con atenuación [verificar].
-4. **Recurso** — si hay resolución, preparo recurso de reconsideración o contencioso-administrativo [verificar].
+4. **Recurso** — si hay resolución, preparo recurso de reconsideración, apelación ante el director general de la ANTAI y, agotada la vía gubernativa, demanda contencioso-administrativa ante la Sala Tercera de la CSJ.
 5. **Otra cosa** — dime qué necesitas.
 ```
 
 ## Referencias legislativas
 
-- **Ley 81 de 2019** — derechos de los titulares, régimen de infracciones y sanciones [verificar].
-- **Decreto Ejecutivo 285 de 2021** — reglamento; procedimiento sancionador y graduación de sanciones [verificar].
-- **Ley 38 de 2000** — procedimiento administrativo general, supletoriamente aplicable [verificar].
-- **Código Judicial de Panamá** — recursos ante la Sala Tercera de lo Contencioso-Administrativo de la CSJ [verificar].
+- **Ley 81 de 2019** — derechos de los titulares; la ANTAI como autoridad de control (arts. 31-33); régimen de infracciones (leves, graves y muy graves); entrada en vigor el 29 de marzo de 2021 (art. 44).
+- **Decreto Ejecutivo 285 de 2021** — reglamento; procedimiento sancionador, graduación de sanciones y multas de B/.1.000,00 a B/.10.000,00.
+- **Ley 38 de 2000** — procedimiento administrativo general, supletoriamente aplicable.
+- **Código Judicial de Panamá** — demanda contencioso-administrativa ante la Sala Tercera de la CSJ, agotada la vía gubernativa (reconsideración y apelación ante el director general de la ANTAI).
 
 ## Guardarraíles
 

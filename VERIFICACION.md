@@ -258,6 +258,24 @@ Trabajo, la Ley 45 de 2007 y el Código Penal. Marcadores: **56 → 7**.
 - Derechos morales perpetuos, inalienables, irrenunciables e inembargables. Software como obra (70 años desde publicación). Obra laboral → empleador (salvo pacto). Duración general: vida + **70 años**. Panamá parte del Convenio de Berna y del Convenio de París (1996).
 - Penal: falsificación de marca **art. 268 CP**; piratería arts. 262-266; PI arts. 267-273.
 
+### Módulos `privacidad` y `proteccion-datos` (verificados el 14 de junio de 2026)
+
+Verificados contra la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 (ANTAI). Marcadores:
+**privacidad 36 → 4; proteccion-datos 77 → 20**. Varias correcciones eliminan "GDPR-ismos" importados
+que no aplican en Panamá.
+
+**Derechos y bases**
+- Derechos del titular (acceso, rectificación, cancelación, oposición; portabilidad): **art. 15**. Plazo de respuesta: **10 días hábiles** (**art. 16**); gratuito. *Sin* prórroga por complejidad ni excepción por "solicitudes infundadas/excesivas" (eso es RGPD).
+- **Corrección de fondo:** el **"interés legítimo" NO es base de legitimación** en la Ley 81 (a diferencia del RGPD); la regla es el **consentimiento** + excepciones tasadas (**arts. 6 y 8**). Datos sensibles: **arts. 4 y 13**. Registro de bases de datos: **Decreto 285, arts. 34-36**.
+
+**Brechas y EIPD**
+- **Notificación de brecha: 72 horas** desde el conocimiento, **conjuntamente a la ANTAI y a los titulares** cuando haya "riesgo" (**art. 37 Decreto 285**) — el repo separaba "riesgo→ANTAI" de "alto riesgo→titulares" (RGPD). Documentar toda brecha: **art. 38**.
+- **Corrección de fondo:** la **EIPD NO es obligatoria** para todo alto riesgo (es voluntaria; solo exigible si la ANTAI la ordena, **art. 41**); la **"consulta previa"** del RGPD **no existe** en Panamá. Factores de riesgo: art. 36.
+
+**Régimen sancionador**
+- ANTAI autoridad de control (**arts. 31-33**); vigor **29-mar-2021** (**art. 44**). Infracciones leves/graves/muy graves; **multas de B/.1.000 a B/.10.000**. Recursos: reconsideración → **apelación ante el director general de la ANTAI** → Sala Tercera CSJ. Oficial de protección de datos: obligatorio solo en el sector **público**.
+- *(Se renombró el skill `proteccion-datos:aepd` → `proteccion-datos:antai`, residuo del nombre de la autoridad española.)*
+
 ---
 
 ## 5. Qué significan los marcadores `[verificar]` restantes

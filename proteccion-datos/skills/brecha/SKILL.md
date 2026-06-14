@@ -2,8 +2,8 @@
 name: brecha
 description: >
   Protocolo de respuesta ante brechas de seguridad de datos personales. Guía el proceso
-  desde la detección hasta la notificación a la ANTAI y la comunicación a los titulares
-  si hay alto riesgo, conforme a la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021.
+  desde la detección hasta la notificación conjunta a la ANTAI y a los titulares afectados
+  cuando haya riesgo, en 72 horas, conforme a la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021.
   Genera checklist de acciones y plantillas de notificación. Usar cuando el usuario dice
   "brecha de seguridad", "incidente de datos", "notificación ANTAI", "nos han hackeado",
   "fuga de datos", o ante cualquier incidente que afecte a datos personales.
@@ -21,11 +21,11 @@ argument-hint: "[descripción del incidente o 'protocolo preventivo']"
 
 ## Propósito
 
-Guiar la respuesta inmediata ante una brecha de seguridad de datos personales, asegurando el cumplimiento de los plazos legales para notificar a la ANTAI y la correcta evaluación del riesgo para los titulares.
+Guiar la respuesta inmediata ante una brecha de seguridad de datos personales, asegurando el cumplimiento del plazo de 72 horas para notificar conjuntamente a la ANTAI y a los titulares afectados, y la correcta evaluación del riesgo.
 
 ## URGENCIA: El reloj corre
 
-> **Desde que se tiene conocimiento de la brecha** hay un plazo legal para notificar a la ANTAI si existe riesgo para los derechos de los titulares [verificar el plazo exacto en la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021]. Si se supera el plazo, hay que justificar el retraso. Se entiende por "tener conocimiento" el momento en que el responsable tiene certeza razonable de que se ha producido un incidente de seguridad que afecta a datos personales.
+> **Desde que se tiene conocimiento del incidente** hay un plazo de **72 horas** para notificar (art. 37 del Decreto Ejecutivo 285 de 2021). Cuando la violación represente un **riesgo** (umbral único, no "alto riesgo"), la notificación se dirige **conjuntamente a la ANTAI y a los titulares afectados** en ese mismo plazo de 72 horas. Si se supera el plazo, hay que justificar el retraso. Se entiende por "tener conocimiento" el momento en que el responsable tiene certeza razonable de que se ha producido un incidente de seguridad que afecta a datos personales.
 
 ## Paso 1: Detección y contención
 
@@ -57,54 +57,52 @@ Guiar la respuesta inmediata ante una brecha de seguridad de datos personales, a
 
 ### Nivel de riesgo
 
+> En Panamá hay un **único umbral**: el "riesgo". A diferencia del RGPD, la norma no distingue "notificar a la ANTAI si hay riesgo" frente a "comunicar a los titulares solo si hay alto riesgo". El art. 37 del Decreto Ejecutivo 285 de 2021 exige notificar **a la ANTAI y a los titulares afectados conjuntamente, en 72 horas**, cuando la violación represente un riesgo.
+
 | Nivel | Criterio | Obligación |
 |---|---|---|
-| **Sin riesgo** | Datos cifrados, brecha contenida sin acceso efectivo | Documentar internamente [verificar] |
-| **Riesgo** | Posible impacto en los derechos del titular | Notificar a la ANTAI en el plazo legal [verificar] |
-| **Alto riesgo** | Probable impacto grave: usurpación de identidad, daño reputacional, perjuicio económico significativo | Notificar a la ANTAI + comunicar a los titulares [verificar] |
+| **Sin riesgo** | Datos cifrados, brecha contenida sin acceso efectivo | Documentar internamente (art. 38 del Decreto Ejecutivo 285 de 2021) |
+| **Riesgo** | Posible impacto en los derechos del titular | Notificar **conjuntamente a la ANTAI y a los titulares afectados** en 72 horas (art. 37 del Decreto Ejecutivo 285 de 2021) + documentar (art. 38) |
 
-## Paso 3: Notificación a la ANTAI
+## Paso 3: Notificación conjunta a la ANTAI y a los titulares
 
-### Plazo: el plazo legal desde el conocimiento [verificar]
+### Plazo: 72 horas desde el conocimiento (art. 37 del Decreto Ejecutivo 285 de 2021)
 
-### Contenido de la notificación [verificar]
+Cuando haya riesgo, la notificación se dirige **a la ANTAI y a los titulares afectados conjuntamente**, en el mismo plazo de 72 horas. No existe el escalonado del RGPD.
+
+### Contenido mínimo de la notificación (art. 37 del Decreto Ejecutivo 285 de 2021)
 
 | Campo | Contenido |
 |---|---|
-| Naturaleza de la brecha | Tipo, categorías de datos y de titulares, n.o aproximado |
-| Datos de contacto del responsable de protección de datos | Nombre, email, teléfono |
-| Consecuencias probables | Descripción de los posibles efectos |
-| Medidas adoptadas | Medidas de contención y mitigación |
+| Naturaleza del incidente | Tipo, categorías de datos comprometidos y de titulares, n.o aproximado |
+| Acciones correctivas inmediatas | Medidas de contención y mitigación adoptadas |
+| Recomendaciones al titular | Qué puede hacer el titular para protegerse |
+| Medios para más información | Datos de contacto (nombre, email, teléfono) |
 
 ### Canal: ANTAI
 
-La notificación se realiza a través del canal habilitado por la ANTAI. Se puede hacer una notificación inicial y complementarla después [verificar].
+La notificación se realiza a través del canal habilitado por la ANTAI.
 
-## Paso 4: Comunicación a los titulares
+## Paso 4: Comunicación a los titulares afectados
 
-### Solo si hay alto riesgo [verificar]
+Forma parte de la notificación conjunta del art. 37 del Decreto Ejecutivo 285 de 2021: cuando haya **riesgo** (umbral único, no "alto riesgo"), se comunica a los titulares afectados en el mismo plazo de 72 horas, junto con la notificación a la ANTAI.
 
 | Campo | Contenido |
 |---|---|
 | Lenguaje | Claro y sencillo |
-| Naturaleza de la brecha | Qué ha pasado, sin tecnicismos |
-| Datos de contacto del responsable de protección de datos | Para más información |
+| Naturaleza del incidente | Qué ha pasado, sin tecnicismos |
+| Datos de contacto | Para más información |
 | Consecuencias probables | Qué riesgos tiene para el titular |
-| Medidas adoptadas | Qué se ha hecho para solucionar y proteger |
+| Acciones correctivas | Qué se ha hecho para solucionar y proteger |
 | Recomendaciones | Qué puede hacer el titular (cambiar contraseñas, vigilar cuentas, etc.) |
-
-### Excepciones a la comunicación [verificar]
-
-- Los datos estaban cifrados u otra medida que los haga ininteligibles.
-- Se han tomado medidas posteriores que eliminan el alto riesgo.
-- Supondría un esfuerzo desproporcionado — en ese caso, comunicación pública.
 
 ## Paso 5: Documentación
 
-Toda brecha debe documentarse, con independencia de si se notifica a la ANTAI [verificar]:
+Toda brecha debe documentarse, con independencia de si se notifica (art. 38 del Decreto Ejecutivo 285 de 2021):
 
-- Hechos: qué ocurrió, cuándo, cómo.
-- Efectos: qué datos se vieron afectados.
+- Fecha del incidente.
+- Motivo del incidente.
+- Hechos y efectos: qué ocurrió, cómo, y qué datos se vieron afectados.
 - Medidas correctivas adoptadas.
 - Decisión de notificar o no (y justificación si no se notifica).
 
@@ -114,8 +112,8 @@ Toda brecha debe documentarse, con independencia de si se notifica a la ANTAI [v
 URGENTE — GESTIÓN DE BRECHA DE SEGURIDAD — ACCIÓN INMEDIATA REQUERIDA
 
 > **Nota para el revisor**
-> - **Plazo de notificación a la ANTAI:** [fecha/hora límite — plazo legal desde el conocimiento] [verificar]
-> - **Nivel de riesgo estimado:** [sin riesgo / riesgo / alto riesgo]
+> - **Plazo de notificación conjunta (ANTAI + titulares):** [fecha/hora límite — 72 horas desde el conocimiento, art. 37 del Decreto Ejecutivo 285 de 2021]
+> - **Nivel de riesgo estimado:** [sin riesgo / riesgo]
 > - **Antes de actuar:** confirmar alcance real con IT; validar evaluación de riesgo con el responsable de protección de datos; verificar si aplican obligaciones sectoriales adicionales.
 
 ## Brecha de seguridad: [Descripción breve]
@@ -126,7 +124,7 @@ URGENTE — GESTIÓN DE BRECHA DE SEGURIDAD — ACCIÓN INMEDIATA REQUERIDA
 |---|---|
 | [fecha] | Detección del incidente |
 | [fecha] | Conocimiento por el responsable |
-| [fecha] | **Plazo límite notificación ANTAI** [verificar] |
+| [fecha] | **Plazo límite notificación conjunta (ANTAI + titulares): 72 horas (art. 37 del Decreto Ejecutivo 285 de 2021)** |
 
 ### Evaluación de riesgo
 
@@ -137,25 +135,24 @@ URGENTE — GESTIÓN DE BRECHA DE SEGURIDAD — ACCIÓN INMEDIATA REQUERIDA
 - [ ] Contención del incidente
 - [ ] Preservación de evidencias
 - [ ] Evaluación de riesgo completada
-- [ ] Notificación a la ANTAI (si procede) — plazo: [fecha] [verificar]
-- [ ] Comunicación a titulares (si alto riesgo)
-- [ ] Documentación interna del incidente
+- [ ] Notificación conjunta a la ANTAI y a los titulares afectados (si hay riesgo) — plazo: 72 horas (art. 37 del Decreto Ejecutivo 285 de 2021)
+- [ ] Documentación interna del incidente (art. 38 del Decreto Ejecutivo 285 de 2021)
 - [ ] Análisis de causa raíz
 - [ ] Medidas correctivas implementadas
 
 ### Plantilla de notificación a la ANTAI
 
-[Plantilla con los campos exigidos, rellenados con los datos disponibles] [verificar]
+[Plantilla con el contenido mínimo del art. 37 del Decreto Ejecutivo 285 de 2021, rellenada con los datos disponibles]
 
-### Plantilla de comunicación a titulares (si procede)
+### Plantilla de comunicación a los titulares afectados (notificación conjunta)
 
 [Plantilla en lenguaje claro]
 
 ---
 
 **Qué hacer a continuación:**
-1. **Notificar a la ANTAI** — ya está la plantilla, hay que presentarla por el canal habilitado.
-2. **Comunicar a titulares** — si el riesgo es alto, enviar la comunicación.
+1. **Notificar a la ANTAI** — ya está la plantilla, hay que presentarla por el canal habilitado (72 horas, art. 37 del Decreto Ejecutivo 285 de 2021).
+2. **Comunicar a los titulares afectados** — si hay riesgo, enviar la comunicación conjuntamente, en el mismo plazo de 72 horas.
 3. **Análisis forense** — coordinar con IT el análisis de causa raíz.
 4. **Actualizar protocolo** — ajustar medidas de seguridad para prevenir recurrencia.
 5. **Otra cosa** — dime qué necesitas.
@@ -163,8 +160,8 @@ URGENTE — GESTIÓN DE BRECHA DE SEGURIDAD — ACCIÓN INMEDIATA REQUERIDA
 
 ## Referencias legislativas
 
-- **Ley 81 de 2019** — deber de seguridad, notificación de incidentes y comunicación a los titulares [verificar].
-- **Decreto Ejecutivo 285 de 2021** — reglamento; procedimiento y plazos de notificación de brechas [verificar].
+- **Ley 81 de 2019** — deber de seguridad y confidencialidad.
+- **Decreto Ejecutivo 285 de 2021** — art. 37 (notificación en 72 horas, conjunta a la ANTAI y a los titulares afectados ante riesgo, y contenido mínimo) y art. 38 (documentación de toda brecha).
 - **Guías de la ANTAI** para la gestión y notificación de incidentes de seguridad.
 
 ## Guardarraíles

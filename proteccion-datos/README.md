@@ -9,7 +9,7 @@ Este módulo cubre la gestión operativa diaria de protección de datos: registr
 | RAT | `/rat` | Genera y mantiene el Registro de Actividades de Tratamiento conforme a la Ley 81 de 2019 y al Decreto Ejecutivo 285 de 2021 |
 | EIPD | `/eipd` | Guía la elaboración de Evaluaciones de Impacto en Protección de Datos paso a paso |
 | Brecha | `/brecha` | Gestiona la notificación de incidentes de seguridad ante la ANTAI: evaluación, plazos y comunicación a los titulares |
-| ANTAI | `/aepd` | Asiste en la preparación de respuestas y documentación para procedimientos ante la ANTAI |
+| ANTAI | `/antai` | Asiste en la preparación de respuestas y documentación para procedimientos ante la ANTAI |
 
 ## Primeros pasos
 

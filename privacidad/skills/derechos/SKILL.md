@@ -40,13 +40,13 @@ Los derechos del titular tienen plazos legales estrictos fijados en la Ley 81 de
 
 Identificar qué derecho ejerce el titular:
 
-| Derecho | Referencia (Ley 81 de 2019) | Contenido |
+| Derecho | Referencia | Contenido |
 |---|---|---|
-| **Acceso** | Ley 81 de 2019 | Copia de datos + información sobre el tratamiento |
-| **Rectificación** | Ley 81 de 2019 | Corregir datos inexactos o incompletos |
-| **Cancelación / Supresión** | Ley 81 de 2019 | Eliminar datos (con excepciones) |
-| **Oposición** | Ley 81 de 2019 | Cesar un tratamiento concreto |
-| **Portabilidad** | Ley 81 de 2019 | Datos en formato estructurado y legible por máquina |
+| **Acceso** | Art. 15 de la Ley 81 de 2019 | Copia de datos + información sobre el tratamiento |
+| **Rectificación** | Art. 15 de la Ley 81 de 2019 | Corregir datos inexactos o incompletos |
+| **Cancelación / Supresión** | Art. 15 de la Ley 81 de 2019 | Eliminar datos (con excepciones) |
+| **Oposición** | Art. 15 de la Ley 81 de 2019 | Cesar un tratamiento concreto |
+| **Portabilidad** | Art. 15 de la Ley 81 de 2019 | Datos en formato estructurado y legible por máquina |
 
 Si la solicitud combina derechos ("borra mis datos y antes dame una copia"), tratar como solicitudes vinculadas.
 
@@ -102,11 +102,9 @@ portabilidad / limitación] con fecha [fecha de recepción].
 **Su solicitud, según la entendemos:** [resumen en una frase].
 
 **Próximos pasos:**
-- Nuestra fecha objetivo de respuesta es [fecha — dentro del plazo previsto en la
-  Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021]. Si la solicitud
-  es compleja, podremos ampliar el plazo conforme a la norma, informándole antes de
-  que venza el plazo inicial [verificar].
-- No se aplica ningún cargo a esta solicitud.
+- Nuestra fecha objetivo de respuesta es [fecha — dentro de los 10 días hábiles
+  desde la presentación de su solicitud, conforme al art. 16 de la Ley 81 de 2019].
+- No se aplica ningún cargo a esta solicitud (suministro gratuito de información, art. 16 de la Ley 81 de 2019).
 
 [Si falta verificación de identidad:]
 **Para verificar su identidad,** por favor [paso concreto — ej., remita copia de
@@ -153,10 +151,9 @@ Documentar: fecha de recepción, fecha de verificación, fecha de respuesta, qu�
 
 | Concepto | Plazo | Base legal |
 |---|---|---|
-| Respuesta al titular | Conforme al plazo de la Ley 81 de 2019 y su reglamento [verificar] | Ley 81 de 2019; Decreto Ejecutivo 285 de 2021 |
-| Prórroga por complejidad | Conforme a la norma [verificar] | Ley 81 de 2019; Decreto Ejecutivo 285 de 2021 |
-| Gratuidad | Gratuito salvo solicitud manifiestamente infundada o excesiva [verificar] | Ley 81 de 2019 |
-| Solicitudes repetitivas | Puede negarse o aplicarse cargo razonable [verificar] | Ley 81 de 2019 |
+| Respuesta al titular | 10 días hábiles desde la presentación de la solicitud | Art. 16 de la Ley 81 de 2019 (Decreto Ejecutivo 285 de 2021, art. 15) |
+| Prórroga por complejidad | No prevista en la norma panameña (no existe la prórroga general del RGPD) | Ley 81 de 2019 |
+| Gratuidad | El suministro de información es gratuito (la excepción del RGPD por solicitudes "manifiestamente infundadas o excesivas" no está recogida en la Ley 81) | Art. 16 de la Ley 81 de 2019 |
 
 ---
 
@@ -172,8 +169,8 @@ Documentar: fecha de recepción, fecha de verificación, fecha de respuesta, qu�
 
 ## Legislación de referencia
 
-- Ley 81 de 2019 — derechos del titular de los datos personales [verificar]
-- Decreto Ejecutivo 285 de 2021 — reglamento de ejercicio de derechos [verificar]
+- Ley 81 de 2019 — derechos del titular de los datos personales (art. 15: acceso, rectificación, cancelación/supresión, oposición y portabilidad; art. 16: plazo de 10 días hábiles y gratuidad)
+- Decreto Ejecutivo 285 de 2021 — reglamento de ejercicio de derechos (art. 15)
 - Guías y resoluciones de la ANTAI sobre el ejercicio de derechos
 - Criterios de la ANTAI sobre verificación de identidad
 

@@ -180,7 +180,7 @@ Cada agente lleva el nombre del flujo de trabajo que ejecuta. Son el punto de en
 | **Registro de actividades** | Genera o actualiza el registro de actividades de tratamiento | `proteccion-datos` | `/proteccion-datos:rat` |
 | **Evaluación de impacto** | Evaluación de impacto completa conforme a la Ley 81 de 2019 | `proteccion-datos` | `/proteccion-datos:eipd` |
 | **Gestión de brechas** | Protocolo de notificación de brecha ante la ANTAI y a los titulares | `proteccion-datos` | `/proteccion-datos:brecha` |
-| **Relación con la ANTAI** | Reclamaciones, fiscalizaciones, procedimiento sancionador | `proteccion-datos` | `/proteccion-datos:aepd` |
+| **Relación con la ANTAI** | Reclamaciones, fiscalizaciones, procedimiento sancionador | `proteccion-datos` | `/proteccion-datos:antai` |
 
 ### Startups
 

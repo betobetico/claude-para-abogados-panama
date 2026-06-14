@@ -65,7 +65,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Encargado de Protección de Datos / Oficial de Datos
 
-**Designación obligatoria:** [PLACEHOLDER — ej., "Sí (tratamiento a gran escala / datos sensibles / observación sistemática) conforme a la Ley 81 de 2019 y su reglamento" [verificar]]
+**Designación obligatoria:** [PLACEHOLDER — la designación de Oficial/Enlace de Protección de Datos es obligatoria solo para el SECTOR PÚBLICO (Decreto Ejecutivo 285 de 2021); para el sector privado es voluntaria/recomendada y atenúa la eventual sanción]
 
 **Tipo:** [PLACEHOLDER — Interno | Externo]
 **Nombre:** [PLACEHOLDER]
@@ -114,7 +114,7 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 **¿Se realizan transferencias internacionales de datos (fuera de Panamá)?** [PLACEHOLDER — Sí / No]
 
-> La Ley 81 de 2019 regula la transferencia y comunicación internacional de datos. Verificar en la ley y en el Decreto Ejecutivo 285 de 2021 los requisitos exigibles (nivel adecuado de protección del país destino, consentimiento del titular o cláusulas contractuales). [verificar]
+> La Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 regulan la transferencia y comunicación internacional de datos: requieren que el destino ofrezca un nivel de protección equivalente o superior, o que concurran condiciones habilitantes (consentimiento del titular, contrato, etc.).
 
 **Mecanismos utilizados:**
 
@@ -155,15 +155,15 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Derechos del titular (ARCO + portabilidad)
 
-> Plazos de respuesta conforme a la Ley 81 de 2019 y al Decreto Ejecutivo 285 de 2021. El número exacto de días debe verificarse en la norma. [verificar]
+> Derechos del titular: acceso, rectificación, cancelación (supresión) y oposición (art. 15 de la Ley 81 de 2019); también se reconoce la portabilidad. Plazo de respuesta: **10 días hábiles** desde la presentación de la solicitud (art. 16 de la Ley 81 de 2019; Decreto Ejecutivo 285 de 2021, art. 15). El suministro de información es **gratuito** (art. 16). Nota: la Ley 81 no prevé prórroga general por complejidad ni la excepción del RGPD por "solicitudes manifiestamente infundadas o excesivas".
 
-| Derecho | Referencia (Ley 81 de 2019) | Plazo de respuesta | Formulario | Responsable |
+| Derecho | Referencia | Plazo de respuesta | Formulario | Responsable |
 |---|---|---|---|---|
-| Acceso | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Rectificación | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Cancelación / Supresión | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Oposición | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
-| Portabilidad | Ley 81 de 2019 | Conforme al reglamento [verificar] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Acceso | Art. 15 de la Ley 81 de 2019 | 10 días hábiles (art. 16) | [PLACEHOLDER] | [PLACEHOLDER] |
+| Rectificación | Art. 15 de la Ley 81 de 2019 | 10 días hábiles (art. 16) | [PLACEHOLDER] | [PLACEHOLDER] |
+| Cancelación / Supresión | Art. 15 de la Ley 81 de 2019 | 10 días hábiles (art. 16) | [PLACEHOLDER] | [PLACEHOLDER] |
+| Oposición | Art. 15 de la Ley 81 de 2019 | 10 días hábiles (art. 16) | [PLACEHOLDER] | [PLACEHOLDER] |
+| Portabilidad | Art. 15 de la Ley 81 de 2019 | 10 días hábiles (art. 16) | [PLACEHOLDER] | [PLACEHOLDER] |
 
 **Canal de recepción:** [PLACEHOLDER — ej., "Email datos@empresa.com; formulario web; correo postal"]
 **Verificación de identidad:** [PLACEHOLDER — ej., "Solicitar copia de cédula o pasaporte/carné de residente; verificar contra registros internos"]
@@ -175,11 +175,12 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 
 ## Evaluación de Impacto (EIPD)
 
-**Cuándo es obligatoria (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021):**
+**Naturaleza (Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021):** la EIPD está definida (Decreto Ejecutivo 285 de 2021, art. 1.9) pero **NO es obligatoria con carácter general** para todo tratamiento de alto riesgo (no rige el modelo del art. 35 del RGPD). En Panamá es una **buena práctica voluntaria** del responsable (art. 8 de la Ley 81 de 2019) y **solo deviene exigible si la ANTAI la ordena** en función de la gravedad del riesgo o la novedad tecnológica (art. 41 del Decreto Ejecutivo 285 de 2021). Para evaluar el riesgo se atiende a los **9 factores del art. 36 del Decreto Ejecutivo 285 de 2021**.
+
+**Situaciones a valorar (factores de riesgo del art. 36; la ANTAI puede ordenar la EIPD, art. 41):**
 - [ ] Elaboración de perfiles con efectos jurídicos o significativos
 - [ ] Tratamiento a gran escala de datos sensibles
 - [ ] Observación sistemática a gran escala de zonas públicas
-- [ ] Tratamientos que el reglamento determine como de alto riesgo [verificar]
 - [PLACEHOLDER — supuestos adicionales aplicables al negocio]
 
 **Formato house:** [PLACEHOLDER — ej., "Plantilla interna adaptada a la Ley 81 de 2019"]
@@ -190,13 +191,13 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 3. [PLACEHOLDER — ej., "Identificar y evaluar riesgos"]
 4. [PLACEHOLDER — ej., "Determinar medidas para mitigar riesgos"]
 5. [PLACEHOLDER — ej., "Consulta al encargado de protección de datos"]
-6. [PLACEHOLDER — ej., "Consulta a la ANTAI si el riesgo residual sigue siendo alto" [verificar]]
+6. [PLACEHOLDER — ej., "Aprobación interna y registro de la evaluación"] (Nota: en Panamá NO existe la "consulta previa" a la ANTAI del art. 36 del RGPD; lo que sí puede ocurrir es que la ANTAI ordene una EIPD conforme al art. 41 del Decreto Ejecutivo 285 de 2021.)
 
 ---
 
 ## Brechas de seguridad — Protocolo
 
-**Obligación de notificación a la ANTAI:** desde el conocimiento de la brecha, en el plazo que fije la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021
+**Obligación de notificación:** 72 horas desde el conocimiento del incidente (art. 37 del Decreto Ejecutivo 285 de 2021). Cuando la violación represente un **riesgo** (umbral único, no "alto riesgo"), se notifica **conjuntamente a la ANTAI y a los titulares afectados** en ese mismo plazo de 72 horas.
 
 **Protocolo interno:**
 
@@ -204,12 +205,11 @@ antes de hacer nada. Corrige algo aquí y queda corregido en todas partes.*
 |---|---|---|---|
 | Detección | Inmediato | Cualquier empleado | Comunicar al encargado de datos / equipo de seguridad |
 | Evaluación inicial | <12h | [PLACEHOLDER — Encargado de datos + IT] | Clasificar severidad, datos afectados, titulares afectados |
-| Notificación a ANTAI | Dentro del plazo legal [verificar] | [PLACEHOLDER — Encargado de datos] | Notificar si hay riesgo para los derechos del titular |
-| Comunicación a titulares | Sin dilación | [PLACEHOLDER — Encargado de datos + Comunicación] | Si riesgo alto [verificar] |
-| Documentación | <7 días | [PLACEHOLDER] | Registro interno: hechos, efectos, medidas |
+| Notificación a ANTAI y a titulares | 72 horas (art. 37 del Decreto Ejecutivo 285 de 2021) | [PLACEHOLDER — Encargado de datos + Comunicación] | Si hay riesgo, notificar conjuntamente a la ANTAI y a los titulares afectados |
+| Documentación | Toda brecha (art. 38 del Decreto Ejecutivo 285 de 2021) | [PLACEHOLDER] | Registro interno: fecha, motivo, hechos y efectos, medidas correctivas |
 | Post-mortem | <30 días | [PLACEHOLDER] | Análisis de causa raíz y medidas correctivas |
 
-**Canal de notificación ANTAI:** [PLACEHOLDER — ej., "Portal o formulario de notificación de brechas de la ANTAI" [verificar]]
+**Canal de notificación ANTAI:** [PLACEHOLDER — ej., "Portal o formulario de notificación de brechas de la ANTAI"]
 
 **Plantilla de comunicación a titulares:** [PLACEHOLDER — ej., "Modelo house aprobado; incluir: naturaleza de la brecha, datos de contacto del encargado de datos, consecuencias probables, medidas adoptadas y recomendadas"]
 

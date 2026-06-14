@@ -1,11 +1,11 @@
 ---
 name: triaje
 description: >
-  Triaje de tratamiento de datos — decide si un tratamiento necesita EIPD,
-  consulta a la ANTAI, o puede proceder directamente. Árbol de decisión
-  basado en la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021. Usar cuando el
-  usuario pregunte "¿necesito EIPD?", "¿puedo tratar estos datos?", "nuevo
-  tratamiento" o "¿qué trámites necesito?".
+  Triaje de tratamiento de datos — decide si conviene realizar una EIPD
+  (voluntaria, salvo que la ANTAI la ordene) o si puede proceder directamente.
+  Árbol de decisión basado en la Ley 81 de 2019 y el Decreto Ejecutivo 285 de
+  2021. Usar cuando el usuario pregunte "¿necesito EIPD?", "¿puedo tratar estos
+  datos?", "nuevo tratamiento" o "¿qué trámites necesito?".
 argument-hint: "[describir el tratamiento que se quiere realizar]"
 ---
 
@@ -49,19 +49,19 @@ Si falta información, preguntar antes de decidir.
 
 ## Árbol de decisión
 
-### Nivel 1: ¿Es un tratamiento de alto riesgo según la Ley 81 de 2019?
+### Nivel 1: ¿La EIPD es obligatoria?
 
-Si el tratamiento coincide con un supuesto de alto riesgo definido en la Ley 81 de 2019 y su Decreto Ejecutivo 285 de 2021, la EIPD es **obligatoria**. Pasar directamente a `/privacidad:eipd`. [verificar]
+En Panamá la EIPD **NO es obligatoria con carácter general** para los tratamientos de alto riesgo (no rige el modelo del art. 35 del RGPD). Es una **buena práctica voluntaria** del responsable (art. 8 de la Ley 81 de 2019) y **solo deviene exigible si la ANTAI la ordena** (art. 41 del Decreto Ejecutivo 285 de 2021). No existe una lista cerrada de "supuestos de alto riesgo" que obliguen a EIPD: el Decreto Ejecutivo 285 de 2021 fija **9 factores de evaluación del riesgo (art. 36)**.
 
-### Nivel 2: ¿Cumple supuestos de alto riesgo (Ley 81 de 2019)? [verificar]
+### Nivel 2: Factores de riesgo a valorar (art. 36 del Decreto Ejecutivo 285 de 2021)
 
-- **Perfilado con efectos jurídicos/significativos** → EIPD obligatoria
-- **Datos sensibles a gran escala** → EIPD obligatoria
-- **Observación sistemática de zonas públicas a gran escala** → EIPD obligatoria
+- **Perfilado con efectos jurídicos/significativos** → EIPD muy recomendable
+- **Datos sensibles a gran escala** → EIPD muy recomendable
+- **Observación sistemática de zonas públicas a gran escala** → EIPD muy recomendable
 
-### Nivel 3: Regla de los dos criterios (criterio internacional orientativo, no vinculante)
+### Nivel 3: Conteo de factores de riesgo (art. 36 del Decreto Ejecutivo 285 de 2021)
 
-Contar cuántos de los 9 criterios de alto riesgo se cumplen:
+Contar cuántos de los factores de riesgo se cumplen:
 
 | # | Criterio | ¿Cumple? |
 |---|---|---|
@@ -75,13 +75,15 @@ Contar cuántos de los 9 criterios de alto riesgo se cumplen:
 | 8 | Uso innovador de tecnologías | |
 | 9 | Tratamiento que impida ejercer derechos o usar un servicio/contrato | |
 
-- **2 o más criterios** → EIPD recomendable (criterio internacional orientativo)
-- **1 criterio** → EIPD recomendable pero no obligatoria; documentar la decisión
-- **0 criterios** → Puede proceder sin EIPD; documentar el análisis
+- **2 o más factores** → EIPD muy recomendable; documentar la decisión
+- **1 factor** → EIPD recomendable; documentar la decisión
+- **0 factores** → Puede proceder sin EIPD; documentar el análisis
 
-### Nivel 4: ¿Procede consulta a la ANTAI?
+En todo caso, la ANTAI puede ordenar la realización de una EIPD en función de la gravedad del riesgo o la novedad tecnológica (art. 41 del Decreto Ejecutivo 285 de 2021).
 
-Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigación → puede ser exigible una **consulta a la ANTAI** conforme a la Ley 81 de 2019.
+### Nivel 4: Riesgo residual
+
+Si la EIPD concluye que el riesgo residual sigue siendo alto tras las medidas de mitigación, refuerza las medidas y documéntalo. En Panamá **NO existe** la "consulta previa" a la ANTAI del art. 36 del RGPD; lo que sí puede ocurrir es que la ANTAI ordene una EIPD (art. 41 del Decreto Ejecutivo 285 de 2021).
 
 ---
 
@@ -99,33 +101,30 @@ Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigaci�
 
 | Resultado | Decisión |
 |---|---|
-| **¿EIPD obligatoria?** | [Sí / No / Recomendable] |
-| **¿Consulta a la ANTAI?** | [Pendiente de EIPD / No procede / Posiblemente exigible] |
-| **¿Puede proceder?** | [Sí / Sí con condiciones / No hasta completar EIPD] |
+| **¿EIPD recomendable?** | [Muy recomendable / Recomendable / No necesaria] (voluntaria, salvo orden de la ANTAI ex art. 41 del Decreto Ejecutivo 285 de 2021) |
+| **¿Puede proceder?** | [Sí / Sí con condiciones / Sí, completando antes la EIPD recomendada] |
 
 ---
 
 ## Justificación
 
-**Supuesto de alto riesgo (Ley 81 de 2019):** [Coincide con supuesto X / No coincide] [verificar]
-**Criterios de alto riesgo cumplidos:** [N] de 9 — [listar cuáles]
+**Factores de riesgo (art. 36 del Decreto Ejecutivo 285 de 2021):** [N] de 9 — [listar cuáles]
 
 ---
 
 ## Siguiente paso
 
-[Una de las tres opciones:]
+[Una de las dos opciones:]
 1. **Proceder** — documentar este triaje en el RAT y proceder con el tratamiento.
-2. **Realizar EIPD** — ejecutar `/privacidad:eipd` con la información recopilada.
-3. **Consulta a la ANTAI** — preparar documentación para la ANTAI conforme a la Ley 81 de 2019.
+2. **Realizar EIPD** — ejecutar `/privacidad:eipd` con la información recopilada (recordando que la EIPD es voluntaria, salvo que la ANTAI la ordene ex art. 41 del Decreto Ejecutivo 285 de 2021).
 ```
 
 ---
 
 ## Legislación de referencia
 
-- Ley 81 de 2019 — evaluación de impacto y supuestos de alto riesgo [verificar]
-- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019
+- Ley 81 de 2019, art. 8 — la EIPD es una buena práctica voluntaria del responsable
+- Decreto Ejecutivo 285 de 2021 — reglamento de la Ley 81 de 2019 (art. 36: factores de evaluación del riesgo; art. 41: la ANTAI puede ordenar la EIPD)
 - Guías y resoluciones de la ANTAI sobre evaluaciones de impacto
 - Referencia comparada (no vinculante en Panamá): directrices del CEPD (WP248 rev.01) sobre criterios de alto riesgo, como criterio internacional orientativo
 
@@ -135,4 +134,4 @@ Si la EIPD concluye que el riesgo residual es alto tras las medidas de mitigaci�
 
 - No realiza la EIPD completa — para eso, usar `/privacidad:eipd`.
 - No sustituye el criterio del encargado de protección de datos — la decisión final es suya.
-- No tramita la consulta ante la ANTAI — indica cuándo puede ser necesaria.
+- No tramita consultas previas ante la ANTAI (esa figura del RGPD no existe en Panamá); indica cuándo la ANTAI podría ordenar una EIPD (art. 41 del Decreto Ejecutivo 285 de 2021).

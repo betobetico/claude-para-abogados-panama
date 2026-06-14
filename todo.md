@@ -43,7 +43,9 @@
 
 - [x] **propiedad-intelectual** — verificado artículo por artículo (56 → 7): Ley 35 de 1996 (arts. 20, 26, 79-80, 109-110, 167-172, 176-177, 205, 207), Ley 64 de 2012, Código de Trabajo (arts. 193-196), Ley 45 de 2007 (art. 124.5), Código Penal (art. 268). Corregidos 5 errores de fondo (Madrid, DNDA, invenciones laborales, competencia desleal, quinquenios). Ver [VERIFICACION.md](VERIFICACION.md) §4.
 
-**Verificación a fondo completada en 7 módulos** (administrativo, societario, fiscal, laboral, procesal, inmobiliario, propiedad-intelectual).
+- [x] **privacidad** y **proteccion-datos** — verificados a fondo (privacidad 36 → 4; proteccion-datos 77 → 20): Ley 81 de 2019 (arts. 4, 6, 8, 13, 15, 16, 31-33, 44) y Decreto Ejecutivo 285 de 2021 (arts. 34-38, 41). Corregidos varios GDPR-ismos (interés legítimo, EIPD obligatoria, consulta previa, escalonado de brechas); brecha 72 horas, multas B/.1.000-10.000. Skill `aepd` → `antai`. Ver [VERIFICACION.md](VERIFICACION.md) §4.
+
+**Verificación a fondo completada en 9 módulos** (administrativo, societario, fiscal, laboral, procesal, inmobiliario, propiedad-intelectual, privacidad, proteccion-datos).
 
 ## Pendiente (mejoras futuras)
 

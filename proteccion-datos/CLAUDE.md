@@ -63,7 +63,7 @@ de datos tiene [N] personas.
 
 ## Encargado / Responsable de Protección de Datos
 
-**Responsable de protección de datos designado:** [PLACEHOLDER — Sí (obligatorio) / Sí (voluntario) / No] [verificar]
+**Responsable de protección de datos designado:** [PLACEHOLDER — Sí / No] (la designación de Oficial/Enlace de Protección de Datos es obligatoria solo para el SECTOR PÚBLICO según el Decreto Ejecutivo 285 de 2021; en el sector privado es voluntaria/recomendada y atenúa la eventual sanción)
 **Nombre y contacto:** [PLACEHOLDER]
 **Comunicación con ANTAI:** [PLACEHOLDER — canal de comunicación registrado ante la ANTAI]
 **Inscripción en registro público:** [PLACEHOLDER — Sí/No, fecha]
@@ -84,10 +84,10 @@ de datos tiene [N] personas.
 | Responsable del mantenimiento | [PLACEHOLDER] |
 
 **Categorías de datos habituales:** [PLACEHOLDER — identificativos, contacto, financieros, salud, etc.]
-**Bases jurídicas más utilizadas:** [PLACEHOLDER — consentimiento, ejecución contractual, interés legítimo, obligación legal]
+**Bases jurídicas más utilizadas:** [PLACEHOLDER — consentimiento (regla general, arts. 6 y 8 de la Ley 81 de 2019), necesidad contractual, obligación legal, autorización legal especial. Nota: el "interés legítimo" del responsable NO es una base de legitimación en la Ley 81]
 **Plazos de conservación estándar:** [PLACEHOLDER — por categoría]
 **Cesiones habituales:** [PLACEHOLDER — a quién, base jurídica]
-**Transferencias internacionales:** [PLACEHOLDER — destinos, mecanismo: nivel adecuado de protección, cláusulas contractuales, consentimiento del titular] [verificar]
+**Transferencias internacionales:** [PLACEHOLDER — destinos, mecanismo: el destino debe ofrecer un nivel de protección equivalente o superior, o concurrir condiciones (consentimiento del titular, contrato, etc.); Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021]
 
 *Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.*
 
@@ -95,14 +95,14 @@ de datos tiene [N] personas.
 
 ## Evaluación de Impacto (EIPD)
 
-**Cuándo es obligatoria:** Según los criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 para tratamientos que entrañen probablemente un alto riesgo para los titulares.
+**Naturaleza:** la EIPD está definida (Decreto Ejecutivo 285 de 2021, art. 1.9) pero NO es obligatoria con carácter general; es una buena práctica voluntaria del responsable (art. 8 de la Ley 81 de 2019) y solo deviene exigible si la ANTAI la ORDENA en función de la gravedad del riesgo o la novedad tecnológica (art. 41 del Decreto Ejecutivo 285 de 2021). Para evaluar el riesgo se atiende a los 9 factores del art. 36 del Decreto Ejecutivo 285 de 2021.
 
 | Campo | Valor |
 |---|---|
 | Metodología utilizada | [PLACEHOLDER — guía ANTAI, ISO 29134, propia] |
 | Plantilla de EIPD | [PLACEHOLDER — ruta] |
-| Umbral interno para EIPD | [PLACEHOLDER — criterios propios además de los obligatorios] |
-| Consulta previa a la ANTAI | [PLACEHOLDER — se ha realizado alguna vez: Sí/No] [verificar] |
+| Umbral interno para EIPD | [PLACEHOLDER — criterios propios] |
+| EIPD ordenada por la ANTAI (art. 41) | [PLACEHOLDER — se ha recibido alguna orden: Sí/No] (Nota: en Panamá NO existe la "consulta previa" a la ANTAI del art. 36 del RGPD) |
 
 *Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.*
 
@@ -114,8 +114,8 @@ de datos tiene [N] personas.
 
 1. **Detección** — Canales de notificación interna: [PLACEHOLDER]
 2. **Evaluación de riesgo** — Responsable de evaluación: [PLACEHOLDER]. Metodología: [PLACEHOLDER — propia]
-3. **Notificación a la ANTAI** — Plazo: [PLACEHOLDER — plazo legal desde el conocimiento] [verificar]. Canal: ANTAI.
-4. **Comunicación a titulares** — Cuándo: si riesgo alto para los derechos de los titulares [verificar]. Plantilla: [PLACEHOLDER]
+3. **Notificación a la ANTAI y a los titulares afectados** — Plazo: 72 horas desde el conocimiento del incidente (art. 37 del Decreto Ejecutivo 285 de 2021). Cuando la violación represente un riesgo (umbral único), se notifica conjuntamente a la ANTAI y a los titulares afectados en el mismo plazo. Canal: ANTAI.
+4. **Documentación de toda brecha** — Con independencia de si se notifica (art. 38 del Decreto Ejecutivo 285 de 2021): fecha, motivo, hechos y efectos, medidas correctivas. Plantilla: [PLACEHOLDER]
 
 | Campo | Valor |
 |---|---|
@@ -124,7 +124,7 @@ de datos tiene [N] personas.
 | Equipo de respuesta | [PLACEHOLDER — nombres/roles] |
 | Seguro de ciberriesgo | [PLACEHOLDER — Sí/No, cobertura] |
 
-*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 sobre gestión y notificación de incidentes de seguridad [verificar].*
+*Referencia: arts. 37 y 38 del Decreto Ejecutivo 285 de 2021 sobre notificación (72 horas, conjunta a ANTAI y titulares ante riesgo) y documentación de incidentes de seguridad.*
 
 ---
 
@@ -153,7 +153,7 @@ de datos tiene [N] personas.
 **Interlocutor habitual con ANTAI:** [PLACEHOLDER]
 **Apercibimientos recibidos:** [PLACEHOLDER]
 
-*Referencia: Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 (régimen sancionador) [verificar].*
+*Referencia: Ley 81 de 2019 (arts. 31-33: la ANTAI como autoridad de control) y Decreto Ejecutivo 285 de 2021 (régimen sancionador: infracciones leves, graves y muy graves; multas de B/.1.000,00 a B/.10.000,00).*
 
 ---
 

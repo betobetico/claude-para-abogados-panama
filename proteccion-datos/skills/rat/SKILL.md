@@ -33,25 +33,29 @@ Documentar las actividades de tratamiento de datos personales de una organizaci�
 | Representante (si aplica) | Si el responsable no está domiciliado en Panamá | — |
 | Responsable de protección de datos | Datos de contacto | datos@empresa.com |
 | Finalidad del tratamiento | Para qué se tratan los datos | "Cumplimiento de obligaciones laborales" |
-| Base de legitimación | Fundamento del tratamiento (Ley 81 de 2019) | "Ejecución de contrato de trabajo" [verificar] |
+| Base de legitimación | Fundamento del tratamiento (arts. 6 y 8 de la Ley 81 de 2019) | "Necesidad contractual: ejecución del contrato de trabajo" |
 | Categorías de titulares | Quiénes son los afectados | "Empleados" |
 | Categorías de datos | Qué datos se tratan | "Identificativos, económicos, profesionales" |
-| Datos sensibles | Si se tratan categorías especiales | "Datos de salud (incapacidades)" |
+| Datos sensibles | Si se tratan categorías especiales (definidas en el art. 4 de la Ley 81 de 2019; régimen reforzado, no transferibles salvo excepciones, art. 13) | "Datos de salud (incapacidades)" |
 | Destinatarios | A quién se comunican los datos | "DGI, CSS, entidad bancaria" |
-| Transferencias internacionales | Si hay, a qué países y garantías | "No" / "EE. UU. — garantías contractuales" [verificar] |
+| Transferencias internacionales | Si hay, a qué países y garantías; el destino debe ofrecer un nivel de protección equivalente o superior, o concurrir condiciones (consentimiento, contrato, etc.) — Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021 | "No" / "EE. UU. — garantías contractuales" |
 | Plazos de conservación | Cuánto tiempo se conservan | "Duración de la relación laboral + plazo de prescripción aplicable" [verificar] |
 | Medidas de seguridad | Descripción general | "Cifrado, control de accesos, copias de seguridad" |
 
-## Bases de legitimación habituales (Ley 81 de 2019)
+## Bases de legitimación (arts. 6 y 8 de la Ley 81 de 2019)
+
+> La regla general es el **CONSENTIMIENTO** previo, informado e inequívoco del titular (arts. 6 y 8). Se admiten además: necesidad contractual, obligación legal y autorización legal especial (excepciones tasadas del art. 8). El **"INTERÉS LEGÍTIMO" del responsable NO es una base de legitimación en la Ley 81** (a diferencia del RGPD).
 
 | Base | Uso típico |
 |---|---|
-| Consentimiento del titular | Marketing, cookies no esenciales, newsletters |
-| Ejecución de contrato | Relación laboral, prestación de servicios contratados |
+| Consentimiento del titular (regla general) | Marketing, cookies no esenciales, newsletters, y en general cualquier tratamiento sin otra base tasada |
+| Necesidad contractual | Relación laboral, prestación de servicios contratados |
 | Obligación legal | Obligaciones fiscales, prevención de blanqueo, CSS |
-| Interés vital del titular | Emergencias sanitarias (excepcional) |
+| Autorización legal especial | Supuestos previstos por ley |
+| Protección de la vida/salud del titular | Emergencias sanitarias (excepcional) |
 | Cumplimiento de función pública | Entidades del Estado |
-| Interés legítimo del responsable | Videovigilancia, prevención del fraude, mercadeo directo (con límites) [verificar] |
+
+> **Sin "interés legítimo":** tratamientos que bajo el RGPD se ampararían en el interés legítimo del responsable (videovigilancia, prevención del fraude, mercadeo directo) requieren en Panamá **consentimiento** o una de las **excepciones tasadas del art. 8**; el interés legítimo no es una base autónoma.
 
 ## Actividades de tratamiento habituales
 
@@ -67,7 +71,7 @@ Checklist para no olvidar tratamientos comunes:
 - [ ] Gestión de proveedores
 - [ ] Gestión web / cookies
 - [ ] Canal de denuncias
-- [ ] Prevención de blanqueo de capitales (Ley 23 de 2015 / UAF) [verificar]
+- [ ] Prevención de blanqueo de capitales (Ley 23 de 2015 / UAF) — obligación legal concurrente
 - [ ] Gestión de reclamaciones / ejercicio de derechos del titular
 
 ## Formato de salida
@@ -119,8 +123,8 @@ BORRADOR — REGISTRO DE ACTIVIDADES DE TRATAMIENTO — REVISIÓN OBLIGATORIA DE
 
 ## Referencias legislativas
 
-- **Ley 81 de 2019** — protección de datos personales; principios, bases de legitimación y obligaciones del responsable [verificar].
-- **Decreto Ejecutivo 285 de 2021** — reglamento de la Ley 81 de 2019; registro de actividades, datos sensibles e información al titular [verificar].
+- **Ley 81 de 2019** — bases de legitimación (arts. 6 y 8; el consentimiento es la regla general; el interés legítimo no es base autónoma); datos sensibles (art. 4; régimen reforzado art. 13).
+- **Decreto Ejecutivo 285 de 2021** — reglamento de la Ley 81 de 2019; registro de bases de datos / actividades de tratamiento (arts. 34-36; art. 35: registro de bases de datos); transferencias internacionales.
 - **Guías ANTAI** — modelo y orientaciones.
 
 ## Guardarraíles

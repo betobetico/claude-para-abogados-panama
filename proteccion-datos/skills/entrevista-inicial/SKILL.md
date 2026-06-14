@@ -151,7 +151,7 @@ Verificar qué está realmente conectado (no solo configurado). Para cada conect
 - **Datos de contacto:** Nombre, email, si está publicado en la web y comunicado a la ANTAI.
 - **Comunicación con la ANTAI:** ¿Ha habido comunicaciones previas? ¿Consultas previas? ¿Alguna inspección o procedimiento abierto?
 
-Si no hay responsable designado: "¿Es obligatorio en vuestro caso según la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021? `[verificar obligatoriedad]`"
+Si no hay responsable designado: "La designación de Oficial/Enlace de Protección de Datos es obligatoria solo para el SECTOR PÚBLICO (Decreto Ejecutivo 285 de 2021); en el sector privado es voluntaria/recomendada y atenúa la eventual sanción. ¿Sois sector público o privado?"
 
 ### Parte 2: Registro de Actividades de Tratamiento (RAT)
 
@@ -160,9 +160,9 @@ Si no hay responsable designado: "¿Es obligatorio en vuestro caso según la Ley
 > "¿Tenéis un Registro de Actividades de Tratamiento? Pega el contenido, comparte una ruta o URL, o dame la versión resumida."
 
 - **Categorías de tratamiento actuales:** ¿Cuántas actividades hay registradas? ¿Están actualizadas?
-- **Bases de legitimación principales:** ¿Cuáles usáis más? (Consentimiento del titular, interés legítimo, ejecución contractual, obligación legal, interés vital, función pública.)
+- **Bases de legitimación principales:** ¿Cuáles usáis más? (Consentimiento del titular —regla general—, necesidad contractual, obligación legal, autorización legal especial, protección de la vida/salud, función pública. Recordar: el "interés legítimo" del responsable NO es una base en la Ley 81, arts. 6 y 8.)
 - **Plazos de conservación:** ¿Están definidos por actividad? ¿Hay una política general de retención?
-- **Transferencias internacionales:** ¿Transferís datos fuera de Panamá? ¿Con qué garantías? (Nivel adecuado de protección, cláusulas contractuales, consentimiento del titular.) [verificar]
+- **Transferencias internacionales:** ¿Transferís datos fuera de Panamá? ¿Con qué garantías? (El destino debe ofrecer un nivel de protección equivalente o superior, o concurrir condiciones como cláusulas contractuales o consentimiento del titular; Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021.)
 
 Si no hay RAT: "El RAT es exigible conforme a la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021. Incluso si no fuera obligatorio en vuestro caso, es la base de todo lo demás. ¿Quieres que te ayude a construir uno desde cero?"
 
@@ -174,11 +174,11 @@ Si no hay RAT: "El RAT es exigible conforme a la Ley 81 de 2019 y el Decreto Eje
 
 - **EIPD realizadas:** ¿Cuántas? ¿Para qué tratamientos? Pega una de ejemplo si puedes.
 - **Metodología:** ¿Seguís las guías de la ANTAI? ¿ISO 29134? ¿Otra propia?
-- **Criterios de alto riesgo:** ¿Habéis revisado los criterios de la Ley 81 de 2019 y el Decreto Ejecutivo 285 de 2021 que exigen EIPD? [verificar]
+- **Factores de riesgo:** ¿Habéis revisado los 9 factores de evaluación del riesgo (art. 36 del Decreto Ejecutivo 285 de 2021)? Recordar: la EIPD es voluntaria (buena práctica, art. 8 de la Ley 81 de 2019) y solo es exigible si la ANTAI la ordena (art. 41).
 - **Umbrales:** ¿Qué desencadena una EIPD en vuestra organización? ¿Solo lo obligatorio o también análisis voluntarios?
 - **Aprobación:** ¿Quién firma la EIPD? ¿Solo el responsable de protección de datos, un comité, dirección?
 
-Si no han hecho EIPD: "¿Tenéis tratamientos de alto riesgo? Videovigilancia a gran escala, perfilado, datos de salud masivos, decisiones automatizadas con efectos significativos... Si la respuesta es sí, la EIPD es probablemente exigible [verificar]. Si no estáis seguros, el primer paso es cruzar vuestro RAT con los criterios de alto riesgo de la normativa panameña."
+Si no han hecho EIPD: "¿Tenéis tratamientos de mayor riesgo? Videovigilancia a gran escala, perfilado, datos de salud masivos, decisiones automatizadas con efectos significativos... Si la respuesta es sí, la EIPD es muy recomendable como buena práctica (art. 8 de la Ley 81 de 2019), aunque solo es obligatoria si la ANTAI la ordena (art. 41 del Decreto Ejecutivo 285 de 2021). Si no estáis seguros, el primer paso es cruzar vuestro RAT con los 9 factores de riesgo del art. 36."
 
 ### Parte 4: Gestión de Brechas de Seguridad
 
@@ -187,12 +187,12 @@ Si no han hecho EIPD: "¿Tenéis tratamientos de alto riesgo? Videovigilancia a 
 > "¿Tenéis un protocolo de gestión de brechas de seguridad de datos personales?"
 
 - **Historial de incidentes:** ¿Ha habido brechas notificadas a la ANTAI? ¿Cuántas? ¿Alguna notificada a los titulares?
-- **Protocolo actual:** ¿Está documentado? Pega el contenido o comparte ruta. ¿Incluye el plazo de notificación de la Ley 81 de 2019? [verificar]
+- **Protocolo actual:** ¿Está documentado? Pega el contenido o comparte ruta. ¿Incluye el plazo de notificación de 72 horas (art. 37 del Decreto Ejecutivo 285 de 2021)?
 - **Equipo de respuesta:** ¿Quién participa? (Responsable de protección de datos, seguridad, dirección, comunicación, legal.) ¿Hay roles asignados?
-- **Registro de brechas:** ¿Mantenéis un registro interno con todas las brechas, notificadas o no? [verificar]
-- **Comunicación a titulares:** ¿Tenéis plantillas? ¿Criterios para determinar cuándo es necesaria la comunicación a los titulares? [verificar]
+- **Registro de brechas:** ¿Mantenéis un registro interno con todas las brechas, notificadas o no? Es obligatorio documentar toda brecha (art. 38 del Decreto Ejecutivo 285 de 2021): fecha, motivo, hechos y efectos, medidas correctivas.
+- **Comunicación a titulares:** ¿Tenéis plantillas? Recordar: ante riesgo (umbral único), la comunicación a los titulares afectados es conjunta con la notificación a la ANTAI, en 72 horas (art. 37 del Decreto Ejecutivo 285 de 2021).
 
-Si no hay protocolo: "El plazo de notificación empieza a contar desde que tenéis conocimiento de la brecha [verificar]. Sin un protocolo preparado, ese plazo se gasta en decidir qué hacer en vez de hacerlo. ¿Quieres que te ayude a construir uno?"
+Si no hay protocolo: "El plazo de notificación es de 72 horas desde el conocimiento del incidente (art. 37 del Decreto Ejecutivo 285 de 2021). Sin un protocolo preparado, ese plazo se gasta en decidir qué hacer en vez de hacerlo. ¿Quieres que te ayude a construir uno?"
 
 ### Parte 5: Programa de Auditoría
 
@@ -226,7 +226,7 @@ Si no hay programa: "La auditoría periódica no es estrictamente obligatoria, p
 
 **EIPD:** Extraer la estructura como plantilla. Secciones, profundidad del análisis de riesgos, formato de las medidas. Esto se convierte en el formato por defecto del skill de EIPD.
 
-**Protocolo de brechas:** Mapear cada paso a la Ley 81 de 2019 y al Decreto Ejecutivo 285 de 2021. Los deltas son interesantes — "el protocolo dice X horas pero la ley fija otro plazo — ¿cuál es la posición real?" [verificar]
+**Protocolo de brechas:** Mapear cada paso a la Ley 81 de 2019 y al Decreto Ejecutivo 285 de 2021. Los deltas son interesantes — "el protocolo dice X horas pero la norma fija 72 horas desde el conocimiento (art. 37 del Decreto Ejecutivo 285 de 2021) — ¿cuál es la posición real?"
 
 **Informe de auditoría:** Extraer el formato, la escala de hallazgos, el proceso de seguimiento.
 
@@ -421,5 +421,5 @@ Si dice que sí:
 - **No asumir que la Ley 81 de 2019 aplica con toda su fuerza.** Preguntar si realmente tratan datos personales a escala suficiente para requerir responsable de protección de datos y EIPD.
 - **No dejar que salten la pregunta de responsable/custodio o encargado.** Si no lo tienen claro, recorrerlo: "Cuando los datos personales llegan a vuestro sistema, ¿quién determina los fines y medios del tratamiento — vosotros o quien os los envía?"
 - **No inventar plazos de conservación.** Si no los tienen definidos, decirlo en la config: `[PLAZOS NO DEFINIDOS — tratar como riesgo de cumplimiento prioritario]`.
-- **No asumir que el Decreto Ejecutivo 285 de 2021 no añade nada.** El reglamento desarrolla obligaciones concretas (registro de actividades, datos sensibles, medidas de seguridad, transferencias internacionales). Preguntar si aplican. [verificar]
+- **No asumir que el Decreto Ejecutivo 285 de 2021 no añade nada.** El reglamento desarrolla obligaciones concretas: registro de bases de datos / actividades (arts. 34-36), régimen de datos sensibles (art. 13 de la Ley 81; definición en el art. 4), notificación de brechas en 72 horas (art. 37), documentación de toda brecha (art. 38) y transferencias internacionales. Preguntar si aplican.
 - **No escribir un protocolo de brechas genérico.** Si no han gestionado brechas, decirlo: `[PROTOCOLO NO TESTADO — tratar como punto de partida, no como procedimiento validado]`.

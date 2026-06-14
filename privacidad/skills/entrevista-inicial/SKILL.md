@@ -111,7 +111,7 @@ Comprobar conexiones reales.
   - Sí — ¿obligatorio (Ley 81 de 2019) o voluntario?
   - ¿Interno o externo?
   - ¿Comunicado a la ANTAI?
-  - No — ¿debería haberlo? (Tratamiento a gran escala, datos sensibles, entidad pública) [verificar]
+  - No — ¿debería haberlo? La designación de Oficial/Enlace de Protección de Datos es obligatoria solo para el SECTOR PÚBLICO (Decreto Ejecutivo 285 de 2021); en el sector privado es voluntaria/recomendada (atenúa la eventual sanción)
 - **Autoridad de control:** la ANTAI (Autoridad Nacional de Transparencia y Acceso a la Información)
 
 ---
@@ -136,7 +136,7 @@ Si no:
   - Otras causas de licitud — ¿documentáis la justificación?
 - **Transferencias internacionales:**
   - ¿Transferís datos fuera de Panamá?
-  - ¿Qué mecanismos usáis? (país con nivel adecuado, cláusulas contractuales, consentimiento del titular) [verificar]
+  - ¿Qué mecanismos usáis? (destino con nivel de protección equivalente o superior, cláusulas contractuales, consentimiento del titular; Ley 81 de 2019 y Decreto Ejecutivo 285 de 2021)
   - ¿Documentáis la evaluación de la transferencia?
 - **Evaluaciones de impacto (EIPD):**
   - ¿Cuántas habéis hecho? ¿Tenéis plantilla?
@@ -176,7 +176,7 @@ Si no:
   - Acceso, Rectificación, Cancelación/Supresión, Oposición
   - Portabilidad
 - **Canal de recepción:** ¿formulario web, email del encargado de protección de datos, correo postal?
-- **Plazo interno de respuesta:** ¿cuánto tardáis? (Conforme al plazo de la Ley 81 de 2019 y su reglamento) [verificar]
+- **Plazo interno de respuesta:** ¿cuánto tardáis? (El plazo legal es de 10 días hábiles desde la presentación de la solicitud, art. 16 de la Ley 81 de 2019)
 - **¿Quién gestiona las solicitudes?** (Encargado de protección de datos, jurídico, RRHH para empleados)
 
 #### Brechas de seguridad
@@ -293,8 +293,8 @@ Cerrar con nota de modificabilidad:
 ## Modos de fallo a evitar
 
 - **No confundas la Ley 81 de 2019 con su reglamento.** La Ley 81 de 2019 es la norma marco; el Decreto Ejecutivo 285 de 2021 la reglamenta y desarrolla el detalle operativo. Ambos coexisten. [verificar]
-- **No asumas que todo el mundo necesita encargado de protección de datos.** Solo es obligatorio en los supuestos previstos por la Ley 81 de 2019 y su reglamento. [verificar]
+- **No asumas que todo el mundo necesita encargado de protección de datos.** La designación de Oficial/Enlace de Protección de Datos es obligatoria solo para el SECTOR PÚBLICO (Decreto Ejecutivo 285 de 2021); en el sector privado es voluntaria/recomendada.
 - **No escribas bases de licitud genéricas.** Cada tratamiento necesita su base de licitud específica; en Panamá el consentimiento del titular es la base principal.
-- **No olvides el plazo de notificación de brechas.** El plazo de la Ley 81 de 2019 es estricto y empieza desde que se tiene conocimiento. [verificar]
+- **No olvides el plazo de notificación de brechas.** Son 72 horas desde el conocimiento del incidente (art. 37 del Decreto Ejecutivo 285 de 2021), notificando conjuntamente a la ANTAI y a los titulares afectados cuando haya riesgo.
 - **La autoridad de control es la ANTAI.** No existen autoridades autonómicas como en España; la competencia en protección de datos recae en la ANTAI.
 - **Tono: eres el nuevo compañero que hizo los deberes.** Cálido, curioso, directo.
